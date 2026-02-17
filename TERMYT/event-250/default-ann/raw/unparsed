@@ -1,0 +1,161 @@
+if: éoliennes
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: Choc
+pos: NOM
+lf: choc
+is a term candidate: 1
+
+-----------------
+
+if: étude environnemental
+pos: NOM ADJ
+lf: étude environnemental
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( étude<=H> environnemental<=M> )
+islands: 0
+
+
+-----------------
+
+if: collision
+pos: NOM
+lf: collision
+is a term candidate: 1
+
+-----------------
+
+if: cadavre
+pos: NOM
+lf: cadavre
+is a term candidate: 1
+
+-----------------
+
+if: charge du suivi du parc
+pos: NOM du NOM du NOM
+lf: charge du suivi du parc
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: m du pied
+pos: NOM du NOM
+lf: m du pied
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( m<=H> du<=P> pied<=M> )
+islands: 0
+
+
+-----------------
+
+if: espèce
+pos: NOM
+lf: espèce
+is a term candidate: 1
+
+-----------------
+
+if: présence de l' espèce
+pos: NOM de DET:ART NOM
+lf: présence de le espèce
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( présence<=H> de<=P> l'<=D> espèce<=M> )
+islands: 0
+
+
+-----------------
+
+if: oiseau migrateur
+pos: NOM ADJ
+lf: oiseau migrateur
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( oiseau<=H> migrateur<=M> )
+islands: 0
+
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: contexte de travaux agricoles
+pos: NOM de NOM ADJ
+lf: contexte de travail agricole
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( contexte<=H> de<=P> ( travaux<=H> agricoles<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: passage aléatoire
+pos: NOM ADJ
+lf: passage aléatoire
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( passage<=H> aléatoire<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: gobemouche noir
+pos: NOM ADJ
+lf: gobemouche noir
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( gobemouche<=H> noir<=M> )
+islands: 0
+
+
+-----------------
+
+if: oiseau
+pos: NOM
+lf: oiseau
+is a term candidate: 1
+
+-----------------
+
+if: bureau
+pos: NOM
+lf: bureau
+is a term candidate: 1
+
+-----------------
+

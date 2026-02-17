@@ -1,0 +1,227 @@
+if: suivi de la mortalité.De fortes rafales de vent
+pos: NOM de DET:ART NOM ADJ NOM de NOM
+lf: suivi de le mortalité.De fort rafale de vent
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: visites
+pos: NOM
+lf: visite
+is a term candidate: 1
+
+-----------------
+
+if: végétation
+pos: NOM
+lf: végétation
+is a term candidate: 1
+
+-----------------
+
+if: ARIA
+pos: NOM
+lf: aria
+is a term candidate: 1
+
+-----------------
+
+if: éoliennes
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: collision directe
+pos: NOM ADJ
+lf: collision direct
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( collision<=H> directe<=M> )
+islands: 0
+
+
+-----------------
+
+if: découverte.Le suivi annuel
+pos: NOM VER:pper ADJ
+lf: découverte.Le suivre annuel
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: blessure de milan royal
+pos: NOM de NOM ADJ
+lf: blessure de milan royal
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( blessure<=H> de<=P> ( milan<=H> royal<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: comportement des milans royaux
+pos: NOM des NOM ADJ
+lf: comportement du milan royal
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( comportement<=H> des<=P> ( milans<=H> royaux<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: études
+pos: NOM
+lf: étude
+is a term candidate: 1
+
+-----------------
+
+if: bureau
+pos: NOM
+lf: bureau
+is a term candidate: 1
+
+-----------------
+
+if: exploitant
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+
+if: sol
+pos: NOM
+lf: sol
+is a term candidate: 1
+
+-----------------
+
+if: blessures apparentes
+pos: NOM ADJ
+lf: blessure apparent
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( blessures<=H> apparentes<=M> )
+islands: 0
+
+
+-----------------
+
+if: espèce
+pos: NOM
+lf: espèce
+is a term candidate: 1
+
+-----------------
+
+if: Choc
+pos: NOM
+lf: choc
+is a term candidate: 1
+
+-----------------
+
+if: parc éolien 1 mois
+pos: NOM ADJ NUM NOM
+lf: parc éolien 1 mois|moi
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: parc
+pos: NOM
+lf: parc
+is a term candidate: 1
+
+-----------------
+
+if: m
+pos: NOM
+lf: m
+is a term candidate: 1
+
+-----------------
+
+if: détection/effarouchement.Un autre cas de mortalité
+pos: NOM ADJ NOM de NOM
+lf: détection/effarouchement.Un autre cas de mortalité
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: milan royal
+pos: NOM ADJ
+lf: milan royal
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( milan<=H> royal<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: lieu
+pos: NOM
+lf: lieu
+is a term candidate: 1
+
+-----------------
+
+if: cadavre
+pos: NOM
+lf: cadavre
+is a term candidate: 1
+
+-----------------
+
+if: avifaune
+pos: NOM
+lf: avifaune
+is a term candidate: 1
+
+-----------------
+

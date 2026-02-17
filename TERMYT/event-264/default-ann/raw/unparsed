@@ -1,0 +1,165 @@
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: espèce
+pos: NOM
+lf: espèce
+is a term candidate: 1
+
+-----------------
+
+if: collision
+pos: NOM
+lf: collision
+is a term candidate: 1
+
+-----------------
+
+if: balbuzard pécheur
+pos: NOM ADJ
+lf: balbuzard pécheur
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( balbuzard<=H> pécheur<=M> )
+islands: 0
+
+
+-----------------
+
+if: bureau
+pos: NOM
+lf: bureau
+is a term candidate: 1
+
+-----------------
+
+if: suivi de la mortalité aviaire
+pos: NOM de DET:ART NOM ADJ
+lf: suivi de le mortalité aviaire
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( suivi<=H> de<=P> la<=D> ( mortalité<=H> aviaire<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: constat
+pos: NOM
+lf: constat
+is a term candidate: 1
+
+-----------------
+
+if: sol
+pos: NOM
+lf: sol
+is a term candidate: 1
+
+-----------------
+
+if: migration automnale
+pos: NOM ADJ
+lf: migration automnal
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( migration<=H> automnale<=M> )
+islands: 0
+
+
+-----------------
+
+if: Choc
+pos: NOM
+lf: choc
+is a term candidate: 1
+
+-----------------
+
+if: études
+pos: NOM
+lf: étude
+is a term candidate: 1
+
+-----------------
+
+if: pale
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: m
+pos: NOM
+lf: m
+is a term candidate: 1
+
+-----------------
+
+if: fait
+pos: NOM
+lf: fait
+is a term candidate: 1
+
+-----------------
+
+if: oiseau
+pos: NOM
+lf: oiseau
+is a term candidate: 1
+
+-----------------
+
+if: parc.Le suivi de la mortalité des oiseaux
+pos: NOM VER:pper de DET:ART NOM des NOM
+lf: parc.Le suivre de le mortalité du oiseau
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: accident ponctuel
+pos: NOM ADJ
+lf: accident ponctuel
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( accident<=H> ponctuel<=M> )
+islands: 0
+
+
+-----------------
+
+if: cas de mortalité
+pos: NOM de NOM
+lf: cas de mortalité
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( cas<=H> de<=P> mortalité<=M> )
+islands: 0
+
+
+-----------------
+

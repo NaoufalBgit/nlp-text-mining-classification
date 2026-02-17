@@ -1,0 +1,17 @@
+# ID	Inflected form	Lemmatised form	Frequency	CValue	CValue1	CValuePlus	CValuePlus1	CValueStar	CValueStarH	CValueStarM	CValueStarR	CValueWCard	CValueWCardPlus	D	DDW	Freq	idf	ilnc	ilncFreq	iLong	IM	iTer	LLR	nbdoc4tc	NormFreq	tf	tf-idf	Head	Modifier	MainHead
+0	reconnaissances au sommet de l' éolienne	reconnaissance au sommet de le éolienne	1	2.58496250072116	2.8073549220576	2.58496250072116	2.8073549220576	N/A	N/A	N/A	0.222392421336448	0	0	1	0	1	0:0	0	0	0.166666666666667	1	0.142857142857143	0.000115129154648748	1	0.333333333333333	0:1	0:0	1	4	2	
+9	personnel de maintenance	personnel de maintenance	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	1.5	0.25	0.000115129154648748	1	0.333333333333333	0:1	0:0	10	6	10	
+4	éolienne	éolienne	3	0	2	0	4	N/A	N/A	2	N/A	2	4	1	0	3	0:0	0	0	3	N/A	1.5	N/A	1	1	0:3	0:0				
+6	maintenance	maintenance	2	0	1	0	3	N/A	N/A	1	N/A	1	3	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.666666666666667	0:2	0:0				
+14	Électrisation	électrisation	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+7	sous-traitant	sous-traitant	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+2	reconnaissances	reconnaissance	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.333333333333333	0:1	0:0				
+3	sommet	sommet	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+12	courant	courant	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+5	hôpital	hôpital	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+13	équipement	équipement	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+15	technicien	technicien	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+8	12h15	12h15	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+10	personnel	personnel	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.333333333333333	0:1	0:0				
+16	victime	victime	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+1	reconnaissances au sommet	reconnaissance au sommet	1	0	0	3.16992500144231	4	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	3	0.5	0.000115129154648748	1	0.333333333333333	0:1	0:0	2	3	2	

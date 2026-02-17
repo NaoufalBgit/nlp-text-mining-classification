@@ -1,0 +1,494 @@
+if: maintenance
+pos: NOM
+lf: maintenance
+is a term candidate: 1
+
+-----------------
+
+if: longeron
+pos: NOM
+lf: longeron
+is a term candidate: 1
+
+-----------------
+
+if: octobre
+pos: NOM
+lf: octobre
+is a term candidate: 1
+
+-----------------
+
+if: objet métallique
+pos: NOM ADJ
+lf: objet métallique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( objet<=H> métallique<=M> )
+islands: 0
+
+
+-----------------
+
+if: m/s
+pos: NOM
+lf: m/s
+is a term candidate: 1
+
+-----------------
+
+if: angle anormal
+pos: NOM ADJ
+lf: angle anormal
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( angle<=H> anormal<=M> )
+islands: 0
+
+
+-----------------
+
+if: présente de défaillance
+pos: ADJ de NOM
+lf: présent de défaillance
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: inspection visuelle
+pos: NOM ADJ
+lf: inspection visuel
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( inspection<=H> visuelle<=M> )
+islands: 0
+
+
+-----------------
+
+if: ensemble des éoliennes du parc
+pos: NOM des NOM du NOM
+lf: ensemble du éolienne du parc
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: coque côté extrados
+pos: NOM NOM NOM
+lf: coque côté extrados
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: fortes chaleurs
+pos: ADJ NOM
+lf: fort chaleur
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( fortes<=M> chaleurs<=H> )
+islands: 0
+
+
+-----------------
+
+if: distance
+pos: NOM
+lf: distance
+is a term candidate: 1
+
+-----------------
+
+if: contrôle du chemin
+pos: NOM du NOM
+lf: contrôle du chemin
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( contrôle<=H> du<=P> chemin<=M> )
+islands: 0
+
+
+-----------------
+
+if: réparation
+pos: NOM
+lf: réparation
+is a term candidate: 1
+
+-----------------
+
+if: période.En septembre
+pos: ADJ NOM
+lf: période.En septembre
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( période.En<=M> septembre<=H> )
+islands: 0
+
+
+-----------------
+
+if: bout de pale
+pos: NOM de NOM
+lf: bout de pale
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( bout<=H> de<=P> pale<=M> )
+islands: 0
+
+
+-----------------
+
+if: ensemble des pales du parc éolien
+pos: NOM des NOM du NOM ADJ
+lf: ensemble du pale du parc éolien
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: défaut.Après
+pos: NOM
+lf: défaut.Après
+is a term candidate: 1
+
+-----------------
+
+if: °C
+pos: NAM
+lf: °C
+is a term candidate: 1
+
+-----------------
+
+if: durée indéterminée
+pos: NOM ADJ
+lf: durée indéterminé
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( durée<=H> indéterminée<=M> )
+islands: 0
+
+
+-----------------
+
+if: Chute
+pos: NOM
+lf: chute
+is a term candidate: 1
+
+-----------------
+
+if: éventuelles différences de vibration
+pos: ADJ NOM de NOM
+lf: éventuel différence de vibration
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: techniciens
+pos: NOM
+lf: technicien
+is a term candidate: 1
+
+-----------------
+
+if: température extérieure
+pos: NOM ADJ
+lf: température extérieur
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( température<=H> extérieure<=M> )
+islands: 0
+
+
+-----------------
+
+if: vitesse du vent au moment du détachement
+pos: NOM du NOM au NOM du NOM
+lf: vitesse du vent au moment du détachement
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: bords
+pos: NOM
+lf: bord
+is a term candidate: 1
+
+-----------------
+
+if: reprises
+pos: NOM
+lf: reprise
+is a term candidate: 1
+
+-----------------
+
+if: pale
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: fissure
+pos: NOM
+lf: fissure
+is a term candidate: 1
+
+-----------------
+
+if: autre éolienne
+pos: ADJ NOM
+lf: autre éolienne
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( autre<=M> éolienne<=H> )
+islands: 0
+
+
+-----------------
+
+if: m
+pos: NOM
+lf: m
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: bout de la pale
+pos: NOM de DET:ART NOM
+lf: bout de le pale
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( bout<=H> de<=P> la<=D> pale<=M> )
+islands: 0
+
+
+-----------------
+
+if: enceinte du parc éolien
+pos: NOM du NOM ADJ
+lf: enceinte du parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( enceinte<=H> du<=P> ( parc<=H> éolien<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: morceau
+pos: NOM
+lf: morceau
+is a term candidate: 1
+
+-----------------
+
+if: 9h30
+pos: NAM
+lf: 9h30
+is a term candidate: 1
+
+-----------------
+
+if: évacuation de la foudre
+pos: NOM de DET:ART NOM
+lf: évacuation de le foudre
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( évacuation<=H> de<=P> la<=D> foudre<=M> )
+islands: 0
+
+
+-----------------
+
+if: mise à l' arrêt
+pos: NOM à DET:ART NOM
+lf: mise à le arrêt
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( mise<=H> à<=P> l'<=D> arrêt<=M> )
+islands: 0
+
+
+-----------------
+
+if: face de la pale
+pos: NOM de DET:ART NOM
+lf: face de le pale
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( face<=H> de<=P> la<=D> pale<=M> )
+islands: 0
+
+
+-----------------
+
+if: un à 15 m
+pos: NOM à NUM NOM
+lf: un à 15 m
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: pales de l' éolienne
+pos: NOM de DET:ART NOM
+lf: pale de le éolienne
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( pales<=H> de<=P> l'<=D> éolienne<=M> )
+islands: 0
+
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: contact inadéquat
+pos: NOM ADJ
+lf: contact inadéquat
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( contact<=H> inadéquat<=M> )
+islands: 0
+
+
+-----------------
+
+if: exploitant
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+
+if: centre de maintenance
+pos: NOM de NOM
+lf: centre de maintenance
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( centre<=H> de<=P> maintenance<=M> )
+islands: 0
+
+
+-----------------
+
+if: longueur de pale
+pos: NOM de NOM
+lf: longueur de pale
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( longueur<=H> de<=P> pale<=M> )
+islands: 0
+
+
+-----------------
+
+if: périmètre de sécurité de 100 m
+pos: NOM de NOM de NUM NOM
+lf: périmètre de sécurité de 100 m
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: accès à l' ensemble du parc éolien
+pos: NOM à DET:ART NOM du NOM ADJ
+lf: accès à le ensemble du parc éolien
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: défauts
+pos: NOM
+lf: défaut
+is a term candidate: 1
+
+-----------------
+
+if: arrêté municipal
+pos: NOM ADJ
+lf: arrêté municipal
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( arrêté<=H> municipal<=M> )
+islands: 0
+
+
+-----------------
+
+if: autre pale
+pos: ADJ NOM
+lf: autre pale
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( autre<=M> pale<=H> )
+islands: 0
+
+
+-----------------
+
+if: lendemain
+pos: NOM
+lf: lendemain
+is a term candidate: 1
+
+-----------------
+
+if: morceaux
+pos: NOM
+lf: morceau
+is a term candidate: 1
+
+-----------------
+

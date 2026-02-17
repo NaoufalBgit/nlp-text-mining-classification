@@ -1,0 +1,40 @@
+# ID	Inflected form	Lemmatised form	Frequency	CValue	CValue1	CValuePlus	CValuePlus1	CValueStar	CValueStarH	CValueStarM	CValueStarR	CValueWCard	CValueWCardPlus	D	DDW	Freq	idf	ilnc	ilncFreq	iLong	IM	iTer	LLR	nbdoc4tc	NormFreq	tf	tf-idf	Head	Modifier	MainHead
+29	Milan Royal	Milan Royal	2	2	3.16992500144231	2	3.16992500144231	N/A	N/A	N/A	1.16992500144231	0	0	1	0	2	0:0	0	0	1	1.5	0.666666666666667	0.000112060551454184	1	0.666666666666667	0:2	0:0	30	31	30	
+25	migration de l' espèce.L'exploitant	migration de le espèce.L'exploitant	1	2	2.32192809488736	2	2.32192809488736	N/A	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	3	0.2	0.000115129154648748	1	0.333333333333333	0:1	0:0	26	27	26	
+6	protection de la cigogne-noire	protection de le cigogne-noir|noire	1	2	2.32192809488736	2	2.32192809488736	1	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	1.5	0.2	0.000115129154648748	1	0.333333333333333	0:1	0:0	7	8	7	
+11	système de détection	système de détection	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	0.5	0.25	0.000115129154648748	1	0.333333333333333	0:1	0:0	12	13	12	
+39	ensemble du parc	ensemble du parc	1	1.58496250072116	2	1.58496250072116	2	1	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	1.5	0.25	1.38627436101989	1	0.333333333333333	0:1	0:0	40	20	40	
+34	arbre de décision	arbre de décision	1	1.58496250072116	2	1.58496250072116	2	1	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	3	0.25	0.000115129154648748	1	0.333333333333333	0:1	0:0	35	36	35	
+15	arrêt des machines	arrêt du machine	1	1.58496250072116	2	1.58496250072116	2	1	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	3	0.25	0.000115129154648748	1	0.333333333333333	0:1	0:0	16	17	16	
+1	programme de biosurveillance	programme de biosurveillance	1	1.58496250072116	2	1.58496250072116	2	1	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	1.5	0.25	0.000115129154648748	1	0.333333333333333	0:1	0:0	2	3	2	
+19	parc éolien	parc éolien	1	1	1.58496250072116	1	1.58496250072116	N/A	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	1.5	0.333333333333333	6.93134680530211e-06	1	0.333333333333333	0:1	0:0	20	21	20	
+28	éolienne	éolienne	3	0	3	0	3	N/A	N/A	N/A	3	0	0	1	0	3	0:0	0	0	3	N/A	1.5	N/A	1	1	0:3	0:0				
+10	espèce	espèce	3	0	3	0	3	1	N/A	N/A	3	0	0	1	0	3	0:0	0	0	3	N/A	1.5	N/A	1	1	0:3	0:0				
+31	Royal	Royal	2	0	0	0	4	N/A	N/A	0	N/A	0	4	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.666666666666667	0:2	0:0				
+20	parc	parc	2	0	1	0	3	1	1	1	N/A	1	3	1	0	2	0:0	1	1	2	N/A	2	N/A	1	0.666666666666667	0:2	0:0				
+3	biosurveillance	biosurveillance	2	0	1	0	3	1	N/A	1	N/A	1	3	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.666666666666667	0:2	0:0				
+30	Milan	Milan	2	0	0	0	4	1	0	N/A	N/A	0	4	1	0	2	0:0	1	2	2	N/A	2	N/A	1	0.666666666666667	0:2	0:0				
+7	protection	protection	2	0	1	0	3	1	1	N/A	N/A	1	3	1	0	2	0:0	1	1	2	N/A	2	N/A	1	0.666666666666667	0:2	0:0				
+22	études	étude	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+37	Choc	choc	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+26	migration	migration	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.333333333333333	0:1	0:0				
+14	espèces	espèce	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+5	collision	collision	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+2	programme	programme	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.333333333333333	0:1	0:0				
+17	machines	machine	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+16	arrêt	arrêt	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.333333333333333	0:1	0:0				
+27	espèce.L'exploitant	espèce.L'exploitant	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+24	place	place	1	0	1	0	1	1	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+36	décision	décision	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+18	sol	sol	1	0	1	0	1	1	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+9	milan	milan	1	0	1	0	1	1	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+23	bureau	bureau	1	0	1	0	1	1	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+8	cigogne-noire	cigogne-noir|noire	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+32	m	m	1	0	1	0	1	1	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+40	ensemble	ensemble	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.333333333333333	0:1	0:0				
+21	éolien	éolien	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+35	arbre	arbre	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.333333333333333	0:1	0:0				
+12	système	système	1	0	1	0	3	1	1	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.333333333333333	0:1	0:0				
+13	détection	détection	1	0	2	0	4	1	N/A	2	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+4	danger	danger	1	0	1	0	1	1	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+0	observateurs	observateur	1	0	1	0	1	1	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				

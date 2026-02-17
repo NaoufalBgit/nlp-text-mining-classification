@@ -1,0 +1,94 @@
+if: études
+pos: NOM
+lf: étude
+is a term candidate: 1
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: sol 6 cadavres de pipistrelle
+pos: NOM NUM NOM de NOM
+lf: sol 6 cadavre de pipistrelle
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: bureau
+pos: NOM
+lf: bureau
+is a term candidate: 1
+
+-----------------
+
+if: suivi environnemental
+pos: NOM ADJ
+lf: suivi environnemental
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( suivi<=H> environnemental<=M> )
+islands: 0
+
+
+-----------------
+
+if: bridage
+pos: NOM
+lf: bridage
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: m
+pos: NOM
+lf: m
+is a term candidate: 1
+
+-----------------
+
+if: barotraumatismes
+pos: NOM
+lf: barotraumatisme
+is a term candidate: 1
+
+-----------------
+
+if: cadavres de chiroptère
+pos: NOM de NOM
+lf: cadavre de chiroptère
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( cadavres<=H> de<=P> chiroptère<=M> )
+islands: 0
+
+
+-----------------
+

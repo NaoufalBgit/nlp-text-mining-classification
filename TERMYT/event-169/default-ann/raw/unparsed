@@ -1,0 +1,170 @@
+if: études
+pos: NOM
+lf: étude
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: espèce
+pos: NOM
+lf: espèce
+is a term candidate: 1
+
+-----------------
+
+if: pale
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: bureau
+pos: NOM
+lf: bureau
+is a term candidate: 1
+
+-----------------
+
+if: collision
+pos: NOM
+lf: collision
+is a term candidate: 1
+
+-----------------
+
+if: éoliennes de manière
+pos: NOM de NOM
+lf: éolienne de manière
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( éoliennes<=H> de<=P> manière<=M> )
+islands: 0
+
+
+-----------------
+
+if: vol local
+pos: NOM ADJ
+lf: vol local
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( vol<=H> local<=M> )
+islands: 0
+
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: victime de collisions
+pos: NOM de NOM
+lf: victime de collision
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( victime<=H> de<=P> collisions<=M> )
+islands: 0
+
+
+-----------------
+
+if: oiseau
+pos: NOM
+lf: oiseau
+is a term candidate: 1
+
+-----------------
+
+if: week-end
+pos: NOM
+lf: week-end
+is a term candidate: 1
+
+-----------------
+
+if: Serin cini
+pos: NOM ADJ
+lf: serin cini
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Serin<=H> cini<=M> )
+islands: 0
+
+
+-----------------
+
+if: garrigue haute arbustive
+pos: NOM ADJ ADJ
+lf: garrigue haut arbustif
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: Choc
+pos: NOM
+lf: choc
+is a term candidate: 1
+
+-----------------
+
+if: suivi de la mortalité aviaire
+pos: NOM de DET:ART NOM ADJ
+lf: suivi de le mortalité aviaire
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( suivi<=H> de<=P> la<=D> ( mortalité<=H> aviaire<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: vents forts
+pos: NOM ADJ
+lf: vent fort
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( vents<=H> forts<=M> )
+islands: 0
+
+
+-----------------
+
+if: m
+pos: NOM
+lf: m
+is a term candidate: 1
+
+-----------------
+
+if: sol
+pos: NOM
+lf: sol
+is a term candidate: 1
+
+-----------------
+

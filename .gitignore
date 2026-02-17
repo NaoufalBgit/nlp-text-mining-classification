@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.ttg
+*.flemm
+*.hdt
+*.ann
+*.terms
+.DS_Store

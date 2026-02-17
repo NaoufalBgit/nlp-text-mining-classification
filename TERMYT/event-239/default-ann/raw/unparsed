@@ -1,0 +1,245 @@
+if: activité
+pos: NOM
+lf: activité
+is a term candidate: 1
+
+-----------------
+
+if: bureau
+pos: NOM
+lf: bureau
+is a term candidate: 1
+
+-----------------
+
+if: impact
+pos: NOM
+lf: impact
+is a term candidate: 1
+
+-----------------
+
+if: nacelle
+pos: NOM
+lf: nacelle
+is a term candidate: 1
+
+-----------------
+
+if: reprises
+pos: NOM
+lf: reprise
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: parc
+pos: NOM
+lf: parc
+is a term candidate: 1
+
+-----------------
+
+if: août
+pos: NOM
+lf: août
+is a term candidate: 1
+
+-----------------
+
+if: cas de mortalité
+pos: NOM de NOM
+lf: cas de mortalité
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( cas<=H> de<=P> mortalité<=M> )
+islands: 0
+
+
+-----------------
+
+if: suivi de la mortalité aviaire
+pos: NOM de DET:ART NOM ADJ
+lf: suivi de le mortalité aviaire
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( suivi<=H> de<=P> la<=D> ( mortalité<=H> aviaire<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: déplacements automnaux
+pos: NOM ADJ
+lf: déplacement automnal
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( déplacements<=H> automnaux<=M> )
+islands: 0
+
+
+-----------------
+
+if: oiseau
+pos: NOM
+lf: oiseau
+is a term candidate: 1
+
+-----------------
+
+if: données acoustiques
+pos: NOM ADJ
+lf: donnée acoustique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( données<=H> acoustiques<=M> )
+islands: 0
+
+
+-----------------
+
+if: Minioptère de Schreibers
+pos: NOM de NOM
+lf: Minioptère de Schreibers
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Minioptère<=H> de<=P> Schreibers<=M> )
+islands: 0
+
+
+-----------------
+
+if: migration automnale
+pos: NOM ADJ
+lf: migration automnal
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( migration<=H> automnale<=M> )
+islands: 0
+
+
+-----------------
+
+if: m
+pos: NOM
+lf: m
+is a term candidate: 1
+
+-----------------
+
+if: pale
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: site
+pos: NOM
+lf: site
+is a term candidate: 1
+
+-----------------
+
+if: système de détection/effarouchement des oiseaux.L'exploitant
+pos: NOM de NOM des NOM
+lf: système de détection/effarouchement du oiseaux.L'exploitant
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: études
+pos: NOM
+lf: étude
+is a term candidate: 1
+
+-----------------
+
+if: espèce
+pos: NOM
+lf: espèce
+is a term candidate: 1
+
+-----------------
+
+if: Choc
+pos: NOM
+lf: choc
+is a term candidate: 1
+
+-----------------
+
+if: collision
+pos: NOM
+lf: collision
+is a term candidate: 1
+
+-----------------
+
+if: activité de l' espèce
+pos: NOM de DET:ART NOM
+lf: activité de le espèce
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( activité<=H> de<=P> l'<=D> espèce<=M> )
+islands: 0
+
+
+-----------------
+
+if: septembre
+pos: NOM
+lf: septembre
+is a term candidate: 1
+
+-----------------
+
+if: sol
+pos: NOM
+lf: sol
+is a term candidate: 1
+
+-----------------
+
+if: constat
+pos: NOM
+lf: constat
+is a term candidate: 1
+
+-----------------
+
+if: barotraumatisme
+pos: NOM
+lf: barotraumatisme
+is a term candidate: 1
+
+-----------------
+

@@ -1,0 +1,201 @@
+if: impact de foudre
+pos: NOM de NOM
+lf: impact de foudre
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( impact<=H> de<=P> foudre<=M> )
+islands: 0
+
+
+-----------------
+
+if: bout de la pale
+pos: NOM de DET:ART NOM
+lf: bout de le pale
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( bout<=H> de<=P> la<=D> pale<=M> )
+islands: 0
+
+
+-----------------
+
+if: redémarrage de l' éolienne
+pos: NOM de DET:ART NOM
+lf: redémarrage de le éolienne
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( redémarrage<=H> de<=P> l'<=D> éolienne<=M> )
+islands: 0
+
+
+-----------------
+
+if: orage
+pos: NOM
+lf: orage
+is a term candidate: 1
+
+-----------------
+
+if: pale
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: carte électronique
+pos: NOM ADJ
+lf: carte électronique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( carte<=H> électronique<=M> )
+islands: 0
+
+
+-----------------
+
+if: reste
+pos: NOM
+lf: reste
+is a term candidate: 1
+
+-----------------
+
+if: réparation
+pos: NOM
+lf: réparation
+is a term candidate: 1
+
+-----------------
+
+if: jours
+pos: NOM
+lf: jour
+is a term candidate: 1
+
+-----------------
+
+if: bout
+pos: NOM
+lf: bout
+is a term candidate: 1
+
+-----------------
+
+if: inspection
+pos: NOM
+lf: inspection
+is a term candidate: 1
+
+-----------------
+
+if: Impact de foudre
+pos: NOM de NOM
+lf: impact de foudre
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Impact<=H> de<=P> foudre<=M> )
+islands: 0
+
+
+-----------------
+
+if: 22h30
+pos: NAM
+lf: 22h30
+is a term candidate: 1
+
+-----------------
+
+if: éoliennes
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: arrêté
+pos: NOM
+lf: arrêté
+is a term candidate: 1
+
+-----------------
+
+if: mesure de sécurité
+pos: NOM de NOM
+lf: mesure de sécurité
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( mesure<=H> de<=P> sécurité<=M> )
+islands: 0
+
+
+-----------------
+
+if: enlèvement de la pale
+pos: NOM de DET:ART NOM
+lf: enlèvement de le pale
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( enlèvement<=H> de<=P> la<=D> pale<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: inspections
+pos: NOM
+lf: inspection
+is a term candidate: 1
+
+-----------------
+
+if: machine
+pos: NOM
+lf: machine
+is a term candidate: 1
+
+-----------------
+
+if: installations
+pos: NOM
+lf: installation
+is a term candidate: 1
+
+-----------------
+
+if: route
+pos: NOM
+lf: route
+is a term candidate: 1
+
+-----------------
+
+if: réseau électrique
+pos: NOM ADJ
+lf: réseau électrique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( réseau<=H> électrique<=M> )
+islands: 0
+
+
+-----------------
+

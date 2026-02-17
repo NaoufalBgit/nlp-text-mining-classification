@@ -1,0 +1,160 @@
+if: partie structurelle
+pos: NOM ADJ
+lf: partie structurel
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( partie<=H> structurelle<=M> )
+islands: 0
+
+
+-----------------
+
+if: constructeur de l' éolienne
+pos: NOM de DET:ART NOM
+lf: constructeur de le éolienne
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( constructeur<=H> de<=P> l'<=D> éolienne<=M> )
+islands: 0
+
+
+-----------------
+
+if: installation
+pos: NOM
+lf: installation
+is a term candidate: 1
+
+-----------------
+
+if: conditions climatiques
+pos: NOM ADJ
+lf: condition climatique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( conditions<=H> climatiques<=M> )
+islands: 0
+
+
+-----------------
+
+if: intervention
+pos: NOM
+lf: intervention
+is a term candidate: 1
+
+-----------------
+
+if: remplacement de l' intégralité de la pale
+pos: NOM de DET:ART NOM de DET:ART NOM
+lf: remplacement de le intégralité de le pale
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: défaut
+pos: NOM
+lf: défaut
+is a term candidate: 1
+
+-----------------
+
+if: Fissure
+pos: NOM
+lf: fissure
+is a term candidate: 1
+
+-----------------
+
+if: habillage de la pale
+pos: NOM de DET:ART NOM
+lf: habillage de le pale
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( habillage<=H> de<=P> la<=D> pale<=M> )
+islands: 0
+
+
+-----------------
+
+if: constructeur
+pos: NOM
+lf: constructeur
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: éolienne Une fissure de 6,5 m de long
+pos: ADJ DET:ART NOM de NUM NOM de NOM
+lf: éolien un fissure de 6,5 m de long
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: dépose de la pale
+pos: NOM de DET:ART NOM
+lf: dépose de le pale
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( dépose<=H> de<=P> la<=D> pale<=M> )
+islands: 0
+
+
+-----------------
+
+if: pale
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: dommage
+pos: NOM
+lf: dommage
+is a term candidate: 1
+
+-----------------
+
+if: caractère générique
+pos: NOM ADJ
+lf: caractère générique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( caractère<=H> générique<=M> )
+islands: 0
+
+
+-----------------
+
+if: cas
+pos: NOM
+lf: cas
+is a term candidate: 1
+
+-----------------
+
+if: exploitant
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+

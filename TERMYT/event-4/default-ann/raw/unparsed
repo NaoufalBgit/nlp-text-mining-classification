@@ -1,0 +1,503 @@
+if: laveur de buées du décapage
+pos: NOM de NOM du NOM
+lf: laveur de buée du décapage
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: test
+pos: NOM
+lf: test
+is a term candidate: 1
+
+-----------------
+
+if: bras de maintien
+pos: NOM de NOM
+lf: bras de maintien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( bras<=H> de<=P> maintien<=M> )
+islands: 0
+
+
+-----------------
+
+if: rupture de faiblesse de la cheminée de hauteur initiale
+pos: NOM de NOM de DET:ART NOM de NOM ADJ
+lf: rupture de faiblesse de le cheminée de hauteur initial
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: événement
+pos: NOM
+lf: événement
+is a term candidate: 1
+
+-----------------
+
+if: installations de décapage
+pos: NOM de NOM
+lf: installation de décapage
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( installations<=H> de<=P> décapage<=M> )
+islands: 0
+
+
+-----------------
+
+if: inspection
+pos: NOM
+lf: inspection
+is a term candidate: 1
+
+-----------------
+
+if: drones
+pos: NOM
+lf: drones
+is a term candidate: 1
+
+-----------------
+
+if: oeuvre
+pos: NOM
+lf: œuvre
+is a term candidate: 1
+
+-----------------
+
+if: centaines de milliers
+pos: NOM de NOM
+lf: centaine de millier
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( centaines<=H> de<=P> milliers<=M> )
+islands: 0
+
+
+-----------------
+
+if: sol
+pos: NOM
+lf: sol
+is a term candidate: 1
+
+-----------------
+
+if: acier
+pos: NOM
+lf: acier
+is a term candidate: 1
+
+-----------------
+
+if: usine sidérurgique
+pos: NOM ADJ
+lf: usine sidérurgique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( usine<=H> sidérurgique<=M> )
+islands: 0
+
+
+-----------------
+
+if: ans des mesures de verticalité
+pos: NOM des NOM de NOM
+lf: an du mesure de verticalité
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: hauteur totale
+pos: NOM ADJ
+lf: hauteur total
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( hauteur<=H> totale<=M> )
+islands: 0
+
+
+-----------------
+
+if: plan de maintenance
+pos: NOM de NOM
+lf: plan de maintenance
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( plan<=H> de<=P> maintenance<=M> )
+islands: 0
+
+
+-----------------
+
+if: pompiers
+pos: NOM
+lf: pompier
+is a term candidate: 1
+
+-----------------
+
+if: structure de consolidation
+pos: NOM de NOM
+lf: structure de consolidation
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( structure<=H> de<=P> consolidation<=M> )
+islands: 0
+
+
+-----------------
+
+if: oeuvre de mesures complémentaires
+pos: NOM de NOM ADJ
+lf: œuvre de mesure complémentaire
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( oeuvre<=H> de<=P> ( mesures<=H> complémentaires<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: exploitant
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+
+if: mesures complémentaires
+pos: NOM ADJ
+lf: mesure complémentaire
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( mesures<=H> complémentaires<=M> )
+islands: 0
+
+
+-----------------
+
+if: suite de signaux faibles
+pos: NOM de NOM ADJ
+lf: suite de signal faible
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( suite<=H> de<=P> ( signaux<=H> faibles<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: cheminée
+pos: NOM
+lf: cheminée
+is a term candidate: 1
+
+-----------------
+
+if: installations
+pos: NOM
+lf: installation
+is a term candidate: 1
+
+-----------------
+
+if: Chute
+pos: NOM
+lf: chute
+is a term candidate: 1
+
+-----------------
+
+if: nouvelle cheminée de 28 m. Une étude de dispersion
+pos: ADJ NOM de NUM ABR DET:ART NOM de NOM
+lf: nouveau cheminée de 28 m. un étude de dispersion
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: éoliennes
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: remplacement du ventilateur
+pos: NOM du NOM
+lf: remplacement du ventilateur
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( remplacement<=H> du<=P> ventilateur<=M> )
+islands: 0
+
+
+-----------------
+
+if: effet de rafales de vent
+pos: NOM de NOM de NOM
+lf: effet de rafale de vent
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: zone au sol
+pos: NOM au NOM
+lf: zone au sol
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( zone<=H> au<=P> sol<=M> )
+islands: 0
+
+
+-----------------
+
+if: résine.À
+pos: NOM
+lf: résine.À
+is a term candidate: 1
+
+-----------------
+
+if: cheminée de décapage
+pos: NOM de NOM
+lf: cheminée de décapage
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( cheminée<=H> de<=P> décapage<=M> )
+islands: 0
+
+
+-----------------
+
+if: m à la suite de fortes rafales de vent de 108 km/h orientées « nord-ouest
+pos: NOM à DET:ART NOM de ADJ NOM de NOM de NUM ABR VER:pper PUN:cit ADJ
+lf: m à le suite de fort rafale de vent de 108 kilomètres-heure orienter « nord-ouest
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: rejets atmosphériques
+pos: NOM ADJ
+lf: rejet atmosphérique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( rejets<=H> atmosphériques<=M> )
+islands: 0
+
+
+-----------------
+
+if: auto
+pos: NOM
+lf: auto
+is a term candidate: 1
+
+-----------------
+
+if: oscillations
+pos: NOM
+lf: oscillation
+is a term candidate: 1
+
+-----------------
+
+if: plan de maintenance préventive
+pos: NOM de NOM ADJ
+lf: plan de maintenance préventif
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( plan<=H> de<=P> ( maintenance<=H> préventive<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: mise
+pos: NOM
+lf: mise
+is a term candidate: 1
+
+-----------------
+
+if: hauteur estimée à 6 m
+pos: NOM VER:pper à NUM NOM
+lf: hauteur estimer à 6 m
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: lendemain soir
+pos: NOM NOM
+lf: lendemain soir
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( lendemain<=H> soir<=M> )
+islands: 0
+
+
+-----------------
+
+if: cheminée du laveur de buées du décapage
+pos: NOM du NOM de NOM du NOM
+lf: cheminée du laveur de buée du décapage
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: structure de la nouvelle cheminée
+pos: NOM de DET:ART ADJ NOM
+lf: structure de le nouveau cheminée
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: partie haute
+pos: NOM ADJ
+lf: partie haut
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( partie<=H> haute<=M> )
+islands: 0
+
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: structure
+pos: NOM
+lf: structure
+is a term candidate: 1
+
+-----------------
+
+if: m
+pos: NOM
+lf: m
+is a term candidate: 1
+
+-----------------
+
+if: eurosLa cause de l' événement
+pos: NOM NOM de DET:ART NOM
+lf: eurosLa cause de le événement
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: impacts sanitaires
+pos: NOM ADJ
+lf: impact sanitaire
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( impacts<=H> sanitaires<=M> )
+islands: 0
+
+
+-----------------
+
+if: énergies
+pos: NOM
+lf: énergie
+is a term candidate: 1
+
+-----------------
+
+if: vents dominants
+pos: NOM ADJ
+lf: vent dominant
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( vents<=H> dominants<=M> )
+islands: 0
+
+
+-----------------
+
+if: réalisation
+pos: NOM
+lf: réalisation
+is a term candidate: 1
+
+-----------------
+
+if: inscrit
+pos: NOM
+lf: inscrit
+is a term candidate: 1
+
+-----------------
+
+if: utilisation de la cheminée basse
+pos: NOM de DET:ART NOM ADJ
+lf: utilisation de le cheminée bas
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( utilisation<=H> de<=P> la<=D> ( cheminée<=H> basse<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: coût du sinistre
+pos: NOM du NOM
+lf: coût du sinistre
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( coût<=H> du<=P> sinistre<=M> )
+islands: 0
+
+
+-----------------
+

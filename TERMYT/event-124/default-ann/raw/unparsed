@@ -1,0 +1,224 @@
+if: accident
+pos: NOM
+lf: accident
+is a term candidate: 1
+
+-----------------
+
+if: effondrement de l' éolienne
+pos: NOM de DET:ART NOM
+lf: effondrement de le éolienne
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( effondrement<=H> de<=P> l'<=D> éolienne<=M> )
+islands: 0
+
+
+-----------------
+
+if: pliage du mât
+pos: NOM du NOM
+lf: pliage du mât
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( pliage<=H> du<=P> mât<=M> )
+islands: 0
+
+
+-----------------
+
+if: accès au site
+pos: NOM au NOM
+lf: accès au site
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( accès<=H> au<=P> site<=M> )
+islands: 0
+
+
+-----------------
+
+if: rafales de vent
+pos: NOM de NOM
+lf: rafale de vent
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( rafales<=H> de<=P> vent<=M> )
+islands: 0
+
+
+-----------------
+
+if: début de l' année
+pos: NOM de DET:ART NOM
+lf: début de le année
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( début<=H> de<=P> l'<=D> année<=M> )
+islands: 0
+
+
+-----------------
+
+if: survitesse de l' éolienne
+pos: NOM de DET:ART NOM
+lf: survitesse de le éolienne
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( survitesse<=H> de<=P> l'<=D> éolienne<=M> )
+islands: 0
+
+
+-----------------
+
+if: février
+pos: NOM
+lf: février
+is a term candidate: 1
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: investigation
+pos: NOM
+lf: investigation
+is a term candidate: 1
+
+-----------------
+
+if: drapeau
+pos: NOM
+lf: drapeau
+is a term candidate: 1
+
+-----------------
+
+if: perturbations ayant provoquées l' effondrement
+pos: NOM ayant VER:pper DET:ART NOM
+lf: perturbation avoir provoquer le effondrement
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: ARIA
+pos: NOM
+lf: aria
+is a term candidate: 1
+
+-----------------
+
+if: pays
+pos: NOM
+lf: pays
+is a term candidate: 1
+
+-----------------
+
+if: orientation des pales
+pos: NOM des NOM
+lf: orientation du pale
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( orientation<=H> des<=P> pales<=M> )
+islands: 0
+
+
+-----------------
+
+if: panne du système
+pos: NOM du NOM
+lf: panne du système
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( panne<=H> du<=P> système<=M> )
+islands: 0
+
+
+-----------------
+
+if: balourd
+pos: NOM
+lf: balourd
+is a term candidate: 1
+
+-----------------
+
+if: juillet
+pos: NOM
+lf: juillet
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: Effondrement
+pos: NOM
+lf: effondrement
+is a term candidate: 1
+
+-----------------
+
+if: mise
+pos: NOM
+lf: mise
+is a term candidate: 1
+
+-----------------
+
+if: constructeur
+pos: NOM
+lf: constructeur
+is a term candidate: 1
+
+-----------------
+
+if: cas
+pos: NOM
+lf: cas
+is a term candidate: 1
+
+-----------------
+
+if: 3.Deux éoliennes du même constructeur
+pos: ADJ NOM du ADJ NOM
+lf: 3.Deux éolienne du même constructeur
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: sécurisé.Lors
+pos: NOM
+lf: sécurisé.Lors
+is a term candidate: 1
+
+-----------------
+

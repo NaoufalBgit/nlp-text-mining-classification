@@ -1,0 +1,225 @@
+if: jours
+pos: NOM
+lf: jour
+is a term candidate: 1
+
+-----------------
+
+if: parcelle de l' éolienne
+pos: NOM de DET:ART NOM
+lf: parcelle de le éolienne
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parcelle<=H> de<=P> l'<=D> éolienne<=M> )
+islands: 0
+
+
+-----------------
+
+if: parages
+pos: NOM
+lf: parages|parage
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: collision directe
+pos: NOM ADJ
+lf: collision direct
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( collision<=H> directe<=M> )
+islands: 0
+
+
+-----------------
+
+if: vidéo de surveillance.Il
+pos: NOM de NOM
+lf: vidéo de surveillance.Il
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( vidéo<=H> de<=P> surveillance.Il<=M> )
+islands: 0
+
+
+-----------------
+
+if: suivi environnemental
+pos: NOM ADJ
+lf: suivi environnemental
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( suivi<=H> environnemental<=M> )
+islands: 0
+
+
+-----------------
+
+if: attention de l' oiseau
+pos: NOM de DET:ART NOM
+lf: attention de le oiseau
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( attention<=H> de<=P> l'<=D> oiseau<=M> )
+islands: 0
+
+
+-----------------
+
+if: migration automnale
+pos: NOM ADJ
+lf: migration automnal
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( migration<=H> automnale<=M> )
+islands: 0
+
+
+-----------------
+
+if: date de collision
+pos: NOM de NOM
+lf: date de collision
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( date<=H> de<=P> collision<=M> )
+islands: 0
+
+
+-----------------
+
+if: travaux
+pos: NOM
+lf: travail
+is a term candidate: 1
+
+-----------------
+
+if: oiseau
+pos: NOM
+lf: oiseau
+is a term candidate: 1
+
+-----------------
+
+if: fauche
+pos: NOM
+lf: fauche
+is a term candidate: 1
+
+-----------------
+
+if: pale
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: Choc
+pos: NOM
+lf: choc
+is a term candidate: 1
+
+-----------------
+
+if: sol à 34 m
+pos: NOM à NUM NOM
+lf: sol à 34 m
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: foin
+pos: NOM
+lf: foin
+is a term candidate: 1
+
+-----------------
+
+if: semaine
+pos: NOM
+lf: semaine
+is a term candidate: 1
+
+-----------------
+
+if: contexte attractif
+pos: NOM ADJ
+lf: contexte attractif
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( contexte<=H> attractif<=M> )
+islands: 0
+
+
+-----------------
+
+if: vérification
+pos: NOM
+lf: vérification
+is a term candidate: 1
+
+-----------------
+
+if: cadavre de milan royal
+pos: NOM de NOM ADJ
+lf: cadavre de milan royal
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( cadavre<=H> de<=P> ( milan<=H> royal<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: espèce
+pos: NOM
+lf: espèce
+is a term candidate: 1
+
+-----------------
+
+if: existence de travaux agricoles
+pos: NOM de NOM ADJ
+lf: existence de travail agricole
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( existence<=H> de<=P> ( travaux<=H> agricoles<=M> )<=M> )
+islands: 0
+
+
+-----------------
+

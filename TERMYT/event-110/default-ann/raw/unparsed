@@ -1,0 +1,401 @@
+if: paire Pipistrelle de Kuhl/Nathusius au sein des villages alentours
+pos: ADJ NOM de NAM au NOM des NOM NOM
+lf: pair pipistrelle de Kuhl/Nathusius au sein du village alentour
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: activité médiane
+pos: NOM ADJ
+lf: activité médian
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( activité<=H> médiane<=M> )
+islands: 0
+
+
+-----------------
+
+if: pipistrelle de nathusius
+pos: NOM de NOM
+lf: pipistrelle de nathusius
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( pipistrelle<=H> de<=P> nathusius<=M> )
+islands: 0
+
+
+-----------------
+
+if: période de migration
+pos: NOM de NOM
+lf: période de migration
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( période<=H> de<=P> migration<=M> )
+islands: 0
+
+
+-----------------
+
+if: suivi environnemental
+pos: NOM ADJ
+lf: suivi environnemental
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( suivi<=H> environnemental<=M> )
+islands: 0
+
+
+-----------------
+
+if: m
+pos: NOM
+lf: m
+is a term candidate: 1
+
+-----------------
+
+if: part importante
+pos: NOM ADJ
+lf: part important
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( part<=H> importante<=M> )
+islands: 0
+
+
+-----------------
+
+if: conditions météorologiques
+pos: NOM ADJ
+lf: condition météorologique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( conditions<=H> météorologiques<=M> )
+islands: 0
+
+
+-----------------
+
+if: espèce à risque
+pos: NOM à NOM
+lf: espèce à risque
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( espèce<=H> à<=P> risque<=M> )
+islands: 0
+
+
+-----------------
+
+if: bridage des 3 éoliennes du parc
+pos: NOM des NUM NOM du NOM
+lf: bridage du 3 éolienne du parc
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: blessure visible.Un barotraumatisme
+pos: NOM ADJ NOM
+lf: blessure visible.Un barotraumatisme
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: espèce.L'espèce
+pos: NOM
+lf: espèce.L'espèce
+is a term candidate: 1
+
+-----------------
+
+if: vieux arbres présents
+pos: ADJ NOM ADJ
+lf: vieux arbre présent
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: site
+pos: NOM
+lf: site
+is a term candidate: 1
+
+-----------------
+
+if: observations
+pos: NOM
+lf: observation
+is a term candidate: 1
+
+-----------------
+
+if: altitude à hauteur de nacelle
+pos: NOM à NOM de NOM
+lf: altitude à hauteur de nacelle
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: sol
+pos: NOM
+lf: sol
+is a term candidate: 1
+
+-----------------
+
+if: impacts
+pos: NOM
+lf: impact
+is a term candidate: 1
+
+-----------------
+
+if: façon
+pos: NOM
+lf: façon
+is a term candidate: 1
+
+-----------------
+
+if: maximum une semaine
+pos: ADJ DET:ART NOM
+lf: maximum un semaine
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: cadavre de chiroptère
+pos: NOM de NOM
+lf: cadavre de chiroptère
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( cadavre<=H> de<=P> chiroptère<=M> )
+islands: 0
+
+
+-----------------
+
+if: migration
+pos: NOM
+lf: migration
+is a term candidate: 1
+
+-----------------
+
+if: fin de saison
+pos: NOM de NOM
+lf: fin de saison
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( fin<=H> de<=P> saison<=M> )
+islands: 0
+
+
+-----------------
+
+if: activité maximale moyenne
+pos: NOM ADJ ADJ
+lf: activité maximal moyen
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: ensemble des chiroptères
+pos: NOM des NOM
+lf: ensemble du chiroptères
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( ensemble<=H> des<=P> chiroptères<=M> )
+islands: 0
+
+
+-----------------
+
+if: vol
+pos: NOM
+lf: vol
+is a term candidate: 1
+
+-----------------
+
+if: période
+pos: NOM
+lf: période
+is a term candidate: 1
+
+-----------------
+
+if: présence de gîtes
+pos: NOM de NOM
+lf: présence de gîte
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( présence<=H> de<=P> gîtes<=M> )
+islands: 0
+
+
+-----------------
+
+if: espèce
+pos: NOM
+lf: espèce
+is a term candidate: 1
+
+-----------------
+
+if: activité modéré à fort
+pos: NOM VER:pper à ADJ
+lf: activité modérer à fort
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: études
+pos: NOM
+lf: étude
+is a term candidate: 1
+
+-----------------
+
+if: cadavre
+pos: NOM
+lf: cadavre
+is a term candidate: 1
+
+-----------------
+
+if: niveau de sensibilité
+pos: NOM de NOM
+lf: niveau de sensibilité
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( niveau<=H> de<=P> sensibilité<=M> )
+islands: 0
+
+
+-----------------
+
+if: hauteur
+pos: NOM
+lf: hauteur
+is a term candidate: 1
+
+-----------------
+
+if: origine de la mort du Chiroptère
+pos: NOM de DET:ART NOM du NAM
+lf: origine de le mort du Chiroptère
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: bureau
+pos: NOM
+lf: bureau
+is a term candidate: 1
+
+-----------------
+
+if: date de la mort
+pos: NOM de DET:ART NOM
+lf: date de le mort
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( date<=H> de<=P> la<=D> mort<=M> )
+islands: 0
+
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: activité
+pos: NOM
+lf: activité
+is a term candidate: 1
+
+-----------------
+
+if: début de saison
+pos: NOM de NOM
+lf: début de saison
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( début<=H> de<=P> saison<=M> )
+islands: 0
+
+
+-----------------
+
+if: mort
+pos: NOM
+lf: mort
+is a term candidate: 1
+
+-----------------
+
+if: taux
+pos: NOM
+lf: taux|tau
+is a term candidate: 1
+
+-----------------
+

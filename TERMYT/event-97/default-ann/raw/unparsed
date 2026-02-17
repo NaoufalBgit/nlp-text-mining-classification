@@ -1,0 +1,297 @@
+if: remise
+pos: NOM
+lf: remise
+is a term candidate: 1
+
+-----------------
+
+if: sécurité
+pos: NOM
+lf: sécurité
+is a term candidate: 1
+
+-----------------
+
+if: fixation
+pos: NOM
+lf: fixation
+is a term candidate: 1
+
+-----------------
+
+if: site
+pos: NOM
+lf: site
+is a term candidate: 1
+
+-----------------
+
+if: investigations complémentaires
+pos: NOM ADJ
+lf: investigation complémentaire
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( investigations<=H> complémentaires<=M> )
+islands: 0
+
+
+-----------------
+
+if: mesures
+pos: NOM
+lf: mesure
+is a term candidate: 1
+
+-----------------
+
+if: autres éoliennes du parc
+pos: ADJ NOM du NOM
+lf: autre éolienne du parc
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: pale
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: jours
+pos: NOM
+lf: jour
+is a term candidate: 1
+
+-----------------
+
+if: moyeu central
+pos: NOM ADJ
+lf: moyeu central
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( moyeu<=H> central<=M> )
+islands: 0
+
+
+-----------------
+
+if: transmission des rapports
+pos: NOM des NOM
+lf: transmission du rapport
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( transmission<=H> des<=P> rapports<=M> )
+islands: 0
+
+
+-----------------
+
+if: pale accidentée
+pos: NOM ADJ
+lf: pale accidenté
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( pale<=H> accidentée<=M> )
+islands: 0
+
+
+-----------------
+
+if: inspections techniques
+pos: NOM ADJ
+lf: inspection technique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( inspections<=H> techniques<=M> )
+islands: 0
+
+
+-----------------
+
+if: mairies
+pos: NOM
+lf: mairie
+is a term candidate: 1
+
+-----------------
+
+if: inspection
+pos: NOM
+lf: inspection
+is a term candidate: 1
+
+-----------------
+
+if: Chute
+pos: NOM
+lf: chute
+is a term candidate: 1
+
+-----------------
+
+if: ensemble des pales
+pos: NOM des NOM
+lf: ensemble du pale
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( ensemble<=H> des<=P> pales<=M> )
+islands: 0
+
+
+-----------------
+
+if: experts éoliens
+pos: NOM ADJ
+lf: expert éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( experts<=H> éoliens<=M> )
+islands: 0
+
+
+-----------------
+
+if: gardiennage
+pos: NOM
+lf: gardiennage
+is a term candidate: 1
+
+-----------------
+
+if: fonctionnement des 3 autres machines
+pos: NOM des NUM ADJ NOM
+lf: fonctionnement du 3 autre machine
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: machines
+pos: NOM
+lf: machine
+is a term candidate: 1
+
+-----------------
+
+if: débris
+pos: NOM
+lf: débris
+is a term candidate: 1
+
+-----------------
+
+if: enlèvement du morceau de pale tombé.Des prescriptions de mises
+pos: NOM du NOM de NOM ADJ NOM de NOM
+lf: enlèvement du morceau de pale tombé.Des prescription de mise
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: urgences à titre conservatoires
+pos: NOM à NOM ADJ
+lf: urgence à titre conservatoire
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: problématique environnementale
+pos: NOM ADJ
+lf: problématique environnemental
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( problématique<=H> environnementale<=M> )
+islands: 0
+
+
+-----------------
+
+if: prairie à 60 à 100 m du pied de l' éolienne
+pos: NOM à NUM à NUM NOM du NOM de DET:ART NOM
+lf: prairie à 60 à 100 m du pied de le éolienne
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: pompiers
+pos: NOM
+lf: pompier
+is a term candidate: 1
+
+-----------------
+
+if: zone
+pos: NOM
+lf: zone
+is a term candidate: 1
+
+-----------------
+
+if: suite de l' événement des expertises
+pos: NOM de DET:ART NOM des NOM
+lf: suite de le événement du expertise
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: personnel
+pos: NOM
+lf: personnel
+is a term candidate: 1
+
+-----------------
+
+if: 23h le jour même
+pos: NAM DET:ART NOM ADJ
+lf: 23h le jour même
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: proximité de l' éolienne
+pos: NOM de DET:ART NOM
+lf: proximité de le éolienne
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( proximité<=H> de<=P> l'<=D> éolienne<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+

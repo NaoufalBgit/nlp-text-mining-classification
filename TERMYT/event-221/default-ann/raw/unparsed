@@ -1,0 +1,169 @@
+if: préfecture de la Meuse
+pos: NOM de DET:ART NAM
+lf: préfecture de le Meuse
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( préfecture<=H> de<=P> la<=D> Meuse<=M> )
+islands: 0
+
+
+-----------------
+
+if: équipe de permanence de la société exploitant le parc
+pos: NOM de NOM de DET:ART NOM VER:ppre DET:ART NOM
+lf: équipe de permanence de le société exploiter le parc
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: 19h15
+pos: NAM
+lf: 19h15
+is a term candidate: 1
+
+-----------------
+
+if: sol à 150 m
+pos: NOM à NUM NOM
+lf: sol à 150 m
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: fin
+pos: NOM
+lf: fin
+is a term candidate: 1
+
+-----------------
+
+if: fibre de verre
+pos: NOM de NOM
+lf: fibre de verre
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( fibre<=H> de<=P> verre<=M> )
+islands: 0
+
+
+-----------------
+
+if: après-midi
+pos: NOM
+lf: après-midi
+is a term candidate: 1
+
+-----------------
+
+if: extrémité
+pos: NOM
+lf: extrémité
+is a term candidate: 1
+
+-----------------
+
+if: éolienne à 19h45
+pos: NOM à NAM
+lf: éolienne à 19h45
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( éolienne<=H> à<=P> 19h45<=M> )
+islands: 0
+
+
+-----------------
+
+if: pale
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: gros mesure 5 m de long
+pos: ADJ NOM NUM NOM de NOM
+lf: gros mesure 5 m de long
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: projectiles
+pos: NOM
+lf: projectile
+is a term candidate: 1
+
+-----------------
+
+if: foudre
+pos: NOM
+lf: foudre
+is a term candidate: 1
+
+-----------------
+
+if: trentaine de débris
+pos: NOM de NOM
+lf: trentaine de débris
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( trentaine<=H> de<=P> débris<=M> )
+islands: 0
+
+
+-----------------
+
+if: pèse
+pos: NOM
+lf: pèse
+is a term candidate: 1
+
+-----------------
+
+if: Pâle brisée
+pos: ADJ NOM
+lf: pâle brisée
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Pâle<=M> brisée<=H> )
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: Protection civile
+pos: NOM ADJ
+lf: protection civil
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Protection<=H> civile<=M> )
+islands: 0
+
+
+-----------------
+
+if: maire
+pos: NOM
+lf: maire
+is a term candidate: 1
+
+-----------------
+

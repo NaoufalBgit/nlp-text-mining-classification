@@ -1,0 +1,78 @@
+# ID	Inflected form	Lemmatised form	Frequency	CValue	CValue1	CValuePlus	CValuePlus1	CValueStar	CValueStarH	CValueStarM	CValueStarR	CValueWCard	CValueWCardPlus	D	DDW	Freq	idf	ilnc	ilncFreq	iLong	IM	iTer	LLR	nbdoc4tc	NormFreq	tf	tf-idf	Head	Modifier	MainHead
+60	nacelle à 80 m de hauteur	nacelle à 80 m de hauteur	1	2.58496250072116	2.8073549220576	2.58496250072116	2.8073549220576	1	N/A	N/A	0.222392421336448	0	0	1	0	1	0:0	0	0	0.166666666666667	4	0.142857142857143	0.000115129154648748	1	0.25	0:1	0:0	61	62	61	
+17	niveaux à l' intérieur du mat	niveau à le intérieur du mat	1	2.58496250072116	2.8073549220576	2.58496250072116	2.8073549220576	1	N/A	N/A	0.222392421336448	0	0	1	0	1	0:0	0	0	0.166666666666667	4	0.142857142857143	0.000115129154648748	1	0.25	0:1	0:0	18	21	19	
+76	niveau des câbles de puissance	niveau du câble de puissance	1	2.32192809488736	2.58496250072116	2.32192809488736	2.58496250072116	1	N/A	N/A	0.263034405833794	0	0	1	0	1	0:0	0	0	0.2	4	0.166666666666667	0.000115129154648748	1	0.25	0:1	0:0	77	80	78	
+55	entreprise de maintenance du parc	entreprise de maintenance du parc	1	2.32192809488736	2.58496250072116	2.32192809488736	2.58496250072116	1	N/A	N/A	0.263034405833794	0	0	1	0	1	0:0	0	0	0.2	1.33333333333333	0.166666666666667	0.523238143714547	1	0.25	0:1	0:0	56	59	57	
+23	point chaud	point chaud	2	2	3.16992500144231	2	3.16992500144231	1	N/A	N/A	1.16992500144231	0	0	1	0	2	0:0	0	0	1	2	0.666666666666667	0.000112060551454184	1	0.5	0:2	0:0	24	25	24	
+37	sécurité de 100 m	sécurité de 100 m	1	2	2.32192809488736	2	2.32192809488736	1	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	4	0.2	0.000115129154648748	1	0.25	0:1	0:0	38	39	38	
+45	intérieur de la machine	intérieur de le machine	1	2	2.32192809488736	2	2.32192809488736	1	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	0.666666666666667	0.2	0.523238143714547	1	0.25	0:1	0:0	20	47	20	
+26	dégagement de fumée noire	dégagement de fumée noir	1	2	2.32192809488736	2	2.32192809488736	1	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	2	0.2	6.93134680530211e-06	1	0.25	0:1	0:0	4	28	4	
+84	ensemble du parc	ensemble du parc	1	1.58496250072116	2	1.58496250072116	2	1	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	1.33333333333333	0.25	0.523238143714547	1	0.25	0:1	0:0	85	59	85	
+3	dégagement de fumée	dégagement de fumée	1	1.58496250072116	2	1.58496250072116	2	1	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	1	0.25	0.523238143714548	1	0.25	0:1	0:0	4	5	4	
+81	parc éolien	parc éolien	1	1	1.58496250072116	1	1.58496250072116	N/A	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	1.33333333333333	0.333333333333333	4.05454274736608e-06	1	0.25	0:1	0:0	59	83	59	
+0	durée indéterminée	durée indéterminé	1	1	1.58496250072116	1	1.58496250072116	1	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	4	0.333333333333333	0.000115129154648748	1	0.25	0:1	0:0	1	2	1	
+7	caméra thermique	caméra thermique	1	1	1.58496250072116	1	1.58496250072116	1	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	4	0.333333333333333	0.000115129154648748	1	0.25	0:1	0:0	8	9	8	
+13	détecté.Quatre éoliennes	détecté.Quatre éolien	1	1	1.58496250072116	1	1.58496250072116	1	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	4	0.333333333333333	0.000115129154648748	1	0.25	0:1	0:0	14	15	14	
+34	flammes visibles	flamme visible	1	1	1.58496250072116	1	1.58496250072116	1	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	4	0.333333333333333	0.000115129154648748	1	0.25	0:1	0:0	35	36	35	
+43	éolienne	éolienne	4	0	3	0	5	1	N/A	3	N/A	3	5	1	0	4	0:0	0	0	4	N/A	2	N/A	1	1	0:4	0:0				
+59	parc	parc	3	0	2	0	4	2	2	1	N/A	2	4	1	0	3	0:0	1	1	3	N/A	3	N/A	1	0.75	0:3	0:0				
+20	intérieur	intérieur	2	0	1	0	3	1	1	1	N/A	1	3	1	0	2	0:0	1	1	2	N/A	2	N/A	1	0.5	0:2	0:0				
+41	m	m	2	0	1	0	3	1	0	N/A	N/A	1	3	1	0	2	0:0	2	2	2	N/A	3	N/A	1	0.5	0:2	0:0				
+4	dégagement	dégagement	2	0	1	0	3	1	0	N/A	N/A	1	3	1	0	2	0:0	2	2	2	N/A	3	N/A	1	0.5	0:2	0:0				
+74	arrêt	arrêt	2	0	2	0	2	1	N/A	N/A	2	0	0	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.5	0:2	0:0				
+25	chaud	chaud	2	0	0	0	4	1	N/A	0	N/A	0	4	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.5	0:2	0:0				
+47	machine	machine	2	0	2	0	4	1	N/A	1	N/A	1	3	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.5	0:2	0:0				
+24	point	point	2	0	0	0	4	1	0	N/A	N/A	0	4	1	0	2	0:0	1	2	2	N/A	2	N/A	1	0.5	0:2	0:0				
+31	secours	secours	2	0	2	0	2	1	N/A	N/A	2	0	0	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.5	0:2	0:0				
+5	fumée	fumée	2	0	1	0	3	1	1	1	N/A	1	3	1	0	2	0:0	1	1	2	N/A	2	N/A	1	0.5	0:2	0:0				
+63	80	80	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+75	techniciens	technicien	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+28	fumée noire	fumée noir	1	0	0	2	3.16992500144231	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.5	2	0.333333333333333	6.93134680530211e-06	1	0.25	0:1	0:0	5	30	5	
+70	reconnaissances	reconnaissance	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+50	ouverture de la porte	ouverture de le porte	1	0	0	4	4.64385618977472	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.25	4	0.4	0.000115129154648748	1	0.25	0:1	0:0	51	52	51	
+38	sécurité	sécurité	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+6	site	site	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+78	niveau	niveau	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+36	visibles	visible	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+61	nacelle	nacelle	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+52	porte	porte	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+16	pompiers	pompier	1	0	1	0	1	1	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+85	ensemble	ensemble	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+12	Incendie	incendie	1	0	1	0	1	1	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+18	niveaux à l' intérieur	niveau à le intérieur	1	0	0	4	4.64385618977472	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.25	2	0.4	1.38627436101989	1	0.25	0:1	0:0	19	20	19	
+9	thermique	thermique	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+62	80 m de hauteur	80 m de hauteur	1	0	0	4	4.64385618977472	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.25	4	0.2	0.000115129154648748	1	0.25	0:1	0:0	64	63	41	
+83	éolien	éolien	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+30	noire	noir	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+22	extérieur	extérieur	1	0	1	0	1	1	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+1	durée	durée	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+73	aide	aide	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+10	incendie	incendie	1	0	1	0	1	1	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+42	place	place	1	0	1	0	1	1	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+80	puissance	puissance	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+39	100 m	100 m	1	0	0	2	3.16992500144231	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.5	2	0.333333333333333	6.93134680530211e-06	1	0.25	0:1	0:0	41	40	41	
+68	reconnaissances au pied de l' éolienne	reconnaissance au pied de le éolienne	1	0	0	5.16992500144231	5.61470984411521	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.166666666666667	1	0.285714285714286	0.000115129154648748	1	0.25	0:1	0:0	69	43	70	
+11	19h40	19h40	1	0	1	0	1	1	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+21	mat	mat	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+79	câbles	câble	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+40	100	100	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+19	niveaux	niveau	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+51	ouverture	ouverture	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+33	extincteurs	extincteur	1	0	1	0	1	1	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+14	détecté.Quatre	détecté.Quatre	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+58	maintenance	maintenance	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+2	indéterminée	indéterminé	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+71	pied	pied	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+56	entreprise de maintenance	entreprise de maintenance	1	0	0	3.16992500144231	4	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	4	0.5	0.000115129154648748	1	0.25	0:1	0:0	57	58	57	
+8	caméra	caméra	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+66	hauteur	hauteur	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+44	suite	suite	1	0	1	0	1	1	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+32	alarme	alarme	1	0	1	0	1	1	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+48	arrivée	arrivée	1	0	1	0	1	1	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+15	éoliennes	éolien	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+64	m de hauteur	m de hauteur	1	0	0	3.16992500144231	4	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	2	0.5	6.93134680530211e-06	1	0.25	0:1	0:0	41	66	41	
+54	ARI	ARI	1	0	1	0	1	1	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+35	flammes	flamme	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+77	niveau des câbles	niveau du câble	1	0	0	3.16992500144231	4	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	4	0.5	0.000115129154648748	1	0.25	0:1	0:0	78	79	78	
+57	entreprise	entreprise	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+69	reconnaissances au pied	reconnaissance au pied	1	0	0	3.16992500144231	4	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	4	0.5	0.000115129154648748	1	0.25	0:1	0:0	70	71	70	

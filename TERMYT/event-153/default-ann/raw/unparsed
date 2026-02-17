@@ -1,0 +1,196 @@
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: sécurité
+pos: NOM
+lf: sécurité
+is a term candidate: 1
+
+-----------------
+
+if: pale
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: mise
+pos: NOM
+lf: mise
+is a term candidate: 1
+
+-----------------
+
+if: essentiel des débris
+pos: NOM des NOM
+lf: essentiel du débris
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( essentiel<=H> des<=P> débris<=M> )
+islands: 0
+
+
+-----------------
+
+if: site à 11h30
+pos: NOM à NAM
+lf: site à 11h30
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( site<=H> à<=P> 11h30<=M> )
+islands: 0
+
+
+-----------------
+
+if: machines du parc
+pos: NOM du NOM
+lf: machine du parc
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( machines<=H> du<=P> parc<=M> )
+islands: 0
+
+
+-----------------
+
+if: sécurité de l' éolienne
+pos: NOM de DET:ART NOM
+lf: sécurité de le éolienne
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( sécurité<=H> de<=P> l'<=D> éolienne<=M> )
+islands: 0
+
+
+-----------------
+
+if: sol
+pos: NOM
+lf: sol
+is a term candidate: 1
+
+-----------------
+
+if: morceaux
+pos: NOM
+lf: morceau
+is a term candidate: 1
+
+-----------------
+
+if: m du mât
+pos: NOM du NOM
+lf: m du mât
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( m<=H> du<=P> mât<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: zone.Selon
+pos: NOM
+lf: zone.Selon
+is a term candidate: 1
+
+-----------------
+
+if: jours
+pos: NOM
+lf: jour
+is a term candidate: 1
+
+-----------------
+
+if: exploitant
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+
+if: activité
+pos: NOM
+lf: activité
+is a term candidate: 1
+
+-----------------
+
+if: Chute
+pos: NOM
+lf: chute
+is a term candidate: 1
+
+-----------------
+
+if: armature
+pos: NOM
+lf: armature
+is a term candidate: 1
+
+-----------------
+
+if: agents
+pos: NOM
+lf: agent
+is a term candidate: 1
+
+-----------------
+
+if: inspection des installations
+pos: NOM des NOM
+lf: inspection du installation
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( inspection<=H> des<=P> installations<=M> )
+islands: 0
+
+
+-----------------
+
+if: tempête
+pos: NOM
+lf: tempête
+is a term candidate: 1
+
+-----------------
+
+if: lendemain
+pos: NOM
+lf: lendemain
+is a term candidate: 1
+
+-----------------
+
+if: origine de la chute.Sur
+pos: NOM de DET:ART NOM
+lf: origine de le chute.Sur
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( origine<=H> de<=P> la<=D> chute.Sur<=M> )
+islands: 0
+
+
+-----------------
+

@@ -1,0 +1,50 @@
+# ID	Inflected form	Lemmatised form	Frequency	CValue	CValue1	CValuePlus	CValuePlus1	CValueStar	CValueStarH	CValueStarM	CValueStarR	CValueWCard	CValueWCardPlus	D	DDW	Freq	idf	ilnc	ilncFreq	iLong	IM	iTer	LLR	nbdoc4tc	NormFreq	tf	tf-idf	Head	Modifier	MainHead
+35	périmètre de sécurité de 100 m	périmètre de sécurité de 100 m	1	2.58496250072116	2.8073549220576	2.58496250072116	2.8073549220576	N/A	N/A	N/A	0.222392421336448	0	0	1	0	1	0:0	0	0	0.166666666666667	2	0.142857142857143	0.000115129154648748	1	0.5	0:1	0:0	36	39	37	
+22	accident à un impact de foudre	accident à un impact de foudre	1	2.58496250072116	2.8073549220576	2.58496250072116	2.8073549220576	N/A	N/A	N/A	0.222392421336448	0	0	1	0	1	0:0	0	0	0.166666666666667	2	0.142857142857143	0.000115129154648748	1	0.5	0:1	0:0	23	26	9	
+2	arrêt automatique suite à l' apparition	arrêt automatique suite à le apparition	1	2.58496250072116	2.8073549220576	2.58496250072116	2.8073549220576	N/A	N/A	N/A	0.222392421336448	0	0	1	0	1	0:0	0	0	0.166666666666667	2	0.142857142857143	0.000115129154648748	1	0.5	0:1	0:0	3	8	5	
+27	projection à 20 m	projection à 20 m	1	2	2.32192809488736	2	2.32192809488736	N/A	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	2	0.2	0.000115129154648748	1	0.5	0:1	0:0	28	29	28	
+42	débris de pale long	débris de pale long	1	2	2.32192809488736	2	2.32192809488736	N/A	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	2	0.2	0.000115129154648748	1	0.5	0:1	0:0	43	44	43	
+11	inspection des installations	inspection du installation	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	2	0.25	0.000115129154648748	1	0.5	0:1	0:0	12	13	12	
+16	défaut de vibration	défaut de vibration	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	1	0.25	0.000115129154648748	1	0.5	0:1	0:0	17	18	17	
+50	vitesse du vent	vitesse du vent	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	2	0.25	0.000115129154648748	1	0.5	0:1	0:0	51	52	51	
+25	impact	impact	2	0	1	0	3	N/A	N/A	1	N/A	1	3	1	0	2	0:0	0	0	2	N/A	1	N/A	1	1	0:2	0:0				
+9	accident	accident	2	0	1	0	3	N/A	1	N/A	N/A	1	3	1	0	2	0:0	1	1	2	N/A	2	N/A	1	1	0:2	0:0				
+31	m	m	2	0	1	0	3	N/A	0	N/A	N/A	1	3	1	0	2	0:0	2	2	2	N/A	3	N/A	1	1	0:2	0:0				
+47	éolienne	éolienne	2	0	3	0	3	N/A	N/A	N/A	3	0	0	1	0	2	0:0	0	0	2	N/A	1	N/A	1	1	0:2	0:0				
+38	sécurité	sécurité	2	0	1	0	3	N/A	N/A	1	N/A	1	3	1	0	2	0:0	0	0	2	N/A	1	N/A	1	1	0:2	0:0				
+10	pale	pale	2	0	1	0	3	N/A	1	N/A	N/A	1	3	1	0	2	0:0	1	1	2	N/A	2	N/A	1	1	0:2	0:0				
+4	arrêt automatique	arrêt automatique	1	0	0	2	3.16992500144231	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.5	2	0.666666666666667	0.000115129154648748	1	0.5	0:1	0:0	5	6	5	
+21	Chute	chute	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+17	défaut	défaut	1	0	1	0	3	N/A	1	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.5	0:1	0:0				
+28	projection	projection	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.5	0:1	0:0				
+40	100	100	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+52	vent	vent	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+18	vibration	vibration	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+15	an	an	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+6	automatique	automatique	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+0	place	place	1	0	2	0	2	N/A	N/A	N/A	2	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+37	périmètre	périmètre	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.5	0:1	0:0				
+39	100 m	100 m	1	0	0	2	3.16992500144231	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.5	1	0.333333333333333	6.93134680530211e-06	1	0.5	0:1	0:0	31	40	31	
+23	accident à un impact	accident à un impact	1	0	0	4	4.64385618977472	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.25	0.5	0.4	0.000115129154648748	1	0.5	0:1	0:0	9	25	9	
+36	périmètre de sécurité	périmètre de sécurité	1	0	0	3.16992500144231	4	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	1	0.5	0.000115129154648748	1	0.5	0:1	0:0	37	38	37	
+46	long	long	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+5	arrêt	arrêt	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.5	0:1	0:0				
+33	assurance	assurance	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+48	présence	présence	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+8	apparition	apparition	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+12	inspection	inspection	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.5	0:1	0:0				
+26	foudre	foudre	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+30	20	20	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+13	installations	installation	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+7	suite	suite	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+19	m/s	m/s	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+53	techniciens	technicien	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+1	drapeau	drapeau	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+29	20 m	20 m	1	0	0	2	3.16992500144231	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.5	1	0.333333333333333	6.93134680530211e-06	1	0.5	0:1	0:0	31	30	31	
+14	12h14	12h14	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+51	vitesse	vitesse	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.5	0:1	0:0				
+3	arrêt automatique suite	arrêt automatique suite	1	0	0	3.16992500144231	4	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	2	0.5	0.000115129154648748	1	0.5	0:1	0:0	4	7	5	
+20	pales	pale	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+44	pale long	pale long	1	0	0	2	3.16992500144231	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.5	1	0.333333333333333	0.000115129154648748	1	0.5	0:1	0:0	10	46	10	
+32	minutes	minute	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+43	débris	débris	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.5	0:1	0:0				

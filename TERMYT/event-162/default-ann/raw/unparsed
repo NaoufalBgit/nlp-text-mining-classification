@@ -1,0 +1,190 @@
+if: propres moyens
+pos: ADJ NOM
+lf: propre moyen
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( propres<=M> moyens<=H> )
+islands: 0
+
+
+-----------------
+
+if: maintenance
+pos: NOM
+lf: maintenance
+is a term candidate: 1
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: faits.Un accident similaire
+pos: ADJ NOM ADJ
+lf: faits.Un accident similaire
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: opération de maintenance
+pos: NOM de NOM
+lf: opération de maintenance
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( opération<=H> de<=P> maintenance<=M> )
+islands: 0
+
+
+-----------------
+
+if: pompiers
+pos: NOM
+lf: pompier
+is a term candidate: 1
+
+-----------------
+
+if: ARIA
+pos: NOM
+lf: aria
+is a term candidate: 1
+
+-----------------
+
+if: éolienne de 100 m de hauteur
+pos: NOM de NUM NOM de NOM
+lf: éolienne de 100 m de hauteur
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: brûlures aux mains
+pos: NOM aux NOM
+lf: brûlure au main
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( brûlures<=H> aux<=P> mains<=M> )
+islands: 0
+
+
+-----------------
+
+if: nacelle
+pos: NOM
+lf: nacelle
+is a term candidate: 1
+
+-----------------
+
+if: visage
+pos: NOM
+lf: visage
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: risque
+pos: NOM
+lf: risque
+is a term candidate: 1
+
+-----------------
+
+if: sous-traitants
+pos: NOM
+lf: sous-traitant
+is a term candidate: 1
+
+-----------------
+
+if: employé
+pos: NOM
+lf: employé
+is a term candidate: 1
+
+-----------------
+
+if: maire
+pos: NOM
+lf: maire
+is a term candidate: 1
+
+-----------------
+
+if: EPI
+pos: NOM
+lf: EPI
+is a term candidate: 1
+
+-----------------
+
+if: Électrisation
+pos: NOM
+lf: électrisation
+is a term candidate: 1
+
+-----------------
+
+if: un
+pos: NOM
+lf: un
+is a term candidate: 1
+
+-----------------
+
+if: inspection du travail
+pos: NOM du NOM
+lf: inspection du travail
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( inspection<=H> du<=P> travail<=M> )
+islands: 0
+
+
+-----------------
+
+if: enquêtes
+pos: NOM
+lf: enquête
+is a term candidate: 1
+
+-----------------
+
+if: arc électrique
+pos: NOM ADJ
+lf: arc électrique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( arc<=H> électrique<=M> )
+islands: 0
+
+
+-----------------
+
+if: victimes
+pos: NOM
+lf: victime
+is a term candidate: 1
+
+-----------------
+

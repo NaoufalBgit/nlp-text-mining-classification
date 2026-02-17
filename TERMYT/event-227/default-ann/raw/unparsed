@@ -1,0 +1,100 @@
+if: permis
+pos: NOM
+lf: permis
+is a term candidate: 1
+
+-----------------
+
+if: nuit de vent fort
+pos: NOM de NOM ADJ
+lf: nuit de vent fort
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( nuit<=H> de<=P> ( vent<=H> fort<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: parc
+pos: NOM
+lf: parc
+is a term candidate: 1
+
+-----------------
+
+if: site
+pos: NOM
+lf: site
+is a term candidate: 1
+
+-----------------
+
+if: tribunal administratif de Rennes
+pos: NOM ADJ de NAM
+lf: tribunal administratif de Rennes
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: mat
+pos: NOM
+lf: mat
+is a term candidate: 1
+
+-----------------
+
+if: pale de l' une des 5 éoliennes
+pos: NOM de DET:ART NOM des NUM NOM
+lf: pale de le un du 5 éolienne
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: Chute de pale
+pos: NOM de NOM
+lf: chute de pale
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Chute<=H> de<=P> pale<=M> )
+islands: 0
+
+
+-----------------
+
+if: ARIA
+pos: NOM
+lf: aria
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: autres désordres similaires
+pos: ADJ NOM ADJ
+lf: autre désordre similaire
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: novembre
+pos: NOM
+lf: novembre
+is a term candidate: 1
+
+-----------------
+

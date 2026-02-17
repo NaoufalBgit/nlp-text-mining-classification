@@ -1,0 +1,151 @@
+# ID	Inflected form	Lemmatised form	Frequency	CValue	CValue1	CValuePlus	CValuePlus1	CValueStar	CValueStarH	CValueStarM	CValueStarR	CValueWCard	CValueWCardPlus	D	DDW	Freq	idf	ilnc	ilncFreq	iLong	IM	iTer	LLR	nbdoc4tc	NormFreq	tf	tf-idf	Head	Modifier	MainHead
+133	sol au pied de la machine.L'exploitant	sol au pied de le machine.L'exploitant	1	2.58496250072116	2.8073549220576	2.58496250072116	2.8073549220576	N/A	N/A	N/A	0.222392421336448	0	0	1	0	1	0:0	0	0	0.166666666666667	10	0.142857142857143	0.000115129154648748	1	0.1	0:1	0:0	134	137	36	
+162	contrôle visuel réalisé à la suite	contrôle visuel réaliser à le suite	1	2.58496250072116	2.8073549220576	2.58496250072116	2.8073549220576	2	N/A	N/A	0.222392421336448	0	0	1	0	1	0:0	0	0	0.166666666666667	10	0.142857142857143	0.000115129154648748	1	0.1	0:1	0:0	163	166	164	
+38	carbone fixant les longerons aux coques	carbone fixer le longeron au coque	1	2.58496250072116	2.8073549220576	2.58496250072116	2.8073549220576	1	N/A	N/A	0.222392421336448	0	0	1	0	1	0:0	0	0	0.166666666666667	3.33333333333333	0.142857142857143	1.38627436101989	1	0.1	0:1	0:0	39	20	40	
+11	m du centre du rotor	m du centre du rotor	1	2.32192809488736	2.58496250072116	2.32192809488736	2.58496250072116	N/A	N/A	N/A	0.263034405833794	0	0	1	0	1	0:0	0	0	0.2	10	0.166666666666667	0.000115129154648748	1	0.1	0:1	0:0	12	15	13	
+55	reste des machines du parc	reste du machine du parc	1	2.32192809488736	2.58496250072116	2.32192809488736	2.58496250072116	2	N/A	N/A	0.263034405833794	0	0	1	0	1	0:0	0	0	0.2	2.5	0.166666666666667	0	1	0.1	0:1	0:0	56	59	57	
+97	surveillance renforcée :inspection détaillée interne	surveillance renforcer :inspection détailler interne	1	2.32192809488736	2.58496250072116	2.32192809488736	2.58496250072116	2	N/A	N/A	0.263034405833794	0	0	1	0	1	0:0	0	0	0.2	10	0.166666666666667	0.000115129154648748	1	0.1	0:1	0:0	98	105	101	
+73	fonctionnement de l' éolienne	fonctionnement de le éolienne	1	2	2.32192809488736	2	2.32192809488736	2	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	1.66666666666667	0.2	1.90951250473444	1	0.1	0:1	0:0	74	7	74	
+109	attaque de la pale	attaque de le pale	1	2	2.32192809488736	2	2.32192809488736	2	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	0.909090909090909	0.2	0.512139172310554	1	0.1	0:1	0:0	110	23	110	
+138	base de la pale	base de le pale	1	2	2.32192809488736	2	2.32192809488736	1	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	0.454545454545455	0.2	0.0160030953527173	1	0.1	0:1	0:0	107	23	107	
+79	même site 2 mois	même site 2 mois|moi	1	2	2.32192809488736	2	2.32192809488736	1	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	5	0.2	0.000115129154648748	1	0.1	0:1	0:0	80	34	83	
+112	intérieur de la pale	intérieur de le pale	1	2	2.32192809488736	2	2.32192809488736	2	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	0.909090909090909	0.2	0.512139172310554	1	0.1	0:1	0:0	113	23	113	
+6	éolienne détectant un défaut	éolienne détecter un défaut	1	2	2.32192809488736	2	2.32192809488736	2	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	1.66666666666667	0.2	4.05454274736608e-06	1	0.1	0:1	0:0	7	8	7	
+19	coques formant la pale	coque former le pale	1	2	2.32192809488736	2	2.32192809488736	5	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	3.33333333333333	0.2	6.93134680530211e-06	1	0.1	0:1	0:0	20	21	20	
+49	fibre de verre.Les pales	fibre de verre.Les pale	1	2	2.32192809488736	2	2.32192809488736	1	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	5	0.2	6.93134680530211e-06	1	0.1	0:1	0:0	50	51	50	
+116	pale face au vent	pale face au vent	1	2	2.32192809488736	2	2.32192809488736	1	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	10	0.2	0.000115129154648748	1	0.1	0:1	0:0	117	120	23	
+178	inspection externe mensuelle	inspection externe mensuel	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	10	0.25	0.000115129154648748	1	0.1	0:1	0:0	179	182	180	
+63	ensemble du parc	ensemble du parc	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	2.5	0.25	0	1	0.1	0:1	0:0	64	59	64	
+186	arrêt à distance	arrêt à distance	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	2.5	0.25	6.93134680530211e-06	1	0.1	0:1	0:0	48	188	48	
+172	périmètre de sécurité	périmètre de sécurité	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	3.33333333333333	0.25	0.000115129154648748	1	0.1	0:1	0:0	173	130	173	
+157	pale impliquée.Les longerons	pale impliquée.Les longeron	1	1.58496250072116	2	1.58496250072116	2	2	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	2	0.25	0	1	0.1	0:1	0:0	158	43	23	
+169	bord de fuite.Il	bord de fuite.Il	1	1.58496250072116	2	1.58496250072116	2	2	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	3.33333333333333	0.25	6.93134680530211e-06	1	0.1	0:1	0:0	54	171	54	
+93	risque de cisaillement	risque de cisaillement	1	1.58496250072116	2	1.58496250072116	2	8	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	5	0.25	1.38627436101989	1	0.1	0:1	0:0	94	61	94	
+183	mode de défaillance	mode de défaillance	1	1.58496250072116	2	1.58496250072116	2	1	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	5	0.25	0.000115129154648748	1	0.1	0:1	0:0	184	2	184	
+106	base des longerons	base du longeron	1	1.58496250072116	2	1.58496250072116	2	1	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	1	0.25	1.11568775642105	1	0.1	0:1	0:0	107	43	107	
+142	fragments de fibre	fragment de fibre	1	1.58496250072116	2	1.58496250072116	2	2	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	5	0.25	1.38627436101989	1	0.1	0:1	0:0	143	50	143	
+70	arrêt du parc	arrêt du parc	1	1.58496250072116	2	1.58496250072116	2	2	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	0.625	0.25	0.863026217255342	1	0.1	0:1	0:0	48	59	48	
+60	cisaillement des longerons	cisaillement du longeron	1	1.58496250072116	2	1.58496250072116	2	1	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	1	0.25	1.11568775642105	1	0.1	0:1	0:0	61	43	61	
+24	cornières de renfort	cornière de renfort	1	1.58496250072116	2	1.58496250072116	2	1	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	10	0.25	0.000115129154648748	1	0.1	0:1	0:0	25	26	25	
+147	pales du site	pale du site	1	1.58496250072116	2	1.58496250072116	2	1	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	2.5	0.25	0.523238143714548	1	0.1	0:1	0:0	53	83	53	
+45	autre éolienne	autre éolienne	1	1	1.58496250072116	1	1.58496250072116	N/A	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	1.66666666666667	0.333333333333333	4.05454274736608e-06	1	0.1	0:1	0:0	7	46	7	
+66	structures verticales	structure vertical	1	1	1.58496250072116	1	1.58496250072116	2	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	10	0.333333333333333	0.000115129154648748	1	0.1	0:1	0:0	67	68	67	
+28	morceau principal	morceau principal	1	1	1.58496250072116	1	1.58496250072116	1	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	10	0.333333333333333	0.000115129154648748	1	0.1	0:1	0:0	29	30	29	
+3	charge progressive	charge progressif	1	1	1.58496250072116	1	1.58496250072116	1	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	3.33333333333333	0.333333333333333	4.05454274736608e-06	1	0.1	0:1	0:0	4	5	4	
+175	liaison coque/longeron	liaison coque/longeron	1	1	1.58496250072116	1	1.58496250072116	2	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	10	0.333333333333333	0.000115129154648748	1	0.1	0:1	0:0	176	177	176	
+76	même endroit	même endroit	1	1	1.58496250072116	1	1.58496250072116	2	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	3.33333333333333	0.333333333333333	0	1	0.1	0:1	0:0	78	77	78	
+31	expertise.Une pale	expertise.Une pale	1	1	1.58496250072116	1	1.58496250072116	2	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	0.909090909090909	0.333333333333333	1.33521303358846e-06	1	0.1	0:1	0:0	23	32	23	
+23	pale	pale	10	0	10	0	12	8	8	6	N/A	9	11	1	0	10	0:0	3	3	10	N/A	20	N/A	1	1	0:10	0:0				
+7	éolienne	éolienne	6	0	5	0	7	5	4	5	N/A	5	7	1	0	6	0:0	2	2	6	N/A	9	N/A	1	0.6	0:6	0:0				
+43	longerons	longeron	5	0	4	0	6	2	N/A	1	N/A	4	6	1	0	5	0:0	0	0	5	N/A	2.5	N/A	1	0.5	0:5	0:0				
+48	arrêt	arrêt	4	0	3	0	5	1	2	N/A	N/A	3	5	1	0	4	0:0	2	2	4	N/A	6	N/A	1	0.4	0:4	0:0				
+10	défaut	défaut	3	0	2	0	4	N/A	N/A	2	N/A	2	4	1	0	3	0:0	0	0	3	N/A	1.5	N/A	1	0.3	0:3	0:0				
+4	charge	charge	3	0	2	0	4	2	2	1	N/A	2	4	1	0	3	0:0	1	1	3	N/A	3	N/A	1	0.3	0:3	0:0				
+59	parc	parc	3	0	3	0	5	2	N/A	1	N/A	2	4	1	0	3	0:0	0	0	3	N/A	1.5	N/A	1	0.3	0:3	0:0				
+54	bord	bord	3	0	2	0	4	2	2	2	N/A	2	4	1	0	3	0:0	1	1	3	N/A	3	N/A	1	0.3	0:3	0:0				
+53	pales	pale	2	0	1	0	3	N/A	0	N/A	N/A	1	3	1	0	2	0:0	2	2	2	N/A	3	N/A	1	0.2	0:2	0:0				
+20	coques	coque	2	0	2	0	4	2	2	2	N/A	1	3	1	0	2	0:0	1	1	2	N/A	2	N/A	1	0.2	0:2	0:0				
+36	sol	sol	2	0	1	0	3	2	1	N/A	N/A	1	3	1	0	2	0:0	1	1	2	N/A	2	N/A	1	0.2	0:2	0:0				
+130	sécurité	sécurité	2	0	2	0	4	8	N/A	2	N/A	1	3	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.2	0:2	0:0				
+83	site	site	2	0	1	0	3	1	1	1	N/A	1	3	1	0	2	0:0	1	1	2	N/A	2	N/A	1	0.2	0:2	0:0				
+96	exploitant	exploitant	2	0	2	0	2	1	N/A	N/A	2	0	0	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.2	0:2	0:0				
+34	mois	mois|moi	2	0	1	0	3	1	N/A	1	N/A	1	3	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.2	0:2	0:0				
+2	défaillance	défaillance	2	0	1	0	3	1	N/A	1	N/A	1	3	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.2	0:2	0:0				
+69	place	place	2	0	2	0	2	2	N/A	N/A	2	0	0	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.2	0:2	0:0				
+61	cisaillement	cisaillement	2	0	1	0	3	1	1	1	N/A	1	3	1	0	2	0:0	1	1	2	N/A	2	N/A	1	0.2	0:2	0:0				
+101	surveillance	surveillance	2	0	1	0	3	2	0	N/A	N/A	1	3	1	0	2	0:0	2	2	2	N/A	3	N/A	1	0.2	0:2	0:0				
+50	fibre	fibre	2	0	1	0	3	1	1	1	N/A	1	3	1	0	2	0:0	1	1	2	N/A	2	N/A	1	0.2	0:2	0:0				
+107	base	base	2	0	1	0	3	1	0	N/A	N/A	1	3	1	0	2	0:0	2	2	2	N/A	3	N/A	1	0.2	0:2	0:0				
+77	même	même	2	0	2	0	4	1	N/A	1	N/A	1	3	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.2	0:2	0:0				
+164	contrôle	contrôle	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.1	0:1	0:0				
+15	rotor	rotor	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+78	endroit	endroit	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.1	0:1	0:0				
+153	dommages	dommage	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.1	0:1	0:0				
+177	coque/longeron	coque/longeron	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+37	semelles	semelle	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+158	pale impliquée.Les	pale impliquée.Les	1	0	0	2	3.16992500144231	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.5	0.909090909090909	0.666666666666667	1.33521303358846e-06	1	0.1	0:1	0:0	23	160	23	
+57	reste	reste	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.1	0:1	0:0				
+176	liaison	liaison	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.1	0:1	0:0				
+180	inspection	inspection	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.1	0:1	0:0				
+21	formant la pale	former le pale	1	0	0	3.16992500144231	4	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.333333333333333	0.909090909090909	0.25	0.512139172310554	1	0.1	0:1	0:0	22	23	22	
+110	attaque	attaque	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.1	0:1	0:0				
+121	éoliennes	éolienne	1	0	2	0	2	N/A	N/A	N/A	2	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+151	dommages au niveau du bord	dommage au niveau du bord	1	0	0	4.64385618977472	5.16992500144231	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.2	3.33333333333333	0.333333333333333	1.38627436101989	1	0.1	0:1	0:0	152	54	153	
+163	contrôle visuel	contrôle visuel	1	0	0	2	3.16992500144231	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.5	10	0.666666666666667	0.000115129154648748	1	0.1	0:1	0:0	164	165	164	
+146	Rupture	rupture	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+80	même site 2	même site 2	1	0	0	3.16992500144231	4	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	5	0.5	0.000115129154648748	1	0.1	0:1	0:0	81	84	83	
+16	partie	partie	1	0	1	0	1	2	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+0	moment	moment	1	0	1	0	1	2	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+171	fuite.Il	fuite.Il	1	0	0	0	2	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+103	:inspection	:inspection	1	0	0	0	2	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+5	progressive	progressif	1	0	0	0	2	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+32	expertise.Une	expertise.Une	1	0	0	0	2	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+113	intérieur	intérieur	1	0	0	0	2	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.1	0:1	0:0				
+134	sol au pied	sol au pied	1	0	0	3.16992500144231	4	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	5	0.5	0.000115129154648748	1	0.1	0:1	0:0	36	136	36	
+143	fragments	fragment	1	0	0	0	2	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.1	0:1	0:0				
+122	cas	cas	1	0	2	0	2	2	N/A	N/A	2	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+26	renfort	renfort	1	0	0	0	2	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+173	périmètre	périmètre	1	0	0	0	2	8	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.1	0:1	0:0				
+98	surveillance renforcée :inspection détaillée	surveillance renforcer :inspection détailler	1	0	0	4	4.64385618977472	8	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.25	10	0.4	0.000115129154648748	1	0.1	0:1	0:0	99	104	101	
+92	flexion	flexion	1	0	0	0	2	8	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+8	détectant un défaut	détecter un défaut	1	0	0	3.16992500144231	4	8	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.333333333333333	3.33333333333333	0.25	0.000115129154648748	1	0.1	0:1	0:0	9	10	9	
+67	structures	structure	1	0	0	0	2	8	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.1	0:1	0:0				
+18	surcharge	surcharge	1	0	1	0	1	8	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+152	dommages au niveau	dommage au niveau	1	0	0	3.16992500144231	4	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	5	0.5	0.000115129154648748	1	0.1	0:1	0:0	153	154	153	
+29	morceau	morceau	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.1	0:1	0:0				
+136	pied	pied	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+87	installation de capteurs de charge	installation de capteur de charge	1	0	0	4.64385618977472	5.16992500144231	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.2	3.33333333333333	0.333333333333333	0.523238143714547	1	0.1	0:1	0:0	88	4	89	
+51	verre.Les pales	verre.Les pale	1	0	0	2	3.16992500144231	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.5	5	0.333333333333333	6.93134680530211e-06	1	0.1	0:1	0:0	53	52	53	
+9	détectant	détecter	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.1	0:1	0:0				
+119	face	face	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+99	surveillance renforcée :inspection	surveillance renforcer :inspection	1	0	0	3.16992500144231	4	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	10	0.5	0.000115129154648748	1	0.1	0:1	0:0	100	103	101	
+1	propagation	propagation	1	0	1	0	1	1	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+184	mode	mode	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.1	0:1	0:0				
+12	m du centre	m du centre	1	0	0	3.16992500144231	4	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	10	0.5	0.000115129154648748	1	0.1	0:1	0:0	13	14	13	
+74	fonctionnement	fonctionnement	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.1	0:1	0:0				
+90	capteurs	capteur	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+165	visuel	visuel	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+25	cornières	cornière	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.1	0:1	0:0				
+115	dimensions	dimension	1	0	1	0	1	1	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+105	interne	interne	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+40	carbone	carbone	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.1	0:1	0:0				
+160	impliquée.Les	impliquée.Les	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+179	inspection externe	inspection externe	1	0	0	2	3.16992500144231	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.5	5	0.666666666666667	0.000115129154648748	1	0.1	0:1	0:0	180	181	180	
+88	installation de capteurs	installation de capteur	1	0	0	3.16992500144231	4	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	10	0.5	0.000115129154648748	1	0.1	0:1	0:0	89	90	89	
+137	machine.L'exploitant	machine.L'exploitant	1	0	0	0	2	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+94	risque	risque	1	0	0	0	2	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.1	0:1	0:0				
+124	surveillance de la charge	surveillance de le charge	1	0	0	4	4.64385618977472	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.25	1.66666666666667	0.4	0	1	0.1	0:1	0:0	101	4	101	
+30	principal	principal	1	0	0	0	2	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+13	m	m	1	0	0	0	2	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.1	0:1	0:0				
+27	événements	événement	1	0	1	0	1	2	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+100	surveillance renforcée	surveillance renforcer	1	0	0	2	3.16992500144231	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.5	5	0.666666666666667	6.93134680530211e-06	1	0.1	0:1	0:0	101	102	101	
+35	constructeur	constructeur	1	0	1	0	1	2	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+132	ARIA	aria	1	0	1	0	1	2	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+42	fixant	fixer	1	0	0	0	2	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.1	0:1	0:0				
+167	réalisé	réaliser	1	0	0	0	2	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.1	0:1	0:0				
+128	origine	origine	1	0	1	0	1	2	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+39	carbone fixant les longerons	carbone fixer le longeron	1	0	0	4	4.64385618977472	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.25	10	0.4	0.000115129154648748	1	0.1	0:1	0:0	40	41	40	
+46	autre	autre	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+56	reste des machines	reste du machine	1	0	0	3.16992500144231	4	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	10	0.5	0.000115129154648748	1	0.1	0:1	0:0	57	58	57	
+166	réalisé à la suite	réaliser à le suite	1	0	0	4	4.64385618977472	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.25	10	0.2	0.000115129154648748	1	0.1	0:1	0:0	167	168	167	
+58	machines	machine	1	0	0	0	2	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+117	pale face	pale face	1	0	0	2	3.16992500144231	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.5	0.909090909090909	0.666666666666667	1.33521303358846e-06	1	0.1	0:1	0:0	23	119	23	
+156	fuite	fuite	1	0	0	0	2	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+182	mensuelle	mensuel	1	0	0	0	2	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+89	installation	installation	1	0	0	0	2	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.1	0:1	0:0				
+154	niveau	niveau	1	0	1	0	3	2	N/A	1	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+41	fixant les longerons	fixer le longeron	1	0	0	3.16992500144231	4	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.333333333333333	2	0.25	0	1	0.1	0:1	0:0	42	43	42	
+181	externe	externe	1	0	1	0	3	2	N/A	1	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+102	renforcée	renforcer	1	0	0	0	2	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+64	ensemble	ensemble	1	0	0	0	2	5	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.1	0:1	0:0				
+14	centre	centre	1	0	0	0	2	5	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+81	même site	même site	1	0	0	2	3.16992500144231	5	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.5	1.66666666666667	0.666666666666667	0.523238143714547	1	0.1	0:1	0:0	83	77	83	
+120	vent	vent	1	0	0	0	2	5	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+104	détaillée	détailler	1	0	0	0	2	5	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+188	distance	distance	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+168	suite	suite	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+68	verticales	vertical	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+131	événement	événement	1	0	1	0	1	1	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+22	formant	former	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.1	0:1	0:0				
+52	verre.Les	verre.Les	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+84	2	2	1	0	1	0	3	1	N/A	1	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				

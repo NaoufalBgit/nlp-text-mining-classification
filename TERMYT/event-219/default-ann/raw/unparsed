@@ -1,0 +1,153 @@
+if: escalier extérieur
+pos: NOM ADJ
+lf: escalier extérieur
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( escalier<=H> extérieur<=M> )
+islands: 0
+
+
+-----------------
+
+if: maintenance
+pos: NOM
+lf: maintenance
+is a term candidate: 1
+
+-----------------
+
+if: enquête
+pos: NOM
+lf: enquête
+is a term candidate: 1
+
+-----------------
+
+if: raison des conditions météorologiques
+pos: NOM des NOM ADJ
+lf: raison du condition météorologique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( raison<=H> des<=P> ( conditions<=H> météorologiques<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: ambulance
+pos: NOM
+lf: ambulance
+is a term candidate: 1
+
+-----------------
+
+if: compteurs
+pos: NOM
+lf: compteur
+is a term candidate: 1
+
+-----------------
+
+if: techniciens
+pos: NOM
+lf: technicien
+is a term candidate: 1
+
+-----------------
+
+if: conditions de l' accident
+pos: NOM de DET:ART NOM
+lf: condition de le accident
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( conditions<=H> de<=P> l'<=D> accident<=M> )
+islands: 0
+
+
+-----------------
+
+if: hélicoptère des secours
+pos: NOM des NOM
+lf: hélicoptère du secours
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( hélicoptère<=H> des<=P> secours<=M> )
+islands: 0
+
+
+-----------------
+
+if: hôpital
+pos: NOM
+lf: hôpital
+is a term candidate: 1
+
+-----------------
+
+if: Accident de travail
+pos: NOM de NOM
+lf: accident de travail
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Accident<=H> de<=P> travail<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: gendarmerie
+pos: NOM
+lf: gendarmerie
+is a term candidate: 1
+
+-----------------
+
+if: maintenance de compteurs électriques implantés au 1er niveau
+pos: NOM de NOM ADJ VER:pper au NUM NOM
+lf: maintenance de compteur électrique implanter au 1er niveau
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: degré
+pos: NOM
+lf: degré
+is a term candidate: 1
+
+-----------------
+
+if: harnais
+pos: NOM
+lf: harnais
+is a term candidate: 1
+
+-----------------
+
+if: employés
+pos: NOM
+lf: employé
+is a term candidate: 1
+
+-----------------
+
+if: corps
+pos: NOM
+lf: corps
+is a term candidate: 1
+
+-----------------
+

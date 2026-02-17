@@ -1,0 +1,268 @@
+if: feu
+pos: NOM
+lf: feu
+is a term candidate: 1
+
+-----------------
+
+if: épisode météorologique
+pos: NOM ADJ
+lf: épisode météorologique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( épisode<=H> météorologique<=M> )
+islands: 0
+
+
+-----------------
+
+if: tempête
+pos: NOM
+lf: tempête
+is a term candidate: 1
+
+-----------------
+
+if: parc
+pos: NOM
+lf: parc
+is a term candidate: 1
+
+-----------------
+
+if: arrêt.L'opérateur de distribution électrique
+pos: NOM de NOM ADJ
+lf: arrêt.L'opérateur de distribution électrique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( arrêt.L'opérateur<=H> de<=P> ( distribution<=H> électrique<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: Feu
+pos: NOM
+lf: feu
+is a term candidate: 1
+
+-----------------
+
+if: débris
+pos: NOM
+lf: débris
+is a term candidate: 1
+
+-----------------
+
+if: majorité des parcs éoliens
+pos: NOM des NOM ADJ
+lf: majorité du parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( majorité<=H> des<=P> ( parcs<=H> éoliens<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: route
+pos: NOM
+lf: route
+is a term candidate: 1
+
+-----------------
+
+if: Ecosse
+pos: NAM
+lf: Ecosse
+is a term candidate: 1
+
+-----------------
+
+if: rafales de vent
+pos: NOM de NOM
+lf: rafale de vent
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( rafales<=H> de<=P> vent<=M> )
+islands: 0
+
+
+-----------------
+
+if: évacuation
+pos: NOM
+lf: évacuation
+is a term candidate: 1
+
+-----------------
+
+if: éoliennes
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: arrêt suite à l' avis de tempête
+pos: NOM NOM à DET:ART NOM de NOM
+lf: arrêt suite à le avis de tempête
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: alentours
+pos: NOM
+lf: alentour
+is a term candidate: 1
+
+-----------------
+
+if: éolienne haute
+pos: NOM ADJ
+lf: éolienne haut
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( éolienne<=H> haute<=M> )
+islands: 0
+
+
+-----------------
+
+if: Coldingham
+pos: NAM
+lf: Coldingham
+is a term candidate: 1
+
+-----------------
+
+if: même jour
+pos: ADJ NOM
+lf: même jour
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( même<=M> jour<=H> )
+islands: 0
+
+
+-----------------
+
+if: ensemble de la nacelle
+pos: NOM de DET:ART NOM
+lf: ensemble de le nacelle
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( ensemble<=H> de<=P> la<=D> nacelle<=M> )
+islands: 0
+
+
+-----------------
+
+if: puissance générée à l' heure du déjeuner
+pos: NOM VER:pper à DET:ART NOM du NOM
+lf: puissance générer à le heure du déjeuner
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: MW
+pos: NOM
+lf: MW
+is a term candidate: 1
+
+-----------------
+
+if: incendie
+pos: NOM
+lf: incendie
+is a term candidate: 1
+
+-----------------
+
+if: consommation instantanée
+pos: NOM ADJ
+lf: consommation instantané
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( consommation<=H> instantanée<=M> )
+islands: 0
+
+
+-----------------
+
+if: million de foyers
+pos: NOM de NOM
+lf: million de foyer
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( million<=H> de<=P> foyers<=M> )
+islands: 0
+
+
+-----------------
+
+if: valeur de 2 millions de livres
+pos: NOM de NUM NOM de NOM
+lf: valeur de 2 million de livre
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: fermeture
+pos: NOM
+lf: fermeture
+is a term candidate: 1
+
+-----------------
+
+if: flammes
+pos: NOM
+lf: flamme
+is a term candidate: 1
+
+-----------------
+
+if: mât
+pos: NOM
+lf: mât
+is a term candidate: 1
+
+-----------------
+
+if: prévision
+pos: NOM
+lf: prévision
+is a term candidate: 1
+
+-----------------
+
+if: m
+pos: NOM
+lf: m
+is a term candidate: 1
+
+-----------------
+

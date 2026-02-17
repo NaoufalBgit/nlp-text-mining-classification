@@ -1,0 +1,31 @@
+# ID	Inflected form	Lemmatised form	Frequency	CValue	CValue1	CValuePlus	CValuePlus1	CValueStar	CValueStarH	CValueStarM	CValueStarR	CValueWCard	CValueWCardPlus	D	DDW	Freq	idf	ilnc	ilncFreq	iLong	IM	iTer	LLR	nbdoc4tc	NormFreq	tf	tf-idf	Head	Modifier	MainHead
+19	nuit de vent fort	nuit de vent fort	1	2	2.32192809488736	2	2.32192809488736	N/A	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	2	0.2	0.000115129154648748	1	0.5	0:1	0:0	20	21	20	
+2	tribunal administratif de Rennes	tribunal administratif de Rennes	1	2	2.32192809488736	2	2.32192809488736	N/A	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	2	0.2	0.000115129154648748	1	0.5	0:1	0:0	3	6	4	
+7	Chute de pale	chute de pale	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	1	0.25	1.38627436101989	1	0.5	0:1	0:0	8	9	8	
+14	autres désordres similaires	autre désordre similaire	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	2	0.25	0.000115129154648748	1	0.5	0:1	0:0	15	18	17	
+9	pale	pale	2	0	1	0	3	1	1	1	N/A	1	3	1	0	2	0:0	1	1	2	N/A	2	N/A	1	1	0:2	0:0				
+22	vent	vent	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.5	0:1	0:0				
+0	permis	permis	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+24	site	site	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+12	éolienne	éolienne	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+18	similaires	similaire	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+3	tribunal administratif	tribunal administratif	1	0	0	2	3.16992500144231	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.5	2	0.666666666666667	0.000115129154648748	1	0.5	0:1	0:0	4	5	4	
+23	fort	fort	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+28	une	un	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+5	administratif	administratif	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+17	désordres	désordre	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.5	0:1	0:0				
+11	parc	parc	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+8	Chute	chute	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.5	0:1	0:0				
+1	novembre	novembre	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+21	vent fort	vent fort	1	0	0	2	3.16992500144231	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.5	2	0.333333333333333	0.000115129154648748	1	0.5	0:1	0:0	22	23	22	
+10	ARIA	aria	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+16	autres	autre	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+6	Rennes	Rennes	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+26	pale de l' une	pale de le un	1	0	0	4	4.64385618977472	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.25	1	0.4	6.93134680530211e-06	1	0.5	0:1	0:0	9	28	9	
+29	5 éoliennes	5 éolienne	1	0	0	2	3.16992500144231	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.5	2	0.333333333333333	0.000115129154648748	1	0.5	0:1	0:0	31	30	31	
+13	mat	mat	1	0	1	0	1	1	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+20	nuit	nuit	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.5	0:1	0:0				
+30	5	5	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+31	éoliennes	éolienne	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.5	0:1	0:0				
+15	autres désordres	autre désordre	1	0	0	2	3.16992500144231	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.5	2	0.666666666666667	0.000115129154648748	1	0.5	0:1	0:0	17	16	17	
+4	tribunal	tribunal	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.5	0:1	0:0				

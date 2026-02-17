@@ -1,0 +1,365 @@
+if: arrivée
+pos: NOM
+lf: arrivée
+is a term candidate: 1
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: incident
+pos: NOM
+lf: incident
+is a term candidate: 1
+
+-----------------
+
+if: systèmes de détection avifaune
+pos: NOM de NOM NOM
+lf: système de détection avifaune
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: intérieur du poste
+pos: NOM du NOM
+lf: intérieur du poste
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( intérieur<=H> du<=P> poste<=M> )
+islands: 0
+
+
+-----------------
+
+if: vol de matériel
+pos: NOM de ADJ
+lf: vol de matériel
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: plainte à la gendarmerie
+pos: NOM à DET:ART NOM
+lf: plainte à le gendarmerie
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( plainte<=H> à<=P> la<=D> gendarmerie<=M> )
+islands: 0
+
+
+-----------------
+
+if: pertes
+pos: NOM
+lf: perte
+is a term candidate: 1
+
+-----------------
+
+if: mois
+pos: NOM
+lf: mois|moi
+is a term candidate: 1
+
+-----------------
+
+if: partie
+pos: NOM
+lf: partie
+is a term candidate: 1
+
+-----------------
+
+if: dommages matériels
+pos: NOM ADJ
+lf: dommage matériel
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( dommages<=H> matériels<=M> )
+islands: 0
+
+
+-----------------
+
+if: jours
+pos: NOM
+lf: jour
+is a term candidate: 1
+
+-----------------
+
+if: exploitant
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+
+if: poste de livraison
+pos: NOM de NOM
+lf: poste de livraison
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( poste<=H> de<=P> livraison<=M> )
+islands: 0
+
+
+-----------------
+
+if: supervision à distance
+pos: NOM à NOM
+lf: supervision à distance
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( supervision<=H> à<=P> distance<=M> )
+islands: 0
+
+
+-----------------
+
+if: Intrusion
+pos: NOM
+lf: intrusion
+is a term candidate: 1
+
+-----------------
+
+if: parc
+pos: NOM
+lf: parc
+is a term candidate: 1
+
+-----------------
+
+if: accès au local du poste de livraison abritant le système de communication à distance
+pos: NOM au NOM du NOM de NOM VER:ppre DET:ART NOM de NOM à NOM
+lf: accès au local du poste de livraison abriter le système de communication à distance
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: équipe
+pos: NOM
+lf: équipe
+is a term candidate: 1
+
+-----------------
+
+if: minutes
+pos: NOM
+lf: minute
+is a term candidate: 1
+
+-----------------
+
+if: communication
+pos: NOM
+lf: communication
+is a term candidate: 1
+
+-----------------
+
+if: acte de malveillance.L'exploitant
+pos: NOM de NOM
+lf: acte de malveillance.L'exploitant
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( acte<=H> de<=P> malveillance.L'exploitant<=M> )
+islands: 0
+
+
+-----------------
+
+if: matériel informatique
+pos: ADJ NOM
+lf: matériel informatique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( matériel<=M> informatique<=H> )
+islands: 0
+
+
+-----------------
+
+if: astreinte permanente
+pos: NOM ADJ
+lf: astreinte permanent
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( astreinte<=H> permanente<=M> )
+islands: 0
+
+
+-----------------
+
+if: caméras à déclenchement automatique
+pos: NOM à NOM ADJ
+lf: caméra à déclenchement automatique
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: arrêt
+pos: NOM
+lf: arrêt
+is a term candidate: 1
+
+-----------------
+
+if: techniciens
+pos: NOM
+lf: technicien
+is a term candidate: 1
+
+-----------------
+
+if: place des caméras de vidéosurveillance
+pos: NOM des NOM de NOM
+lf: place du caméra de vidéosurveillance
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: éoliennes
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: éoliennes à l' arrêt
+pos: NOM à DET:ART NOM
+lf: éolienne à le arrêt
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( éoliennes<=H> à<=P> l'<=D> arrêt<=M> )
+islands: 0
+
+
+-----------------
+
+if: équipements de communication
+pos: NOM de NOM
+lf: équipement de communication
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( équipements<=H> de<=P> communication<=M> )
+islands: 0
+
+
+-----------------
+
+if: alerte intrusion
+pos: ADJ NOM
+lf: alerte intrusion
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( alerte<=M> intrusion<=H> )
+islands: 0
+
+
+-----------------
+
+if: maintenance annuelle
+pos: NOM ADJ
+lf: maintenance annuel
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( maintenance<=H> annuelle<=M> )
+islands: 0
+
+
+-----------------
+
+if: temps de réparation
+pos: NOM de NOM
+lf: temps de réparation
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( temps<=H> de<=P> réparation<=M> )
+islands: 0
+
+
+-----------------
+
+if: 20h30
+pos: NAM
+lf: 20h30
+is a term candidate: 1
+
+-----------------
+
+if: exploitation.L'origine de l' événement
+pos: NOM de DET:ART NOM
+lf: exploitation.L'origine de le événement
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( exploitation.L'origine<=H> de<=P> l'<=D> événement<=M> )
+islands: 0
+
+
+-----------------
+
+if: solution de remplacement
+pos: NOM de NOM
+lf: solution de remplacement
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( solution<=H> de<=P> remplacement<=M> )
+islands: 0
+
+
+-----------------
+
+if: approvisionnement du matériel.Une partie des serveurs informatiques
+pos: NOM du ADJ NOM des NOM ADJ
+lf: approvisionnement du matériel.Une partie du serveur informatique
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+

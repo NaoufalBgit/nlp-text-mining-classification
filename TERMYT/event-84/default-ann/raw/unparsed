@@ -1,0 +1,281 @@
+if: taches
+pos: NOM
+lf: tache
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: pénétration
+pos: NOM
+lf: pénétration
+is a term candidate: 1
+
+-----------------
+
+if: absorption
+pos: NOM
+lf: absorption
+is a term candidate: 1
+
+-----------------
+
+if: chiffons absorbants
+pos: NOM ADJ
+lf: chiffon absorbant
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( chiffons<=H> absorbants<=M> )
+islands: 0
+
+
+-----------------
+
+if: huiles présentes
+pos: NOM ADJ
+lf: huile présent
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( huiles<=H> présentes<=M> )
+islands: 0
+
+
+-----------------
+
+if: boudins
+pos: NOM
+lf: boudin
+is a term candidate: 1
+
+-----------------
+
+if: utilisation des boudins
+pos: NOM des NOM
+lf: utilisation du boudin
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( utilisation<=H> des<=P> boudins<=M> )
+islands: 0
+
+
+-----------------
+
+if: Fuite
+pos: NOM
+lf: fuite
+is a term candidate: 1
+
+-----------------
+
+if: gestion des emballages
+pos: NOM des NOM
+lf: gestion du emballage
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( gestion<=H> des<=P> emballages<=M> )
+islands: 0
+
+
+-----------------
+
+if: fond de nacelle
+pos: NOM de NOM
+lf: fond de nacelle
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( fond<=H> de<=P> nacelle<=M> )
+islands: 0
+
+
+-----------------
+
+if: huile
+pos: NOM
+lf: huile
+is a term candidate: 1
+
+-----------------
+
+if: kit antifuite
+pos: NOM ADJ
+lf: kit antifuite
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( kit<=H> antifuite<=M> )
+islands: 0
+
+
+-----------------
+
+if: fuite
+pos: NOM
+lf: fuite
+is a term candidate: 1
+
+-----------------
+
+if: fond de la nacelle
+pos: NOM de DET:ART NOM
+lf: fond de le nacelle
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( fond<=H> de<=P> la<=D> nacelle<=M> )
+islands: 0
+
+
+-----------------
+
+if: derniers
+pos: NOM
+lf: dernier
+is a term candidate: 1
+
+-----------------
+
+if: extérieur du mât
+pos: NOM du NOM
+lf: extérieur du mât
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( extérieur<=H> du<=P> mât<=M> )
+islands: 0
+
+
+-----------------
+
+if: toit de la nacelle
+pos: NOM de DET:ART NOM
+lf: toit de le nacelle
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( toit<=H> de<=P> la<=D> nacelle<=M> )
+islands: 0
+
+
+-----------------
+
+if: eau
+pos: NOM
+lf: eau
+is a term candidate: 1
+
+-----------------
+
+if: sol
+pos: NOM
+lf: sol
+is a term candidate: 1
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: mât de l' éolienne
+pos: NOM de DET:ART NOM
+lf: mât de le éolienne
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( mât<=H> de<=P> l'<=D> éolienne<=M> )
+islands: 0
+
+
+-----------------
+
+if: niveau du raccordement du système de refroidissement
+pos: NOM du NOM du NOM de NOM
+lf: niveau du raccordement du système de refroidissement
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: feuilles absorbantes
+pos: NOM ADJ
+lf: feuille absorbant
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( feuilles<=H> absorbantes<=M> )
+islands: 0
+
+
+-----------------
+
+if: matériaux souillés.L'origine de l' événement
+pos: NOM NOM de DET:ART NOM
+lf: matériaux|matériau souillés.L'origine de le événement
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: infiltration
+pos: NOM
+lf: infiltration
+is a term candidate: 1
+
+-----------------
+
+if: autres éoliennes
+pos: ADJ NOM
+lf: autre éolienne
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( autres<=M> éoliennes<=H> )
+islands: 0
+
+
+-----------------
+
+if: extérieur du mât.L'origine de l' infiltration
+pos: NOM du NOM de DET:ART NOM
+lf: extérieur du mât.L'origine de le infiltration
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: raccordement
+pos: NOM
+lf: raccordement
+is a term candidate: 1
+
+-----------------
+

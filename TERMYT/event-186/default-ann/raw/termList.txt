@@ -1,0 +1,26 @@
+# ID	Inflected form	Lemmatised form	Frequency	CValue	CValue1	CValuePlus	CValuePlus1	CValueStar	CValueStarH	CValueStarM	CValueStarR	CValueWCard	CValueWCardPlus	D	DDW	Freq	idf	ilnc	ilncFreq	iLong	IM	iTer	LLR	nbdoc4tc	NormFreq	tf	tf-idf	Head	Modifier	MainHead
+9	morceau de 20 m	morceau de 20 m	1	2	2.32192809488736	2	2.32192809488736	N/A	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	2	0.2	0.000115129154648748	1	0.5	0:1	0:0	10	11	10	
+0	place 24 h/24	place 24 h/24	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	2	0.25	0.000115129154648748	1	0.5	0:1	0:0	1	4	2	
+5	épisode venteux	épisode venteux	1	1	1.58496250072116	1	1.58496250072116	N/A	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	2	0.333333333333333	0.000115129154648748	1	0.5	0:1	0:0	6	7	6	
+18	parc éolien	parc éolien	1	1	1.58496250072116	1	1.58496250072116	N/A	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	2	0.333333333333333	0.000115129154648748	1	0.5	0:1	0:0	19	20	19	
+22	pale	pale	2	0	2	0	2	N/A	N/A	N/A	2	0	0	1	0	2	0:0	0	0	2	N/A	1	N/A	1	1	0:2	0:0				
+23	morceaux	morceau	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+16	Chute	chute	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+1	place 24	place 24	1	0	0	2	3.16992500144231	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.5	2	0.666666666666667	0.000115129154648748	1	0.5	0:1	0:0	2	3	2	
+11	20 m	20 m	1	0	0	2	3.16992500144231	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.5	2	0.333333333333333	0.000115129154648748	1	0.5	0:1	0:0	13	12	13	
+2	place	place	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.5	0:1	0:0				
+8	exploitant	exploitant	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+21	zone	zone	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+17	sol	sol	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+13	m	m	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.5	0:1	0:0				
+14	éolienne	éolienne	1	0	2	0	2	N/A	N/A	N/A	2	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+20	éolien	éolien	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+10	morceau	morceau	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.5	0:1	0:0				
+7	venteux	venteux	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+4	h/24	h/24	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+3	24	24	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+19	parc	parc	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.5	0:1	0:0				
+24	gardiennage	gardiennage	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+15	extrémité	extrémité	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+12	20	20	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+6	épisode	épisode	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.5	0:1	0:0				

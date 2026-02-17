@@ -1,0 +1,237 @@
+if: feu
+pos: NOM
+lf: feu
+is a term candidate: 1
+
+-----------------
+
+if: exploitant
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+
+if: Incendies criminels
+pos: NOM ADJ
+lf: incendie criminel
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Incendies<=H> criminels<=M> )
+islands: 0
+
+
+-----------------
+
+if: dégâts à 2 M
+pos: NOM à NUM NOM
+lf: dégât à 2 M
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: pompiers
+pos: NOM
+lf: pompier
+is a term candidate: 1
+
+-----------------
+
+if: parc composé de 8 aérogénérateurs
+pos: NOM VER:pper de NUM NOM
+lf: parc composer de 8 aérogénérateur
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: barrières
+pos: NOM
+lf: barrière
+is a term candidate: 1
+
+-----------------
+
+if: lances
+pos: NOM
+lf: lance
+is a term candidate: 1
+
+-----------------
+
+if: pied
+pos: NOM
+lf: pied
+is a term candidate: 1
+
+-----------------
+
+if: morceaux incandescents
+pos: NOM ADJ
+lf: morceau incandescent
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( morceaux<=H> incandescents<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: incendie
+pos: NOM
+lf: incendie
+is a term candidate: 1
+
+-----------------
+
+if: origine de l' événement
+pos: NOM de DET:ART NOM
+lf: origine de le événement
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( origine<=H> de<=P> l'<=D> événement<=M> )
+islands: 0
+
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: portes
+pos: NOM
+lf: porte
+is a term candidate: 1
+
+-----------------
+
+if: départ de feu
+pos: NOM de NOM
+lf: départ de feu
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( départ<=H> de<=P> feu<=M> )
+islands: 0
+
+
+-----------------
+
+if: prévention de l' extension du sinistre à la végétation
+pos: NOM de DET:ART NOM du NOM à DET:ART NOM
+lf: prévention de le extension du sinistre à le végétation
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: combustible
+pos: NOM
+lf: combustible
+is a term candidate: 1
+
+-----------------
+
+if: 2h30
+pos: NAM
+lf: 2h30
+is a term candidate: 1
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: accès aux éoliennes
+pos: NOM aux NOM
+lf: accès au éolienne
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( accès<=H> aux<=P> éoliennes<=M> )
+islands: 0
+
+
+-----------------
+
+if: gendarmerie
+pos: NOM
+lf: gendarmerie
+is a term candidate: 1
+
+-----------------
+
+if: sol
+pos: NOM
+lf: sol
+is a term candidate: 1
+
+-----------------
+
+if: base des pales
+pos: NOM des NOM
+lf: base du pale
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( base<=H> des<=P> pales<=M> )
+islands: 0
+
+
+-----------------
+
+if: gardiennage
+pos: NOM
+lf: gardiennage
+is a term candidate: 1
+
+-----------------
+
+if: base
+pos: NOM
+lf: base
+is a term candidate: 1
+
+-----------------
+
+if: nacelle
+pos: NOM
+lf: nacelle
+is a term candidate: 1
+
+-----------------
+
+if: objet
+pos: NOM
+lf: objet
+is a term candidate: 1
+
+-----------------
+

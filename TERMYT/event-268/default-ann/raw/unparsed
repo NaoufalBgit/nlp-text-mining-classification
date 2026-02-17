@@ -1,0 +1,145 @@
+if: accès
+pos: NOM
+lf: accès
+is a term candidate: 1
+
+-----------------
+
+if: Chute
+pos: NOM
+lf: chute
+is a term candidate: 1
+
+-----------------
+
+if: pale
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: installation
+pos: NOM
+lf: installation
+is a term candidate: 1
+
+-----------------
+
+if: éolienne La pale
+pos: ADJ DET:ART NOM
+lf: éolien le pale
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: autres éoliennes du parc
+pos: ADJ NOM du NOM
+lf: autre éolienne du parc
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: rafales de vent
+pos: NOM de NOM
+lf: rafale de vent
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( rafales<=H> de<=P> vent<=M> )
+islands: 0
+
+
+-----------------
+
+if: rotation de la nacelle
+pos: NOM de DET:ART NOM
+lf: rotation de le nacelle
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( rotation<=H> de<=P> la<=D> nacelle<=M> )
+islands: 0
+
+
+-----------------
+
+if: orage
+pos: NOM
+lf: orage
+is a term candidate: 1
+
+-----------------
+
+if: élément principal chute au pied de l' éolienne
+pos: NOM ADJ NOM au NOM de DET:ART NOM
+lf: élément principal chute au pied de le éolienne
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: ferment
+pos: NOM
+lf: ferment
+is a term candidate: 1
+
+-----------------
+
+if: périmètre de sécurité
+pos: NOM de NOM
+lf: périmètre de sécurité
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( périmètre<=H> de<=P> sécurité<=M> )
+islands: 0
+
+
+-----------------
+
+if: exploitant
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+
+if: débris
+pos: NOM
+lf: débris
+is a term candidate: 1
+
+-----------------
+
+if: 15h10
+pos: NAM
+lf: 15h10
+is a term candidate: 1
+
+-----------------
+
+if: éolienne chute
+pos: ADJ NOM
+lf: éolien chute
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( éolienne<=M> chute<=H> )
+islands: 0
+
+
+-----------------
+
+if: secours
+pos: NOM
+lf: secours
+is a term candidate: 1
+
+-----------------
+

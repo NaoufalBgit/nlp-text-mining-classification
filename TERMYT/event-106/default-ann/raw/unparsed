@@ -1,0 +1,776 @@
+if: extinction spécifique
+pos: NOM ADJ
+lf: extinction spécifique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( extinction<=H> spécifique<=M> )
+islands: 0
+
+
+-----------------
+
+if: écoulement du sodium fondu
+pos: NOM du NOM ADJ
+lf: écoulement du sodium fondu
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( écoulement<=H> du<=P> ( sodium<=H> fondu<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: production
+pos: NOM
+lf: production
+is a term candidate: 1
+
+-----------------
+
+if: monde
+pos: NOM
+lf: monde
+is a term candidate: 1
+
+-----------------
+
+if: remise à niveau des installations existantes
+pos: NOM à NOM des NOM ADJ
+lf: remise à niveau du installation existant
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: 7h40
+pos: NAM
+lf: 7h40
+is a term candidate: 1
+
+-----------------
+
+if: cours.Deux autres incendies de moindre importance impliquant des batteries NaS
+pos: ADJ ADJ NOM de ADJ NOM VER:ppre des NOM NAM
+lf: cours.Deux autre incendie de moindre importance impliquer du batterie NaS
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: exploitant
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+
+if: fusible
+pos: NOM
+lf: fusible
+is a term candidate: 1
+
+-----------------
+
+if: court-circuit
+pos: NOM
+lf: court-circuit
+is a term candidate: 1
+
+-----------------
+
+if: courant
+pos: NOM
+lf: courant
+is a term candidate: 1
+
+-----------------
+
+if: ensemble
+pos: NOM
+lf: ensemble
+is a term candidate: 1
+
+-----------------
+
+if: clients
+pos: NOM
+lf: client
+is a term candidate: 1
+
+-----------------
+
+if: sens
+pos: NOM
+lf: sens|sen
+is a term candidate: 1
+
+-----------------
+
+if: panneaux coupe-feu
+pos: NOM NOM
+lf: panneau coupe-feu
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( panneaux<=H> coupe-feu<=M> )
+islands: 0
+
+
+-----------------
+
+if: causes de l' accident
+pos: NOM de DET:ART NOM
+lf: cause de le accident
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( causes<=H> de<=P> l'<=D> accident<=M> )
+islands: 0
+
+
+-----------------
+
+if: contact de l' eau
+pos: NOM de DET:ART NOM
+lf: contact de le eau
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( contact<=H> de<=P> l'<=D> eau<=M> )
+islands: 0
+
+
+-----------------
+
+if: communiqué de presse
+pos: NOM de NOM
+lf: communiqué de presse
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( communiqué<=H> de<=P> presse<=M> )
+islands: 0
+
+
+-----------------
+
+if: bloc
+pos: NOM
+lf: bloc
+is a term candidate: 1
+
+-----------------
+
+if: progression des flammes
+pos: NOM des NOM
+lf: progression du flamme
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( progression<=H> des<=P> flammes<=M> )
+islands: 0
+
+
+-----------------
+
+if: arrivée des pompiers.La batterie
+pos: NOM des NOM NOM
+lf: arrivée du pompiers.La batterie
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: modules
+pos: NOM
+lf: module
+is a term candidate: 1
+
+-----------------
+
+if: foyer de sable
+pos: NOM de NOM
+lf: foyer de sable
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( foyer<=H> de<=P> sable<=M> )
+islands: 0
+
+
+-----------------
+
+if: site industriel de fabrication de pièces
+pos: NOM ADJ de NOM de NOM
+lf: site industriel de fabrication de pièce
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: analyse
+pos: NOM
+lf: analyse
+is a term candidate: 1
+
+-----------------
+
+if: mise à l' arrêt immédiate
+pos: NOM à DET:ART NOM ADJ
+lf: mise à le arrêt immédiat
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( mise<=H> à<=P> l'<=D> ( arrêt<=H> immédiate<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: ferme éolienne à Kahuku
+pos: ADJ NOM à NAM
+lf: ferme éolienne à Kahuku
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: service
+pos: NOM
+lf: service
+is a term candidate: 1
+
+-----------------
+
+if: protections
+pos: NOM
+lf: protection
+is a term candidate: 1
+
+-----------------
+
+if: milliards de Yens
+pos: NOM de NOM
+lf: milliard de yen
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( milliards<=H> de<=P> Yens<=M> )
+islands: 0
+
+
+-----------------
+
+if: fuite de matière
+pos: NOM de NOM
+lf: fuite de matière
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( fuite<=H> de<=P> matière<=M> )
+islands: 0
+
+
+-----------------
+
+if: autorités le 05/10.Le
+pos: NOM DET:ART NAM
+lf: autorité le 05/10.Le
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: feu à 7h20
+pos: ADJ à NAM
+lf: feu à 7h20
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: Japon
+pos: NAM
+lf: Japon
+is a term candidate: 1
+
+-----------------
+
+if: injection de vermiculite
+pos: NOM de NOM
+lf: injection de vermiculite
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( injection<=H> de<=P> vermiculite<=M> )
+islands: 0
+
+
+-----------------
+
+if: propagation du feu
+pos: NOM du NOM
+lf: propagation du feu
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( propagation<=H> du<=P> feu<=M> )
+islands: 0
+
+
+-----------------
+
+if: frais
+pos: NOM
+lf: frais|frai
+is a term candidate: 1
+
+-----------------
+
+if: blocs de 96 cellules
+pos: NOM de NUM NOM
+lf: bloc de 96 cellule
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: ensemble des modules
+pos: NOM des NOM
+lf: ensemble du module
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( ensemble<=H> des<=P> modules<=M> )
+islands: 0
+
+
+-----------------
+
+if: cellules adjacentes
+pos: NOM ADJ
+lf: cellule adjacent
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( cellules<=H> adjacentes<=M> )
+islands: 0
+
+
+-----------------
+
+if: Feu de batterie sodium
+pos: NOM de NOM NOM
+lf: feu de batterie sodium
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: sinistre auto-entretenu
+pos: NOM ADJ
+lf: sinistre auto-entretenu
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( sinistre<=H> auto-entretenu<=M> )
+islands: 0
+
+
+-----------------
+
+if: surlendemain
+pos: NOM
+lf: surlendemain
+is a term candidate: 1
+
+-----------------
+
+if: revenu net
+pos: NOM ADJ
+lf: revenu net
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( revenu<=H> net<=M> )
+islands: 0
+
+
+-----------------
+
+if: fabricant
+pos: NOM
+lf: fabricant
+is a term candidate: 1
+
+-----------------
+
+if: outils
+pos: NOM
+lf: outil
+is a term candidate: 1
+
+-----------------
+
+if: mode
+pos: NOM
+lf: mode
+is a term candidate: 1
+
+-----------------
+
+if: MW opérant à 350°C
+pos: NOM VER:ppre à NAM
+lf: MW opérer à 350°C
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: communiqué de presse faisant état de l' incendie
+pos: NOM de NOM VER:ppre NOM de DET:ART NOM
+lf: communiqué de presse faire état de le incendie
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: un
+pos: NOM
+lf: un
+is a term candidate: 1
+
+-----------------
+
+if: courts-circuits
+pos: NOM
+lf: courts-circuit
+is a term candidate: 1
+
+-----------------
+
+if: incendie
+pos: NOM
+lf: incendie
+is a term candidate: 1
+
+-----------------
+
+if: arrêt total
+pos: NOM ADJ
+lf: arrêt total
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( arrêt<=H> total<=M> )
+islands: 0
+
+
+-----------------
+
+if: blocs contigus
+pos: NOM ADJ
+lf: bloc contigu
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( blocs<=H> contigus<=M> )
+islands: 0
+
+
+-----------------
+
+if: fusion
+pos: NOM
+lf: fusion
+is a term candidate: 1
+
+-----------------
+
+if: temps
+pos: NOM
+lf: temps
+is a term candidate: 1
+
+-----------------
+
+if: Etats-Unis
+pos: NAM
+lf: Etats-Unis
+is a term candidate: 1
+
+-----------------
+
+if: semaine suivante
+pos: NOM ADJ
+lf: semaine suivant
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( semaine<=H> suivante<=M> )
+islands: 0
+
+
+-----------------
+
+if: analyse de l' accident
+pos: NOM de DET:ART NOM
+lf: analyse de le accident
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( analyse<=H> de<=P> l'<=D> accident<=M> )
+islands: 0
+
+
+-----------------
+
+if: installations
+pos: NOM
+lf: installation
+is a term candidate: 1
+
+-----------------
+
+if: mi
+pos: NOM
+lf: mi
+is a term candidate: 1
+
+-----------------
+
+if: perte de confinement
+pos: NOM de NOM
+lf: perte de confinement
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( perte<=H> de<=P> confinement<=M> )
+islands: 0
+
+
+-----------------
+
+if: blocs
+pos: NOM
+lf: bloc
+is a term candidate: 1
+
+-----------------
+
+if: installation
+pos: NOM
+lf: installation
+is a term candidate: 1
+
+-----------------
+
+if: dispositif
+pos: NOM
+lf: dispositif
+is a term candidate: 1
+
+-----------------
+
+if: sable remplissant un interstice
+pos: NOM VER:ppre DET:ART NOM
+lf: sable remplir un interstice
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( sable<=H> ( remplissant<=H> un<=D> interstice<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: pompiers locaux
+pos: NOM ADJ
+lf: pompier local
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( pompiers<=H> locaux<=M> )
+islands: 0
+
+
+-----------------
+
+if: fusibles
+pos: NOM
+lf: fusible
+is a term candidate: 1
+
+-----------------
+
+if: exploitant de la batterie
+pos: NOM de DET:ART NOM
+lf: exploitant de le batterie
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( exploitant<=H> de<=P> la<=D> batterie<=M> )
+islands: 0
+
+
+-----------------
+
+if: perte de 50 milliards de yens
+pos: NOM de NUM NOM de NOM
+lf: perte de 50 milliard de yen
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: suite de l' accident
+pos: NOM de DET:ART NOM
+lf: suite de le accident
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( suite<=H> de<=P> l'<=D> accident<=M> )
+islands: 0
+
+
+-----------------
+
+if: apparition
+pos: NOM
+lf: apparition
+is a term candidate: 1
+
+-----------------
+
+if: batteries
+pos: NOM
+lf: batterie
+is a term candidate: 1
+
+-----------------
+
+if: extinction
+pos: NOM
+lf: extinction
+is a term candidate: 1
+
+-----------------
+
+if: NaS
+pos: NOM
+lf: NaS
+is a term candidate: 1
+
+-----------------
+
+if: sodium
+pos: NOM
+lf: sodium
+is a term candidate: 1
+
+-----------------
+
+if: cellule
+pos: NOM
+lf: cellule
+is a term candidate: 1
+
+-----------------
+
+if: année fiscale
+pos: NOM ADJ
+lf: année fiscal
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( année<=H> fiscale<=M> )
+islands: 0
+
+
+-----------------
+
+if: carbures
+pos: NOM
+lf: carbure
+is a term candidate: 1
+
+-----------------
+
+if: panneaux isolants
+pos: NOM ADJ
+lf: panneau isolant
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( panneaux<=H> isolants<=M> )
+islands: 0
+
+
+-----------------
+
+if: site industriel à Oyama
+pos: NOM ADJ à NAM
+lf: site industriel à Oyama
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: étouffement de la combustion
+pos: NOM de DET:ART NOM
+lf: étouffement de le combustion
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( étouffement<=H> de<=P> la<=D> combustion<=M> )
+islands: 0
+
+
+-----------------
+
+if: prévision de perte exceptionnelle
+pos: NOM de NOM ADJ
+lf: prévision de perte exceptionnel
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( prévision<=H> de<=P> ( perte<=H> exceptionnelle<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: M
+pos: NAM
+lf: M
+is a term candidate: 1
+
+-----------------
+
+if: batterie au sodium-soufre
+pos: NOM au NOM
+lf: batterie au sodium-soufre
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( batterie<=H> au<=P> sodium-soufre<=M> )
+islands: 0
+
+
+-----------------
+

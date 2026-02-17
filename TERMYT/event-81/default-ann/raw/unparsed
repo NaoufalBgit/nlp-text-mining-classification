@@ -1,0 +1,223 @@
+if: Choc
+pos: NOM
+lf: choc
+is a term candidate: 1
+
+-----------------
+
+if: système de détection de l' avifaune
+pos: NOM de NOM de DET:ART NOM
+lf: système de détection de le avifaune
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: cas de mortalité
+pos: NOM de NOM
+lf: cas de mortalité
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( cas<=H> de<=P> mortalité<=M> )
+islands: 0
+
+
+-----------------
+
+if: cadavre
+pos: NOM
+lf: cadavre
+is a term candidate: 1
+
+-----------------
+
+if: faucon crécerellette
+pos: NOM ADJ
+lf: faucon crécerellette
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( faucon<=H> crécerellette<=M> )
+islands: 0
+
+
+-----------------
+
+if: site
+pos: NOM
+lf: site
+is a term candidate: 1
+
+-----------------
+
+if: m
+pos: NOM
+lf: m
+is a term candidate: 1
+
+-----------------
+
+if: oiseau
+pos: NOM
+lf: oiseau
+is a term candidate: 1
+
+-----------------
+
+if: jours
+pos: NOM
+lf: jour
+is a term candidate: 1
+
+-----------------
+
+if: bureau
+pos: NOM
+lf: bureau
+is a term candidate: 1
+
+-----------------
+
+if: étude
+pos: NOM
+lf: étude
+is a term candidate: 1
+
+-----------------
+
+if: pale
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: mois
+pos: NOM
+lf: mois|moi
+is a term candidate: 1
+
+-----------------
+
+if: maintenance
+pos: NOM
+lf: maintenance
+is a term candidate: 1
+
+-----------------
+
+if: technicien
+pos: NOM
+lf: technicien
+is a term candidate: 1
+
+-----------------
+
+if: départ des faucons
+pos: NOM des NOM
+lf: départ du faucon
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( départ<=H> des<=P> faucons<=M> )
+islands: 0
+
+
+-----------------
+
+if: charge du suivi de la mortalité
+pos: NOM du NOM de DET:ART NOM
+lf: charge du suivi de le mortalité
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: installation
+pos: NOM
+lf: installation
+is a term candidate: 1
+
+-----------------
+
+if: arrêt diurne
+pos: NOM ADJ
+lf: arrêt diurne
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( arrêt<=H> diurne<=M> )
+islands: 0
+
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: migration
+pos: NOM
+lf: migration
+is a term candidate: 1
+
+-----------------
+
+if: ARIA
+pos: NOM
+lf: aria
+is a term candidate: 1
+
+-----------------
+
+if: fin du mois
+pos: NOM du NOM
+lf: fin du mois|moi
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( fin<=H> du<=P> mois<=M> )
+islands: 0
+
+
+-----------------
+
+if: collision
+pos: NOM
+lf: collision
+is a term candidate: 1
+
+-----------------
+
+if: sol
+pos: NOM
+lf: sol
+is a term candidate: 1
+
+-----------------
+
+if: espèce
+pos: NOM
+lf: espèce
+is a term candidate: 1
+
+-----------------
+

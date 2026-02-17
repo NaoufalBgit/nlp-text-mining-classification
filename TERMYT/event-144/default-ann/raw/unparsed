@@ -1,0 +1,128 @@
+if: huile
+pos: NOM
+lf: huile
+is a term candidate: 1
+
+-----------------
+
+if: joints.Le déversement
+pos: ADJ NOM
+lf: joints.Le déversement
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( joints.Le<=M> déversement<=H> )
+islands: 0
+
+
+-----------------
+
+if: joints
+pos: NOM
+lf: joint
+is a term candidate: 1
+
+-----------------
+
+if: Déversement
+pos: NOM
+lf: déversement
+is a term candidate: 1
+
+-----------------
+
+if: base des pales
+pos: NOM des NOM
+lf: base du pale
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( base<=H> des<=P> pales<=M> )
+islands: 0
+
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: plateformes
+pos: NOM
+lf: plateforme
+is a term candidate: 1
+
+-----------------
+
+if: éoliennes
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: diagnostic de pollution des sols
+pos: NOM de NOM des NOM
+lf: diagnostic de pollution du sol
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: présence de fissures
+pos: NOM de NOM
+lf: présence de fissure
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( présence<=H> de<=P> fissures<=M> )
+islands: 0
+
+
+-----------------
+
+if: traces de graisse
+pos: NOM de NOM
+lf: trace de graisse
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( traces<=H> de<=P> graisse<=M> )
+islands: 0
+
+
+-----------------
+
+if: étanchéité des pales
+pos: NOM des NOM
+lf: étanchéité du pale
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( étanchéité<=H> des<=P> pales<=M> )
+islands: 0
+
+
+-----------------
+
+if: technicien de maintenance
+pos: NOM de NOM
+lf: technicien de maintenance
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( technicien<=H> de<=P> maintenance<=M> )
+islands: 0
+
+
+-----------------
+

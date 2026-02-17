@@ -1,0 +1,266 @@
+if: semaine
+pos: NOM
+lf: semaine
+is a term candidate: 1
+
+-----------------
+
+if: lieu
+pos: NOM
+lf: lieu
+is a term candidate: 1
+
+-----------------
+
+if: risque de détachement des pales
+pos: NOM de NOM des NOM
+lf: risque de détachement du pale
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: effet de la chaleur
+pos: NOM de DET:ART NOM
+lf: effet de le chaleur
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( effet<=H> de<=P> la<=D> chaleur<=M> )
+islands: 0
+
+
+-----------------
+
+if: aérogénérateurs
+pos: NOM
+lf: aérogénérateur
+is a term candidate: 1
+
+-----------------
+
+if: route proche
+pos: NOM ADJ
+lf: route proche
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( route<=H> proche<=M> )
+islands: 0
+
+
+-----------------
+
+if: fond
+pos: NOM
+lf: fond
+is a term candidate: 1
+
+-----------------
+
+if: service
+pos: NOM
+lf: service
+is a term candidate: 1
+
+-----------------
+
+if: extinction
+pos: NOM
+lf: extinction
+is a term candidate: 1
+
+-----------------
+
+if: sécurité de 250 m
+pos: NOM de NUM NOM
+lf: sécurité de 250 m
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: origine du sinistre
+pos: NOM du NOM
+lf: origine du sinistre
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( origine<=H> du<=P> sinistre<=M> )
+islands: 0
+
+
+-----------------
+
+if: verre
+pos: NOM
+lf: verre
+is a term candidate: 1
+
+-----------------
+
+if: éolienne Un feu
+pos: ADJ DET:ART NOM
+lf: éolien un feu
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: Feu
+pos: NOM
+lf: feu
+is a term candidate: 1
+
+-----------------
+
+if: fumée
+pos: NOM
+lf: fumée
+is a term candidate: 1
+
+-----------------
+
+if: fibre de carbone
+pos: NOM de NOM
+lf: fibre de carbone
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( fibre<=H> de<=P> carbone<=M> )
+islands: 0
+
+
+-----------------
+
+if: circulation
+pos: NOM
+lf: circulation
+is a term candidate: 1
+
+-----------------
+
+if: vallée de l' Ouvèze
+pos: NOM de DET:ART NOM
+lf: vallée de le Ouvèze
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( vallée<=H> de<=P> l'<=D> Ouvèze<=M> )
+islands: 0
+
+
+-----------------
+
+if: nuisances olfactives perceptibles
+pos: NOM ADJ ADJ
+lf: nuisance olfactif perceptible
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: 18h20 au sommet du rotor
+pos: NAM au NOM du NOM
+lf: 18h20 au sommet du rotor
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: moyens
+pos: NOM
+lf: moyen
+is a term candidate: 1
+
+-----------------
+
+if: fonctionnement des signaux lumineux préventifs
+pos: NOM des NOM ADJ ADJ
+lf: fonctionnement du signal lumineux préventif
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: ensemble du parc éolien
+pos: NOM du NOM ADJ
+lf: ensemble du parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( ensemble<=H> du<=P> ( parc<=H> éolien<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: court-circuit faisant suite à une opération de maintenance
+pos: NOM VER:ppre NOM à DET:ART NOM de NOM
+lf: court-circuit faire suite à un opération de maintenance
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: aéronefs.Selon
+pos: NOM
+lf: aéronefs.Selon
+is a term candidate: 1
+
+-----------------
+
+if: secours
+pos: NOM
+lf: secours
+is a term candidate: 1
+
+-----------------
+
+if: évolution du sinistre
+pos: NOM du NOM
+lf: évolution du sinistre
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( évolution<=H> du<=P> sinistre<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne de 70 m de haut mise
+pos: NOM de NUM NOM de ADJ NOM
+lf: éolienne de 70 m de haut mise
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: réseau électrique
+pos: NOM ADJ
+lf: réseau électrique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( réseau<=H> électrique<=M> )
+islands: 0
+
+
+-----------------
+

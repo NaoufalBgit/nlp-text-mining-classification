@@ -1,0 +1,207 @@
+if: diagnostic de l' état des milieux
+pos: NOM de DET:ART NOM des NOM
+lf: diagnostic de le état du milieu
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: Seule une zone de pollution de 2 m²
+pos: ADJ DET:ART NOM de NOM de NUM NOM
+lf: seul un zone de pollution de 2 m²
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: sol
+pos: NOM
+lf: sol
+is a term candidate: 1
+
+-----------------
+
+if: vétusté du flexible
+pos: NOM du ADJ
+lf: vétusté du flexible
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: rejet
+pos: NOM
+lf: rejet
+is a term candidate: 1
+
+-----------------
+
+if: origine
+pos: NOM
+lf: origine
+is a term candidate: 1
+
+-----------------
+
+if: lendemain.Une société
+pos: ADJ NOM
+lf: lendemain.Une société
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( lendemain.Une<=M> société<=H> )
+islands: 0
+
+
+-----------------
+
+if: huile
+pos: NOM
+lf: huile
+is a term candidate: 1
+
+-----------------
+
+if: société de traitement
+pos: NOM de NOM
+lf: société de traitement
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( société<=H> de<=P> traitement<=M> )
+islands: 0
+
+
+-----------------
+
+if: circuit hydraulique
+pos: NOM ADJ
+lf: circuit hydraulique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( circuit<=H> hydraulique<=M> )
+islands: 0
+
+
+-----------------
+
+if: rupture
+pos: NOM
+lf: rupture
+is a term candidate: 1
+
+-----------------
+
+if: cm de profondeur
+pos: NOM de NOM
+lf: cm de profondeur
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( cm<=H> de<=P> profondeur<=M> )
+islands: 0
+
+
+-----------------
+
+if: Fuite
+pos: NOM
+lf: fuite
+is a term candidate: 1
+
+-----------------
+
+if: gouttes
+pos: NOM
+lf: goutte
+is a term candidate: 1
+
+-----------------
+
+if: l
+pos: NOM
+lf: l
+is a term candidate: 1
+
+-----------------
+
+if: aérogénérateur
+pos: NOM
+lf: aérogénérateur
+is a term candidate: 1
+
+-----------------
+
+if: graviers
+pos: NOM
+lf: gravier
+is a term candidate: 1
+
+-----------------
+
+if: sondages du sol
+pos: NOM du NOM
+lf: sondage du sol
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( sondages<=H> du<=P> sol<=M> )
+islands: 0
+
+
+-----------------
+
+if: pied du mât
+pos: NOM du NOM
+lf: pied du mât
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( pied<=H> du<=P> mât<=M> )
+islands: 0
+
+
+-----------------
+
+if: long du mât
+pos: NOM du NOM
+lf: long du mât
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( long<=H> du<=P> mât<=M> )
+islands: 0
+
+
+-----------------
+
+if: origine de la fuite
+pos: NOM de DET:ART NOM
+lf: origine de le fuite
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( origine<=H> de<=P> la<=D> fuite<=M> )
+islands: 0
+
+
+-----------------
+
+if: m²
+pos: NOM
+lf: m²
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+

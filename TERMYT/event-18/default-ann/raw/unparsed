@@ -1,0 +1,351 @@
+if: oeuvre
+pos: NOM
+lf: œuvre
+is a term candidate: 1
+
+-----------------
+
+if: Fuite
+pos: NOM
+lf: fuite
+is a term candidate: 1
+
+-----------------
+
+if: sol
+pos: NOM
+lf: sol
+is a term candidate: 1
+
+-----------------
+
+if: fuite
+pos: NOM
+lf: fuite
+is a term candidate: 1
+
+-----------------
+
+if: flaque
+pos: NOM
+lf: flaque
+is a term candidate: 1
+
+-----------------
+
+if: engrenages
+pos: NOM
+lf: engrenage
+is a term candidate: 1
+
+-----------------
+
+if: réseau
+pos: NOM
+lf: réseau
+is a term candidate: 1
+
+-----------------
+
+if: cours de démontage
+pos: NOM de NOM
+lf: cours|cour de démontage
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( cours<=H> de<=P> démontage<=M> )
+islands: 0
+
+
+-----------------
+
+if: centre spécialisé.L'événement
+pos: NOM NOM
+lf: centre spécialisé.L'événement
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( centre<=H> spécialisé.L'événement<=M> )
+islands: 0
+
+
+-----------------
+
+if: zones vulnérables
+pos: NOM ADJ
+lf: zone vulnérable
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( zones<=H> vulnérables<=M> )
+islands: 0
+
+
+-----------------
+
+if: côtés
+pos: NOM
+lf: côté
+is a term candidate: 1
+
+-----------------
+
+if: suite du démontage
+pos: NOM du NOM
+lf: suite du démontage
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( suite<=H> du<=P> démontage<=M> )
+islands: 0
+
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: m
+pos: NOM
+lf: m
+is a term candidate: 1
+
+-----------------
+
+if: personnel
+pos: NOM
+lf: personnel
+is a term candidate: 1
+
+-----------------
+
+if: cours du démontage de la boîte de vitesse
+pos: NOM du NOM de DET:ART NOM de NOM
+lf: cours|cour du démontage de le boîte de vitesse
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: exploitant
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+
+if: travaux de reconstruction
+pos: NOM de NOM
+lf: travail de reconstruction
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( travaux<=H> de<=P> reconstruction<=M> )
+islands: 0
+
+
+-----------------
+
+if: zone
+pos: NOM
+lf: zone
+is a term candidate: 1
+
+-----------------
+
+if: GNT
+pos: NOM
+lf: GNT
+is a term candidate: 1
+
+-----------------
+
+if: opérations de dépose de boîtes de vitesses
+pos: NOM de NOM de NOM de NOM
+lf: opération de dépose de boîte de vitesse
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: événement
+pos: NOM
+lf: événement
+is a term candidate: 1
+
+-----------------
+
+if: bâche
+pos: NOM
+lf: bâche
+is a term candidate: 1
+
+-----------------
+
+if: remplacement
+pos: NOM
+lf: remplacement
+is a term candidate: 1
+
+-----------------
+
+if: place des mesures de vigilance supplémentaires
+pos: NOM des NOM de NOM ADJ
+lf: place du mesure de vigilance supplémentaire
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: un
+pos: NOM
+lf: un
+is a term candidate: 1
+
+-----------------
+
+if: couche de 10 cm de grave
+pos: NOM de NUM NOM de NOM
+lf: couche de 10 cm de grave
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: ruissellement de l' huile
+pos: NOM de DET:ART NOM
+lf: ruissellement de le huile
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( ruissellement<=H> de<=P> l'<=D> huile<=M> )
+islands: 0
+
+
+-----------------
+
+if: huile
+pos: NOM
+lf: huile
+is a term candidate: 1
+
+-----------------
+
+if: feuilles absorbantes
+pos: NOM ADJ
+lf: feuille absorbant
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( feuilles<=H> absorbantes<=M> )
+islands: 0
+
+
+-----------------
+
+if: huile au cours du démontage
+pos: NOM au NOM du NOM
+lf: huile au cours|cour du démontage
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: vue
+pos: NOM
+lf: vue
+is a term candidate: 1
+
+-----------------
+
+if: hydrocarbures
+pos: NOM
+lf: hydrocarbure
+is a term candidate: 1
+
+-----------------
+
+if: plateforme
+pos: NOM
+lf: plateforme
+is a term candidate: 1
+
+-----------------
+
+if: pose
+pos: NOM
+lf: pose
+is a term candidate: 1
+
+-----------------
+
+if: lestage
+pos: NOM
+lf: lestage
+is a term candidate: 1
+
+-----------------
+
+if: huile de boîte de vitesse
+pos: NOM de NOM de NOM
+lf: huile de boîte de vitesse
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: dernière
+pos: NOM
+lf: dernier
+is a term candidate: 1
+
+-----------------
+
+if: suite
+pos: NOM
+lf: suite
+is a term candidate: 1
+
+-----------------
+
+if: sol étanche
+pos: NOM ADJ
+lf: sol étanche
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( sol<=H> étanche<=M> )
+islands: 0
+
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+

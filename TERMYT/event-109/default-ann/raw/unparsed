@@ -1,0 +1,283 @@
+if: impact
+pos: NOM
+lf: impact
+is a term candidate: 1
+
+-----------------
+
+if: parc éolien 6 jours
+pos: NOM ADJ NUM NOM
+lf: parc éolien 6 jour
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: faucon crécerellette
+pos: NOM ADJ
+lf: faucon crécerellette
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( faucon<=H> crécerellette<=M> )
+islands: 0
+
+
+-----------------
+
+if: parc
+pos: NOM
+lf: parc
+is a term candidate: 1
+
+-----------------
+
+if: sol
+pos: NOM
+lf: sol
+is a term candidate: 1
+
+-----------------
+
+if: activité de chasse.La principale mesure de réduction de risque expérimentée l' année précédente
+pos: NOM de NOM ADJ NOM de NOM de NOM VER:pper DET:ART NOM ADJ
+lf: activité de chasse.La principal mesure de réduction de risque expérimenter le année précédent
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: pale
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: chasse
+pos: NOM
+lf: chasse
+is a term candidate: 1
+
+-----------------
+
+if: faucon
+pos: NOM
+lf: faucon
+is a term candidate: 1
+
+-----------------
+
+if: vol statique
+pos: NOM ADJ
+lf: vol statique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( vol<=H> statique<=M> )
+islands: 0
+
+
+-----------------
+
+if: collision
+pos: NOM
+lf: collision
+is a term candidate: 1
+
+-----------------
+
+if: études
+pos: NOM
+lf: étude
+is a term candidate: 1
+
+-----------------
+
+if: m de l' éolienne
+pos: NOM de DET:ART NOM
+lf: m de le éolienne
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( m<=H> de<=P> l'<=D> éolienne<=M> )
+islands: 0
+
+
+-----------------
+
+if: dispositif de détection automatique
+pos: NOM de NOM ADJ
+lf: dispositif de détection automatique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( dispositif<=H> de<=P> ( détection<=H> automatique<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: turbine
+pos: NOM
+lf: turbine
+is a term candidate: 1
+
+-----------------
+
+if: plan de bridage dynamique
+pos: NOM de NOM ADJ
+lf: plan de bridage dynamique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( plan<=H> de<=P> ( bridage<=H> dynamique<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: bureau
+pos: NOM
+lf: bureau
+is a term candidate: 1
+
+-----------------
+
+if: Choc
+pos: NOM
+lf: choc
+is a term candidate: 1
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: parc présente
+pos: NOM ADJ
+lf: parc présent
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> présente<=M> )
+islands: 0
+
+
+-----------------
+
+if: autres des différents parcs éoliens
+pos: ADJ des ADJ NOM ADJ
+lf: autre du différent parc éolien
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: raison
+pos: NOM
+lf: raison
+is a term candidate: 1
+
+-----------------
+
+if: bridage
+pos: NOM
+lf: bridage
+is a term candidate: 1
+
+-----------------
+
+if: 8h44
+pos: NAM
+lf: 8h44
+is a term candidate: 1
+
+-----------------
+
+if: traces de blessures
+pos: NOM de NOM
+lf: trace de blessure
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( traces<=H> de<=P> blessures<=M> )
+islands: 0
+
+
+-----------------
+
+if: cadavre
+pos: NOM
+lf: cadavre
+is a term candidate: 1
+
+-----------------
+
+if: critères de secteur de vent définis à l' avance
+pos: NOM de NOM de NOM VER:pper à DET:ART NOM
+lf: critère de secteur de vent définir à le avance
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: cours
+pos: NOM
+lf: cours|cour
+is a term candidate: 1
+
+-----------------
+
+if: collisions
+pos: NOM
+lf: collision
+is a term candidate: 1
+
+-----------------
+
+if: espèce
+pos: NOM
+lf: espèce
+is a term candidate: 1
+
+-----------------
+
+if: commune
+pos: NOM
+lf: commune
+is a term candidate: 1
+
+-----------------
+
+if: année
+pos: NOM
+lf: année
+is a term candidate: 1
+
+-----------------
+
+if: suivi environnemental de mortalité aviaire
+pos: NOM ADJ de NOM ADJ
+lf: suivi environnemental de mortalité aviaire
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+

@@ -1,0 +1,95 @@
+# ID	Inflected form	Lemmatised form	Frequency	CValue	CValue1	CValuePlus	CValuePlus1	CValueStar	CValueStarH	CValueStarM	CValueStarR	CValueWCard	CValueWCardPlus	D	DDW	Freq	idf	ilnc	ilncFreq	iLong	IM	iTer	LLR	nbdoc4tc	NormFreq	tf	tf-idf	Head	Modifier	MainHead
+101	fréquence des contrôles des machines	fréquence du contrôle du machine	1	2.32192809488736	2.58496250072116	2.32192809488736	2.58496250072116	N/A	N/A	N/A	0.263034405833794	0	0	1	0	1	0:0	0	0	0.2	0.833333333333333	0.166666666666667	1.11570775652105	1	0.2	0:1	0:0	102	9	23	
+25	ensemble des machines du parc	ensemble du machine du parc	1	2.32192809488736	2.58496250072116	2.32192809488736	2.58496250072116	2	N/A	N/A	0.263034405833794	0	0	1	0	1	0:0	0	0	0.2	2.5	0.166666666666667	0.000115129154648748	1	0.2	0:1	0:0	26	27	26	
+76	validation du rapport de contrôle	validation du rapport de contrôle	1	2.32192809488736	2.58496250072116	2.32192809488736	2.58496250072116	2	N/A	N/A	0.263034405833794	0	0	1	0	1	0:0	0	0	0.2	1.66666666666667	0.166666666666667	1.90951250473444	1	0.2	0:1	0:0	77	6	78	
+106	parc éolien	parc éolien	2	2	3.16992500144231	2	3.16992500144231	2	N/A	N/A	1.16992500144231	0	0	1	0	2	0:0	0	0	1	1.25	0.666666666666667	5.10814957057699e-06	1	0.4	0:2	0:0	29	108	29	
+86	Chute du spoiler d	chute du spoiler d	1	2	2.32192809488736	2	2.32192809488736	2	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	5	0.2	0.000115129154648748	1	0.2	0:1	0:0	87	88	87	
+34	astreinte de l' exploitant	astreinte de le exploitant	1	2	2.32192809488736	2	2.32192809488736	2	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	1.66666666666667	0.2	1.38627436101989	1	0.2	0:1	0:0	35	36	35	
+12	externes ,met un balisage	externe ,met un balisage	1	2	2.32192809488736	2	2.32192809488736	2	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	5	0.2	0.000115129154648748	1	0.2	0:1	0:0	13	16	15	
+27	machines du parc	machine du parc	2	1.58496250072116	2	4.75488750216347	6	N/A	N/A	0.415037499278844	N/A	1	3	1	0	2	0:0	0	0	0.666666666666667	0.416666666666667	0.5	0.822808784950518	1	0.4	0:2	0:0	9	29	9	
+55	arrachement du spoiler	arrachement du spoiler	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	1	0.25	0.863036217305342	1	0.2	0:1	0:0	56	54	56	
+73	accès aux machines	accès au machine	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	0.833333333333333	0.25	1.11570775652105	1	0.2	0:1	0:0	74	9	74	
+58	Inspection des Installations	inspection du installation	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	5	0.25	0.000115129154648748	1	0.2	0:1	0:0	59	60	59	
+82	mesure de prévention	mesure de prévention	1	1.58496250072116	2	1.58496250072116	2	2	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	5	0.25	0.000115129154648748	1	0.2	0:1	0:0	83	84	83	
+61	desserrage des boulons	desserrage du boulon	1	1.58496250072116	2	1.58496250072116	2	2	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	2.5	0.25	0.000115129154648748	1	0.2	0:1	0:0	62	63	62	
+1	force de vibration	force de vibration	1	1.58496250072116	2	1.58496250072116	2	3	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	5	0.25	0.000115129154648748	1	0.2	0:1	0:0	2	3	2	
+98	périmètre de sécurité	périmètre de sécurité	1	1.58496250072116	2	1.58496250072116	2	2	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	5	0.25	0.000115129154648748	1	0.2	0:1	0:0	99	100	99	
+52	chute du spoiler	chute du spoiler	1	1.58496250072116	2	1.58496250072116	2	2	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	1	0.25	0.863036217305342	1	0.2	0:1	0:0	53	54	53	
+17	dernier contrôle	dernier contrôle	1	1	1.58496250072116	1	1.58496250072116	2	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	1.66666666666667	0.333333333333333	4.05454274736608e-06	1	0.2	0:1	0:0	6	18	6	
+70	éolienne accidentée	éolienne accidenté	1	1	1.58496250072116	1	1.58496250072116	2	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	1.66666666666667	0.333333333333333	0.000115129154648748	1	0.2	0:1	0:0	32	72	32	
+45	vérifications internes	vérification interne	1	1	1.58496250072116	1	1.58496250072116	2	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	5	0.333333333333333	0.000115129154648748	1	0.2	0:1	0:0	46	47	46	
+95	lendemain.Le spoiler	lendemain.Le spoiler	1	1	1.58496250072116	1	1.58496250072116	3	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	1	0.333333333333333	2.87671655764548e-06	1	0.2	0:1	0:0	54	96	54	
+5	contrôle visuel	contrôle visuel	1	1	1.58496250072116	1	1.58496250072116	3	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	1.66666666666667	0.333333333333333	4.05454274736608e-06	1	0.2	0:1	0:0	6	7	6	
+37	parc.En parallèle	parc.En parallèle	1	1	1.58496250072116	1	1.58496250072116	3	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	5	0.333333333333333	0.000115129154648748	1	0.2	0:1	0:0	38	39	38	
+67	inspection complémentaire	inspection complémentaire	1	1	1.58496250072116	1	1.58496250072116	2	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	5	0.333333333333333	0.000115129154648748	1	0.2	0:1	0:0	68	69	68	
+64	exploitant :procède	exploitant :procède	1	1	1.58496250072116	1	1.58496250072116	2	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	1.66666666666667	0.333333333333333	6.93134680530211e-06	1	0.2	0:1	0:0	36	66	36	
+48	arrêt complet	arrêt complet	1	1	1.58496250072116	1	1.58496250072116	2	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	5	0.333333333333333	0.000115129154648748	1	0.2	0:1	0:0	49	50	49	
+22	fréquence régulière	fréquence régulier	1	1	1.58496250072116	1	1.58496250072116	2	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	2.5	0.333333333333333	6.93134680530211e-06	1	0.2	0:1	0:0	23	24	23	
+9	machines	machine	5	0	4.75	0	7.25	4	3	4	N/A	3.75	6.25	1	0	5	0:0	2	3	5	N/A	7.5	N/A	1	1	0:5	0:0				
+29	parc	parc	4	0	2.33333333333333	0	5.66666666666667	2	2	1	N/A	2.33333333333333	5.66666666666667	1	0	4	0:0	1	2	4	N/A	4	N/A	1	0.8	0:4	0:0				
+21	pale	pale	4	0	4	0	4	2	N/A	N/A	4	0	0	1	0	4	0:0	0	0	4	N/A	2	N/A	1	0.8	0:4	0:0				
+54	spoiler	spoiler	4	0	4	0	6	3	3	3	N/A	3	5	1	0	4	0:0	2	2	4	N/A	6	N/A	1	0.8	0:4	0:0				
+32	éolienne	éolienne	3	0	2	0	4	2	2	N/A	N/A	2	4	1	0	3	0:0	1	1	3	N/A	3	N/A	1	0.6	0:3	0:0				
+36	exploitant	exploitant	3	0	2	0	4	2	2	2	N/A	2	4	1	0	3	0:0	1	1	3	N/A	3	N/A	1	0.6	0:3	0:0				
+6	contrôle	contrôle	3	0	2	0	4	2	1	2	N/A	2	4	1	0	3	0:0	2	2	3	N/A	4.5	N/A	1	0.6	0:3	0:0				
+63	boulons	boulon	2	0	1	0	3	N/A	N/A	1	N/A	1	3	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.4	0:2	0:0				
+23	fréquence	fréquence	2	0	1	0	3	2	0	N/A	N/A	1	3	1	0	2	0:0	2	2	2	N/A	3	N/A	1	0.4	0:2	0:0				
+108	éolien	éolien	2	0	0	0	4	2	N/A	0	N/A	0	4	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.4	0:2	0:0				
+41	service	service	2	0	2	0	2	2	N/A	N/A	2	0	0	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.4	0:2	0:0				
+20	12h30	12h30	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+47	internes	interne	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+33	élément	élément	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+31	actions	action	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+74	accès	accès	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+51	mise	mise	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+2	force	force	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+62	desserrage	desserrage	1	0	0	0	2	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+11	13h30	13h30	1	0	1	0	1	2	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+88	spoiler d	spoiler d	1	0	0	2	3.16992500144231	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.5	1	0.333333333333333	2.87671655764548e-06	1	0.2	0:1	0:0	54	90	54	
+104	contrôles	contrôle	1	0	0	0	2	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+3	vibration	vibration	1	0	0	0	2	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+60	Installations	installation	1	0	0	0	2	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+96	lendemain.Le	lendemain.Le	1	0	0	0	2	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+16	balisage	balisage	1	0	0	0	2	3	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+14	externes	externe	1	0	0	0	2	3	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+78	validation	validation	1	0	0	0	2	3	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+83	mesure	mesure	1	0	0	0	2	3	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+8	équipe	équipe	1	0	1	0	1	3	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+90	d	d	1	0	0	0	2	3	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+100	sécurité	sécurité	1	0	0	0	2	3	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+68	inspection	inspection	1	0	0	0	2	3	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+7	visuel	visuel	1	0	0	0	2	3	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+43	jeu	jeu	1	0	1	0	1	3	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+13	externes ,met	externe ,met	1	0	0	2	3.16992500144231	3	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.5	5	0.666666666666667	0.000115129154648748	1	0.2	0:1	0:0	15	14	15	
+102	fréquence des contrôles	fréquence du contrôle	1	0	0	3.16992500144231	4	3	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	2.5	0.5	6.93134680530211e-06	1	0.2	0:1	0:0	23	104	23	
+109	serrages	serrage	1	0	1	0	1	3	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+87	Chute	chute	1	0	0	0	2	3	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+72	accidentée	accidenté	1	0	0	0	2	3	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+79	rapport	rapport	1	0	0	0	2	3	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+4	machine	machine	1	0	2	0	2	3	N/A	N/A	2	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+40	ans	an	1	0	2	0	2	3	N/A	N/A	2	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+91	sous-traitant	sous-traitant	1	0	1	0	1	3	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+77	validation du rapport	validation du rapport	1	0	0	3.16992500144231	4	3	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	5	0.5	0.000115129154648748	1	0.2	0:1	0:0	78	79	78	
+15	,met	,met	1	0	0	0	2	3	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+18	dernier	dernier	1	0	0	0	2	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+38	parc.En	parc.En	1	0	0	0	2	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+59	Inspection	inspection	1	0	0	0	2	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+0	distance	distance	1	0	1	0	1	2	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+35	astreinte	astreinte	1	0	0	0	2	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+56	arrachement	arrachement	1	0	0	0	2	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+39	parallèle	parallèle	1	0	0	0	2	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+30	sol	sol	1	0	1	0	1	2	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+110	intervention	intervention	1	0	2	0	2	2	N/A	N/A	2	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+53	chute	chute	1	0	0	0	2	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+69	complémentaire	complémentaire	1	0	0	0	2	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+26	ensemble	ensemble	1	0	0	0	2	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+66	:procède	:procède	1	0	0	0	2	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+50	complet	complet	1	0	0	0	2	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+10	fibre	fibre	1	0	1	0	1	2	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+81	évènement	événement	1	0	1	0	1	2	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+99	périmètre	périmètre	1	0	0	0	2	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+84	prévention	prévention	1	0	0	0	2	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+46	vérifications	vérification	1	0	0	0	2	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+42	turbinier	turbinier	1	0	2	0	2	2	N/A	N/A	2	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+24	régulière	régulier	1	0	0	0	2	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+49	arrêt	arrêt	1	0	0	0	2	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				

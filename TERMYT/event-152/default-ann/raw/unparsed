@@ -1,0 +1,235 @@
+if: lendemain matin
+pos: NOM NOM
+lf: lendemain matin
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( lendemain<=H> matin<=M> )
+islands: 0
+
+
+-----------------
+
+if: impact de foudre
+pos: NOM de NOM
+lf: impact de foudre
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( impact<=H> de<=P> foudre<=M> )
+islands: 0
+
+
+-----------------
+
+if: débris
+pos: NOM
+lf: débris
+is a term candidate: 1
+
+-----------------
+
+if: dispositif de protection
+pos: NOM de NOM
+lf: dispositif de protection
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( dispositif<=H> de<=P> protection<=M> )
+islands: 0
+
+
+-----------------
+
+if: origine
+pos: NOM
+lf: origine
+is a term candidate: 1
+
+-----------------
+
+if: orage
+pos: NOM
+lf: orage
+is a term candidate: 1
+
+-----------------
+
+if: exploitant
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: Chute de pale
+pos: NOM de NOM
+lf: chute de pale
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Chute<=H> de<=P> pale<=M> )
+islands: 0
+
+
+-----------------
+
+if: partie
+pos: NOM
+lf: partie
+is a term candidate: 1
+
+-----------------
+
+if: déchirure du fragment
+pos: NOM du NOM
+lf: déchirure du fragment
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( déchirure<=H> du<=P> fragment<=M> )
+islands: 0
+
+
+-----------------
+
+if: parc
+pos: NOM
+lf: parc
+is a term candidate: 1
+
+-----------------
+
+if: rupture
+pos: NOM
+lf: rupture
+is a term candidate: 1
+
+-----------------
+
+if: défaut
+pos: NOM
+lf: défaut
+is a term candidate: 1
+
+-----------------
+
+if: éolienne due à la foudre
+pos: NOM VER:pper à DET:ART NOM
+lf: éolienne devoir à le foudre
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( éolienne<=H> ( due<=H> à<=P> la<=D> foudre<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: pale
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: zone de 50 à 100 m du mât
+pos: NOM de NUM à NUM NOM du NOM
+lf: zone de 50 à 100 m du mât
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: cm de l' extrémité
+pos: NOM de DET:ART NOM
+lf: cm de le extrémité
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( cm<=H> de<=P> l'<=D> extrémité<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne chute au sol
+pos: ADJ NOM au NOM
+lf: éolien chute au sol
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: éolienne.L'expertise
+pos: NOM
+lf: éolienne.L'expertise
+is a term candidate: 1
+
+-----------------
+
+if: exploitant agricole propriétaire
+pos: NOM ADJ ADJ
+lf: exploitant agricole propriétaire
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: éoliennes
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: nuit
+pos: NOM
+lf: nuit
+is a term candidate: 1
+
+-----------------
+
+if: l
+pos: NOM
+lf: l
+is a term candidate: 1
+
+-----------------
+
+if: champ
+pos: NOM
+lf: champ
+is a term candidate: 1
+
+-----------------
+
+if: rupture du bord
+pos: NOM du NOM
+lf: rupture du bord
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( rupture<=H> du<=P> bord<=M> )
+islands: 0
+
+
+-----------------
+
+if: foudre
+pos: NOM
+lf: foudre
+is a term candidate: 1
+
+-----------------
+

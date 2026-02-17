@@ -1,0 +1,224 @@
+if: fortes chaleurs estivales
+pos: ADJ NOM ADJ
+lf: fort chaleur estival
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: Chute
+pos: NOM
+lf: chute
+is a term candidate: 1
+
+-----------------
+
+if: chute au sol
+pos: NOM au NOM
+lf: chute au sol
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( chute<=H> au<=P> sol<=M> )
+islands: 0
+
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: porte
+pos: NOM
+lf: porte
+is a term candidate: 1
+
+-----------------
+
+if: trappe
+pos: NOM
+lf: trappe
+is a term candidate: 1
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: sécurité
+pos: NOM
+lf: sécurité
+is a term candidate: 1
+
+-----------------
+
+if: machine
+pos: NOM
+lf: machine
+is a term candidate: 1
+
+-----------------
+
+if: 14h30
+pos: NAM
+lf: 14h30
+is a term candidate: 1
+
+-----------------
+
+if: cône de nez
+pos: NOM de NOM
+lf: cône de nez
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( cône<=H> de<=P> nez<=M> )
+islands: 0
+
+
+-----------------
+
+if: équipe de maintenance
+pos: NOM de NOM
+lf: équipe de maintenance
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( équipe<=H> de<=P> maintenance<=M> )
+islands: 0
+
+
+-----------------
+
+if: hubs
+pos: NOM
+lf: hubs
+is a term candidate: 1
+
+-----------------
+
+if: origine de la défaillance
+pos: NOM de DET:ART NOM
+lf: origine de le défaillance
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( origine<=H> de<=P> la<=D> défaillance<=M> )
+islands: 0
+
+
+-----------------
+
+if: inserts métalliques
+pos: NOM ADJ
+lf: insert métallique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( inserts<=H> métalliques<=M> )
+islands: 0
+
+
+-----------------
+
+if: chaleur
+pos: NOM
+lf: chaleur
+is a term candidate: 1
+
+-----------------
+
+if: visite
+pos: NOM
+lf: visite
+is a term candidate: 1
+
+-----------------
+
+if: accès à la machine
+pos: NOM à DET:ART NOM
+lf: accès à le machine
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( accès<=H> à<=P> la<=D> machine<=M> )
+islands: 0
+
+
+-----------------
+
+if: accès au hub
+pos: NOM au NOM
+lf: accès au hub
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( accès<=H> au<=P> hub<=M> )
+islands: 0
+
+
+-----------------
+
+if: lendemain matin
+pos: NOM NOM
+lf: lendemain matin
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( lendemain<=H> matin<=M> )
+islands: 0
+
+
+-----------------
+
+if: système de verrouillage de la trappe inefficace.L'exploitant
+pos: NOM de NOM de DET:ART NOM ADJ
+lf: système de verrouillage de le trappe inefficace.L'exploitant
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: fibre du cône de nez du hub
+pos: NOM du NOM de NOM du NOM
+lf: fibre du cône de nez du hub
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: période estivale
+pos: NOM ADJ
+lf: période estival
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( période<=H> estivale<=M> )
+islands: 0
+
+
+-----------------
+

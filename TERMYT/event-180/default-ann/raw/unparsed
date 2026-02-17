@@ -1,0 +1,264 @@
+if: proximité
+pos: NOM
+lf: proximité
+is a term candidate: 1
+
+-----------------
+
+if: milan noir
+pos: NOM ADJ
+lf: milan noir
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( milan<=H> noir<=M> )
+islands: 0
+
+
+-----------------
+
+if: agriculteurs locaux
+pos: NOM ADJ
+lf: agriculteur local
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( agriculteurs<=H> locaux<=M> )
+islands: 0
+
+
+-----------------
+
+if: événement
+pos: NOM
+lf: événement
+is a term candidate: 1
+
+-----------------
+
+if: tas de fumier
+pos: NOM de NOM
+lf: tas de fumier
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( tas<=H> de<=P> fumier<=M> )
+islands: 0
+
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: état de décomposition
+pos: NOM de NOM
+lf: état de décomposition
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( état<=H> de<=P> décomposition<=M> )
+islands: 0
+
+
+-----------------
+
+if: contact
+pos: NOM
+lf: contact
+is a term candidate: 1
+
+-----------------
+
+if: m
+pos: NOM
+lf: m
+is a term candidate: 1
+
+-----------------
+
+if: milan
+pos: NOM
+lf: milan
+is a term candidate: 1
+
+-----------------
+
+if: Choc
+pos: NOM
+lf: choc
+is a term candidate: 1
+
+-----------------
+
+if: cadavre
+pos: NOM
+lf: cadavre
+is a term candidate: 1
+
+-----------------
+
+if: collision directe
+pos: NOM ADJ
+lf: collision direct
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( collision<=H> directe<=M> )
+islands: 0
+
+
+-----------------
+
+if: difficiles à déterminer.Une des hypothèses
+pos: ADJ à NOM des NOM
+lf: difficile à déterminer.Une du hypothèse
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: suivi de la mortalité aviaire
+pos: NOM de DET:ART NOM ADJ
+lf: suivi de le mortalité aviaire
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( suivi<=H> de<=P> la<=D> ( mortalité<=H> aviaire<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: éoliennes du parc
+pos: NOM du NOM
+lf: éolienne du parc
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( éoliennes<=H> du<=P> parc<=M> )
+islands: 0
+
+
+-----------------
+
+if: éoliennes
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: conditions de la mortalité
+pos: NOM de DET:ART NOM
+lf: condition de le mortalité
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( conditions<=H> de<=P> la<=D> mortalité<=M> )
+islands: 0
+
+
+-----------------
+
+if: présence de tas de fumier
+pos: NOM de NOM de NOM
+lf: présence de tas de fumier
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: restes de plumes
+pos: NOM de NOM
+lf: reste de plume
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( restes<=H> de<=P> plumes<=M> )
+islands: 0
+
+
+-----------------
+
+if: espèce
+pos: NOM
+lf: espèce
+is a term candidate: 1
+
+-----------------
+
+if: bureau
+pos: NOM
+lf: bureau
+is a term candidate: 1
+
+-----------------
+
+if: comportements charognards
+pos: NOM NOM
+lf: comportement charognard
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( comportements<=H> charognards<=M> )
+islands: 0
+
+
+-----------------
+
+if: Mi-avril
+pos: NAM
+lf: Mi-avril
+is a term candidate: 1
+
+-----------------
+
+if: exploitants
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+
+if: études
+pos: NOM
+lf: étude
+is a term candidate: 1
+
+-----------------
+
+if: sol
+pos: NOM
+lf: sol
+is a term candidate: 1
+
+-----------------
+
+if: végétation haute un cadavre de milan royal
+pos: NOM ADJ DET:ART NOM de NOM ADJ
+lf: végétation haut un cadavre de milan royal
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+

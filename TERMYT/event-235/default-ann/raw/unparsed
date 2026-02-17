@@ -1,0 +1,202 @@
+if: espèce
+pos: NOM
+lf: espèce
+is a term candidate: 1
+
+-----------------
+
+if: pale
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: décès
+pos: NOM
+lf: décès
+is a term candidate: 1
+
+-----------------
+
+if: lieu
+pos: NOM
+lf: lieu
+is a term candidate: 1
+
+-----------------
+
+if: espèce vulnérable
+pos: NOM ADJ
+lf: espèce vulnérable
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( espèce<=H> vulnérable<=M> )
+islands: 0
+
+
+-----------------
+
+if: coucher du soleil
+pos: NOM du NOM
+lf: coucher du soleil
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( coucher<=H> du<=P> soleil<=M> )
+islands: 0
+
+
+-----------------
+
+if: arrêt du lever du soleil au coucher du soleil
+pos: NOM du NOM du NOM au NOM du NOM
+lf: arrêt du lever du soleil au coucher du soleil
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: étude
+pos: NOM
+lf: étude
+is a term candidate: 1
+
+-----------------
+
+if: bridage à 60 min
+pos: NOM à NUM NOM
+lf: bridage à 60 min
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: m
+pos: NOM
+lf: m
+is a term candidate: 1
+
+-----------------
+
+if: cause exacte
+pos: NOM ADJ
+lf: cause exact
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( cause<=H> exacte<=M> )
+islands: 0
+
+
+-----------------
+
+if: /ou
+pos: NAM
+lf: /ou
+is a term candidate: 1
+
+-----------------
+
+if: autopsie
+pos: NOM
+lf: autopsie
+is a term candidate: 1
+
+-----------------
+
+if: suivi environnemental
+pos: NOM ADJ
+lf: suivi environnemental
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( suivi<=H> environnemental<=M> )
+islands: 0
+
+
+-----------------
+
+if: lever
+pos: NOM
+lf: lever
+is a term candidate: 1
+
+-----------------
+
+if: collision
+pos: NOM
+lf: collision
+is a term candidate: 1
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: Choc
+pos: NOM
+lf: choc
+is a term candidate: 1
+
+-----------------
+
+if: mesures
+pos: NOM
+lf: mesure
+is a term candidate: 1
+
+-----------------
+
+if: période
+pos: NOM
+lf: période
+is a term candidate: 1
+
+-----------------
+
+if: faucon crécerellette
+pos: NOM ADJ
+lf: faucon crécerellette
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( faucon<=H> crécerellette<=M> )
+islands: 0
+
+
+-----------------
+
+if: sol
+pos: NOM
+lf: sol
+is a term candidate: 1
+
+-----------------
+
+if: bureau
+pos: NOM
+lf: bureau
+is a term candidate: 1
+
+-----------------
+

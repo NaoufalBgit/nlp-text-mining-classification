@@ -1,0 +1,209 @@
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: jours
+pos: NOM
+lf: jour
+is a term candidate: 1
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: Picardie
+pos: NAM
+lf: Picardie
+is a term candidate: 1
+
+-----------------
+
+if: sol
+pos: NOM
+lf: sol
+is a term candidate: 1
+
+-----------------
+
+if: enfouissement de déchets situé à 5 km du parc.Le suivi de la mortalité des oiseaux
+pos: NOM de NOM VER:pper à NUM ABR du NOM VER:pper de DET:ART NOM des NOM
+lf: enfouissement de déchet situer à 5 kilomètre du parc.Le suivre de le mortalité du oiseau
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: bureau
+pos: NOM
+lf: bureau
+is a term candidate: 1
+
+-----------------
+
+if: éoliennes
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: proximité
+pos: NOM
+lf: proximité
+is a term candidate: 1
+
+-----------------
+
+if: présente à proximité
+pos: ADJ à NOM
+lf: présent à proximité
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: études
+pos: NOM
+lf: étude
+is a term candidate: 1
+
+-----------------
+
+if: suivi environnemental
+pos: NOM ADJ
+lf: suivi environnemental
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( suivi<=H> environnemental<=M> )
+islands: 0
+
+
+-----------------
+
+if: migration de l' espèce.La météo
+pos: NOM de DET:ART NOM ADJ
+lf: migration de le espèce.La météo
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( migration<=H> de<=P> l'<=D> ( espèce.La<=H> météo<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: pale
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: cadavres de milan noir
+pos: NOM de NOM ADJ
+lf: cadavre de milan noir
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( cadavres<=H> de<=P> ( milan<=H> noir<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: centre
+pos: NOM
+lf: centre
+is a term candidate: 1
+
+-----------------
+
+if: ascendances thermiques
+pos: NOM ADJ
+lf: ascendance thermique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( ascendances<=H> thermiques<=M> )
+islands: 0
+
+
+-----------------
+
+if: oiseau
+pos: NOM
+lf: oiseau
+is a term candidate: 1
+
+-----------------
+
+if: Choc
+pos: NOM
+lf: choc
+is a term candidate: 1
+
+-----------------
+
+if: population importante de milan noir
+pos: NOM ADJ de NOM ADJ
+lf: population important de milan noir
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: collisions
+pos: NOM
+lf: collision
+is a term candidate: 1
+
+-----------------
+
+if: espèce critique
+pos: NOM ADJ
+lf: espèce critique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( espèce<=H> critique<=M> )
+islands: 0
+
+
+-----------------
+
+if: intervalle
+pos: NOM
+lf: intervalle
+is a term candidate: 1
+
+-----------------
+
+if: prise de hauteur
+pos: NOM de NOM
+lf: prise de hauteur
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( prise<=H> de<=P> hauteur<=M> )
+islands: 0
+
+
+-----------------
+

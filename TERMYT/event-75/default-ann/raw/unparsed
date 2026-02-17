@@ -1,0 +1,99 @@
+if: chute au sol
+pos: NOM au NOM
+lf: chute au sol
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( chute<=H> au<=P> sol<=M> )
+islands: 0
+
+
+-----------------
+
+if: vitesse excédant 25 m/s
+pos: NOM VER:ppre NUM NOM
+lf: vitesse excéder 25 m/s
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: arrêt automatique
+pos: NOM ADJ
+lf: arrêt automatique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( arrêt<=H> automatique<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: aérogénéreateurs
+pos: NOM
+lf: aérogénéreateurs
+is a term candidate: 1
+
+-----------------
+
+if: dégats
+pos: NOM
+lf: dégats
+is a term candidate: 1
+
+-----------------
+
+if: decroche
+pos: NOM
+lf: decroche
+is a term candidate: 1
+
+-----------------
+
+if: Chute de pale
+pos: NOM de NOM
+lf: chute de pale
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Chute<=H> de<=P> pale<=M> )
+islands: 0
+
+
+-----------------
+
+if: pale
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: cause de vent fort
+pos: NOM de NOM ADJ
+lf: cause de vent fort
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( cause<=H> de<=P> ( vent<=H> fort<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: parc
+pos: NOM
+lf: parc
+is a term candidate: 1
+
+-----------------
+

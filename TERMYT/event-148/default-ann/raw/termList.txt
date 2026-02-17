@@ -1,0 +1,24 @@
+# ID	Inflected form	Lemmatised form	Frequency	CValue	CValue1	CValuePlus	CValuePlus1	CValueStar	CValueStarH	CValueStarM	CValueStarR	CValueWCard	CValueWCardPlus	D	DDW	Freq	idf	ilnc	ilncFreq	iLong	IM	iTer	LLR	nbdoc4tc	NormFreq	tf	tf-idf	Head	Modifier	MainHead
+17	niveau du moteur	niveau du moteur	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	4	0.25	0.000115129154648748	1	0.25	0:1	0:0	18	19	18	
+3	feu reste	feu reste	1	1	1.58496250072116	1	1.58496250072116	N/A	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	4	0.333333333333333	0.000115129154648748	1	0.25	0:1	0:0	5	4	5	
+7	milieu périlleux	milieu périlleux	1	1	1.58496250072116	1	1.58496250072116	N/A	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	4	0.333333333333333	0.000115129154648748	1	0.25	0:1	0:0	8	9	8	
+22	éolienne	éolienne	4	0	4	0	4	N/A	N/A	N/A	4	0	0	1	0	4	0:0	0	0	4	N/A	2	N/A	1	1	0:4	0:0				
+19	moteur	moteur	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+8	milieu	milieu	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+21	huile	huile	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+15	hors-service.L'incendie	hors-service.L'incendie	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+5	reste	reste	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+18	niveau	niveau	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+2	électricité	électricité	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+20	arrêt	arrêt	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+4	feu	feu	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+6	Incendie	incendie	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+16	mât	mât	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+9	périlleux	périlleux	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+0	pompiers	pompier	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+11	fuite	fuite	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+12	groupe	groupe	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+1	feu	feu	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+10	intervention	intervention	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+14	place	place	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+13	13h25	13h25	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				

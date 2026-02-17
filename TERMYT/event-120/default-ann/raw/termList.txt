@@ -1,0 +1,95 @@
+# ID	Inflected form	Lemmatised form	Frequency	CValue	CValue1	CValuePlus	CValuePlus1	CValueStar	CValueStarH	CValueStarM	CValueStarR	CValueWCard	CValueWCardPlus	D	DDW	Freq	idf	ilnc	ilncFreq	iLong	IM	iTer	LLR	nbdoc4tc	NormFreq	tf	tf-idf	Head	Modifier	MainHead
+74	rupture de pale	rupture de pale	2	3.16992500144231	4	3.16992500144231	4	N/A	N/A	N/A	0.830074998557687	0	0	1	0	2	0:0	0	0	0.666666666666667	1.25	0.5	0.000112060551454184	1	0.4	0:2	0:0	75	42	75	
+87	périmètre de sécurité de 150 m	périmètre de sécurité de 150 m	1	2.58496250072116	2.8073549220576	2.58496250072116	2.8073549220576	N/A	N/A	N/A	0.222392421336448	0	0	1	0	1	0:0	0	0	0.166666666666667	5	0.142857142857143	0.000115129154648748	1	0.2	0:1	0:0	88	91	89	
+13	analyse des causes de l' incident	analyse du cause de le incident	1	2.58496250072116	2.8073549220576	2.58496250072116	2.8073549220576	N/A	N/A	N/A	0.222392421336448	0	0	1	0	1	0:0	0	0	0.166666666666667	5	0.142857142857143	0.000115129154648748	1	0.2	0:1	0:0	14	17	15	
+29	arrêt de la machine	arrêt de le machine	1	2	2.32192809488736	2	2.32192809488736	N/A	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	5	0.2	0.000115129154648748	1	0.2	0:1	0:0	30	31	30	
+81	système instrumenté de sécurité	système instrumenter de sécurité	1	2	2.32192809488736	2	2.32192809488736	N/A	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	1.66666666666667	0.2	0	1	0.2	0:1	0:0	82	2	83	
+50	autres pales du parc	autre pale du parc	1	2	2.32192809488736	2	2.32192809488736	1	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	0.833333333333333	0.2	0	1	0.2	0:1	0:0	51	41	6	
+7	place à 10h30	place à 10h30	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	5	0.25	0.000115129154648748	1	0.2	0:1	0:0	8	9	8	
+4	débris de pales	débris de pale	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	2.5	0.25	1.38627436101989	1	0.2	0:1	0:0	5	6	5	
+22	accès au site	accès au site	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	5	0.25	0.000115129154648748	1	0.2	0:1	0:0	23	24	23	
+70	service du parc	service du parc	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	0.833333333333333	0.25	0	1	0.2	0:1	0:0	71	41	71	
+106	impact de foudre	impact de foudre	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	5	0.25	0.000115129154648748	1	0.2	0:1	0:0	107	108	107	
+25	équipes de maintenance	équipe de maintenance	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	5	0.25	0.000115129154648748	1	0.2	0:1	0:0	26	27	26	
+0	agent de sécurité	agent de sécurité	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	1.66666666666667	0.25	0	1	0.2	0:1	0:0	1	2	1	
+10	inspection des installations	inspection du installation	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	5	0.25	0.000115129154648748	1	0.2	0:1	0:0	11	12	11	
+43	aide de drones	aide de drones	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	5	0.25	0.000115129154648748	1	0.2	0:1	0:0	44	45	44	
+39	ensemble du parc	ensemble du parc	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	0.416666666666667	0.25	1.31703289187794	1	0.2	0:1	0:0	40	41	40	
+77	redémarrage du parc	redémarrage du parc	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	0.833333333333333	0.25	0	1	0.2	0:1	0:0	78	41	78	
+94	contrôles visuels	contrôle visuel	1	1	1.58496250072116	1	1.58496250072116	N/A	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	5	0.333333333333333	0.000115129154648748	1	0.2	0:1	0:0	95	96	95	
+19	autre éolienne	autre éolienne	1	1	1.58496250072116	1	1.58496250072116	N/A	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	1.25	0.333333333333333	0.000115129154648748	1	0.2	0:1	0:0	18	20	18	
+58	sécurité.Des cordistes	sécurité.Des cordistes	1	1	1.58496250072116	1	1.58496250072116	N/A	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	5	0.333333333333333	0.000115129154648748	1	0.2	0:1	0:0	59	60	59	
+47	défauts similaires	défaut similaire	1	1	1.58496250072116	1	1.58496250072116	N/A	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	5	0.333333333333333	0.000115129154648748	1	0.2	0:1	0:0	48	49	48	
+41	parc	parc	5	0	5	0	7	N/A	N/A	1	N/A	4	6	1	0	5	0:0	0	0	5	N/A	2.5	N/A	1	1	0:5	0:0				
+42	pale	pale	4	0	2	0	6	N/A	N/A	2	N/A	2	6	1	0	4	0:0	0	0	4	N/A	2	N/A	1	0.8	0:4	0:0				
+18	éolienne	éolienne	4	0	3	0	5	N/A	3	N/A	N/A	3	5	1	0	4	0:0	1	1	4	N/A	4	N/A	1	0.8	0:4	0:0				
+2	sécurité	sécurité	3	0	2	0	4	N/A	N/A	0	N/A	2	4	1	0	3	0:0	0	0	3	N/A	1.5	N/A	1	0.6	0:3	0:0				
+75	rupture	rupture	2	0	0	0	4	N/A	0	N/A	N/A	0	4	1	0	2	0:0	1	2	2	N/A	2	N/A	1	0.4	0:2	0:0				
+55	exploitant	exploitant	2	0	2	0	2	N/A	N/A	N/A	2	0	0	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.4	0:2	0:0				
+40	ensemble	ensemble	2	0	1	0	3	N/A	0	N/A	N/A	1	3	1	0	2	0:0	2	2	2	N/A	3	N/A	1	0.4	0:2	0:0				
+80	réparation	réparation	2	0	1	0	3	N/A	N/A	1	N/A	1	3	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.4	0:2	0:0				
+6	pales	pale	2	0	1	0	3	1	1	1	N/A	1	3	1	0	2	0:0	1	1	2	N/A	2	N/A	1	0.4	0:2	0:0				
+5	débris	débris	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+44	aide	aide	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+30	arrêt	arrêt	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+28	ARIA	aria	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+73	alerte	alerte	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+96	visuels	visuel	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+92	150	150	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+59	sécurité.Des	sécurité.Des	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+26	équipes	équipe	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+93	m	m	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+11	inspection	inspection	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+49	similaires	similaire	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+84	instrumenté	instrumenter	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+91	150 m	150 m	1	0	0	2	3.16992500144231	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.5	5	0.333333333333333	0.000115129154648748	1	0.2	0:1	0:0	93	92	93	
+78	redémarrage	redémarrage	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+71	service	service	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+99	défaut de réparation au niveau	défaut de réparation au niveau	1	0	0	4.64385618977472	5.16992500144231	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.2	5	0.333333333333333	0.000115129154648748	1	0.2	0:1	0:0	100	103	101	
+36	issue	issue	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+38	mairie	mairie	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+62	ensemble des éoliennes du parc	ensemble du éolienne du parc	1	0	0	4.64385618977472	5.16992500144231	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.2	0.833333333333333	0.333333333333333	0	1	0.2	0:1	0:0	63	41	40	
+8	place	place	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+107	impact	impact	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+12	installations	installation	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+83	système	système	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+86	trou	trou	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+20	autre	autre	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+108	foudre	foudre	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+15	analyse	analyse	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+46	mise	mise	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+32	9h15	9h15	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+67	distance	distance	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+31	machine	machine	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+51	autres pales	autre pale	1	0	0	2	3.16992500144231	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.5	2.5	0.666666666666667	6.93134680530211e-06	1	0.2	0:1	0:0	6	52	6	
+95	contrôles	contrôle	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+63	ensemble des éoliennes	ensemble du éolienne	1	0	0	3.16992500144231	4	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	2.5	0.5	6.93134680530211e-06	1	0.2	0:1	0:0	40	65	40	
+104	bord	bord	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+17	incident	incident	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+24	site	site	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+101	défaut	défaut	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+34	technicien à l' issue	technicien à le issue	1	0	0	4	4.64385618977472	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.25	5	0.4	0.000115129154648748	1	0.2	0:1	0:0	35	36	35	
+16	causes	cause	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+1	agent	agent	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+60	cordistes	cordistes	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+105	fuite	fuite	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+68	suite	suite	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+69	arrêt.La	arrêt.La	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+35	technicien	technicien	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+45	drones	drones	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+103	niveau	niveau	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+100	défaut de réparation	défaut de réparation	1	0	0	3.16992500144231	4	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	2.5	0.5	0.000115129154648748	1	0.2	0:1	0:0	101	80	101	
+65	éoliennes	éolienne	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+88	périmètre de sécurité	périmètre de sécurité	1	0	0	3.16992500144231	4	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	1.66666666666667	0.5	0	1	0.2	0:1	0:0	89	2	89	
+9	10h30	10h30	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+57	objet	objet	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+3	nacelles	nacelle	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+23	accès	accès	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+89	périmètre	périmètre	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+37	fabrication	fabrication	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+82	système instrumenté	système instrumenter	1	0	0	2	3.16992500144231	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.5	5	0.666666666666667	0.000115129154648748	1	0.2	0:1	0:0	83	84	83	
+56	Casse	casse	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+52	autres	autre	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+14	analyse des causes	analyse du cause	1	0	0	3.16992500144231	4	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	5	0.5	0.000115129154648748	1	0.2	0:1	0:0	15	16	15	
+27	maintenance	maintenance	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+48	défauts	défaut	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				

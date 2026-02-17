@@ -1,0 +1,157 @@
+if: arrêté.Les pertes
+pos: ADJ NOM
+lf: arrêté.Les perte
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( arrêté.Les<=M> pertes<=H> )
+islands: 0
+
+
+-----------------
+
+if: système Probird
+pos: NOM NAM
+lf: système Probird
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( système<=H> Probird<=M> )
+islands: 0
+
+
+-----------------
+
+if: m
+pos: NOM
+lf: m
+is a term candidate: 1
+
+-----------------
+
+if: espèce
+pos: NOM
+lf: espèce
+is a term candidate: 1
+
+-----------------
+
+if: GWh de perdu.Une
+pos: NOM de NOM
+lf: GWh de perdu.Une
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( GWh<=H> de<=P> perdu.Une<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: exploitation
+pos: NOM
+lf: exploitation
+is a term candidate: 1
+
+-----------------
+
+if: circonstances de la collision
+pos: NOM de DET:ART NOM
+lf: circonstance de le collision
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( circonstances<=H> de<=P> la<=D> collision<=M> )
+islands: 0
+
+
+-----------------
+
+if: vidéos
+pos: NOM
+lf: vidéo
+is a term candidate: 1
+
+-----------------
+
+if: étude
+pos: NOM
+lf: étude
+is a term candidate: 1
+
+-----------------
+
+if: pale
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: oiseau
+pos: NOM
+lf: oiseau
+is a term candidate: 1
+
+-----------------
+
+if: Choc
+pos: NOM
+lf: choc
+is a term candidate: 1
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: collision
+pos: NOM
+lf: collision
+is a term candidate: 1
+
+-----------------
+
+if: éolienne Un cadavre de Milan Royal
+pos: ADJ DET:ART NOM de NAM NAM
+lf: éolien un cadavre de Milan Royal
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: site
+pos: NOM
+lf: site
+is a term candidate: 1
+
+-----------------
+
+if: K
+pos: NAM
+lf: K
+is a term candidate: 1
+
+-----------------
+
+if: fonctionnement du système de détection
+pos: NOM du NOM de NOM
+lf: fonctionnement du système de détection
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+

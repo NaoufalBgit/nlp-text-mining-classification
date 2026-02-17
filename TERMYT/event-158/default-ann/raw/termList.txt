@@ -1,0 +1,17 @@
+# ID	Inflected form	Lemmatised form	Frequency	CValue	CValue1	CValuePlus	CValuePlus1	CValueStar	CValueStarH	CValueStarM	CValueStarR	CValueWCard	CValueWCardPlus	D	DDW	Freq	idf	ilnc	ilncFreq	iLong	IM	iTer	LLR	nbdoc4tc	NormFreq	tf	tf-idf	Head	Modifier	MainHead
+11	huile hydraulique	huile hydraulique	2	2	3.16992500144231	2	3.16992500144231	N/A	N/A	N/A	1.16992500144231	0	0	1	0	2	0:0	0	0	1	1	0.666666666666667	0.000112060551454184	1	1	0:2	0:0	12	13	12	
+7	intervention de maintenance	intervention de maintenance	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	2	0.25	0.000115129154648748	1	0.5	0:1	0:0	8	9	8	
+4	t de terres	t de terre	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	2	0.25	0.000115129154648748	1	0.5	0:1	0:0	5	6	5	
+13	hydraulique	hydraulique	2	0	0	0	4	N/A	N/A	0	N/A	0	4	1	0	2	0:0	0	0	2	N/A	1	N/A	1	1	0:2	0:0				
+12	huile	huile	2	0	0	0	4	N/A	0	N/A	N/A	0	4	1	0	2	0:0	1	2	2	N/A	2	N/A	1	1	0:2	0:0				
+2	Déversement	déversement	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+14	sol	sol	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+15	m²	m²	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+0	filière	filière	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+6	terres	terre	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+1	éolienne	éolienne	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+5	t	t	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.5	0:1	0:0				
+3	produit	produit	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+8	intervention	intervention	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.5	0:1	0:0				
+9	maintenance	maintenance	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+10	l	l	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				

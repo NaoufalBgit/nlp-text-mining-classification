@@ -1,0 +1,110 @@
+if: suivi de la mortalité aviaire
+pos: NOM de DET:ART NOM ADJ
+lf: suivi de le mortalité aviaire
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( suivi<=H> de<=P> la<=D> ( mortalité<=H> aviaire<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: espèce menacée au niveau local
+pos: NOM VER:pper au NOM ADJ
+lf: espèce menacer au niveau local
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: faucon crécerelle adulte
+pos: NOM NOM ADJ
+lf: faucon crécerelle adulte
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: cadavre de faucon crécerelle au pied
+pos: NOM de NOM NOM au NOM
+lf: cadavre de faucon crécerelle au pied
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: origine de la mort
+pos: NOM de DET:ART NOM
+lf: origine de le mort
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( origine<=H> de<=P> la<=D> mort<=M> )
+islands: 0
+
+
+-----------------
+
+if: études
+pos: NOM
+lf: étude
+is a term candidate: 1
+
+-----------------
+
+if: m
+pos: NOM
+lf: m
+is a term candidate: 1
+
+-----------------
+
+if: bureau
+pos: NOM
+lf: bureau
+is a term candidate: 1
+
+-----------------
+
+if: phénomène de barotraumatisme
+pos: NOM de NOM
+lf: phénomène de barotraumatisme
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( phénomène<=H> de<=P> barotraumatisme<=M> )
+islands: 0
+
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: sol
+pos: NOM
+lf: sol
+is a term candidate: 1
+
+-----------------
+

@@ -1,0 +1,134 @@
+if: mât
+pos: NOM
+lf: mât
+is a term candidate: 1
+
+-----------------
+
+if: 13h25
+pos: NAM
+lf: 13h25
+is a term candidate: 1
+
+-----------------
+
+if: feu
+pos: NOM
+lf: feu
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: pompiers
+pos: NOM
+lf: pompier
+is a term candidate: 1
+
+-----------------
+
+if: hors-service.L'incendie
+pos: NOM
+lf: hors-service.L'incendie
+is a term candidate: 1
+
+-----------------
+
+if: feu reste
+pos: ADJ NOM
+lf: feu reste
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( feu<=M> reste<=H> )
+islands: 0
+
+
+-----------------
+
+if: niveau du moteur
+pos: NOM du NOM
+lf: niveau du moteur
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( niveau<=H> du<=P> moteur<=M> )
+islands: 0
+
+
+-----------------
+
+if: arrêt
+pos: NOM
+lf: arrêt
+is a term candidate: 1
+
+-----------------
+
+if: groupe
+pos: NOM
+lf: groupe
+is a term candidate: 1
+
+-----------------
+
+if: électricité
+pos: NOM
+lf: électricité
+is a term candidate: 1
+
+-----------------
+
+if: intervention
+pos: NOM
+lf: intervention
+is a term candidate: 1
+
+-----------------
+
+if: Incendie
+pos: NOM
+lf: incendie
+is a term candidate: 1
+
+-----------------
+
+if: fuite
+pos: NOM
+lf: fuite
+is a term candidate: 1
+
+-----------------
+
+if: huile
+pos: NOM
+lf: huile
+is a term candidate: 1
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: milieu périlleux
+pos: NOM ADJ
+lf: milieu périlleux
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( milieu<=H> périlleux<=M> )
+islands: 0
+
+
+-----------------
+

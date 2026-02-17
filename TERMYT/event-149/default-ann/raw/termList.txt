@@ -1,0 +1,61 @@
+# ID	Inflected form	Lemmatised form	Frequency	CValue	CValue1	CValuePlus	CValuePlus1	CValueStar	CValueStarH	CValueStarM	CValueStarR	CValueWCard	CValueWCardPlus	D	DDW	Freq	idf	ilnc	ilncFreq	iLong	IM	iTer	LLR	nbdoc4tc	NormFreq	tf	tf-idf	Head	Modifier	MainHead
+26	carbone de fixation de l' aérofrein	carbone de fixation de le aérofrein	1	2.58496250072116	2.8073549220576	2.58496250072116	2.8073549220576	N/A	N/A	N/A	0.222392421336448	0	0	1	0	1	0:0	0	0	0.166666666666667	2	0.142857142857143	0.000115129154648748	1	0.5	0:1	0:0	27	30	28	
+6	Chute de 3 aérofreins	chute de 3 aérofrein	1	2	2.32192809488736	2	2.32192809488736	N/A	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	2	0.2	0.000115129154648748	1	0.5	0:1	0:0	7	8	7	
+3	pied du mât	pied du mât	2	1.58496250072116	2	4.75488750216347	6	N/A	N/A	0.415037499278844	N/A	1	3	1	0	2	0:0	0	0	0.666666666666667	1	0.5	1.09859895531206e-05	1	1	0:2	0:0	4	5	4	
+52	parc au début	parc au début	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	1	0.25	0.000115129154648748	1	0.5	0:1	0:0	53	54	53	
+31	extrémité des pales	extrémité du pale	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	2	0.25	0.000115129154648748	1	0.5	0:1	0:0	32	33	32	
+16	fibre de verre	fibre de verre	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	2	0.25	0.000115129154648748	1	0.5	0:1	0:0	17	18	17	
+47	constatée.Un accident similaire	constatée.Un accident similaire	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	2	0.25	0.000115129154648748	1	0.5	0:1	0:0	48	51	50	
+41	rupture des parties	rupture du partie	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	2	0.25	0.000115129154648748	1	0.5	0:1	0:0	42	43	42	
+55	filaire agréée.L'éolienne	filaire agréée.L'éolien	1	1	1.58496250072116	1	1.58496250072116	N/A	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	2	0.333333333333333	0.000115129154648748	1	0.5	0:1	0:0	56	57	56	
+13	équipe technique	équipe technique	1	1	1.58496250072116	1	1.58496250072116	N/A	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	2	0.333333333333333	0.000115129154648748	1	0.5	0:1	0:0	14	15	14	
+5	mât	mât	2	0	0.5	0	3.5	N/A	N/A	-1	N/A	0.5	3.5	1	0	2	0:0	0	0	2	N/A	1	N/A	1	1	0:2	0:0				
+11	sécurité	sécurité	2	0	1	0	3	N/A	N/A	1	N/A	1	3	1	0	2	0:0	0	0	2	N/A	1	N/A	1	1	0:2	0:0				
+4	pied	pied	2	0	0.5	0	3.5	N/A	-1	N/A	N/A	0.5	3.5	1	0	2	0:0	2	3	2	N/A	3	N/A	1	1	0:2	0:0				
+0	éolienne	éolienne	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+8	3 aérofreins	3 aérofrein	1	0	0	2	3.16992500144231	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.5	0.5	0.333333333333333	0.000115129154648748	1	0.5	0:1	0:0	10	9	10	
+1	incident	incident	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+7	Chute	chute	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.5	0:1	0:0				
+53	parc	parc	1	0	1	0	3	N/A	1	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.5	0:1	0:0				
+33	pales	pale	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+10	aérofreins	aérofrein	1	0	1	0	3	N/A	1	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.5	0:1	0:0				
+29	fixation	fixation	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+45	site	site	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+38	ouverture	ouverture	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+50	accident	accident	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.5	0:1	0:0				
+21	raison	raison	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.5	0:1	0:0				
+24	installation	installation	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+48	constatée.Un accident	constatée.Un accident	1	0	0	2	3.16992500144231	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.5	2	0.666666666666667	0.000115129154648748	1	0.5	0:1	0:0	50	49	50	
+17	fibre	fibre	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.5	0:1	0:0				
+12	traitement	traitement	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+9	3	3	1	0	1	0	3	N/A	N/A	1	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+28	carbone	carbone	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.5	0:1	0:0				
+2	débris	débris	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+64	m	m	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.5	0:1	0:0				
+20	raison de l' arrêt	raison de le arrêt	1	0	0	4	4.64385618977472	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.25	2	0.4	0.000115129154648748	1	0.5	0:1	0:0	21	22	21	
+18	verre	verre	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+39	chaîne	chaîne	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+46	sol	sol	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+57	agréée.L'éolienne	agréée.L'éolien	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+58	axe	axe	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+60	rayon	rayon	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.5	0:1	0:0				
+30	aérofrein	aérofrein	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+37	suite	suite	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.5	0:1	0:0				
+49	constatée.Un	constatée.Un	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+63	m au pied du mât	m au pied du mât	1	0	0	4.64385618977472	5.16992500144231	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.2	1	0.333333333333333	0.000115129154648748	1	0.5	0:1	0:0	64	3	64	
+32	extrémité	extrémité	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.5	0:1	0:0				
+61	150 m au pied du mât	150 m au pied du mât	1	0	0	5.16992500144231	5.61470984411521	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.166666666666667	2	0.142857142857143	0.000115129154648748	1	0.5	0:1	0:0	63	62	64	
+51	similaire	similaire	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+43	parties	partie	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+25	ARIA	aria	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+27	carbone de fixation	carbone de fixation	1	0	0	3.16992500144231	4	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	2	0.5	0.000115129154648748	1	0.5	0:1	0:0	28	29	28	
+42	rupture	rupture	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.5	0:1	0:0				
+44	recyclage	recyclage	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+62	150	150	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+14	équipe	équipe	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.5	0:1	0:0				
+36	suite de l' ouverture	suite de le ouverture	1	0	0	4	4.64385618977472	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.25	2	0.4	0.000115129154648748	1	0.5	0:1	0:0	37	38	37	
+56	filaire	filaire	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.5	0:1	0:0				
+15	technique	technique	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+54	début	début	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+23	aérogénérateur	aérogénérateur	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+22	arrêt	arrêt	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				

@@ -1,0 +1,412 @@
+if: France
+pos: NAM
+lf: France
+is a term candidate: 1
+
+-----------------
+
+if: agents de maintenance
+pos: NOM de NOM
+lf: agent de maintenance
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( agents<=H> de<=P> maintenance<=M> )
+islands: 0
+
+
+-----------------
+
+if: transformateur électrique
+pos: NOM ADJ
+lf: transformateur électrique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( transformateur<=H> électrique<=M> )
+islands: 0
+
+
+-----------------
+
+if: type de défaut
+pos: NOM de NOM
+lf: type de défaut
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( type<=H> de<=P> défaut<=M> )
+islands: 0
+
+
+-----------------
+
+if: défaillance de l' arbre lent
+pos: NOM de DET:ART NOM ADJ
+lf: défaillance de le arbre lent
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( défaillance<=H> de<=P> l'<=D> ( arbre<=H> lent<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: même niveau
+pos: ADJ NOM
+lf: même niveau
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( même<=M> niveau<=H> )
+islands: 0
+
+
+-----------------
+
+if: défaut métallurgique
+pos: NOM ADJ
+lf: défaut métallurgique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( défaut<=H> métallurgique<=M> )
+islands: 0
+
+
+-----------------
+
+if: jonction
+pos: NOM
+lf: jonction
+is a term candidate: 1
+
+-----------------
+
+if: accidenté.Au total 54 éoliennes du même modèle
+pos: NOM ADJ NUM NOM du ADJ NOM
+lf: accidenté.Au total 54 éolienne du même modèle
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: pied
+pos: NOM
+lf: pied
+is a term candidate: 1
+
+-----------------
+
+if: m de haut
+pos: NOM de ADJ
+lf: m de haut
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: nacelle
+pos: NOM
+lf: nacelle
+is a term candidate: 1
+
+-----------------
+
+if: centre de supervision à distance du parc
+pos: NOM de NOM à NOM du NOM
+lf: centre de supervision à distance du parc
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: huile
+pos: NOM
+lf: huile
+is a term candidate: 1
+
+-----------------
+
+if: zone
+pos: NOM
+lf: zone
+is a term candidate: 1
+
+-----------------
+
+if: perte de communication
+pos: NOM de NOM
+lf: perte de communication
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( perte<=H> de<=P> communication<=M> )
+islands: 0
+
+
+-----------------
+
+if: suite des contrôles
+pos: NOM des NOM
+lf: suite du contrôle
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( suite<=H> des<=P> contrôles<=M> )
+islands: 0
+
+
+-----------------
+
+if: évidence
+pos: NOM
+lf: évidence
+is a term candidate: 1
+
+-----------------
+
+if: sol
+pos: NOM
+lf: sol
+is a term candidate: 1
+
+-----------------
+
+if: contrôles
+pos: NOM
+lf: contrôle
+is a term candidate: 1
+
+-----------------
+
+if: ramassés.Selon
+pos: NOM
+lf: ramassés.Selon
+is a term candidate: 1
+
+-----------------
+
+if: origine
+pos: NOM
+lf: origine
+is a term candidate: 1
+
+-----------------
+
+if: 22h30
+pos: NAM
+lf: 22h30
+is a term candidate: 1
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: pièce
+pos: NOM
+lf: pièce
+is a term candidate: 1
+
+-----------------
+
+if: rotor
+pos: NOM
+lf: rotor
+is a term candidate: 1
+
+-----------------
+
+if: fatigue
+pos: NOM
+lf: fatigue
+is a term candidate: 1
+
+-----------------
+
+if: processus de moulage
+pos: NOM de NOM
+lf: processus de moulage
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( processus<=H> de<=P> moulage<=M> )
+islands: 0
+
+
+-----------------
+
+if: programme de contrôle
+pos: NOM de NOM
+lf: programme de contrôle
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( programme<=H> de<=P> contrôle<=M> )
+islands: 0
+
+
+-----------------
+
+if: découple du réseau
+pos: NOM du NOM
+lf: découple du réseau
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( découple<=H> du<=P> réseau<=M> )
+islands: 0
+
+
+-----------------
+
+if: autres arbres lents du même parc
+pos: ADJ NOM ADJ du ADJ NOM
+lf: autre arbre lent du même parc
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: acier
+pos: NOM
+lf: acier
+is a term candidate: 1
+
+-----------------
+
+if: services du ministère du développement durable
+pos: NOM du NOM du NOM ADJ
+lf: service du ministère du développement durable
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: autres arbres lents
+pos: ADJ NOM ADJ
+lf: autre arbre lent
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: pièce de fonderie
+pos: NOM de NOM
+lf: pièce de fonderie
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( pièce<=H> de<=P> fonderie<=M> )
+islands: 0
+
+
+-----------------
+
+if: défaut de fabrication de la pièce
+pos: NOM de NOM de DET:ART NOM
+lf: défaut de fabrication de le pièce
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: rupture
+pos: NOM
+lf: rupture
+is a term candidate: 1
+
+-----------------
+
+if: autres éoliennes du parc
+pos: ADJ NOM du NOM
+lf: autre éolienne du parc
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: Chute des pales
+pos: NOM des NOM
+lf: chute du pale
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Chute<=H> des<=P> pales<=M> )
+islands: 0
+
+
+-----------------
+
+if: lendemain
+pos: NOM
+lf: lendemain
+is a term candidate: 1
+
+-----------------
+
+if: rétention
+pos: NOM
+lf: rétention
+is a term candidate: 1
+
+-----------------
+
+if: m²
+pos: NOM
+lf: m²
+is a term candidate: 1
+
+-----------------
+
+if: arrêt
+pos: NOM
+lf: arrêt
+is a term candidate: 1
+
+-----------------
+
+if: type inclusion de laitier
+pos: NOM NOM de NOM
+lf: type inclusion de laitier
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: non-conformité
+pos: NOM
+lf: non-conformité
+is a term candidate: 1
+
+-----------------
+
+if: débris
+pos: NOM
+lf: débris
+is a term candidate: 1
+
+-----------------
+

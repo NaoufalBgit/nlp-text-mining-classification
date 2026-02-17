@@ -1,0 +1,124 @@
+if: novembre
+pos: NOM
+lf: novembre
+is a term candidate: 1
+
+-----------------
+
+if: m
+pos: NOM
+lf: m
+is a term candidate: 1
+
+-----------------
+
+if: déplorer.L'enchaînement
+pos: NOM
+lf: déplorer.L'enchaînement
+is a term candidate: 1
+
+-----------------
+
+if: accident
+pos: NOM
+lf: accident
+is a term candidate: 1
+
+-----------------
+
+if: blessé
+pos: NOM
+lf: blessé
+is a term candidate: 1
+
+-----------------
+
+if: champ
+pos: NOM
+lf: champ
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: ARIA
+pos: NOM
+lf: aria
+is a term candidate: 1
+
+-----------------
+
+if: tribunal administratif de Rennes
+pos: NOM ADJ de NAM
+lf: tribunal administratif de Rennes
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: site
+pos: NOM
+lf: site
+is a term candidate: 1
+
+-----------------
+
+if: morceaux de pales
+pos: NOM de NOM
+lf: morceau de pale
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( morceaux<=H> de<=P> pales<=M> )
+islands: 0
+
+
+-----------------
+
+if: matinée de vent fort
+pos: NOM de NOM ADJ
+lf: matinée de vent fort
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( matinée<=H> de<=P> ( vent<=H> fort<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: autre similaire survenu 2 semaines
+pos: ADJ ADJ VER:pper NUM NOM
+lf: autre similaire survenir 2 semaine
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: permis
+pos: NOM
+lf: permis
+is a term candidate: 1
+
+-----------------
+
+if: Chute de morceaux
+pos: NOM de NOM
+lf: chute de morceau
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Chute<=H> de<=P> morceaux<=M> )
+islands: 0
+
+
+-----------------
+

@@ -1,0 +1,211 @@
+if: mât
+pos: NOM
+lf: mât
+is a term candidate: 1
+
+-----------------
+
+if: production
+pos: NOM
+lf: production
+is a term candidate: 1
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: traînée
+pos: NOM
+lf: traînée
+is a term candidate: 1
+
+-----------------
+
+if: jours
+pos: NOM
+lf: jour
+is a term candidate: 1
+
+-----------------
+
+if: place des boudins absorbants
+pos: NOM des NOM ADJ
+lf: place du boudin absorbant
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( place<=H> des<=P> ( boudins<=H> absorbants<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: opération de maintenance
+pos: NOM de NOM
+lf: opération de maintenance
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( opération<=H> de<=P> maintenance<=M> )
+islands: 0
+
+
+-----------------
+
+if: pression
+pos: NOM
+lf: pression
+is a term candidate: 1
+
+-----------------
+
+if: bac de rétention
+pos: NOM de NOM
+lf: bac de rétention
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( bac<=H> de<=P> rétention<=M> )
+islands: 0
+
+
+-----------------
+
+if: machine de nouveau
+pos: NOM de ADJ
+lf: machine de nouveau
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: huile
+pos: NOM
+lf: huile
+is a term candidate: 1
+
+-----------------
+
+if: tour
+pos: NOM
+lf: tour
+is a term candidate: 1
+
+-----------------
+
+if: techniciens
+pos: NOM
+lf: technicien
+is a term candidate: 1
+
+-----------------
+
+if: Fuite
+pos: NOM
+lf: fuite
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: bar
+pos: NOM
+lf: bar
+is a term candidate: 1
+
+-----------------
+
+if: circuit de refroidissement de la boîte de vitesses
+pos: NOM de NOM de DET:ART NOM de NOM
+lf: circuit de refroidissement de le boîte de vitesse
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: traces
+pos: NOM
+lf: trace
+is a term candidate: 1
+
+-----------------
+
+if: pied de machine
+pos: NOM de NOM
+lf: pied de machine
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( pied<=H> de<=P> machine<=M> )
+islands: 0
+
+
+-----------------
+
+if: arrêtée.80
+pos: NOM
+lf: arrêtée.80
+is a term candidate: 1
+
+-----------------
+
+if: exploitant
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+
+if: m
+pos: NOM
+lf: m
+is a term candidate: 1
+
+-----------------
+
+if: vingtaine de litres
+pos: NOM de NOM
+lf: vingtaine de litre
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( vingtaine<=H> de<=P> litres<=M> )
+islands: 0
+
+
+-----------------
+
+if: suintement au niveau du sertissage
+pos: NOM au NOM du NOM
+lf: suintement au niveau du sertissage
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: nacelle
+pos: NOM
+lf: nacelle
+is a term candidate: 1
+
+-----------------
+

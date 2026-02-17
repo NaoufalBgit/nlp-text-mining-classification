@@ -1,0 +1,38 @@
+# ID	Inflected form	Lemmatised form	Frequency	CValue	CValue1	CValuePlus	CValuePlus1	CValueStar	CValueStarH	CValueStarM	CValueStarR	CValueWCard	CValueWCardPlus	D	DDW	Freq	idf	ilnc	ilncFreq	iLong	IM	iTer	LLR	nbdoc4tc	NormFreq	tf	tf-idf	Head	Modifier	MainHead
+22	possibilités de réduction des zones	possibilité de réduction du zone	1	2.32192809488736	2.58496250072116	2.32192809488736	2.58496250072116	N/A	N/A	N/A	0.263034405833794	0	0	1	0	1	0:0	0	0	0.2	3	0.166666666666667	0.000115129154648748	1	0.333333333333333	0:1	0:0	23	26	24	
+31	suivi de mortalité hebdomadaire	suivi de mortalité hebdomadaire	1	2	2.32192809488736	2	2.32192809488736	N/A	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	3	0.2	0.000115129154648748	1	0.333333333333333	0:1	0:0	32	33	32	
+6	observation de chasse	observation de chasse	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	3	0.25	0.000115129154648748	1	0.333333333333333	0:1	0:0	7	8	7	
+3	bout de pale.L'exploitant	bout de pale.L'exploitant	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	3	0.25	0.000115129154648748	1	0.333333333333333	0:1	0:0	4	5	4	
+13	système de détection	système de détection	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	3	0.25	0.000115129154648748	1	0.333333333333333	0:1	0:0	14	15	14	
+0	faucon crécerelle	faucon crécerelle	1	1	1.58496250072116	1	1.58496250072116	N/A	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	3	0.333333333333333	0.000115129154648748	1	0.333333333333333	0:1	0:0	1	2	1	
+10	éolienne	éolienne	3	0	3	0	3	N/A	N/A	N/A	3	0	0	1	0	3	0:0	0	0	3	N/A	1.5	N/A	1	1	0:3	0:0				
+11	collision	collision	2	0	2	0	2	N/A	N/A	N/A	2	0	0	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.666666666666667	0:2	0:0				
+26	zones	zone	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+4	bout	bout	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.333333333333333	0:1	0:0				
+34	mortalité	mortalité	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.333333333333333	0:1	0:0				
+15	détection	détection	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+14	système	système	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.333333333333333	0:1	0:0				
+1	faucon	faucon	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.333333333333333	0:1	0:0				
+18	perchoir	perchoir	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+28	espèce	espèce	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+35	hebdomadaire	hebdomadaire	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+8	chasse	chasse	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+7	observation	observation	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.333333333333333	0:1	0:0				
+2	crécerelle	crécerelle	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+19	site	site	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+20	poste	poste	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+25	réduction	réduction	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+29	trouvé.L'oiseau	trouvé.L'oiseau	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+36	secondes	seconde|second	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+23	possibilités de réduction	possibilité de réduction	1	0	0	3.16992500144231	4	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	3	0.5	0.000115129154648748	1	0.333333333333333	0:1	0:0	24	25	24	
+17	Choc	choc	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+9	pale	pale	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+32	suivi	suivi	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.333333333333333	0:1	0:0				
+27	bureau	bureau	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+24	possibilités	possibilité	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.333333333333333	0:1	0:0				
+12	études	étude	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+5	pale.L'exploitant	pale.L'exploitant	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+30	nacelle	nacelle	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+16	cadavre	cadavre	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+33	mortalité hebdomadaire	mortalité hebdomadaire	1	0	0	2	3.16992500144231	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.5	3	0.333333333333333	0.000115129154648748	1	0.333333333333333	0:1	0:0	34	35	34	
+21	oiseau	oiseau	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				

@@ -1,0 +1,153 @@
+if: accès au site
+pos: NOM au NOM
+lf: accès au site
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( accès<=H> au<=P> site<=M> )
+islands: 0
+
+
+-----------------
+
+if: exploitant
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+
+if: technicien de maintenance
+pos: NOM de NOM
+lf: technicien de maintenance
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( technicien<=H> de<=P> maintenance<=M> )
+islands: 0
+
+
+-----------------
+
+if: périmètre de sécurité
+pos: NOM de NOM
+lf: périmètre de sécurité
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( périmètre<=H> de<=P> sécurité<=M> )
+islands: 0
+
+
+-----------------
+
+if: incident
+pos: NOM
+lf: incident
+is a term candidate: 1
+
+-----------------
+
+if: dommages
+pos: NOM
+lf: dommage
+is a term candidate: 1
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: pompiers
+pos: NOM
+lf: pompier
+is a term candidate: 1
+
+-----------------
+
+if: lendemain
+pos: NOM
+lf: lendemain
+is a term candidate: 1
+
+-----------------
+
+if: causes profondes
+pos: NOM ADJ
+lf: cause profond
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( causes<=H> profondes<=M> )
+islands: 0
+
+
+-----------------
+
+if: Endommagement
+pos: NOM
+lf: endommagement
+is a term candidate: 1
+
+-----------------
+
+if: aileron
+pos: NOM
+lf: aileron
+is a term candidate: 1
+
+-----------------
+
+if: tempête
+pos: NOM
+lf: tempête
+is a term candidate: 1
+
+-----------------
+
+if: nacelle
+pos: NOM
+lf: nacelle
+is a term candidate: 1
+
+-----------------
+
+if: passage de la tempête Ciara
+pos: NOM de DET:ART NOM NAM
+lf: passage de le tempête Ciara
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: mise
+pos: NOM
+lf: mise
+is a term candidate: 1
+
+-----------------
+
+if: aileron de la nacelle
+pos: NOM de DET:ART NOM
+lf: aileron de le nacelle
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( aileron<=H> de<=P> la<=D> nacelle<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+

@@ -1,0 +1,136 @@
+if: électricité
+pos: NOM
+lf: électricité
+is a term candidate: 1
+
+-----------------
+
+if: réseau de distribution
+pos: NOM de NOM
+lf: réseau de distribution
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( réseau<=H> de<=P> distribution<=M> )
+islands: 0
+
+
+-----------------
+
+if: m de haut
+pos: NOM de ADJ
+lf: m de haut
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: vingtaine
+pos: NOM
+lf: vingtaine
+is a term candidate: 1
+
+-----------------
+
+if: incendie
+pos: NOM
+lf: incendie
+is a term candidate: 1
+
+-----------------
+
+if: Feu
+pos: NOM
+lf: feu
+is a term candidate: 1
+
+-----------------
+
+if: incidence
+pos: NOM
+lf: incidence
+is a term candidate: 1
+
+-----------------
+
+if: autres générateurs du parc continue
+pos: ADJ NOM du NOM ADJ
+lf: autre générateur du parc continu
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: flammes
+pos: NOM
+lf: flamme
+is a term candidate: 1
+
+-----------------
+
+if: éléments électroniques
+pos: NOM ADJ
+lf: élément électronique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( éléments<=H> électroniques<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: mât
+pos: NOM
+lf: mât
+is a term candidate: 1
+
+-----------------
+
+if: manque de combustible
+pos: NOM de NOM
+lf: manque de combustible
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( manque<=H> de<=P> combustible<=M> )
+islands: 0
+
+
+-----------------
+
+if: nacelle
+pos: NOM
+lf: nacelle
+is a term candidate: 1
+
+-----------------
+
+if: matinée
+pos: NOM
+lf: matinée
+is a term candidate: 1
+
+-----------------
+
+if: arrivée des secours
+pos: NOM des NOM
+lf: arrivée du secours
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( arrivée<=H> des<=P> secours<=M> )
+islands: 0
+
+
+-----------------
+

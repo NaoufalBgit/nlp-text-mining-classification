@@ -1,0 +1,44 @@
+# ID	Inflected form	Lemmatised form	Frequency	CValue	CValue1	CValuePlus	CValuePlus1	CValueStar	CValueStarH	CValueStarM	CValueStarR	CValueWCard	CValueWCardPlus	D	DDW	Freq	idf	ilnc	ilncFreq	iLong	IM	iTer	LLR	nbdoc4tc	NormFreq	tf	tf-idf	Head	Modifier	MainHead
+22	migration de l' espèce.La météo	migration de le espèce.La météo	1	2.32192809488736	2.58496250072116	2.32192809488736	2.58496250072116	N/A	N/A	N/A	0.263034405833794	0	0	1	0	1	0:0	0	0	0.2	2	0.166666666666667	0.000115129154648748	1	0.5	0:1	0:0	23	24	23	
+4	population importante de milan noir	population important de milan noir	1	2.32192809488736	2.58496250072116	2.32192809488736	2.58496250072116	N/A	N/A	N/A	0.263034405833794	0	0	1	0	1	0:0	0	0	0.2	1	0.166666666666667	0	1	0.5	0:1	0:0	5	8	6	
+36	cadavres de milan noir	cadavre de milan noir	1	2	2.32192809488736	2	2.32192809488736	N/A	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	1	0.2	0	1	0.5	0:1	0:0	37	8	37	
+27	prise de hauteur	prise de hauteur	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	2	0.25	0.000115129154648748	1	0.5	0:1	0:0	28	29	28	
+8	milan noir	milan noir	2	1	1.58496250072116	3	4.75488750216347	N/A	N/A	0	N/A	1	3	1	0	2	0:0	0	0	1	1	0.666666666666667	1.09859895531206e-05	1	1	0:2	0:0	9	10	9	
+15	suivi environnemental	suivi environnemental	1	1	1.58496250072116	1	1.58496250072116	N/A	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	2	0.333333333333333	0.000115129154648748	1	0.5	0:1	0:0	16	17	16	
+18	ascendances thermiques	ascendance thermique	1	1	1.58496250072116	1	1.58496250072116	N/A	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	2	0.333333333333333	0.000115129154648748	1	0.5	0:1	0:0	19	20	19	
+30	parc éolien	parc éolien	1	1	1.58496250072116	1	1.58496250072116	N/A	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	2	0.333333333333333	0.000115129154648748	1	0.5	0:1	0:0	31	32	31	
+43	espèce critique	espèce critique	1	1	1.58496250072116	1	1.58496250072116	N/A	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	2	0.333333333333333	0.000115129154648748	1	0.5	0:1	0:0	44	45	44	
+10	noir	noir	2	0	0.5	0	3.5	N/A	N/A	-1	N/A	0.5	3.5	1	0	2	0:0	0	0	2	N/A	1	N/A	1	1	0:2	0:0				
+9	milan	milan	2	0	0.5	0	3.5	N/A	-1	N/A	N/A	0.5	3.5	1	0	2	0:0	2	3	2	N/A	3	N/A	1	1	0:2	0:0				
+5	population importante	population important	1	0	0	2	3.16992500144231	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.5	2	0.666666666666667	0.000115129154648748	1	0.5	0:1	0:0	6	7	6	
+20	thermiques	thermique	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+13	éolienne	éolienne	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+3	jours	jour	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+23	migration	migration	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.5	0:1	0:0				
+35	bureau	bureau	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+45	critique	critique	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+19	ascendances	ascendance	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.5	0:1	0:0				
+28	prise	prise	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.5	0:1	0:0				
+37	cadavres	cadavre	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.5	0:1	0:0				
+17	environnemental	environnemental	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+21	Choc	choc	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+11	proximité	proximité	1	0	2	0	2	N/A	N/A	N/A	2	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+16	suivi	suivi	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.5	0:1	0:0				
+44	espèce	espèce	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.5	0:1	0:0				
+26	météo	météo	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+25	espèce.La	espèce.La	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.5	0:1	0:0				
+41	études	étude	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+34	sol	sol	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+14	intervalle	intervalle	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+42	collisions	collision	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+24	espèce.La météo	espèce.La météo	1	0	0	2	3.16992500144231	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.5	2	0.333333333333333	0.000115129154648748	1	0.5	0:1	0:0	25	26	25	
+7	importante	important	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+6	population	population	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.5	0:1	0:0				
+2	éoliennes	éolienne	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+31	parc	parc	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.5	0:1	0:0				
+12	pale	pale	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+32	éolien	éolien	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+1	oiseau	oiseau	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+33	centre	centre	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+29	hauteur	hauteur	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+0	Picardie	Picardie	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				

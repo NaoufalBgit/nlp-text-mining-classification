@@ -1,0 +1,254 @@
+if: intervention humaine
+pos: NOM ADJ
+lf: intervention humain
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( intervention<=H> humaine<=M> )
+islands: 0
+
+
+-----------------
+
+if: sécurité
+pos: NOM
+lf: sécurité
+is a term candidate: 1
+
+-----------------
+
+if: hélice
+pos: NOM
+lf: hélice
+is a term candidate: 1
+
+-----------------
+
+if: habitation
+pos: NOM
+lf: habitation
+is a term candidate: 1
+
+-----------------
+
+if: tempête
+pos: NOM
+lf: tempête
+is a term candidate: 1
+
+-----------------
+
+if: site de production
+pos: NOM de NOM
+lf: site de production
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( site<=H> de<=P> production<=M> )
+islands: 0
+
+
+-----------------
+
+if: vitesse de fonctionnement nominale
+pos: NOM de NOM ADJ
+lf: vitesse de fonctionnement nominal
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( vitesse<=H> de<=P> ( fonctionnement<=H> nominale<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: une des 4 éoliennes
+pos: NOM des NUM NOM
+lf: un du 4 éolienne
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: fortes bourrasques
+pos: ADJ NOM
+lf: fort bourrasque
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( fortes<=M> bourrasques<=H> )
+islands: 0
+
+
+-----------------
+
+if: services
+pos: NOM
+lf: service
+is a term candidate: 1
+
+-----------------
+
+if: hauteurs de Dinéault
+pos: NOM de NAM
+lf: hauteur de Dinéault
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( hauteurs<=H> de<=P> Dinéault<=M> )
+islands: 0
+
+
+-----------------
+
+if: gendarmerie
+pos: NOM
+lf: gendarmerie
+is a term candidate: 1
+
+-----------------
+
+if: bruit assourdissant
+pos: NOM ADJ
+lf: bruit assourdissant
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( bruit<=H> assourdissant<=M> )
+islands: 0
+
+
+-----------------
+
+if: installation
+pos: NOM
+lf: installation
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: origine de l' accident
+pos: NOM de DET:ART NOM
+lf: origine de le accident
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( origine<=H> de<=P> l'<=D> accident<=M> )
+islands: 0
+
+
+-----------------
+
+if: accalmie
+pos: NOM
+lf: accalmie
+is a term candidate: 1
+
+-----------------
+
+if: municipalité
+pos: NOM
+lf: municipalité
+is a term candidate: 1
+
+-----------------
+
+if: arrêté
+pos: NOM
+lf: arrêté
+is a term candidate: 1
+
+-----------------
+
+if: accès
+pos: NOM
+lf: accès
+is a term candidate: 1
+
+-----------------
+
+if: proximité immédiate
+pos: NOM ADJ
+lf: proximité immédiat
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( proximité<=H> immédiate<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne.Une défaillance du système de freinage
+pos: ADJ NOM du NOM de NOM
+lf: éolienne.Une défaillance du système de freinage
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: accord
+pos: NOM
+lf: accord
+is a term candidate: 1
+
+-----------------
+
+if: électricité
+pos: NOM
+lf: électricité
+is a term candidate: 1
+
+-----------------
+
+if: années
+pos: NOM
+lf: année
+is a term candidate: 1
+
+-----------------
+
+if: Perte de contrôle
+pos: NOM de NOM
+lf: perte de contrôle
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Perte<=H> de<=P> contrôle<=M> )
+islands: 0
+
+
+-----------------
+
+if: circulation
+pos: NOM
+lf: circulation
+is a term candidate: 1
+
+-----------------
+
+if: exploitant
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+
+if: large périmètre de sécurité
+pos: ADJ NOM de NOM
+lf: large périmètre de sécurité
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+

@@ -1,0 +1,378 @@
+if: ensemble
+pos: NOM
+lf: ensemble
+is a term candidate: 1
+
+-----------------
+
+if: gendarme
+pos: NOM
+lf: gendarme
+is a term candidate: 1
+
+-----------------
+
+if: rupture.L'exploitant programme
+pos: ADJ NOM
+lf: rupture.L'exploitant programme
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( rupture.L'exploitant<=M> programme<=H> )
+islands: 0
+
+
+-----------------
+
+if: plaque
+pos: NOM
+lf: plaque
+is a term candidate: 1
+
+-----------------
+
+if: joint
+pos: NOM
+lf: joint
+is a term candidate: 1
+
+-----------------
+
+if: délai
+pos: NOM
+lf: délai
+is a term candidate: 1
+
+-----------------
+
+if: conséquence
+pos: NOM
+lf: conséquence
+is a term candidate: 1
+
+-----------------
+
+if: plastique
+pos: NOM
+lf: plastique
+is a term candidate: 1
+
+-----------------
+
+if: parties distinctes
+pos: NOM ADJ
+lf: partie distinct
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parties<=H> distinctes<=M> )
+islands: 0
+
+
+-----------------
+
+if: pale
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: patrouille de routine
+pos: NOM de NOM
+lf: patrouille de routine
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( patrouille<=H> de<=P> routine<=M> )
+islands: 0
+
+
+-----------------
+
+if: nouvelle fixation
+pos: ADJ NOM
+lf: nouveau fixation
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( nouvelle<=M> fixation<=H> )
+islands: 0
+
+
+-----------------
+
+if: temps
+pos: NOM
+lf: temps
+is a term candidate: 1
+
+-----------------
+
+if: maintenances périodiques
+pos: NOM ADJ
+lf: maintenance périodique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( maintenances<=H> périodiques<=M> )
+islands: 0
+
+
+-----------------
+
+if: vérification du serrage des fixations
+pos: NOM du NOM des NOM
+lf: vérification du serrage du fixation
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: information des techniciens
+pos: NOM des NOM
+lf: information du technicien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( information<=H> des<=P> techniciens<=M> )
+islands: 0
+
+
+-----------------
+
+if: intervention
+pos: NOM
+lf: intervention
+is a term candidate: 1
+
+-----------------
+
+if: collier métallique englobant la pale
+pos: NOM ADJ VER:ppre DET:ART NOM
+lf: collier métallique englober le pale
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: semaine de l' évènement.L'événement
+pos: NOM de DET:ART NOM
+lf: semaine de le évènement.L'événement
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( semaine<=H> de<=P> l'<=D> évènement.L'événement<=M> )
+islands: 0
+
+
+-----------------
+
+if: Chute
+pos: NOM
+lf: chute
+is a term candidate: 1
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: numéro
+pos: NOM
+lf: numéro
+is a term candidate: 1
+
+-----------------
+
+if: rôle de serrage
+pos: NOM de NOM
+lf: rôle de serrage
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( rôle<=H> de<=P> serrage<=M> )
+islands: 0
+
+
+-----------------
+
+if: défaillance du collier de serrage
+pos: NOM du NOM de NOM
+lf: défaillance du collier de serrage
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: joint de pale
+pos: NOM de NOM
+lf: joint de pale
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( joint<=H> de<=P> pale<=M> )
+islands: 0
+
+
+-----------------
+
+if: entreprise de maintenance
+pos: NOM de NOM
+lf: entreprise de maintenance
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( entreprise<=H> de<=P> maintenance<=M> )
+islands: 0
+
+
+-----------------
+
+if: collier métallique
+pos: NOM ADJ
+lf: collier métallique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( collier<=H> métallique<=M> )
+islands: 0
+
+
+-----------------
+
+if: colliers
+pos: NOM
+lf: collier
+is a term candidate: 1
+
+-----------------
+
+if: équipement
+pos: NOM
+lf: équipement
+is a term candidate: 1
+
+-----------------
+
+if: rapport aux contraintes
+pos: NOM aux NOM
+lf: rapport au contrainte
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( rapport<=H> aux<=P> contraintes<=M> )
+islands: 0
+
+
+-----------------
+
+if: incident
+pos: NOM
+lf: incident
+is a term candidate: 1
+
+-----------------
+
+if: exploitant
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: urgence
+pos: NOM
+lf: urgence
+is a term candidate: 1
+
+-----------------
+
+if: détection de glissement des joints
+pos: NOM de NOM des NOM
+lf: détection de glissement du joint
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: tour de la pale
+pos: NOM de DET:ART NOM
+lf: tour de le pale
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( tour<=H> de<=P> la<=D> pale<=M> )
+islands: 0
+
+
+-----------------
+
+if: partie
+pos: NOM
+lf: partie
+is a term candidate: 1
+
+-----------------
+
+if: turbulences au niveau du rotor
+pos: NOM au NOM du NOM
+lf: turbulence au niveau du rotor
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: conditions de vent
+pos: NOM de NOM
+lf: condition de vent
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( conditions<=H> de<=P> vent<=M> )
+islands: 0
+
+
+-----------------
+
+if: joint de pale au pied
+pos: NOM de NOM au NOM
+lf: joint de pale au pied
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: événement
+pos: NOM
+lf: événement
+is a term candidate: 1
+
+-----------------
+
+if: mètre de la pale 2 semaines
+pos: NOM de DET:ART NOM NUM NOM
+lf: mètre de le pale 2 semaine
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+

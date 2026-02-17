@@ -1,0 +1,413 @@
+if: présence possible de galeries
+pos: NOM ADJ de NOM
+lf: présence possible de galerie
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: analyse de la « bottom box » de l' éolienne
+pos: NOM de DET:ART PUN:cit NOM NOM PUN:cit de DET:ART NOM
+lf: analyse de le « bottom box » de le éolienne
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: pompiers
+pos: NOM
+lf: pompier
+is a term candidate: 1
+
+-----------------
+
+if: bout de pale
+pos: NOM de NOM
+lf: bout de pale
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( bout<=H> de<=P> pale<=M> )
+islands: 0
+
+
+-----------------
+
+if: exploitant
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+
+if: même modèle
+pos: ADJ NOM
+lf: même modèle
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( même<=M> modèle<=H> )
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: causes de l' événement
+pos: NOM de DET:ART NOM
+lf: cause de le événement
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( causes<=H> de<=P> l'<=D> événement<=M> )
+islands: 0
+
+
+-----------------
+
+if: entrée
+pos: NOM
+lf: entrée
+is a term candidate: 1
+
+-----------------
+
+if: victime
+pos: NOM
+lf: victime
+is a term candidate: 1
+
+-----------------
+
+if: cours
+pos: NOM
+lf: cours|cour
+is a term candidate: 1
+
+-----------------
+
+if: mesure de précaution
+pos: NOM de NOM
+lf: mesure de précaution
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( mesure<=H> de<=P> précaution<=M> )
+islands: 0
+
+
+-----------------
+
+if: hauteur de 164 m
+pos: NOM de NUM NOM
+lf: hauteur de 164 m
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: modèle récent
+pos: NOM ADJ
+lf: modèle récent
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( modèle<=H> récent<=M> )
+islands: 0
+
+
+-----------------
+
+if: ancienne mine de charbon désaffectée
+pos: ADJ NOM de NOM ADJ
+lf: ancien mine de charbon désaffecté
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: sous-sol
+pos: NOM
+lf: sous-sol
+is a term candidate: 1
+
+-----------------
+
+if: hauteur
+pos: NOM
+lf: hauteur
+is a term candidate: 1
+
+-----------------
+
+if: éoliennes du même type
+pos: NOM du ADJ NOM
+lf: éolienne du même type
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: veille de l' inauguration
+pos: NOM de DET:ART NOM
+lf: veille de le inauguration
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( veille<=H> de<=P> l'<=D> inauguration<=M> )
+islands: 0
+
+
+-----------------
+
+if: fabrication
+pos: NOM
+lf: fabrication
+is a term candidate: 1
+
+-----------------
+
+if: vibrations
+pos: NOM
+lf: vibration
+is a term candidate: 1
+
+-----------------
+
+if: forêt
+pos: NOM
+lf: forêt
+is a term candidate: 1
+
+-----------------
+
+if: MW
+pos: NOM
+lf: MW
+is a term candidate: 1
+
+-----------------
+
+if: Effondrement
+pos: NOM
+lf: effondrement
+is a term candidate: 1
+
+-----------------
+
+if: béton
+pos: NOM
+lf: béton
+is a term candidate: 1
+
+-----------------
+
+if: fonctionnement de l' éolienne
+pos: NOM de DET:ART NOM
+lf: fonctionnement de le éolienne
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( fonctionnement<=H> de<=P> l'<=D> éolienne<=M> )
+islands: 0
+
+
+-----------------
+
+if: proximité
+pos: NOM
+lf: proximité
+is a term candidate: 1
+
+-----------------
+
+if: hélicoptère
+pos: NOM
+lf: hélicoptère
+is a term candidate: 1
+
+-----------------
+
+if: garde forestier
+pos: NOM ADJ
+lf: garde forestier
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( garde<=H> forestier<=M> )
+islands: 0
+
+
+-----------------
+
+if: 18h30
+pos: NAM
+lf: 18h30
+is a term candidate: 1
+
+-----------------
+
+if: service
+pos: NOM
+lf: service
+is a term candidate: 1
+
+-----------------
+
+if: résonance du mât
+pos: NOM du NOM
+lf: résonance du mât
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( résonance<=H> du<=P> mât<=M> )
+islands: 0
+
+
+-----------------
+
+if: arrêt 22 autres turbines
+pos: NOM NUM ADJ NOM
+lf: arrêt 22 autre turbine
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: constructeur
+pos: NOM
+lf: constructeur
+is a term candidate: 1
+
+-----------------
+
+if: données relatives
+pos: NOM ADJ
+lf: donnée relatif
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( données<=H> relatives<=M> )
+islands: 0
+
+
+-----------------
+
+if: décombres
+pos: NOM
+lf: décombres
+is a term candidate: 1
+
+-----------------
+
+if: mât
+pos: NOM
+lf: mât
+is a term candidate: 1
+
+-----------------
+
+if: m
+pos: NOM
+lf: m
+is a term candidate: 1
+
+-----------------
+
+if: arrêt une seconde éolienne du même type
+pos: NOM DET:ART NUM NOM du ADJ NOM
+lf: arrêt un second éolienne du même type
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: zone
+pos: NOM
+lf: zone
+is a term candidate: 1
+
+-----------------
+
+if: enquête
+pos: NOM
+lf: enquête
+is a term candidate: 1
+
+-----------------
+
+if: mois
+pos: NOM
+lf: mois|moi
+is a term candidate: 1
+
+-----------------
+
+if: origine de l' accident
+pos: NOM de DET:ART NOM
+lf: origine de le accident
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( origine<=H> de<=P> l'<=D> accident<=M> )
+islands: 0
+
+
+-----------------
+
+if: turbine
+pos: NOM
+lf: turbine
+is a term candidate: 1
+
+-----------------
+
+if: forme octogonale
+pos: NOM ADJ
+lf: forme octogonal
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( forme<=H> octogonale<=M> )
+islands: 0
+
+
+-----------------
+
+if: puissance nominale
+pos: NOM ADJ
+lf: puissance nominal
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( puissance<=H> nominale<=M> )
+islands: 0
+
+
+-----------------
+

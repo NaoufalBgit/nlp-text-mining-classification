@@ -1,0 +1,395 @@
+if: niveau des éoliennes
+pos: NOM des NOM
+lf: niveau du éolienne
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( niveau<=H> des<=P> éoliennes<=M> )
+islands: 0
+
+
+-----------------
+
+if: sud de la France
+pos: NOM de DET:ART NAM
+lf: sud de le France
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( sud<=H> de<=P> la<=D> France<=M> )
+islands: 0
+
+
+-----------------
+
+if: cas de la présence constatée de l' espèce au niveau du parc éolien
+pos: NOM de DET:ART NOM VER:pper de DET:ART NOM au NOM du NOM ADJ
+lf: cas de le présence constater de le espèce au niveau du parc éolien
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: faucon crécerellette
+pos: NOM ADJ
+lf: faucon crécerellette
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( faucon<=H> crécerellette<=M> )
+islands: 0
+
+
+-----------------
+
+if: visites
+pos: NOM
+lf: visite
+is a term candidate: 1
+
+-----------------
+
+if: éoliennes
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: parcs éoliens
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parcs<=H> éoliens<=M> )
+islands: 0
+
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: mort
+pos: NOM
+lf: mort
+is a term candidate: 1
+
+-----------------
+
+if: semaine
+pos: NOM
+lf: semaine
+is a term candidate: 1
+
+-----------------
+
+if: place de système vidéo de détection de l' avifaune connecté au SCADA des machines à minima
+pos: NOM de NOM ADJ de NOM de DET:ART NOM VER:pper au NOM des NOM à NOM
+lf: place de système vidéo de détection de le avifaune connecter au SCADA du machine à minima
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: aire de répartition habituelle
+pos: NOM de NOM ADJ
+lf: aire de répartition habituel
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( aire<=H> de<=P> ( répartition<=H> habituelle<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: suivi de la mortalité
+pos: NOM de DET:ART NOM
+lf: suivi de le mortalité
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( suivi<=H> de<=P> la<=D> mortalité<=M> )
+islands: 0
+
+
+-----------------
+
+if: espèce
+pos: NOM
+lf: espèce
+is a term candidate: 1
+
+-----------------
+
+if: période de l' année
+pos: NOM de DET:ART NOM
+lf: période de le année
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( période<=H> de<=P> l'<=D> année<=M> )
+islands: 0
+
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: cas de mortalité
+pos: NOM de NOM
+lf: cas de mortalité
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( cas<=H> de<=P> mortalité<=M> )
+islands: 0
+
+
+-----------------
+
+if: installation du dispositif
+pos: NOM du NOM
+lf: installation du dispositif
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( installation<=H> du<=P> dispositif<=M> )
+islands: 0
+
+
+-----------------
+
+if: autres faucons
+pos: ADJ NOM
+lf: autre faucon
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( autres<=M> faucons<=H> )
+islands: 0
+
+
+-----------------
+
+if: nord
+pos: NOM
+lf: nord
+is a term candidate: 1
+
+-----------------
+
+if: faucon
+pos: NOM
+lf: faucon
+is a term candidate: 1
+
+-----------------
+
+if: veille
+pos: NOM
+lf: veille
+is a term candidate: 1
+
+-----------------
+
+if: fin de l' année
+pos: NOM de DET:ART NOM
+lf: fin de le année
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( fin<=H> de<=P> l'<=D> année<=M> )
+islands: 0
+
+
+-----------------
+
+if: barotraumatisme.A
+pos: NOM
+lf: barotraumatisme.A
+is a term candidate: 1
+
+-----------------
+
+if: sol
+pos: NOM
+lf: sol
+is a term candidate: 1
+
+-----------------
+
+if: efficacité du paramétrage
+pos: NOM du NOM
+lf: efficacité du paramétrage
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( efficacité<=H> du<=P> paramétrage<=M> )
+islands: 0
+
+
+-----------------
+
+if: matériel
+pos: NOM
+lf: matériel
+is a term candidate: 1
+
+-----------------
+
+if: m
+pos: NOM
+lf: m
+is a term candidate: 1
+
+-----------------
+
+if: parc.Il
+pos: NOM
+lf: parc.Il
+is a term candidate: 1
+
+-----------------
+
+if: éoliennes.L'exploitant
+pos: NOM
+lf: éoliennes.L'exploitant
+is a term candidate: 1
+
+-----------------
+
+if: Choc
+pos: NOM
+lf: choc
+is a term candidate: 1
+
+-----------------
+
+if: suivi de la mortalité aviaire
+pos: NOM de DET:ART NOM ADJ
+lf: suivi de le mortalité aviaire
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( suivi<=H> de<=P> la<=D> ( mortalité<=H> aviaire<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: collision directe
+pos: NOM ADJ
+lf: collision direct
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( collision<=H> directe<=M> )
+islands: 0
+
+
+-----------------
+
+if: bureau
+pos: NOM
+lf: bureau
+is a term candidate: 1
+
+-----------------
+
+if: journée
+pos: NOM
+lf: journée
+is a term candidate: 1
+
+-----------------
+
+if: parcelles proches
+pos: NOM ADJ
+lf: parcelle proche
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parcelles<=H> proches<=M> )
+islands: 0
+
+
+-----------------
+
+if: migration
+pos: NOM
+lf: migration
+is a term candidate: 1
+
+-----------------
+
+if: études
+pos: NOM
+lf: étude
+is a term candidate: 1
+
+-----------------
+
+if: présence du faucon crécerellette
+pos: NOM du NOM ADJ
+lf: présence du faucon crécerellette
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( présence<=H> du<=P> ( faucon<=H> crécerellette<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: mesures
+pos: NOM
+lf: mesure
+is a term candidate: 1
+
+-----------------
+
+if: bout de ligne
+pos: NOM de NOM
+lf: bout de ligne
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( bout<=H> de<=P> ligne<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: années
+pos: NOM
+lf: année
+is a term candidate: 1
+
+-----------------
+

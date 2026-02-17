@@ -1,0 +1,320 @@
+if: incendie
+pos: NOM
+lf: incendie
+is a term candidate: 1
+
+-----------------
+
+if: raison des risques de reprise de feu
+pos: NOM des NOM de NOM de NOM
+lf: raison du risque de reprise de feu
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: surveillance
+pos: NOM
+lf: surveillance
+is a term candidate: 1
+
+-----------------
+
+if: sinistre à 6h30
+pos: NOM à NAM
+lf: sinistre à 6h30
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( sinistre<=H> à<=P> 6h30<=M> )
+islands: 0
+
+
+-----------------
+
+if: accès
+pos: NOM
+lf: accès
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: végétation voisine
+pos: NOM ADJ
+lf: végétation voisin
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( végétation<=H> voisine<=M> )
+islands: 0
+
+
+-----------------
+
+if: Incendie
+pos: NOM
+lf: incendie
+is a term candidate: 1
+
+-----------------
+
+if: 2h
+pos: NAM
+lf: 2h
+is a term candidate: 1
+
+-----------------
+
+if: difficultés
+pos: NOM
+lf: difficulté
+is a term candidate: 1
+
+-----------------
+
+if: pompiers
+pos: NOM
+lf: pompier
+is a term candidate: 1
+
+-----------------
+
+if: gardiennage de la zone.La nacelle
+pos: NOM de DET:ART NOM NOM
+lf: gardiennage de le zone.La nacelle
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: éolienne propagé à la végétation
+pos: NOM VER:pper à DET:ART NOM
+lf: éolienne propager à le végétation
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( éolienne<=H> ( propagé<=H> à<=P> la<=D> végétation<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: porte
+pos: NOM
+lf: porte
+is a term candidate: 1
+
+-----------------
+
+if: accès à la zone sinistrée
+pos: NOM à DET:ART NOM ADJ
+lf: accès à le zone sinistré
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( accès<=H> à<=P> la<=D> ( zone<=H> sinistrée<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: secours
+pos: NOM
+lf: secours
+is a term candidate: 1
+
+-----------------
+
+if: présence de 2 foyers
+pos: NOM de NUM NOM
+lf: présence de 2 foyer
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: traces
+pos: NOM
+lf: trace
+is a term candidate: 1
+
+-----------------
+
+if: éléments
+pos: NOM
+lf: élément
+is a term candidate: 1
+
+-----------------
+
+if: alerte
+pos: NOM
+lf: alerte
+is a term candidate: 1
+
+-----------------
+
+if: acte de malveillance
+pos: NOM de NOM
+lf: acte de malveillance
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( acte<=H> de<=P> malveillance<=M> )
+islands: 0
+
+
+-----------------
+
+if: riverain
+pos: NOM
+lf: riverain
+is a term candidate: 1
+
+-----------------
+
+if: feu
+pos: NOM
+lf: feu
+is a term candidate: 1
+
+-----------------
+
+if: nacelle
+pos: NOM
+lf: nacelle
+is a term candidate: 1
+
+-----------------
+
+if: plantation de résineux
+pos: NOM de NOM
+lf: plantation de résineux
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( plantation<=H> de<=P> résineux<=M> )
+islands: 0
+
+
+-----------------
+
+if: effraction
+pos: NOM
+lf: effraction
+is a term candidate: 1
+
+-----------------
+
+if: armoires de commande
+pos: NOM de NOM
+lf: armoire de commande
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( armoires<=H> de<=P> commande<=M> )
+islands: 0
+
+
+-----------------
+
+if: exploitant
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+
+if: pied de mât
+pos: NOM de NOM
+lf: pied de mât
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( pied<=H> de<=P> mât<=M> )
+islands: 0
+
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: début novembre
+pos: NOM NOM
+lf: début novembre
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( début<=H> novembre<=M> )
+islands: 0
+
+
+-----------------
+
+if: machine
+pos: NOM
+lf: machine
+is a term candidate: 1
+
+-----------------
+
+if: pales
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: végétation
+pos: NOM
+lf: végétation
+is a term candidate: 1
+
+-----------------
+
+if: sol
+pos: NOM
+lf: sol
+is a term candidate: 1
+
+-----------------
+
+if: aérogénérateurs du site
+pos: NOM du NOM
+lf: aérogénérateur du site
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( aérogénérateurs<=H> du<=P> site<=M> )
+islands: 0
+
+
+-----------------
+

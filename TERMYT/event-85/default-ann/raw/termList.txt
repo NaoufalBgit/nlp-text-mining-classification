@@ -1,0 +1,55 @@
+# ID	Inflected form	Lemmatised form	Frequency	CValue	CValue1	CValuePlus	CValuePlus1	CValueStar	CValueStarH	CValueStarM	CValueStarR	CValueWCard	CValueWCardPlus	D	DDW	Freq	idf	ilnc	ilncFreq	iLong	IM	iTer	LLR	nbdoc4tc	NormFreq	tf	tf-idf	Head	Modifier	MainHead
+53	kit de dépollution	kit de dépollution	2	3.16992500144231	4	3.16992500144231	4	N/A	N/A	N/A	0.830074998557687	0	0	1	0	2	0:0	0	0	0.666666666666667	1.33333333333333	0.5	1.09859895531206e-05	1	0.5	0:2	0:0	49	55	49	
+33	feuilles absorbantes	feuille absorbant	2	2	3.16992500144231	2	3.16992500144231	N/A	N/A	N/A	1.16992500144231	0	0	1	0	2	0:0	0	0	1	2	0.666666666666667	0.000112060551454184	1	0.5	0:2	0:0	34	35	34	
+5	béton de la fondation	béton de le fondation	1	2	2.32192809488736	2	2.32192809488736	N/A	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	4	0.2	0.000115129154648748	1	0.25	0:1	0:0	6	7	6	
+36	fuite du fluide hydraulique.À	fuite du fluide hydraulique.À	1	2	2.32192809488736	2	2.32192809488736	N/A	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	2	0.2	0.000115129154648748	1	0.25	0:1	0:0	29	38	29	
+10	pose de boudins absorbants	pose de boudin absorbant	1	2	2.32192809488736	2	2.32192809488736	N/A	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	4	0.2	0.000115129154648748	1	0.25	0:1	0:0	11	12	11	
+1	long du mât	long du mât	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	4	0.25	0.000115129154648748	1	0.25	0:1	0:0	2	3	2	
+30	entreprise agréée.Un	entreprise agréée.Un	1	1	1.58496250072116	1	1.58496250072116	N/A	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	4	0.333333333333333	0.000115129154648748	1	0.25	0:1	0:0	31	32	31	
+45	parc éolien	parc éolien	1	1	1.58496250072116	1	1.58496250072116	N/A	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	4	0.333333333333333	0.000115129154648748	1	0.25	0:1	0:0	46	47	46	
+48	kit anti-pollution	kit anti-pollution	1	1	1.58496250072116	1	1.58496250072116	N/A	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	1.33333333333333	0.333333333333333	4.05454274736608e-06	1	0.25	0:1	0:0	49	50	49	
+52	huile	huile	4	0	4	0	4	N/A	N/A	N/A	4	0	0	1	0	4	0:0	0	0	4	N/A	2	N/A	1	1	0:4	0:0				
+49	kit	kit	3	0	1.5	0	4.5	N/A	0	N/A	N/A	1.5	4.5	1	0	3	0:0	2	3	3	N/A	4.5	N/A	1	0.75	0:3	0:0				
+56	hub	hub	2	0	2	0	2	N/A	N/A	N/A	2	0	0	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.5	0:2	0:0				
+34	feuilles	feuille	2	0	0	0	4	N/A	0	N/A	N/A	0	4	1	0	2	0:0	1	2	2	N/A	2	N/A	1	0.5	0:2	0:0				
+13	boudins	boudin	2	0	1	0	3	N/A	1	N/A	N/A	1	3	1	0	2	0:0	1	1	2	N/A	2	N/A	1	0.5	0:2	0:0				
+29	fuite	fuite	2	0	1	0	3	N/A	1	N/A	N/A	1	3	1	0	2	0:0	1	1	2	N/A	2	N/A	1	0.5	0:2	0:0				
+55	dépollution	dépollution	2	0	0	0	4	N/A	N/A	0	N/A	0	4	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.5	0:2	0:0				
+35	absorbantes	absorbant	2	0	0	0	4	N/A	N/A	0	N/A	0	4	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.5	0:2	0:0				
+17	équipe	équipe	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+31	entreprise	entreprise	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+38	fluide hydraulique.À	fluide hydraulique.À	1	0	0	2	3.16992500144231	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.5	4	0.333333333333333	0.000115129154648748	1	0.25	0:1	0:0	40	39	40	
+57	turbine	turbine	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+44	techniciens	technicien	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+40	hydraulique.À	hydraulique.À	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+8	événement	événement	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+2	long	long	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+47	éolien	éolien	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+23	perte	perte	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+51	partie	partie	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+46	parc	parc	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+50	anti-pollution	anti-pollution	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+39	fluide	fluide	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+27	intervention	intervention	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+7	fondation	fondation	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+32	agréée.Un	agréée.Un	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+24	20 l	20 l	1	0	0	2	3.16992500144231	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.5	4	0.333333333333333	0.000115129154648748	1	0.25	0:1	0:0	26	25	26	
+28	installation	installation	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+41	site	site	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+22	perte de 20 l	perte de 20 l	1	0	0	4	4.64385618977472	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.25	4	0.4	0.000115129154648748	1	0.25	0:1	0:0	23	24	23	
+6	béton	béton	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+9	traces	trace	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+3	mât	mât	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+11	pose	pose	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+19	mat	mat	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+26	l	l	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+14	absorbants	absorbant	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+4	exploitant	exploitant	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+42	distributeur	distributeur	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+12	boudins absorbants	boudin absorbant	1	0	0	2	3.16992500144231	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.5	2	0.333333333333333	0.000115129154648748	1	0.25	0:1	0:0	13	14	13	
+21	éolienne.Une	éolienne.Une	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+16	nacelle	nacelle	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+25	20	20	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+20	éolienne.Une perte de 20 l	éolienne.Une perte de 20 l	1	0	0	4.64385618977472	5.16992500144231	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.2	4	0.166666666666667	0.000115129154648748	1	0.25	0:1	0:0	22	21	23	
+0	Fuite	fuite	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+43	éolienne	éolienne	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				

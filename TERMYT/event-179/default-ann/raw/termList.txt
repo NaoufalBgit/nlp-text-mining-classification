@@ -1,0 +1,45 @@
+# ID	Inflected form	Lemmatised form	Frequency	CValue	CValue1	CValuePlus	CValuePlus1	CValueStar	CValueStarH	CValueStarM	CValueStarR	CValueWCard	CValueWCardPlus	D	DDW	Freq	idf	ilnc	ilncFreq	iLong	IM	iTer	LLR	nbdoc4tc	NormFreq	tf	tf-idf	Head	Modifier	MainHead
+19	suivi de la mortalité aviaire	suivi de le mortalité aviaire	1	2.32192809488736	2.58496250072116	2.32192809488736	2.58496250072116	N/A	N/A	N/A	0.263034405833794	0	0	1	0	1	0:0	0	0	0.2	4	0.166666666666667	0.000115129154648748	1	0.25	0:1	0:0	20	21	20	
+4	système de détection avifaune	système de détection avifaune	1	2	2.32192809488736	2	2.32192809488736	N/A	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	4	0.2	0.000115129154648748	1	0.25	0:1	0:0	5	8	6	
+13	fin de vie	fin de vie	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	4	0.25	0.000115129154648748	1	0.25	0:1	0:0	14	15	14	
+24	zone à risque	zone à risque	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	4	0.25	0.000115129154648748	1	0.25	0:1	0:0	25	26	25	
+39	collisions des rapaces	collision du rapace	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	4	0.25	0.000115129154648748	1	0.25	0:1	0:0	40	41	40	
+27	brume matinale	brume matinal	1	1	1.58496250072116	1	1.58496250072116	N/A	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	4	0.333333333333333	0.000115129154648748	1	0.25	0:1	0:0	28	29	28	
+16	parc éolien	parc éolien	1	1	1.58496250072116	1	1.58496250072116	N/A	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	4	0.333333333333333	0.000115129154648748	1	0.25	0:1	0:0	17	18	17	
+30	aile cassée	aile cassé	1	1	1.58496250072116	1	1.58496250072116	N/A	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	4	0.333333333333333	0.000115129154648748	1	0.25	0:1	0:0	31	32	31	
+43	vautour fauve	vautour fauve	1	1	1.58496250072116	1	1.58496250072116	N/A	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	2	0.333333333333333	0.000115129154648748	1	0.25	0:1	0:0	42	45	42	
+11	éolienne	éolienne	4	0	5	0	5	N/A	N/A	N/A	5	0	0	1	0	4	0:0	0	0	4	N/A	2	N/A	1	1	0:4	0:0				
+6	système	système	2	0	1	0	3	N/A	1	N/A	N/A	1	3	1	0	2	0:0	1	1	2	N/A	2	N/A	1	0.5	0:2	0:0				
+33	oiseau	oiseau	2	0	2	0	2	N/A	N/A	N/A	2	0	0	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.5	0:2	0:0				
+3	événement	événement	2	0	2	0	2	N/A	N/A	N/A	2	0	0	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.5	0:2	0:0				
+42	vautour	vautour	2	0	1	0	3	N/A	1	N/A	N/A	1	3	1	0	2	0:0	1	1	2	N/A	2	N/A	1	0.5	0:2	0:0				
+14	fin	fin	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+38	espèce	espèce	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+23	aviaire	aviaire	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+9	collision	collision	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+15	vie	vie	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+34	sol	sol	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+8	avifaune	avifaune	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+22	mortalité	mortalité	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+5	système de détection	système de détection	1	0	0	3.16992500144231	4	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	2	0.5	0.000115129154648748	1	0.25	0:1	0:0	6	7	6	
+31	aile	aile	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+26	risque	risque	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+7	détection	détection	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+35	euthanasié.La	euthanasié.La	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+17	parc	parc	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+18	éolien	éolien	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+21	mortalité aviaire	mortalité aviaire	1	0	0	2	3.16992500144231	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.5	4	0.333333333333333	0.000115129154648748	1	0.25	0:1	0:0	22	23	22	
+32	cassée	cassé	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+36	m	m	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+28	brume	brume	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+25	zone	zone	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+20	suivi	suivi	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+29	matinale	matinal	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+1	pale	pale	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+40	collisions	collision	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+45	fauve	fauve	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+12	Choc	choc	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+37	bureau	bureau	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+0	site.L'exploitant	site.L'exploitant	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+2	études	étude	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+41	rapaces	rapace	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				

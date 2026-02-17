@@ -1,0 +1,674 @@
+if: périmètre de sécurité de 200 m
+pos: NOM de NOM de NUM NOM
+lf: périmètre de sécurité de 200 m
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: précaution
+pos: NOM
+lf: précaution
+is a term candidate: 1
+
+-----------------
+
+if: système
+pos: NOM
+lf: système
+is a term candidate: 1
+
+-----------------
+
+if: parc
+pos: NOM
+lf: parc
+is a term candidate: 1
+
+-----------------
+
+if: machines de 120 m
+pos: NOM de NUM NOM
+lf: machine de 120 m
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: rotor de l' éolienne
+pos: NOM de DET:ART NOM
+lf: rotor de le éolienne
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( rotor<=H> de<=P> l'<=D> éolienne<=M> )
+islands: 0
+
+
+-----------------
+
+if: fortes vibrations au niveau du rotor
+pos: ADJ NOM au NOM du NOM
+lf: fort vibration au niveau du rotor
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: tension
+pos: NOM
+lf: tension
+is a term candidate: 1
+
+-----------------
+
+if: tension de la génératrice
+pos: NOM de DET:ART NOM
+lf: tension de le génératrice
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( tension<=H> de<=P> la<=D> génératrice<=M> )
+islands: 0
+
+
+-----------------
+
+if: signal de fermeture du contacteur
+pos: NOM de NOM du NOM
+lf: signal de fermeture du contacteur
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: relais identique
+pos: NOM ADJ
+lf: relais identique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( relais<=H> identique<=M> )
+islands: 0
+
+
+-----------------
+
+if: macroéléments de plastique
+pos: NOM de NOM
+lf: macroélément de plastique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( macroéléments<=H> de<=P> plastique<=M> )
+islands: 0
+
+
+-----------------
+
+if: ouverture/fermeture
+pos: NOM
+lf: ouverture/fermeture
+is a term candidate: 1
+
+-----------------
+
+if: 18h50
+pos: NAM
+lf: 18h50
+is a term candidate: 1
+
+-----------------
+
+if: techniciens
+pos: NOM
+lf: technicien
+is a term candidate: 1
+
+-----------------
+
+if: procédure
+pos: NOM
+lf: procédure
+is a term candidate: 1
+
+-----------------
+
+if: 15h45
+pos: NAM
+lf: 15h45
+is a term candidate: 1
+
+-----------------
+
+if: système de freinage
+pos: NOM de NOM
+lf: système de freinage
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( système<=H> de<=P> freinage<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: éléments structurels
+pos: NOM ADJ
+lf: élément structurel
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( éléments<=H> structurels<=M> )
+islands: 0
+
+
+-----------------
+
+if: service
+pos: NOM
+lf: service
+is a term candidate: 1
+
+-----------------
+
+if: bruit
+pos: NOM
+lf: bruit
+is a term candidate: 1
+
+-----------------
+
+if: cas
+pos: NOM
+lf: cas
+is a term candidate: 1
+
+-----------------
+
+if: relais de l' armoire hydraulique
+pos: NOM de DET:ART NOM ADJ
+lf: relais de le armoire hydraulique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( relais<=H> de<=P> l'<=D> ( armoire<=H> hydraulique<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: sol
+pos: NOM
+lf: sol
+is a term candidate: 1
+
+-----------------
+
+if: organe de commande du contacteur principal de couplage du stator de la génératrice
+pos: NOM de NOM du NOM ADJ de NOM du NOM de DET:ART NOM
+lf: organe de commande du contacteur principal de couplage du stator de le génératrice
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: MW
+pos: NOM
+lf: MW
+is a term candidate: 1
+
+-----------------
+
+if: coque de la nacelle son
+pos: NOM de DET:ART NOM NOM
+lf: coque de le nacelle son
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: arcs électriques
+pos: NOM ADJ
+lf: arc électrique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( arcs<=H> électriques<=M> )
+islands: 0
+
+
+-----------------
+
+if: issues de secours
+pos: NOM de NOM
+lf: issue de secours
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( issues<=H> de<=P> secours<=M> )
+islands: 0
+
+
+-----------------
+
+if: société de maintenance
+pos: NOM de NOM
+lf: société de maintenance
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( société<=H> de<=P> maintenance<=M> )
+islands: 0
+
+
+-----------------
+
+if: couplage du stator
+pos: NOM du NOM
+lf: couplage du stator
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( couplage<=H> du<=P> stator<=M> )
+islands: 0
+
+
+-----------------
+
+if: relais défectueux
+pos: NOM ADJ
+lf: relais défectueux
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( relais<=H> défectueux<=M> )
+islands: 0
+
+
+-----------------
+
+if: orientation des pales
+pos: NOM des NOM
+lf: orientation du pale
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( orientation<=H> des<=P> pales<=M> )
+islands: 0
+
+
+-----------------
+
+if: orientation
+pos: NOM
+lf: orientation
+is a term candidate: 1
+
+-----------------
+
+if: contacteur
+pos: NOM
+lf: contacteur
+is a term candidate: 1
+
+-----------------
+
+if: terres ayant reçues des débris
+pos: NOM ayant VER:pper des NOM
+lf: terre avoir recevoir du débris
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: orientation de la nacelle
+pos: NOM de DET:ART NOM
+lf: orientation de le nacelle
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( orientation<=H> de<=P> la<=D> nacelle<=M> )
+islands: 0
+
+
+-----------------
+
+if: évacuées.L'opération de maintenance
+pos: NOM de NOM
+lf: évacuées.L'opération de maintenance
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( évacuées.L'opération<=H> de<=P> maintenance<=M> )
+islands: 0
+
+
+-----------------
+
+if: fonctionnement
+pos: NOM
+lf: fonctionnement
+is a term candidate: 1
+
+-----------------
+
+if: mode manuel
+pos: NOM ADJ
+lf: mode manuel
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( mode<=H> manuel<=M> )
+islands: 0
+
+
+-----------------
+
+if: fibre de verre issus
+pos: NOM de NOM ADJ
+lf: fibre de verre issu
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( fibre<=H> de<=P> ( verre<=H> issus<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: alarme concernant le blocage des freins
+pos: NOM VER:ppre DET:ART NOM des NOM
+lf: alarme concerner le blocage du frein
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: feu
+pos: NOM
+lf: feu
+is a term candidate: 1
+
+-----------------
+
+if: arrêt
+pos: NOM
+lf: arrêt
+is a term candidate: 1
+
+-----------------
+
+if: mode automatique
+pos: NOM ADJ
+lf: mode automatique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( mode<=H> automatique<=M> )
+islands: 0
+
+
+-----------------
+
+if: incendie
+pos: NOM
+lf: incendie
+is a term candidate: 1
+
+-----------------
+
+if: nacelle
+pos: NOM
+lf: nacelle
+is a term candidate: 1
+
+-----------------
+
+if: acquisition des signaux de commande manuelle
+pos: NOM des NOM de NOM ADJ
+lf: acquisition du signal de commande manuel
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: fermeture du contacteur principal
+pos: NOM du NOM ADJ
+lf: fermeture du contacteur principal
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( fermeture<=H> du<=P> ( contacteur<=H> principal<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: étincelles
+pos: NOM
+lf: étincelle
+is a term candidate: 1
+
+-----------------
+
+if: panne
+pos: NOM
+lf: panne
+is a term candidate: 1
+
+-----------------
+
+if: convertisseur
+pos: NOM
+lf: convertisseur
+is a term candidate: 1
+
+-----------------
+
+if: armoire de commande
+pos: NOM de NOM
+lf: armoire de commande
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( armoire<=H> de<=P> commande<=M> )
+islands: 0
+
+
+-----------------
+
+if: carte
+pos: NOM
+lf: carte
+is a term candidate: 1
+
+-----------------
+
+if: vérification
+pos: NOM
+lf: vérification
+is a term candidate: 1
+
+-----------------
+
+if: remontée
+pos: NOM
+lf: remontée
+is a term candidate: 1
+
+-----------------
+
+if: intervenants
+pos: NOM
+lf: intervenant
+is a term candidate: 1
+
+-----------------
+
+if: réseau
+pos: NOM
+lf: réseau
+is a term candidate: 1
+
+-----------------
+
+if: Feu de moteur
+pos: NOM de NOM
+lf: feu de moteur
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Feu<=H> de<=P> moteur<=M> )
+islands: 0
+
+
+-----------------
+
+if: mouvement intermittent
+pos: NOM ADJ
+lf: mouvement intermittent
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( mouvement<=H> intermittent<=M> )
+islands: 0
+
+
+-----------------
+
+if: secours
+pos: NOM
+lf: secours
+is a term candidate: 1
+
+-----------------
+
+if: puissance totale
+pos: NOM ADJ
+lf: puissance total
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( puissance<=H> totale<=M> )
+islands: 0
+
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: alimentation
+pos: NOM
+lf: alimentation
+is a term candidate: 1
+
+-----------------
+
+if: relais de l' armoire de commande
+pos: NOM de DET:ART NOM de NOM
+lf: relais de le armoire de commande
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: freins
+pos: NOM
+lf: frein
+is a term candidate: 1
+
+-----------------
+
+if: procédure de sécurité
+pos: NOM de NOM
+lf: procédure de sécurité
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( procédure<=H> de<=P> sécurité<=M> )
+islands: 0
+
+
+-----------------
+
+if: position fixe face au vent
+pos: NOM ADJ NOM au NOM
+lf: position fixe face au vent
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: suite
+pos: NOM
+lf: suite
+is a term candidate: 1
+
+-----------------
+
+if: armoire de puissance
+pos: NOM de NOM
+lf: armoire de puissance
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( armoire<=H> de<=P> puissance<=M> )
+islands: 0
+
+
+-----------------
+
+if: opération de maintenance au niveau du système
+pos: NOM de NOM au NOM du NOM
+lf: opération de maintenance au niveau du système
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: dépannage de l' armoire de commande
+pos: NOM de DET:ART NOM de NOM
+lf: dépannage de le armoire de commande
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: action de remplacement
+pos: NOM de NOM
+lf: action de remplacement
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( action<=H> de<=P> remplacement<=M> )
+islands: 0
+
+
+-----------------
+

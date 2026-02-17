@@ -1,0 +1,94 @@
+if: t de terres
+pos: NOM de NOM
+lf: t de terre
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( t<=H> de<=P> terres<=M> )
+islands: 0
+
+
+-----------------
+
+if: intervention de maintenance
+pos: NOM de NOM
+lf: intervention de maintenance
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( intervention<=H> de<=P> maintenance<=M> )
+islands: 0
+
+
+-----------------
+
+if: sol
+pos: NOM
+lf: sol
+is a term candidate: 1
+
+-----------------
+
+if: parc éolien Une nacelle élévatrice
+pos: NOM ADJ DET:ART NOM ADJ
+lf: parc éolien un nacelle élévateur
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: produit
+pos: NOM
+lf: produit
+is a term candidate: 1
+
+-----------------
+
+if: filière
+pos: NOM
+lf: filière
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: l
+pos: NOM
+lf: l
+is a term candidate: 1
+
+-----------------
+
+if: m²
+pos: NOM
+lf: m²
+is a term candidate: 1
+
+-----------------
+
+if: huile hydraulique
+pos: NOM ADJ
+lf: huile hydraulique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( huile<=H> hydraulique<=M> )
+islands: 0
+
+
+-----------------
+
+if: Déversement
+pos: NOM
+lf: déversement
+is a term candidate: 1
+
+-----------------
+

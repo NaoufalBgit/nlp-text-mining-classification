@@ -1,0 +1,43 @@
+# ID	Inflected form	Lemmatised form	Frequency	CValue	CValue1	CValuePlus	CValuePlus1	CValueStar	CValueStarH	CValueStarM	CValueStarR	CValueWCard	CValueWCardPlus	D	DDW	Freq	idf	ilnc	ilncFreq	iLong	IM	iTer	LLR	nbdoc4tc	NormFreq	tf	tf-idf	Head	Modifier	MainHead
+20	système de contrôle automatique	système de contrôle automatique	1	2	2.32192809488736	2	2.32192809488736	N/A	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	1	0.2	0.000115129154648748	1	1	0:1	0:0	21	22	21	
+38	exception de l' éolienne	exception de le éolienne	1	2	2.32192809488736	2	2.32192809488736	N/A	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	1	0.2	0.000115129154648748	1	1	0:1	0:0	39	40	39	
+13	communiqué de presse	communiqué de presse	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	1	0.25	0.000115129154648748	1	1	0:1	0:0	14	15	14	
+5	service 3 ans	service 3 an	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	1	0.25	0.000115129154648748	1	1	0:1	0:0	6	9	7	
+2	origine du sinistre	origine du sinistre	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	1	0.25	0.000115129154648748	1	1	0:1	0:0	3	4	3	
+10	autre dommage	autre dommage	1	1	1.58496250072116	1	1.58496250072116	N/A	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	1	0.333333333333333	0.000115129154648748	1	1	0:1	0:0	12	11	12	
+16	transformateur sec	transformateur sec	1	1	1.58496250072116	1	1.58496250072116	N/A	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	1	0.333333333333333	0.000115129154648748	1	1	0:1	0:0	17	18	17	
+15	presse	presse	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	1	0:1	0:0				
+26	aérogénérateurs	aérogénérateur	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	1	0:1	0:0				
+19	incendie	incendie	1	0	2	0	2	N/A	N/A	N/A	2	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	1	0:1	0:0				
+0	arrêt	arrêt	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	1	0:1	0:0				
+4	sinistre	sinistre	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	1	0:1	0:0				
+11	autre	autre	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	1	0:1	0:0				
+14	communiqué	communiqué	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	1	0:1	0:0				
+23	contrôle	contrôle	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	1	0:1	0:0				
+18	sec	sec	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	1	0:1	0:0				
+8	3	3	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	1	0:1	0:0				
+17	transformateur	transformateur	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	1	0:1	0:0				
+32	éoliennes	éolienne	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	1	0:1	0:0				
+39	exception	exception	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	1	0:1	0:0				
+28	une	un	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	1	0:1	0:0				
+30	9	9	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	1	0:1	0:0				
+35	MW	MW	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	1	0:1	0:0				
+9	ans	an	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	1	0:1	0:0				
+41	feu	feu	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	1	0:1	0:0				
+21	système	système	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	1	0:1	0:0				
+31	éoliennes de 2 MW	éolienne de 2 MW	1	0	0	4	4.64385618977472	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.25	1	0.4	0.000115129154648748	1	1	0:1	0:0	32	33	32	
+29	9 éoliennes de 2 MW	9 éolienne de 2 MW	1	0	0	4.64385618977472	5.16992500144231	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.2	1	0.166666666666667	0.000115129154648748	1	1	0:1	0:0	31	30	32	
+7	service	service	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	1	0:1	0:0				
+33	2 MW	2 MW	1	0	0	2	3.16992500144231	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.5	1	0.333333333333333	0.000115129154648748	1	1	0:1	0:0	35	34	35	
+6	service 3	service 3	1	0	0	2	3.16992500144231	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.5	1	0.666666666666667	0.000115129154648748	1	1	0:1	0:0	7	8	7	
+22	contrôle automatique	contrôle automatique	1	0	0	2	3.16992500144231	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.5	1	0.333333333333333	0.000115129154648748	1	1	0:1	0:0	23	24	23	
+42	nacelle	nacelle	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	1	0:1	0:0				
+12	dommage	dommage	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	1	0:1	0:0				
+37	Éolienne	éolienne	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	1	0:1	0:0				
+1	court-circuit	court-circuit	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	1	0:1	0:0				
+34	2	2	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	1	0:1	0:0				
+3	origine	origine	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	1	0:1	0:0				
+36	parc	parc	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	1	0:1	0:0				
+24	automatique	automatique	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	1	0:1	0:0				
+25	pompiers	pompier	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	1	0:1	0:0				
+40	éolienne	éolienne	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	1	0:1	0:0				

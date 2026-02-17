@@ -1,0 +1,117 @@
+# ID	Inflected form	Lemmatised form	Frequency	CValue	CValue1	CValuePlus	CValuePlus1	CValueStar	CValueStarH	CValueStarM	CValueStarR	CValueWCard	CValueWCardPlus	D	DDW	Freq	idf	ilnc	ilncFreq	iLong	IM	iTer	LLR	nbdoc4tc	NormFreq	tf	tf-idf	Head	Modifier	MainHead
+76	arrêt des machines de 1h	arrêt du machine de 1h	1	2.32192809488736	2.58496250072116	2.32192809488736	2.58496250072116	1	N/A	N/A	0.263034405833794	0	0	1	0	1	0:0	0	0	0.2	2	0.166666666666667	0.000115129154648748	1	0.25	0:1	0:0	77	15	27	
+125	fin de la migration postnuptiale	fin de le migration postnuptial	1	2.32192809488736	2.58496250072116	2.32192809488736	2.58496250072116	1	N/A	N/A	0.263034405833794	0	0	1	0	1	0:0	0	0	0.2	4	0.166666666666667	0.000115129154648748	1	0.25	0:1	0:0	126	127	126	
+17	Milan Royal	Milan Royal	3	2	3.16992500144231	4	6.33985000288463	1	N/A	0.584962500721156	N/A	2	4	1	0	3	0:0	0	0	1.5	1.33333333333333	1	9.16279231839543e-06	1	0.75	0:3	0:0	18	19	18	
+84	suivi environnemental	suivi environnemental	2	2	3.16992500144231	2	3.16992500144231	1	N/A	N/A	1.16992500144231	0	0	1	0	2	0:0	0	0	1	1	0.666666666666667	6.93135930590801e-06	1	0.5	0:2	0:0	45	86	45	
+130	cadavre de Milan Royal	cadavre de Milan Royal	1	2	2.32192809488736	2	2.32192809488736	3	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	1.33333333333333	0.2	0	1	0.25	0:1	0:0	131	17	131	
+116	période de migration post-nuptiale.En	période de migration post-nuptiale.En	1	2	2.32192809488736	2	2.32192809488736	3	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	1.33333333333333	0.2	6.93134680530211e-06	1	0.25	0:1	0:0	58	118	58	
+28	rayon de 50 m	rayon de 50 m	1	2	2.32192809488736	2	2.32192809488736	3	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	4	0.2	0.000115129154648748	1	0.25	0:1	0:0	29	30	29	
+47	mortalité du Milan Royal	mortalité du Milan Royal	1	2	2.32192809488736	2	2.32192809488736	1	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	0.666666666666667	0.2	0.523238143714547	1	0.25	0:1	0:0	46	17	46	
+23	pale de l' éolienne	pale de le éolienne	1	2	2.32192809488736	2	2.32192809488736	2	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	2	0.2	0.000115129154648748	1	0.25	0:1	0:0	24	16	24	
+122	trajectoire de vol	trajectoire de vol	1	1.58496250072116	2	1.58496250072116	2	3	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	4	0.25	0.000115129154648748	1	0.25	0:1	0:0	123	124	123	
+138	place de mesure	place de mesure	1	1.58496250072116	2	1.58496250072116	2	3	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	1.33333333333333	0.25	0.000115129154648748	1	0.25	0:1	0:0	36	140	36	
+92	zone de survol	zone de survol	1	1.58496250072116	2	1.58496250072116	2	3	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	4	0.25	0.000115129154648748	1	0.25	0:1	0:0	93	94	93	
+101	lever du soleil	lever du soleil	1	1.58496250072116	2	1.58496250072116	2	1	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	2	0.25	0	1	0.25	0:1	0:0	102	54	102	
+2	dispositif de détection	dispositif de détection	1	1.58496250072116	2	1.58496250072116	2	1	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	2	0.25	0.000115129154648748	1	0.25	0:1	0:0	0	4	0	
+55	régulation des machines	régulation du machine	1	1.58496250072116	2	1.58496250072116	2	1	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	1	0.25	0	1	0.25	0:1	0:0	56	57	56	
+37	impact du parc	impact du parc	1	1.58496250072116	2	1.58496250072116	2	1	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	0.666666666666667	0.25	1.38627436101989	1	0.25	0:1	0:0	38	39	38	
+52	coucher du soleil	coucher du soleil	1	1.58496250072116	2	1.58496250072116	2	1	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	2	0.25	0	1	0.25	0:1	0:0	53	54	53	
+10	actions suivantes :reconduction	action suivant :reconduction	1	1.58496250072116	2	1.58496250072116	2	2	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	4	0.25	0.000115129154648748	1	0.25	0:1	0:0	11	14	12	
+63	temps réel	temps réel	1	1	1.58496250072116	1	1.58496250072116	3	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	4	0.333333333333333	0.000115129154648748	1	0.25	0:1	0:0	64	65	64	
+67	effarouchement sonore	effarouchement sonore	1	1	1.58496250072116	1	1.58496250072116	3	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	2	0.333333333333333	0.000115129154648748	1	0.25	0:1	0:0	26	69	26	
+135	parc éolien	parc éolien	1	1	1.58496250072116	1	1.58496250072116	3	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	0.666666666666667	0.333333333333333	6.93134680530211e-06	1	0.25	0:1	0:0	39	137	39	
+88	passage migratoire	passage migratoire	1	1	1.58496250072116	1	1.58496250072116	1	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	2	0.333333333333333	0.000115129154648748	1	0.25	0:1	0:0	89	90	89	
+33	protocole national	protocole national	1	1	1.58496250072116	1	1.58496250072116	1	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	4	0.333333333333333	0.000115129154648748	1	0.25	0:1	0:0	34	35	34	
+20	rapace diurne	rapace diurne	1	1	1.58496250072116	1	1.58496250072116	1	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	2	0.333333333333333	0.000115129154648748	1	0.25	0:1	0:0	21	22	21	
+60	catégorie vulnérable	catégorie vulnérable	1	1	1.58496250072116	1	1.58496250072116	1	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	4	0.333333333333333	0.000115129154648748	1	0.25	0:1	0:0	61	62	61	
+98	période post-nuptiale	période post-nuptial	1	1	1.58496250072116	1	1.58496250072116	1	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	1.33333333333333	0.333333333333333	6.93134680530211e-06	1	0.25	0:1	0:0	58	100	58	
+5	réduction spécifique.L'exploitant	réduction spécifique.L'exploitant	1	1	1.58496250072116	1	1.58496250072116	1	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	4	0.333333333333333	0.000115129154648748	1	0.25	0:1	0:0	6	7	6	
+72	suivi spécifique	suivi spécifique	1	1	1.58496250072116	1	1.58496250072116	2	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	1	0.333333333333333	2.87671655764548e-06	1	0.25	0:1	0:0	45	74	45	
+45	suivi	suivi	4	0	2.66666666666667	0	5.33333333333333	3	1	3	N/A	2.66666666666667	5.33333333333333	1	0	4	0:0	2	3	4	N/A	6	N/A	1	1	0:4	0:0				
+83	espèce	espèce	3	0	3	0	3	3	N/A	N/A	3	0	0	1	0	3	0:0	0	0	3	N/A	1.5	N/A	1	0.75	0:3	0:0				
+58	période	période	3	0	2	0	4	3	1	N/A	N/A	2	4	1	0	3	0:0	2	2	3	N/A	4.5	N/A	1	0.75	0:3	0:0				
+18	Milan	Milan	3	0	1.33333333333333	0	4.66666666666667	3	-2	N/A	N/A	1.33333333333333	4.66666666666667	1	0	3	0:0	3	5	3	N/A	6	N/A	1	0.75	0:3	0:0				
+19	Royal	Royal	3	0	1.33333333333333	0	4.66666666666667	1	N/A	-2	N/A	1.33333333333333	4.66666666666667	1	0	3	0:0	0	0	3	N/A	1.5	N/A	1	0.75	0:3	0:0				
+36	place	place	3	0	2	0	4	1	2	N/A	N/A	2	4	1	0	3	0:0	1	1	3	N/A	3	N/A	1	0.75	0:3	0:0				
+57	machines	machine	2	0	1	0	3	N/A	N/A	0	N/A	1	3	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.5	0:2	0:0				
+54	soleil	soleil	2	0	1	0	3	N/A	N/A	0	N/A	1	3	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.5	0:2	0:0				
+38	impact	impact	2	0	1	0	3	3	1	N/A	N/A	1	3	1	0	2	0:0	1	1	2	N/A	2	N/A	1	0.5	0:2	0:0				
+119	migration	migration	2	0	1	0	3	3	0	N/A	N/A	1	3	1	0	2	0:0	2	2	2	N/A	3	N/A	1	0.5	0:2	0:0				
+86	environnemental	environnemental	2	0	0	0	4	3	N/A	0	N/A	0	4	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.5	0:2	0:0				
+16	éolienne	éolienne	2	0	1	0	3	3	N/A	1	N/A	1	3	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.5	0:2	0:0				
+0	dispositif	dispositif	2	0	1	0	3	3	1	N/A	N/A	1	3	1	0	2	0:0	1	1	2	N/A	2	N/A	1	0.5	0:2	0:0				
+46	mortalité	mortalité	2	0	1	0	3	1	1	1	N/A	1	3	1	0	2	0:0	1	1	2	N/A	2	N/A	1	0.5	0:2	0:0				
+26	effarouchement	effarouchement	2	0	1	0	3	1	1	N/A	N/A	1	3	1	0	2	0:0	1	1	2	N/A	2	N/A	1	0.5	0:2	0:0				
+21	rapace	rapace	2	0	1	0	3	1	1	N/A	N/A	1	3	1	0	2	0:0	1	1	2	N/A	2	N/A	1	0.5	0:2	0:0				
+27	arrêt	arrêt	2	0	1	0	3	1	1	N/A	N/A	1	3	1	0	2	0:0	1	1	2	N/A	2	N/A	1	0.5	0:2	0:0				
+15	1h	1h	2	0	1	0	3	1	N/A	1	N/A	1	3	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.5	0:2	0:0				
+9	mise	mise	2	0	2	0	2	1	N/A	N/A	2	0	0	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.5	0:2	0:0				
+39	parc	parc	2	0	2	0	4	2	2	2	N/A	1	3	1	0	2	0:0	1	1	2	N/A	2	N/A	1	0.5	0:2	0:0				
+56	régulation	régulation	2	0	1	0	3	2	1	N/A	N/A	1	3	1	0	2	0:0	1	1	2	N/A	2	N/A	1	0.5	0:2	0:0				
+59	oiseaux	oiseau	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+107	test de persistance	test de persistance	1	0	0	3.16992500144231	4	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	4	0.5	0.000115129154648748	1	0.25	0:1	0:0	108	109	108	
+131	cadavre	cadavre	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+44	durée	durée	1	0	0	0	2	3	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+22	diurne	diurne	1	0	0	0	2	3	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+121	bureau	bureau	1	0	1	0	1	3	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+127	migration postnuptiale	migration postnuptial	1	0	0	2	3.16992500144231	3	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.5	2	0.333333333333333	6.93134680530211e-06	1	0.25	0:1	0:0	119	129	119	
+112	leurres	leurre	1	0	0	0	2	3	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+94	survol	survol	1	0	0	0	2	3	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+53	coucher	coucher	1	0	0	0	2	3	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+111	utilisant	utiliser	1	0	0	0	2	3	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+124	vol	vol	1	0	0	0	2	3	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+13	suivantes	suivant	1	0	0	0	2	3	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+109	persistance	persistance	1	0	0	0	2	3	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+115	évitement	évitement	1	0	1	0	1	3	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+61	catégorie	catégorie	1	0	0	0	2	3	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+106	test de persistance utilisant des leurres	test de persistance utiliser du leurre	1	0	0	5.16992500144231	5.61470984411521	3	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.166666666666667	4	0.285714285714286	0.000115129154648748	1	0.25	0:1	0:0	107	110	108	
+120	post-nuptiale.En	post-nuptiale.En	1	0	0	0	2	3	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+42	prolongation de la durée	prolongation de le durée	1	0	0	4	4.64385618977472	3	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.25	4	0.4	0.000115129154648748	1	0.25	0:1	0:0	43	44	43	
+110	utilisant des leurres	utiliser du leurre	1	0	0	3.16992500144231	4	3	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.333333333333333	4	0.25	0.000115129154648748	1	0.25	0:1	0:0	111	112	111	
+102	lever	lever	1	0	0	0	2	3	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+81	approche	approche	1	0	1	0	1	3	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+35	national	national	1	0	0	0	2	3	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+34	protocole	protocole	1	0	0	0	2	3	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+74	spécifique	spécifique	1	0	0	0	2	3	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+24	pale	pale	1	0	0	0	2	3	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+87	étude	étude	1	0	1	0	1	3	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+126	fin	fin	1	0	0	0	2	3	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+100	post-nuptiale	post-nuptial	1	0	0	0	2	3	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+69	sonore	sonore	1	0	0	0	2	3	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+97	caméras	caméra	1	0	1	0	1	3	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+118	migration post-nuptiale.En	migration post-nuptiale.En	1	0	0	2	3.16992500144231	3	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.5	2	0.333333333333333	6.93134680530211e-06	1	0.25	0:1	0:0	119	120	119	
+77	arrêt des machines	arrêt du machine	1	0	0	3.16992500144231	4	3	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	1	0.5	0	1	0.25	0:1	0:0	27	57	27	
+12	actions	action	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+29	rayon	rayon	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+93	zone	zone	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+1	année	année	1	0	1	0	1	1	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+14	:reconduction	:reconduction	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+89	passage	passage	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+75	mois	mois|moi	1	0	1	0	1	1	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+129	postnuptiale	postnuptial	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+95	pied	pied	1	0	1	0	1	1	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+4	détection	détection	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+7	spécifique.L'exploitant	spécifique.L'exploitant	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+108	test	test	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+62	vulnérable	vulnérable	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+65	réel	réel	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+90	migratoire	migratoire	1	0	1	0	3	1	N/A	1	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+113	gabarit	gabarit	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+30	50 m	50 m	1	0	0	2	3.16992500144231	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.5	4	0.333333333333333	0.000115129154648748	1	0.25	0:1	0:0	32	31	32	
+140	mesure	mesure	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+71	évidence	évidence	1	0	1	0	1	1	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+43	prolongation	prolongation	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+31	50	50	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+41	prolongation de la durée du suivi	prolongation de le durée du suivi	1	0	0	5.16992500144231	5.61470984411521	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.166666666666667	1	0.285714285714286	2.24930057827523	1	0.25	0:1	0:0	42	45	43	
+123	trajectoire	trajectoire	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+64	temps	temps	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+11	actions suivantes	action suivant	1	0	0	2	3.16992500144231	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.5	4	0.666666666666667	0.000115129154648748	1	0.25	0:1	0:0	12	13	12	
+137	éolien	éolien	1	0	1	0	3	1	N/A	1	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+66	études	étude	1	0	1	0	1	1	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+6	réduction	réduction	1	0	0	0	2	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+70	exploitant	exploitant	1	0	1	0	1	2	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+114	proche	proche	1	0	0	0	2	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+8	octobre	octobre	1	0	1	0	1	2	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+82	Mortalité	mortalité	1	0	1	0	1	2	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+142	novembre	novembre	1	0	1	0	1	2	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+32	m	m	1	0	0	0	2	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				

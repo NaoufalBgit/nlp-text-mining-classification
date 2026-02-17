@@ -1,0 +1,187 @@
+if: Hirondelle
+pos: NOM
+lf: hirondelle
+is a term candidate: 1
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: individu découvert présente
+pos: NOM VER:pper ADJ
+lf: individu découvrir présent
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: état de décomposition
+pos: NOM de NOM
+lf: état de décomposition
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( état<=H> de<=P> décomposition<=M> )
+islands: 0
+
+
+-----------------
+
+if: m
+pos: NOM
+lf: m
+is a term candidate: 1
+
+-----------------
+
+if: mort de l' oiseau
+pos: NOM de DET:ART NOM
+lf: mort de le oiseau
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( mort<=H> de<=P> l'<=D> oiseau<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: suivi environnemental
+pos: NOM ADJ
+lf: suivi environnemental
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( suivi<=H> environnemental<=M> )
+islands: 0
+
+
+-----------------
+
+if: Choc
+pos: NOM
+lf: choc
+is a term candidate: 1
+
+-----------------
+
+if: sol
+pos: NOM
+lf: sol
+is a term candidate: 1
+
+-----------------
+
+if: pale
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: migration automnale
+pos: NOM ADJ
+lf: migration automnal
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( migration<=H> automnale<=M> )
+islands: 0
+
+
+-----------------
+
+if: phénomène de barotraumatisme
+pos: NOM de NOM
+lf: phénomène de barotraumatisme
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( phénomène<=H> de<=P> barotraumatisme<=M> )
+islands: 0
+
+
+-----------------
+
+if: espèce vulnérable
+pos: NOM ADJ
+lf: espèce vulnérable
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( espèce<=H> vulnérable<=M> )
+islands: 0
+
+
+-----------------
+
+if: jours
+pos: NOM
+lf: jour
+is a term candidate: 1
+
+-----------------
+
+if: bureau
+pos: NOM
+lf: bureau
+is a term candidate: 1
+
+-----------------
+
+if: hirondelle des fenêtres
+pos: NOM des NOM
+lf: hirondelle du fenêtre
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( hirondelle<=H> des<=P> fenêtres<=M> )
+islands: 0
+
+
+-----------------
+
+if: espèce
+pos: NOM
+lf: espèce
+is a term candidate: 1
+
+-----------------
+
+if: blessures visibles
+pos: NOM ADJ
+lf: blessure visible
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( blessures<=H> visibles<=M> )
+islands: 0
+
+
+-----------------
+
+if: études
+pos: NOM
+lf: étude
+is a term candidate: 1
+
+-----------------
+

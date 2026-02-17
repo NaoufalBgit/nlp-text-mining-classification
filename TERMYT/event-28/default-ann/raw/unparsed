@@ -1,0 +1,621 @@
+if: mesures immédiates suivantes :démantèlement de l' éolienne
+pos: NOM ADJ ADJ NOM de DET:ART NOM
+lf: mesure immédiat suivant :démantèlement de le éolienne
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: rupture du système
+pos: NOM du NOM
+lf: rupture du système
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( rupture<=H> du<=P> système<=M> )
+islands: 0
+
+
+-----------------
+
+if: totalité des 54 billes de roulement
+pos: NOM des NUM NOM de NOM
+lf: totalité du 54 bille de roulement
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: risque de chute
+pos: NOM de NOM
+lf: risque de chute
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( risque<=H> de<=P> chute<=M> )
+islands: 0
+
+
+-----------------
+
+if: zone
+pos: NOM
+lf: zone
+is a term candidate: 1
+
+-----------------
+
+if: période
+pos: NOM
+lf: période
+is a term candidate: 1
+
+-----------------
+
+if: exploitants des parcelles agricoles
+pos: NOM des NOM ADJ
+lf: exploitant du parcelle agricole
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( exploitants<=H> des<=P> ( parcelles<=H> agricoles<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: groupe hydraulique
+pos: NOM ADJ
+lf: groupe hydraulique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( groupe<=H> hydraulique<=M> )
+islands: 0
+
+
+-----------------
+
+if: entreposage
+pos: NOM
+lf: entreposage
+is a term candidate: 1
+
+-----------------
+
+if: septembre
+pos: NOM
+lf: septembre
+is a term candidate: 1
+
+-----------------
+
+if: observation de 7 jours
+pos: NOM de NUM NOM
+lf: observation de 7 jour
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: inhibition du réarmement automatique
+pos: NOM du NOM ADJ
+lf: inhibition du réarmement automatique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( inhibition<=H> du<=P> ( réarmement<=H> automatique<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: série
+pos: NOM
+lf: série
+is a term candidate: 1
+
+-----------------
+
+if: dégâts
+pos: NOM
+lf: dégât
+is a term candidate: 1
+
+-----------------
+
+if: maintenance complète
+pos: NOM ADJ
+lf: maintenance complet
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( maintenance<=H> complète<=M> )
+islands: 0
+
+
+-----------------
+
+if: intervenant
+pos: NOM
+lf: intervenant
+is a term candidate: 1
+
+-----------------
+
+if: mât
+pos: NOM
+lf: mât
+is a term candidate: 1
+
+-----------------
+
+if: pales
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: orientationL'inspection des éléments mécaniques
+pos: NOM des NOM ADJ
+lf: orientationL'inspection du élément mécanique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( orientationL'inspection<=H> des<=P> ( éléments<=H> mécaniques<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: Chute
+pos: NOM
+lf: chute
+is a term candidate: 1
+
+-----------------
+
+if: boulonnerie
+pos: NOM
+lf: boulonnerie
+is a term candidate: 1
+
+-----------------
+
+if: fonctionnement.Le lendemain
+pos: ADJ NOM
+lf: fonctionnement.Le lendemain
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( fonctionnement.Le<=M> lendemain<=H> )
+islands: 0
+
+
+-----------------
+
+if: roulement à bille
+pos: NOM à NOM
+lf: roulement à bille
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( roulement<=H> à<=P> bille<=M> )
+islands: 0
+
+
+-----------------
+
+if: usure anormale
+pos: NOM ADJ
+lf: usure anormal
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( usure<=H> anormale<=M> )
+islands: 0
+
+
+-----------------
+
+if: origine
+pos: NOM
+lf: origine
+is a term candidate: 1
+
+-----------------
+
+if: protocole de contrôle
+pos: NOM de NOM
+lf: protocole de contrôle
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( protocole<=H> de<=P> contrôle<=M> )
+islands: 0
+
+
+-----------------
+
+if: pale
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: chutes possibles
+pos: NOM ADJ
+lf: chute possible
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( chutes<=H> possibles<=M> )
+islands: 0
+
+
+-----------------
+
+if: débris de petite taille
+pos: NOM de ADJ NOM
+lf: débris de petit taille
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: kW
+pos: NOM
+lf: kW
+is a term candidate: 1
+
+-----------------
+
+if: redémarrage des unités
+pos: NOM des NOM
+lf: redémarrage du unité
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( redémarrage<=H> des<=P> unités<=M> )
+islands: 0
+
+
+-----------------
+
+if: intervention des équipes de maintenance
+pos: NOM des NOM de NOM
+lf: intervention du équipe de maintenance
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: limitation de la puissance produite à 650 kW
+pos: NOM de DET:ART NOM VER:pper à NUM NOM
+lf: limitation de le puissance produire à 650 kW
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: révision intégrale récente
+pos: NOM ADJ ADJ
+lf: révision intégral récent
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: expertise
+pos: NOM
+lf: expertise
+is a term candidate: 1
+
+-----------------
+
+if: apparition
+pos: NOM
+lf: apparition
+is a term candidate: 1
+
+-----------------
+
+if: éléments du rotor
+pos: NOM du NOM
+lf: élément du rotor
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( éléments<=H> du<=P> rotor<=M> )
+islands: 0
+
+
+-----------------
+
+if: éléments mécaniques métalliques
+pos: NOM ADJ ADJ
+lf: élément mécanique métallique
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: objet
+pos: NOM
+lf: objet
+is a term candidate: 1
+
+-----------------
+
+if: dernières
+pos: NOM
+lf: dernier
+is a term candidate: 1
+
+-----------------
+
+if: turbine
+pos: NOM
+lf: turbine
+is a term candidate: 1
+
+-----------------
+
+if: site
+pos: NOM
+lf: site
+is a term candidate: 1
+
+-----------------
+
+if: sol
+pos: NOM
+lf: sol
+is a term candidate: 1
+
+-----------------
+
+if: exploitant
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+
+if: rupture de la couronne extérieure
+pos: NOM de DET:ART NOM ADJ
+lf: rupture de le couronne extérieur
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( rupture<=H> de<=P> la<=D> ( couronne<=H> extérieure<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: alarmes
+pos: NOM
+lf: alarme
+is a term candidate: 1
+
+-----------------
+
+if: matin de l' événement
+pos: NOM de DET:ART NOM
+lf: matin de le événement
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( matin<=H> de<=P> l'<=D> événement<=M> )
+islands: 0
+
+
+-----------------
+
+if: zone de culture
+pos: NOM de NOM
+lf: zone de culture
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( zone<=H> de<=P> culture<=M> )
+islands: 0
+
+
+-----------------
+
+if: autres turbines du parc
+pos: ADJ NOM du NOM
+lf: autre turbine du parc
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: défaillance du système
+pos: NOM du NOM
+lf: défaillance du système
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( défaillance<=H> du<=P> système<=M> )
+islands: 0
+
+
+-----------------
+
+if: réparation
+pos: NOM
+lf: réparation
+is a term candidate: 1
+
+-----------------
+
+if: h.L'exploitant
+pos: NOM
+lf: h.L'exploitant
+is a term candidate: 1
+
+-----------------
+
+if: orientation des pales
+pos: NOM des NOM
+lf: orientation du pale
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( orientation<=H> des<=P> pales<=M> )
+islands: 0
+
+
+-----------------
+
+if: chute à 5 m du pied du mât
+pos: NOM à NUM NOM du NOM du NOM
+lf: chute à 5 m du pied du mât
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: agriculteur
+pos: NOM
+lf: agriculteur
+is a term candidate: 1
+
+-----------------
+
+if: choc
+pos: NOM
+lf: choc
+is a term candidate: 1
+
+-----------------
+
+if: gros débris composés de matériaux composites
+pos: ADJ NOM VER:pper de NOM ADJ
+lf: gros débris composer de matériaux|matériau composite
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: orientation de la pale
+pos: NOM de DET:ART NOM
+lf: orientation de le pale
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( orientation<=H> de<=P> la<=D> pale<=M> )
+islands: 0
+
+
+-----------------
+
+if: partie haute
+pos: NOM ADJ
+lf: partie haut
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( partie<=H> haute<=M> )
+islands: 0
+
+
+-----------------
+
+if: fabricant
+pos: NOM
+lf: fabricant
+is a term candidate: 1
+
+-----------------
+
+if: libération de la couronne intérieure solidaire
+pos: NOM de DET:ART NOM ADJ ADJ
+lf: libération de le couronne intérieur solidaire
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: arrêt
+pos: NOM
+lf: arrêt
+is a term candidate: 1
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: rotor
+pos: NOM
+lf: rotor
+is a term candidate: 1
+
+-----------------
+
+if: réalisation
+pos: NOM
+lf: réalisation
+is a term candidate: 1
+
+-----------------
+
+if: roulement
+pos: NOM
+lf: roulement
+is a term candidate: 1
+
+-----------------
+
+if: panne
+pos: NOM
+lf: panne
+is a term candidate: 1
+
+-----------------
+
+if: alarme de dysfonctionnement du système
+pos: NOM de NOM du NOM
+lf: alarme de dysfonctionnement du système
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: m
+pos: NOM
+lf: m
+is a term candidate: 1
+
+-----------------
+

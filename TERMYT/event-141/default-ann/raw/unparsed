@@ -1,0 +1,283 @@
+if: compte
+pos: NOM
+lf: compte
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: système de détection avifaune
+pos: NOM de NOM NOM
+lf: système de détection avifaune
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: collision
+pos: NOM
+lf: collision
+is a term candidate: 1
+
+-----------------
+
+if: suivi de mortalité hebdomadaire
+pos: NOM de NOM ADJ
+lf: suivi de mortalité hebdomadaire
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( suivi<=H> de<=P> ( mortalité<=H> hebdomadaire<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: milan
+pos: NOM
+lf: milan
+is a term candidate: 1
+
+-----------------
+
+if: éolienne 5 s
+pos: NOM NUM NOM
+lf: éolienne 5 s
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: s
+pos: NOM
+lf: s
+is a term candidate: 1
+
+-----------------
+
+if: espèce
+pos: NOM
+lf: espèce
+is a term candidate: 1
+
+-----------------
+
+if: Milan royal
+pos: NAM ADJ
+lf: Milan royal
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: Milan noir
+pos: NAM ADJ
+lf: Milan noir
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: impact
+pos: NOM
+lf: impact
+is a term candidate: 1
+
+-----------------
+
+if: études
+pos: NOM
+lf: étude
+is a term candidate: 1
+
+-----------------
+
+if: événement
+pos: NOM
+lf: événement
+is a term candidate: 1
+
+-----------------
+
+if: lieu 2 semaines
+pos: NOM NUM NOM
+lf: lieu 2 semaine
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: bureau
+pos: NOM
+lf: bureau
+is a term candidate: 1
+
+-----------------
+
+if: nouvelle sortie
+pos: ADJ NOM
+lf: nouveau sortie
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( nouvelle<=M> sortie<=H> )
+islands: 0
+
+
+-----------------
+
+if: gestionnaire des systèmes de détection
+pos: NOM des NOM de NOM
+lf: gestionnaire du système de détection
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: cadavre
+pos: NOM
+lf: cadavre
+is a term candidate: 1
+
+-----------------
+
+if: espèce menacée).L'exploitant
+pos: NOM ADJ
+lf: espèce menacée).L'exploitant
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( espèce<=H> menacée).L'exploitant<=M> )
+islands: 0
+
+
+-----------------
+
+if: signal
+pos: NOM
+lf: signal
+is a term candidate: 1
+
+-----------------
+
+if: bout de pale
+pos: NOM de NOM
+lf: bout de pale
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( bout<=H> de<=P> pale<=M> )
+islands: 0
+
+
+-----------------
+
+if: 15h14
+pos: NAM
+lf: 15h14
+is a term candidate: 1
+
+-----------------
+
+if: possibilités de réduction des temps de réaction de l' éolienne
+pos: NOM de NOM des NOM de NOM de DET:ART NOM
+lf: possibilité de réduction du temps de réaction de le éolienne
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: information à l' exploitant 4 jours
+pos: NOM à DET:ART NOM NUM NOM
+lf: information à le exploitant 4 jour
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: vitesse inférieure
+pos: NOM ADJ
+lf: vitesse inférieur
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( vitesse<=H> inférieure<=M> )
+islands: 0
+
+
+-----------------
+
+if: Choc
+pos: NOM
+lf: choc
+is a term candidate: 1
+
+-----------------
+
+if: fois
+pos: NOM
+lf: fois
+is a term candidate: 1
+
+-----------------
+
+if: régulation
+pos: NOM
+lf: régulation
+is a term candidate: 1
+
+-----------------
+
+if: oiseau
+pos: NOM
+lf: oiseau
+is a term candidate: 1
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: vidéos enregistrées de la collision
+pos: NOM VER:pper de DET:ART NOM
+lf: vidéo enregistrer de le collision
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: pale
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: zone de prospection étendue correspondant à la zone de chute de l' individu
+pos: NOM de NOM VER:pper VER:ppre à DET:ART NOM de NOM de DET:ART NOM
+lf: zone de prospection étendre correspondre à le zone de chute de le individu
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+

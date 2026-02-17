@@ -1,0 +1,345 @@
+if: parc
+pos: NOM
+lf: parc
+is a term candidate: 1
+
+-----------------
+
+if: arrêt
+pos: NOM
+lf: arrêt
+is a term candidate: 1
+
+-----------------
+
+if: cinquantaine de parcs éoliens français
+pos: NOM de NOM ADJ ADJ
+lf: cinquantaine de parc éolien français
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: cyberattaque
+pos: NOM
+lf: cyberattaque
+is a term candidate: 1
+
+-----------------
+
+if: perte de communication
+pos: NOM de NOM
+lf: perte de communication
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( perte<=H> de<=P> communication<=M> )
+islands: 0
+
+
+-----------------
+
+if: filaire
+pos: NOM
+lf: filaire
+is a term candidate: 1
+
+-----------------
+
+if: communications de l' armée ukrainienne.Certains parcs
+pos: NOM de DET:ART NOM ADJ NOM
+lf: communication de le armée ukrainienne.Certains parc
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: système SCADA
+pos: NOM NAM
+lf: système SCADA
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( système<=H> SCADA<=M> )
+islands: 0
+
+
+-----------------
+
+if: exploitants
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+
+if: informations au centre de pilotage à distance
+pos: NOM au NOM de NOM à NOM
+lf: information au centre de pilotage à distance
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: incident
+pos: NOM
+lf: incident
+is a term candidate: 1
+
+-----------------
+
+if: Russie
+pos: NAM
+lf: Russie
+is a term candidate: 1
+
+-----------------
+
+if: satellites
+pos: NOM
+lf: satellite
+is a term candidate: 1
+
+-----------------
+
+if: solutions 4G
+pos: NOM NAM
+lf: solution 4G
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( solutions<=H> 4G<=M> )
+islands: 0
+
+
+-----------------
+
+if: zones blanches
+pos: NOM ADJ
+lf: zone blanc
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( zones<=H> blanches<=M> )
+islands: 0
+
+
+-----------------
+
+if: invasion de l' Ukraine
+pos: NOM de DET:ART NAM
+lf: invasion de le Ukraine
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( invasion<=H> de<=P> l'<=D> Ukraine<=M> )
+islands: 0
+
+
+-----------------
+
+if: Supervisory Control and
+pos: NAM NAM NOM
+lf: Supervisory Control and
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: place des visites quotidiennes de surveillance
+pos: NOM des NOM ADJ de NOM
+lf: place du visite quotidien de surveillance
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: pilotage local
+pos: NOM ADJ
+lf: pilotage local
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( pilotage<=H> local<=M> )
+islands: 0
+
+
+-----------------
+
+if: vigilance accrue des conditions météorologiques
+pos: NOM VER:pper des NOM ADJ
+lf: vigilance accroître|accroire du condition météorologique
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: éoliennes
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: supervision à distance
+pos: NOM à NOM
+lf: supervision à distance
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( supervision<=H> à<=P> distance<=M> )
+islands: 0
+
+
+-----------------
+
+if: autre satellite
+pos: ADJ NOM
+lf: autre satellite
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( autre<=M> satellite<=H> )
+islands: 0
+
+
+-----------------
+
+if: communication à distance.Les exploitants
+pos: NOM à NOM ADJ
+lf: communication à distance.Les exploitant
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: cause de la cyberattaque de la liaison satellite
+pos: NOM de DET:ART NOM de DET:ART NOM NOM
+lf: cause de le cyberattaque de le liaison satellite
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: satellite
+pos: NOM
+lf: satellite
+is a term candidate: 1
+
+-----------------
+
+if: mode de sécurité automatique
+pos: NOM de NOM ADJ
+lf: mode de sécurité automatique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( mode<=H> de<=P> ( sécurité<=H> automatique<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: parcs
+pos: NOM
+lf: parc
+is a term candidate: 1
+
+-----------------
+
+if: impossibilité
+pos: NOM
+lf: impossibilité
+is a term candidate: 1
+
+-----------------
+
+if: Éoliennes
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: maintenanciers
+pos: NOM
+lf: maintenancier
+is a term candidate: 1
+
+-----------------
+
+if: oeuvre des solutions pérennes de back-up de la communication
+pos: NOM des NOM ADJ de NOM de DET:ART NOM
+lf: œuvre du solution pérenne de back-up de le communication
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: mois
+pos: NOM
+lf: mois|moi
+is a term candidate: 1
+
+-----------------
+
+if: approvisionnement
+pos: NOM
+lf: approvisionnement
+is a term candidate: 1
+
+-----------------
+
+if: électricité
+pos: NOM
+lf: électricité
+is a term candidate: 1
+
+-----------------
+
+if: routeurs
+pos: NOM
+lf: routeurs
+is a term candidate: 1
+
+-----------------
+
+if: jours
+pos: NOM
+lf: jour
+is a term candidate: 1
+
+-----------------
+
+if: Europe
+pos: NAM
+lf: Europe
+is a term candidate: 1
+
+-----------------
+
+if: Acquisition
+pos: NOM
+lf: acquisition
+is a term candidate: 1
+
+-----------------
+
+if: perte de communication du pilotage à distance
+pos: NOM de NOM du NOM à NOM
+lf: perte de communication du pilotage à distance
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+

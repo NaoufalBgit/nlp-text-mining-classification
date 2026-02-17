@@ -1,0 +1,146 @@
+if: exploitants
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+
+if: décision
+pos: NOM
+lf: décision
+is a term candidate: 1
+
+-----------------
+
+if: éoliennes du parc
+pos: NOM du NOM
+lf: éolienne du parc
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( éoliennes<=H> du<=P> parc<=M> )
+islands: 0
+
+
+-----------------
+
+if: treuil à câble
+pos: NOM à NOM
+lf: treuil à câble
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( treuil<=H> à<=P> câble<=M> )
+islands: 0
+
+
+-----------------
+
+if: éléments
+pos: NOM
+lf: élément
+is a term candidate: 1
+
+-----------------
+
+if: pied du mat
+pos: NOM du NOM
+lf: pied du mat
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( pied<=H> du<=P> mat<=M> )
+islands: 0
+
+
+-----------------
+
+if: contrôles
+pos: NOM
+lf: contrôle
+is a term candidate: 1
+
+-----------------
+
+if: service
+pos: NOM
+lf: service
+is a term candidate: 1
+
+-----------------
+
+if: expertise
+pos: NOM
+lf: expertise
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: Chute de l' ascenseur
+pos: NOM de DET:ART NOM
+lf: chute de le ascenseur
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Chute<=H> de<=P> l'<=D> ascenseur<=M> )
+islands: 0
+
+
+-----------------
+
+if: dispositif anti-chute
+pos: NOM ADJ
+lf: dispositif anti-chute
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( dispositif<=H> anti-chute<=M> )
+islands: 0
+
+
+-----------------
+
+if: accident
+pos: NOM
+lf: accident
+is a term candidate: 1
+
+-----------------
+
+if: mort
+pos: NOM
+lf: mort
+is a term candidate: 1
+
+-----------------
+
+if: parc éolien un ascenseur
+pos: NOM ADJ DET:ART NOM
+lf: parc éolien un ascenseur
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: ascenseurs
+pos: NOM
+lf: ascenseur
+is a term candidate: 1
+
+-----------------
+
+if: éoliennes
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+

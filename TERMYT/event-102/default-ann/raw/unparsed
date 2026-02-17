@@ -1,0 +1,236 @@
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: arbre rapide
+pos: NOM ADJ
+lf: arbre rapide
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( arbre<=H> rapide<=M> )
+islands: 0
+
+
+-----------------
+
+if: arrêt
+pos: NOM
+lf: arrêt
+is a term candidate: 1
+
+-----------------
+
+if: disponibilité des pièces
+pos: NOM des NOM
+lf: disponibilité du pièce
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( disponibilité<=H> des<=P> pièces<=M> )
+islands: 0
+
+
+-----------------
+
+if: acier
+pos: NOM
+lf: acier
+is a term candidate: 1
+
+-----------------
+
+if: multiplicateur
+pos: NOM
+lf: multiplicateur
+is a term candidate: 1
+
+-----------------
+
+if: alarme de suivi des vibrations de composants mobiles
+pos: NOM de NOM des NOM de NOM ADJ
+lf: alarme de suivi du vibration de composant mobile
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: défaut de fabrication
+pos: NOM de NOM
+lf: défaut de fabrication
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( défaut<=H> de<=P> fabrication<=M> )
+islands: 0
+
+
+-----------------
+
+if: dent de l' arbre rapide
+pos: NOM de DET:ART NOM ADJ
+lf: dent de le arbre rapide
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( dent<=H> de<=P> l'<=D> ( arbre<=H> rapide<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: processus de fabrication
+pos: NOM de NOM
+lf: processus de fabrication
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( processus<=H> de<=P> fabrication<=M> )
+islands: 0
+
+
+-----------------
+
+if: jours
+pos: NOM
+lf: jour
+is a term candidate: 1
+
+-----------------
+
+if: équipe de l' exploitant
+pos: NOM de DET:ART NOM
+lf: équipe de le exploitant
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( équipe<=H> de<=P> l'<=D> exploitant<=M> )
+islands: 0
+
+
+-----------------
+
+if: exploitant
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+
+if: inclusion de bulle
+pos: NOM de NOM
+lf: inclusion de bulle
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( inclusion<=H> de<=P> bulle<=M> )
+islands: 0
+
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: production de l' aérogénérateur
+pos: NOM de DET:ART NOM
+lf: production de le aérogénérateur
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( production<=H> de<=P> l'<=D> aérogénérateur<=M> )
+islands: 0
+
+
+-----------------
+
+if: parc de 14 éoliennes
+pos: NOM de NUM NOM
+lf: parc de 14 éolienne
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: intervenants.La pièce défectueuse
+pos: NOM NOM ADJ
+lf: intervenants.La pièce défectueux
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: conséquence
+pos: NOM
+lf: conséquence
+is a term candidate: 1
+
+-----------------
+
+if: Défaillance mécanique
+pos: NOM ADJ
+lf: défaillance mécanique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Défaillance<=H> mécanique<=M> )
+islands: 0
+
+
+-----------------
+
+if: air
+pos: NOM
+lf: air
+is a term candidate: 1
+
+-----------------
+
+if: environnement.L'exploitant
+pos: NOM
+lf: environnement.L'exploitant
+is a term candidate: 1
+
+-----------------
+
+if: couronne dentée
+pos: NOM ADJ
+lf: couronne denté
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( couronne<=H> dentée<=M> )
+islands: 0
+
+
+-----------------
+
+if: fournisseur des améliorations organisationnelles
+pos: NOM des NOM ADJ
+lf: fournisseur du amélioration organisationnel
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( fournisseur<=H> des<=P> ( améliorations<=H> organisationnelles<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: machine
+pos: NOM
+lf: machine
+is a term candidate: 1
+
+-----------------
+

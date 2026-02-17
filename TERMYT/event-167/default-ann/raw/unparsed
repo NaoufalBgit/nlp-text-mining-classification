@@ -1,0 +1,145 @@
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: intempéries de la veille au soir
+pos: NOM de DET:ART NOM au NOM
+lf: intempérie de le veille au soir
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: parc
+pos: NOM
+lf: parc
+is a term candidate: 1
+
+-----------------
+
+if: impact de foudre
+pos: NOM de NOM
+lf: impact de foudre
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( impact<=H> de<=P> foudre<=M> )
+islands: 0
+
+
+-----------------
+
+if: chemins
+pos: NOM
+lf: chemin
+is a term candidate: 1
+
+-----------------
+
+if: Pale
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: équipe de maintenance
+pos: NOM de NOM
+lf: équipe de maintenance
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( équipe<=H> de<=P> maintenance<=M> )
+islands: 0
+
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: alarme
+pos: NOM
+lf: alarme
+is a term candidate: 1
+
+-----------------
+
+if: casse de l' une des pales de l' éolienne
+pos: NOM de DET:ART NOM des NOM de DET:ART NOM
+lf: casse de le un du pale de le éolienne
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: zone
+pos: NOM
+lf: zone
+is a term candidate: 1
+
+-----------------
+
+if: équipe
+pos: NOM
+lf: équipe
+is a term candidate: 1
+
+-----------------
+
+if: origine de la détérioration
+pos: NOM de DET:ART NOM
+lf: origine de le détérioration
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( origine<=H> de<=P> la<=D> détérioration<=M> )
+islands: 0
+
+
+-----------------
+
+if: accès
+pos: NOM
+lf: accès
+is a term candidate: 1
+
+-----------------
+
+if: turbine
+pos: NOM
+lf: turbine
+is a term candidate: 1
+
+-----------------
+
+if: arrêt de manière préventive.Un impact de foudre
+pos: NOM de NOM ADJ NOM de NOM
+lf: arrêt de manière préventive.Un impact de foudre
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: détection
+pos: NOM
+lf: détection
+is a term candidate: 1
+
+-----------------
+

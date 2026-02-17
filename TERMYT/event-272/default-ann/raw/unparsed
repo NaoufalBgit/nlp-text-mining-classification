@@ -1,0 +1,168 @@
+if: cas de mortalité
+pos: NOM de NOM
+lf: cas de mortalité
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( cas<=H> de<=P> mortalité<=M> )
+islands: 0
+
+
+-----------------
+
+if: m
+pos: NOM
+lf: m
+is a term candidate: 1
+
+-----------------
+
+if: suivi environnemental
+pos: NOM ADJ
+lf: suivi environnemental
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( suivi<=H> environnemental<=M> )
+islands: 0
+
+
+-----------------
+
+if: bureau
+pos: NOM
+lf: bureau
+is a term candidate: 1
+
+-----------------
+
+if: espèce nicheur vulnérable
+pos: NOM ADJ ADJ
+lf: espèce nicheur vulnérable
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: mouette tridactyle
+pos: NOM ADJ
+lf: mouette tridactyle
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( mouette<=H> tridactyle<=M> )
+islands: 0
+
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: niveau régional
+pos: NOM ADJ
+lf: niveau régional
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( niveau<=H> régional<=M> )
+islands: 0
+
+
+-----------------
+
+if: période hivernale
+pos: NOM ADJ
+lf: période hivernal
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( période<=H> hivernale<=M> )
+islands: 0
+
+
+-----------------
+
+if: présence
+pos: NOM
+lf: présence
+is a term candidate: 1
+
+-----------------
+
+if: parc
+pos: NOM
+lf: parc
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: espèce hivernante
+pos: NOM NOM
+lf: espèce hivernant
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( espèce<=H> hivernante<=M> )
+islands: 0
+
+
+-----------------
+
+if: constat
+pos: NOM
+lf: constat
+is a term candidate: 1
+
+-----------------
+
+if: sol
+pos: NOM
+lf: sol
+is a term candidate: 1
+
+-----------------
+
+if: plumée de mouette tridactyle
+pos: NOM de NOM ADJ
+lf: plumée de mouette tridactyle
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( plumée<=H> de<=P> ( mouette<=H> tridactyle<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: études
+pos: NOM
+lf: étude
+is a term candidate: 1
+
+-----------------
+
+if: espèce
+pos: NOM
+lf: espèce
+is a term candidate: 1
+
+-----------------
+

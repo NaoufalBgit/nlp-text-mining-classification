@@ -1,0 +1,54 @@
+if: espèce vulnérable
+pos: NOM ADJ
+lf: espèce vulnérable
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( espèce<=H> vulnérable<=M> )
+islands: 0
+
+
+-----------------
+
+if: Choc
+pos: NOM
+lf: choc
+is a term candidate: 1
+
+-----------------
+
+if: pale
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: oiseau
+pos: NOM
+lf: oiseau
+is a term candidate: 1
+
+-----------------
+
+if: éolienne Un cadavre de Milan Royal
+pos: ADJ DET:ART NOM de NAM NAM
+lf: éolien un cadavre de Milan Royal
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+

@@ -1,0 +1,165 @@
+if: accès au chemin rural à proximité
+pos: NOM au NOM ADJ à NOM
+lf: accès au chemin rural à proximité
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: aggravation de la situation
+pos: NOM de DET:ART NOM
+lf: aggravation de le situation
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( aggravation<=H> de<=P> la<=D> situation<=M> )
+islands: 0
+
+
+-----------------
+
+if: Impact de la foudre
+pos: NOM de DET:ART NOM
+lf: impact de le foudre
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Impact<=H> de<=P> la<=D> foudre<=M> )
+islands: 0
+
+
+-----------------
+
+if: bas
+pos: NOM
+lf: bas
+is a term candidate: 1
+
+-----------------
+
+if: zone
+pos: NOM
+lf: zone
+is a term candidate: 1
+
+-----------------
+
+if: nuit
+pos: NOM
+lf: nuit
+is a term candidate: 1
+
+-----------------
+
+if: pale
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: foudre
+pos: NOM
+lf: foudre
+is a term candidate: 1
+
+-----------------
+
+if: épisode orageux
+pos: NOM ADJ
+lf: épisode orageux
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( épisode<=H> orageux<=M> )
+islands: 0
+
+
+-----------------
+
+if: équipe de maintenance
+pos: NOM de NOM
+lf: équipe de maintenance
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( équipe<=H> de<=P> maintenance<=M> )
+islands: 0
+
+
+-----------------
+
+if: exploitant
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+
+if: rotor de l' éolienne
+pos: NOM de DET:ART NOM
+lf: rotor de le éolienne
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( rotor<=H> de<=P> l'<=D> éolienne<=M> )
+islands: 0
+
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: attente du remplacement de la pale
+pos: NOM du NOM de DET:ART NOM
+lf: attente du remplacement de le pale
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: impact
+pos: NOM
+lf: impact
+is a term candidate: 1
+
+-----------------
+
+if: arrêté municipal
+pos: NOM ADJ
+lf: arrêté municipal
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( arrêté<=H> municipal<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: accès
+pos: NOM
+lf: accès
+is a term candidate: 1
+
+-----------------
+

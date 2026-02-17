@@ -1,0 +1,177 @@
+if: extrémité de la pale
+pos: NOM de DET:ART NOM
+lf: extrémité de le pale
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( extrémité<=H> de<=P> la<=D> pale<=M> )
+islands: 0
+
+
+-----------------
+
+if: ouverture du bout de pâle
+pos: NOM du NOM de ADJ
+lf: ouverture du bout de pâle
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: rotor
+pos: NOM
+lf: rotor
+is a term candidate: 1
+
+-----------------
+
+if: suite
+pos: NOM
+lf: suite
+is a term candidate: 1
+
+-----------------
+
+if: rupture complète
+pos: NOM ADJ
+lf: rupture complet
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( rupture<=H> complète<=M> )
+islands: 0
+
+
+-----------------
+
+if: machine
+pos: NOM
+lf: machine
+is a term candidate: 1
+
+-----------------
+
+if: exploitant
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+
+if: impact de foudre
+pos: NOM de NOM
+lf: impact de foudre
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( impact<=H> de<=P> foudre<=M> )
+islands: 0
+
+
+-----------------
+
+if: vue
+pos: NOM
+lf: vue
+is a term candidate: 1
+
+-----------------
+
+if: Impact de foudre
+pos: NOM de NOM
+lf: impact de foudre
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Impact<=H> de<=P> foudre<=M> )
+islands: 0
+
+
+-----------------
+
+if: lendemain
+pos: NOM
+lf: lendemain
+is a term candidate: 1
+
+-----------------
+
+if: expertise
+pos: NOM
+lf: expertise
+is a term candidate: 1
+
+-----------------
+
+if: pale
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: impact
+pos: NOM
+lf: impact
+is a term candidate: 1
+
+-----------------
+
+if: alarme vibration
+pos: NOM NOM
+lf: alarme vibration
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( alarme<=H> vibration<=M> )
+islands: 0
+
+
+-----------------
+
+if: position de sécurité
+pos: NOM de NOM
+lf: position de sécurité
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( position<=H> de<=P> sécurité<=M> )
+islands: 0
+
+
+-----------------
+
+if: morceau de pale
+pos: NOM de NOM
+lf: morceau de pale
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( morceau<=H> de<=P> pale<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: parc
+pos: NOM
+lf: parc
+is a term candidate: 1
+
+-----------------
+
+if: milieu
+pos: NOM
+lf: milieu
+is a term candidate: 1
+
+-----------------
+

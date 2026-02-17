@@ -1,0 +1,277 @@
+if: démantèlement
+pos: NOM
+lf: démantèlement
+is a term candidate: 1
+
+-----------------
+
+if: incendie
+pos: NOM
+lf: incendie
+is a term candidate: 1
+
+-----------------
+
+if: tension.Un court-circuit dû à un manicou
+pos: ADJ NOM VER:pper à DET:ART NOM
+lf: tension.Un court-circuit devoir à un manicou
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: éolienne au sol
+pos: NOM au NOM
+lf: éolienne au sol
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( éolienne<=H> au<=P> sol<=M> )
+islands: 0
+
+
+-----------------
+
+if: feu
+pos: NOM
+lf: feu
+is a term candidate: 1
+
+-----------------
+
+if: transformateur
+pos: NOM
+lf: transformateur
+is a term candidate: 1
+
+-----------------
+
+if: Incendie
+pos: NOM
+lf: incendie
+is a term candidate: 1
+
+-----------------
+
+if: propagation de l' incendie aux alentours
+pos: NOM de DET:ART NOM aux NOM
+lf: propagation de le incendie au alentour
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: arrêt
+pos: NOM
+lf: arrêt
+is a term candidate: 1
+
+-----------------
+
+if: parc
+pos: NOM
+lf: parc
+is a term candidate: 1
+
+-----------------
+
+if: fois
+pos: NOM
+lf: fois
+is a term candidate: 1
+
+-----------------
+
+if: technicien de la société propriétaire
+pos: NOM de DET:ART NOM ADJ
+lf: technicien de le société propriétaire
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( technicien<=H> de<=P> la<=D> ( société<=H> propriétaire<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: tableau électrique
+pos: NOM ADJ
+lf: tableau électrique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( tableau<=H> électrique<=M> )
+islands: 0
+
+
+-----------------
+
+if: trimestre
+pos: NOM
+lf: trimestre
+is a term candidate: 1
+
+-----------------
+
+if: secours
+pos: NOM
+lf: secours
+is a term candidate: 1
+
+-----------------
+
+if: parc éolien comportant 4 éoliennes
+pos: NOM ADJ VER:ppre NUM NOM
+lf: parc éolien comporter 4 éolienne
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: début de l' année
+pos: NOM de DET:ART NOM
+lf: début de le année
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( début<=H> de<=P> l'<=D> année<=M> )
+islands: 0
+
+
+-----------------
+
+if: famille des marsupiaux
+pos: NOM des ADJ
+lf: famille du marsupial
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: cause de la présence
+pos: NOM de DET:ART NOM
+lf: cause de le présence
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( cause<=H> de<=P> la<=D> présence<=M> )
+islands: 0
+
+
+-----------------
+
+if: incendie de l' huile du transformateur électrique
+pos: NOM de DET:ART NOM du NOM ADJ
+lf: incendie de le huile du transformateur électrique
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: origine de l' incendie
+pos: NOM de DET:ART NOM
+lf: origine de le incendie
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( origine<=H> de<=P> l'<=D> incendie<=M> )
+islands: 0
+
+
+-----------------
+
+if: animal
+pos: NOM
+lf: animal
+is a term candidate: 1
+
+-----------------
+
+if: courant électrique
+pos: NOM ADJ
+lf: courant électrique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( courant<=H> électrique<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne déposée au sol
+pos: NOM VER:pper au NOM
+lf: éolienne déposer au sol
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( éolienne<=H> ( déposée<=H> au<=P> sol<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: générateur
+pos: NOM
+lf: générateur
+is a term candidate: 1
+
+-----------------
+
+if: autre éolienne
+pos: ADJ NOM
+lf: autre éolienne
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( autre<=M> éolienne<=H> )
+islands: 0
+
+
+-----------------
+
+if: vue
+pos: NOM
+lf: vue
+is a term candidate: 1
+
+-----------------
+
+if: électricité
+pos: NOM
+lf: électricité
+is a term candidate: 1
+
+-----------------
+
+if: broussailles à proximité
+pos: NOM à NOM
+lf: broussaille à proximité
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( broussailles<=H> à<=P> proximité<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+

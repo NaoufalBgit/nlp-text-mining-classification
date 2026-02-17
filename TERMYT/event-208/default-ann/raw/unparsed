@@ -1,0 +1,78 @@
+if: opérateur de maintenance
+pos: NOM de NOM
+lf: opérateur de maintenance
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( opérateur<=H> de<=P> maintenance<=M> )
+islands: 0
+
+
+-----------------
+
+if: ensemble du parc
+pos: NOM du NOM
+lf: ensemble du parc
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( ensemble<=H> du<=P> parc<=M> )
+islands: 0
+
+
+-----------------
+
+if: Chute du capot de la nacelle
+pos: NOM du NOM de DET:ART NOM
+lf: chute du capot de le nacelle
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: capot
+pos: NOM
+lf: capot
+is a term candidate: 1
+
+-----------------
+
+if: extrémité de la nacelle
+pos: NOM de DET:ART NOM
+lf: extrémité de le nacelle
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( extrémité<=H> de<=P> la<=D> nacelle<=M> )
+islands: 0
+
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: sol
+pos: NOM
+lf: sol
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+

@@ -1,0 +1,3276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TERM_EXTRACTION_RESULTS SYSTEM "yatea.dtd">
+
+<TERM_EXTRACTION_RESULTS>
+  <LIST_TERM_CANDIDATES>
+    <TERM_CANDIDATE MNP_STATUS="1">
+      <ID>term60</ID>
+      <FORM>autres rapaces</FORM>
+      <LEMMA>autre rapace</LEMMA>
+      <MORPHOSYNTACTIC_FEATURES>
+	    <SYNTACTIC_CATEGORY>ADJ NOM</SYNTACTIC_CATEGORY>
+      </MORPHOSYNTACTIC_FEATURES>
+      <HEAD>term58</HEAD>
+      <NUMBER_OCCURRENCES>1</NUMBER_OCCURRENCES>
+      <LIST_OCCURRENCES>
+      <OCCURRENCE>
+        <ID>occ20</ID>
+        <MNP>1</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>4</SENTENCE>
+        <START_POSITION>14</START_POSITION>
+        <END_POSITION>28</END_POSITION>
+        </OCCURRENCE>
+      </LIST_OCCURRENCES>
+      <TERM_CONFIDENCE>0.5</TERM_CONFIDENCE>
+      <TERM_WEIGHTS>
+            <WEIGHT name="CValue">1</WEIGHT>
+            <WEIGHT name="CValue1">1.58496250072116</WEIGHT>
+            <WEIGHT name="CValuePlus">1</WEIGHT>
+            <WEIGHT name="CValuePlus1">1.58496250072116</WEIGHT>
+            <WEIGHT name="CValueStar">N/A</WEIGHT>
+            <WEIGHT name="CValueStarH">N/A</WEIGHT>
+            <WEIGHT name="CValueStarM">N/A</WEIGHT>
+            <WEIGHT name="CValueStarR">0.584962500721156</WEIGHT>
+            <WEIGHT name="CValueWCard">0</WEIGHT>
+            <WEIGHT name="CValueWCardPlus">0</WEIGHT>
+            <WEIGHT name="D">1</WEIGHT>
+            <WEIGHT name="DDW">0</WEIGHT>
+            <WEIGHT name="Freq">1</WEIGHT>
+            <WEIGHT name="IM">2</WEIGHT>
+            <WEIGHT name="LLR">6.93134680530211e-06</WEIGHT>
+            <WEIGHT name="NormFreq">0.25</WEIGHT>
+            <WEIGHT name="iLong">0.5</WEIGHT>
+            <WEIGHT name="iTer">0.333333333333333</WEIGHT>
+            <WEIGHT name="idf">0:0</WEIGHT>
+            <WEIGHT name="ilnc">0</WEIGHT>
+            <WEIGHT name="ilncFreq">0</WEIGHT>
+            <WEIGHT name="nbdoc4tc">1</WEIGHT>
+            <WEIGHT name="tf">0:1</WEIGHT>
+            <WEIGHT name="tf-idf">0:0</WEIGHT>
+      </TERM_WEIGHTS>
+      <LOG_INFORMATION>YaTeA</LOG_INFORMATION>
+      <SYNTACTIC_ANALYSIS>
+        <HEAD>
+        term58
+        </HEAD>
+        <MODIFIER POSITION="BEFORE">
+        term61
+        </MODIFIER>
+      </SYNTACTIC_ANALYSIS>
+    </TERM_CANDIDATE>
+    <TERM_CANDIDATE MNP_STATUS="1">
+      <ID>term35</ID>
+      <FORM>espèce</FORM>
+      <LEMMA>espèce</LEMMA>
+      <MORPHOSYNTACTIC_FEATURES>
+	    <SYNTACTIC_CATEGORY>NOM</SYNTACTIC_CATEGORY>
+      </MORPHOSYNTACTIC_FEATURES>
+      <HEAD>term35</HEAD>
+      <NUMBER_OCCURRENCES>1</NUMBER_OCCURRENCES>
+      <LIST_OCCURRENCES>
+      <OCCURRENCE>
+        <ID>occ66</ID>
+        <MNP>1</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>0</SENTENCE>
+        <START_POSITION>160</START_POSITION>
+        <END_POSITION>166</END_POSITION>
+        </OCCURRENCE>
+      </LIST_OCCURRENCES>
+      <TERM_CONFIDENCE>0.5</TERM_CONFIDENCE>
+      <TERM_WEIGHTS>
+            <WEIGHT name="CValue">0</WEIGHT>
+            <WEIGHT name="CValue1">1</WEIGHT>
+            <WEIGHT name="CValuePlus">0</WEIGHT>
+            <WEIGHT name="CValuePlus1">1</WEIGHT>
+            <WEIGHT name="CValueStar">N/A</WEIGHT>
+            <WEIGHT name="CValueStarH">N/A</WEIGHT>
+            <WEIGHT name="CValueStarM">N/A</WEIGHT>
+            <WEIGHT name="CValueStarR">1</WEIGHT>
+            <WEIGHT name="CValueWCard">0</WEIGHT>
+            <WEIGHT name="CValueWCardPlus">0</WEIGHT>
+            <WEIGHT name="D">1</WEIGHT>
+            <WEIGHT name="DDW">0</WEIGHT>
+            <WEIGHT name="Freq">1</WEIGHT>
+            <WEIGHT name="IM">N/A</WEIGHT>
+            <WEIGHT name="LLR">N/A</WEIGHT>
+            <WEIGHT name="NormFreq">0.25</WEIGHT>
+            <WEIGHT name="iLong">1</WEIGHT>
+            <WEIGHT name="iTer">0.5</WEIGHT>
+            <WEIGHT name="idf">0:0</WEIGHT>
+            <WEIGHT name="ilnc">0</WEIGHT>
+            <WEIGHT name="ilncFreq">0</WEIGHT>
+            <WEIGHT name="nbdoc4tc">1</WEIGHT>
+            <WEIGHT name="tf">0:1</WEIGHT>
+            <WEIGHT name="tf-idf">0:0</WEIGHT>
+      </TERM_WEIGHTS>
+      <LOG_INFORMATION>YaTeA</LOG_INFORMATION>
+    </TERM_CANDIDATE>
+    <TERM_CANDIDATE MNP_STATUS="1">
+      <ID>term25</ID>
+      <FORM>éolienne</FORM>
+      <LEMMA>éolienne</LEMMA>
+      <MORPHOSYNTACTIC_FEATURES>
+	    <SYNTACTIC_CATEGORY>NOM</SYNTACTIC_CATEGORY>
+      </MORPHOSYNTACTIC_FEATURES>
+      <HEAD>term25</HEAD>
+      <NUMBER_OCCURRENCES>4</NUMBER_OCCURRENCES>
+      <LIST_OCCURRENCES>
+      <OCCURRENCE>
+        <ID>occ55</ID>
+        <MNP>1</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>0</SENTENCE>
+        <START_POSITION>28</START_POSITION>
+        <END_POSITION>36</END_POSITION>
+        </OCCURRENCE>
+      <OCCURRENCE>
+        <ID>occ56</ID>
+        <MNP>1</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>0</SENTENCE>
+        <START_POSITION>192</START_POSITION>
+        <END_POSITION>200</END_POSITION>
+        </OCCURRENCE>
+      <OCCURRENCE>
+        <ID>occ57</ID>
+        <MNP>1</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>1</SENTENCE>
+        <START_POSITION>57</START_POSITION>
+        <END_POSITION>65</END_POSITION>
+        </OCCURRENCE>
+      <OCCURRENCE>
+        <ID>occ58</ID>
+        <MNP>1</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>3</SENTENCE>
+        <START_POSITION>92</START_POSITION>
+        <END_POSITION>100</END_POSITION>
+        </OCCURRENCE>
+      </LIST_OCCURRENCES>
+      <TERM_CONFIDENCE>0.5</TERM_CONFIDENCE>
+      <TERM_WEIGHTS>
+            <WEIGHT name="CValue">0</WEIGHT>
+            <WEIGHT name="CValue1">4</WEIGHT>
+            <WEIGHT name="CValuePlus">0</WEIGHT>
+            <WEIGHT name="CValuePlus1">4</WEIGHT>
+            <WEIGHT name="CValueStar">N/A</WEIGHT>
+            <WEIGHT name="CValueStarH">N/A</WEIGHT>
+            <WEIGHT name="CValueStarM">N/A</WEIGHT>
+            <WEIGHT name="CValueStarR">4</WEIGHT>
+            <WEIGHT name="CValueWCard">0</WEIGHT>
+            <WEIGHT name="CValueWCardPlus">0</WEIGHT>
+            <WEIGHT name="D">1</WEIGHT>
+            <WEIGHT name="DDW">0</WEIGHT>
+            <WEIGHT name="Freq">4</WEIGHT>
+            <WEIGHT name="IM">N/A</WEIGHT>
+            <WEIGHT name="LLR">N/A</WEIGHT>
+            <WEIGHT name="NormFreq">1</WEIGHT>
+            <WEIGHT name="iLong">4</WEIGHT>
+            <WEIGHT name="iTer">2</WEIGHT>
+            <WEIGHT name="idf">0:0</WEIGHT>
+            <WEIGHT name="ilnc">0</WEIGHT>
+            <WEIGHT name="ilncFreq">0</WEIGHT>
+            <WEIGHT name="nbdoc4tc">1</WEIGHT>
+            <WEIGHT name="tf">0:4</WEIGHT>
+            <WEIGHT name="tf-idf">0:0</WEIGHT>
+      </TERM_WEIGHTS>
+      <LOG_INFORMATION>YaTeA</LOG_INFORMATION>
+    </TERM_CANDIDATE>
+    <TERM_CANDIDATE MNP_STATUS="0">
+      <ID>term52</ID>
+      <FORM>parcelles</FORM>
+      <LEMMA>parcelle</LEMMA>
+      <MORPHOSYNTACTIC_FEATURES>
+	    <SYNTACTIC_CATEGORY>NOM</SYNTACTIC_CATEGORY>
+      </MORPHOSYNTACTIC_FEATURES>
+      <HEAD>term52</HEAD>
+      <NUMBER_OCCURRENCES>1</NUMBER_OCCURRENCES>
+      <LIST_OCCURRENCES>
+      <OCCURRENCE>
+        <ID>occ80</ID>
+        <MNP>0</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>3</SENTENCE>
+        <START_POSITION>63</START_POSITION>
+        <END_POSITION>72</END_POSITION>
+        </OCCURRENCE>
+      </LIST_OCCURRENCES>
+      <TERM_CONFIDENCE>0.5</TERM_CONFIDENCE>
+      <TERM_WEIGHTS>
+            <WEIGHT name="CValue">0</WEIGHT>
+            <WEIGHT name="CValue1">0</WEIGHT>
+            <WEIGHT name="CValuePlus">0</WEIGHT>
+            <WEIGHT name="CValuePlus1">2</WEIGHT>
+            <WEIGHT name="CValueStar">N/A</WEIGHT>
+            <WEIGHT name="CValueStarH">0</WEIGHT>
+            <WEIGHT name="CValueStarM">N/A</WEIGHT>
+            <WEIGHT name="CValueStarR">N/A</WEIGHT>
+            <WEIGHT name="CValueWCard">0</WEIGHT>
+            <WEIGHT name="CValueWCardPlus">2</WEIGHT>
+            <WEIGHT name="D">1</WEIGHT>
+            <WEIGHT name="DDW">0</WEIGHT>
+            <WEIGHT name="Freq">1</WEIGHT>
+            <WEIGHT name="IM">N/A</WEIGHT>
+            <WEIGHT name="LLR">N/A</WEIGHT>
+            <WEIGHT name="NormFreq">0.25</WEIGHT>
+            <WEIGHT name="iLong">1</WEIGHT>
+            <WEIGHT name="iTer">1</WEIGHT>
+            <WEIGHT name="idf">0:0</WEIGHT>
+            <WEIGHT name="ilnc">1</WEIGHT>
+            <WEIGHT name="ilncFreq">1</WEIGHT>
+            <WEIGHT name="nbdoc4tc">1</WEIGHT>
+            <WEIGHT name="tf">0:1</WEIGHT>
+            <WEIGHT name="tf-idf">0:0</WEIGHT>
+      </TERM_WEIGHTS>
+      <LOG_INFORMATION>YaTeA</LOG_INFORMATION>
+    </TERM_CANDIDATE>
+    <TERM_CANDIDATE MNP_STATUS="1">
+      <ID>term59</ID>
+      <FORM>avifaune</FORM>
+      <LEMMA>avifaune</LEMMA>
+      <MORPHOSYNTACTIC_FEATURES>
+	    <SYNTACTIC_CATEGORY>NOM</SYNTACTIC_CATEGORY>
+      </MORPHOSYNTACTIC_FEATURES>
+      <HEAD>term59</HEAD>
+      <NUMBER_OCCURRENCES>1</NUMBER_OCCURRENCES>
+      <LIST_OCCURRENCES>
+      <OCCURRENCE>
+        <ID>occ86</ID>
+        <MNP>1</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>6</SENTENCE>
+        <START_POSITION>137</START_POSITION>
+        <END_POSITION>145</END_POSITION>
+        </OCCURRENCE>
+      </LIST_OCCURRENCES>
+      <TERM_CONFIDENCE>0.5</TERM_CONFIDENCE>
+      <TERM_WEIGHTS>
+            <WEIGHT name="CValue">0</WEIGHT>
+            <WEIGHT name="CValue1">1</WEIGHT>
+            <WEIGHT name="CValuePlus">0</WEIGHT>
+            <WEIGHT name="CValuePlus1">1</WEIGHT>
+            <WEIGHT name="CValueStar">N/A</WEIGHT>
+            <WEIGHT name="CValueStarH">N/A</WEIGHT>
+            <WEIGHT name="CValueStarM">N/A</WEIGHT>
+            <WEIGHT name="CValueStarR">1</WEIGHT>
+            <WEIGHT name="CValueWCard">0</WEIGHT>
+            <WEIGHT name="CValueWCardPlus">0</WEIGHT>
+            <WEIGHT name="D">1</WEIGHT>
+            <WEIGHT name="DDW">0</WEIGHT>
+            <WEIGHT name="Freq">1</WEIGHT>
+            <WEIGHT name="IM">N/A</WEIGHT>
+            <WEIGHT name="LLR">N/A</WEIGHT>
+            <WEIGHT name="NormFreq">0.25</WEIGHT>
+            <WEIGHT name="iLong">1</WEIGHT>
+            <WEIGHT name="iTer">0.5</WEIGHT>
+            <WEIGHT name="idf">0:0</WEIGHT>
+            <WEIGHT name="ilnc">0</WEIGHT>
+            <WEIGHT name="ilncFreq">0</WEIGHT>
+            <WEIGHT name="nbdoc4tc">1</WEIGHT>
+            <WEIGHT name="tf">0:1</WEIGHT>
+            <WEIGHT name="tf-idf">0:0</WEIGHT>
+      </TERM_WEIGHTS>
+      <LOG_INFORMATION>YaTeA</LOG_INFORMATION>
+    </TERM_CANDIDATE>
+    <TERM_CANDIDATE MNP_STATUS="1">
+      <ID>term43</ID>
+      <FORM>comportement des milans royaux</FORM>
+      <LEMMA>comportement du milan royal</LEMMA>
+      <MORPHOSYNTACTIC_FEATURES>
+	    <SYNTACTIC_CATEGORY>NOM du NOM ADJ</SYNTACTIC_CATEGORY>
+      </MORPHOSYNTACTIC_FEATURES>
+      <HEAD>term44</HEAD>
+      <NUMBER_OCCURRENCES>1</NUMBER_OCCURRENCES>
+      <LIST_OCCURRENCES>
+      <OCCURRENCE>
+        <ID>occ34</ID>
+        <MNP>1</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>6</SENTENCE>
+        <START_POSITION>172</START_POSITION>
+        <END_POSITION>202</END_POSITION>
+        </OCCURRENCE>
+      </LIST_OCCURRENCES>
+      <TERM_CONFIDENCE>0.5</TERM_CONFIDENCE>
+      <TERM_WEIGHTS>
+            <WEIGHT name="CValue">2</WEIGHT>
+            <WEIGHT name="CValue1">2.32192809488736</WEIGHT>
+            <WEIGHT name="CValuePlus">2</WEIGHT>
+            <WEIGHT name="CValuePlus1">2.32192809488736</WEIGHT>
+            <WEIGHT name="CValueStar">N/A</WEIGHT>
+            <WEIGHT name="CValueStarH">N/A</WEIGHT>
+            <WEIGHT name="CValueStarM">N/A</WEIGHT>
+            <WEIGHT name="CValueStarR">0.321928094887362</WEIGHT>
+            <WEIGHT name="CValueWCard">0</WEIGHT>
+            <WEIGHT name="CValueWCardPlus">0</WEIGHT>
+            <WEIGHT name="D">1</WEIGHT>
+            <WEIGHT name="DDW">0</WEIGHT>
+            <WEIGHT name="Freq">1</WEIGHT>
+            <WEIGHT name="IM">4</WEIGHT>
+            <WEIGHT name="LLR">0.000115129154648748</WEIGHT>
+            <WEIGHT name="NormFreq">0.25</WEIGHT>
+            <WEIGHT name="iLong">0.25</WEIGHT>
+            <WEIGHT name="iTer">0.2</WEIGHT>
+            <WEIGHT name="idf">0:0</WEIGHT>
+            <WEIGHT name="ilnc">0</WEIGHT>
+            <WEIGHT name="ilncFreq">0</WEIGHT>
+            <WEIGHT name="nbdoc4tc">1</WEIGHT>
+            <WEIGHT name="tf">0:1</WEIGHT>
+            <WEIGHT name="tf-idf">0:0</WEIGHT>
+      </TERM_WEIGHTS>
+      <LOG_INFORMATION>YaTeA</LOG_INFORMATION>
+      <SYNTACTIC_ANALYSIS>
+        <HEAD>
+        term44
+        </HEAD>
+        <MODIFIER POSITION="AFTER">
+        term45
+        </MODIFIER>
+        <PREP>
+        des
+        </PREP>
+      </SYNTACTIC_ANALYSIS>
+    </TERM_CANDIDATE>
+    <TERM_CANDIDATE MNP_STATUS="0">
+      <ID>term38</ID>
+      <FORM>choc</FORM>
+      <LEMMA>choc</LEMMA>
+      <MORPHOSYNTACTIC_FEATURES>
+	    <SYNTACTIC_CATEGORY>NOM</SYNTACTIC_CATEGORY>
+      </MORPHOSYNTACTIC_FEATURES>
+      <HEAD>term38</HEAD>
+      <NUMBER_OCCURRENCES>1</NUMBER_OCCURRENCES>
+      <LIST_OCCURRENCES>
+      <OCCURRENCE>
+        <ID>occ68</ID>
+        <MNP>0</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>6</SENTENCE>
+        <START_POSITION>77</START_POSITION>
+        <END_POSITION>81</END_POSITION>
+        </OCCURRENCE>
+      </LIST_OCCURRENCES>
+      <TERM_CONFIDENCE>0.5</TERM_CONFIDENCE>
+      <TERM_WEIGHTS>
+            <WEIGHT name="CValue">0</WEIGHT>
+            <WEIGHT name="CValue1">0</WEIGHT>
+            <WEIGHT name="CValuePlus">0</WEIGHT>
+            <WEIGHT name="CValuePlus1">2</WEIGHT>
+            <WEIGHT name="CValueStar">N/A</WEIGHT>
+            <WEIGHT name="CValueStarH">N/A</WEIGHT>
+            <WEIGHT name="CValueStarM">0</WEIGHT>
+            <WEIGHT name="CValueStarR">N/A</WEIGHT>
+            <WEIGHT name="CValueWCard">0</WEIGHT>
+            <WEIGHT name="CValueWCardPlus">2</WEIGHT>
+            <WEIGHT name="D">1</WEIGHT>
+            <WEIGHT name="DDW">0</WEIGHT>
+            <WEIGHT name="Freq">1</WEIGHT>
+            <WEIGHT name="IM">N/A</WEIGHT>
+            <WEIGHT name="LLR">N/A</WEIGHT>
+            <WEIGHT name="NormFreq">0.25</WEIGHT>
+            <WEIGHT name="iLong">1</WEIGHT>
+            <WEIGHT name="iTer">0.5</WEIGHT>
+            <WEIGHT name="idf">0:0</WEIGHT>
+            <WEIGHT name="ilnc">0</WEIGHT>
+            <WEIGHT name="ilncFreq">0</WEIGHT>
+            <WEIGHT name="nbdoc4tc">1</WEIGHT>
+            <WEIGHT name="tf">0:1</WEIGHT>
+            <WEIGHT name="tf-idf">0:0</WEIGHT>
+      </TERM_WEIGHTS>
+      <LOG_INFORMATION>YaTeA</LOG_INFORMATION>
+    </TERM_CANDIDATE>
+    <TERM_CANDIDATE MNP_STATUS="1">
+      <ID>term11</ID>
+      <FORM>fauches de foin</FORM>
+      <LEMMA>fauche de foin</LEMMA>
+      <MORPHOSYNTACTIC_FEATURES>
+	    <SYNTACTIC_CATEGORY>NOM de NOM</SYNTACTIC_CATEGORY>
+      </MORPHOSYNTACTIC_FEATURES>
+      <HEAD>term12</HEAD>
+      <NUMBER_OCCURRENCES>1</NUMBER_OCCURRENCES>
+      <LIST_OCCURRENCES>
+      <OCCURRENCE>
+        <ID>occ15</ID>
+        <MNP>1</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>3</SENTENCE>
+        <START_POSITION>4</START_POSITION>
+        <END_POSITION>19</END_POSITION>
+        </OCCURRENCE>
+      </LIST_OCCURRENCES>
+      <TERM_CONFIDENCE>0.5</TERM_CONFIDENCE>
+      <TERM_WEIGHTS>
+            <WEIGHT name="CValue">1.58496250072116</WEIGHT>
+            <WEIGHT name="CValue1">2</WEIGHT>
+            <WEIGHT name="CValuePlus">1.58496250072116</WEIGHT>
+            <WEIGHT name="CValuePlus1">2</WEIGHT>
+            <WEIGHT name="CValueStar">N/A</WEIGHT>
+            <WEIGHT name="CValueStarH">N/A</WEIGHT>
+            <WEIGHT name="CValueStarM">N/A</WEIGHT>
+            <WEIGHT name="CValueStarR">0.415037499278844</WEIGHT>
+            <WEIGHT name="CValueWCard">0</WEIGHT>
+            <WEIGHT name="CValueWCardPlus">0</WEIGHT>
+            <WEIGHT name="D">1</WEIGHT>
+            <WEIGHT name="DDW">0</WEIGHT>
+            <WEIGHT name="Freq">1</WEIGHT>
+            <WEIGHT name="IM">4</WEIGHT>
+            <WEIGHT name="LLR">0.000115129154648748</WEIGHT>
+            <WEIGHT name="NormFreq">0.25</WEIGHT>
+            <WEIGHT name="iLong">0.333333333333333</WEIGHT>
+            <WEIGHT name="iTer">0.25</WEIGHT>
+            <WEIGHT name="idf">0:0</WEIGHT>
+            <WEIGHT name="ilnc">0</WEIGHT>
+            <WEIGHT name="ilncFreq">0</WEIGHT>
+            <WEIGHT name="nbdoc4tc">1</WEIGHT>
+            <WEIGHT name="tf">0:1</WEIGHT>
+            <WEIGHT name="tf-idf">0:0</WEIGHT>
+      </TERM_WEIGHTS>
+      <LOG_INFORMATION>YaTeA</LOG_INFORMATION>
+      <SYNTACTIC_ANALYSIS>
+        <HEAD>
+        term12
+        </HEAD>
+        <MODIFIER POSITION="AFTER">
+        term13
+        </MODIFIER>
+        <PREP>
+        de
+        </PREP>
+      </SYNTACTIC_ANALYSIS>
+    </TERM_CANDIDATE>
+    <TERM_CANDIDATE MNP_STATUS="1">
+      <ID>term39</ID>
+      <FORM>jours</FORM>
+      <LEMMA>jour</LEMMA>
+      <MORPHOSYNTACTIC_FEATURES>
+	    <SYNTACTIC_CATEGORY>NOM</SYNTACTIC_CATEGORY>
+      </MORPHOSYNTACTIC_FEATURES>
+      <HEAD>term39</HEAD>
+      <NUMBER_OCCURRENCES>1</NUMBER_OCCURRENCES>
+      <LIST_OCCURRENCES>
+      <OCCURRENCE>
+        <ID>occ69</ID>
+        <MNP>1</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>5</SENTENCE>
+        <START_POSITION>103</START_POSITION>
+        <END_POSITION>108</END_POSITION>
+        </OCCURRENCE>
+      </LIST_OCCURRENCES>
+      <TERM_CONFIDENCE>0.5</TERM_CONFIDENCE>
+      <TERM_WEIGHTS>
+            <WEIGHT name="CValue">0</WEIGHT>
+            <WEIGHT name="CValue1">2</WEIGHT>
+            <WEIGHT name="CValuePlus">0</WEIGHT>
+            <WEIGHT name="CValuePlus1">2</WEIGHT>
+            <WEIGHT name="CValueStar">N/A</WEIGHT>
+            <WEIGHT name="CValueStarH">N/A</WEIGHT>
+            <WEIGHT name="CValueStarM">N/A</WEIGHT>
+            <WEIGHT name="CValueStarR">2</WEIGHT>
+            <WEIGHT name="CValueWCard">0</WEIGHT>
+            <WEIGHT name="CValueWCardPlus">0</WEIGHT>
+            <WEIGHT name="D">1</WEIGHT>
+            <WEIGHT name="DDW">0</WEIGHT>
+            <WEIGHT name="Freq">1</WEIGHT>
+            <WEIGHT name="IM">N/A</WEIGHT>
+            <WEIGHT name="LLR">N/A</WEIGHT>
+            <WEIGHT name="NormFreq">0.25</WEIGHT>
+            <WEIGHT name="iLong">1</WEIGHT>
+            <WEIGHT name="iTer">0.5</WEIGHT>
+            <WEIGHT name="idf">0:0</WEIGHT>
+            <WEIGHT name="ilnc">0</WEIGHT>
+            <WEIGHT name="ilncFreq">0</WEIGHT>
+            <WEIGHT name="nbdoc4tc">1</WEIGHT>
+            <WEIGHT name="tf">0:1</WEIGHT>
+            <WEIGHT name="tf-idf">0:0</WEIGHT>
+      </TERM_WEIGHTS>
+      <LOG_INFORMATION>YaTeA</LOG_INFORMATION>
+    </TERM_CANDIDATE>
+    <TERM_CANDIDATE MNP_STATUS="1">
+      <ID>term48</ID>
+      <FORM>études</FORM>
+      <LEMMA>étude</LEMMA>
+      <MORPHOSYNTACTIC_FEATURES>
+	    <SYNTACTIC_CATEGORY>NOM</SYNTACTIC_CATEGORY>
+      </MORPHOSYNTACTIC_FEATURES>
+      <HEAD>term48</HEAD>
+      <NUMBER_OCCURRENCES>1</NUMBER_OCCURRENCES>
+      <LIST_OCCURRENCES>
+      <OCCURRENCE>
+        <ID>occ77</ID>
+        <MNP>1</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>0</SENTENCE>
+        <START_POSITION>109</START_POSITION>
+        <END_POSITION>115</END_POSITION>
+        </OCCURRENCE>
+      </LIST_OCCURRENCES>
+      <TERM_CONFIDENCE>0.5</TERM_CONFIDENCE>
+      <TERM_WEIGHTS>
+            <WEIGHT name="CValue">0</WEIGHT>
+            <WEIGHT name="CValue1">1</WEIGHT>
+            <WEIGHT name="CValuePlus">0</WEIGHT>
+            <WEIGHT name="CValuePlus1">1</WEIGHT>
+            <WEIGHT name="CValueStar">N/A</WEIGHT>
+            <WEIGHT name="CValueStarH">N/A</WEIGHT>
+            <WEIGHT name="CValueStarM">N/A</WEIGHT>
+            <WEIGHT name="CValueStarR">1</WEIGHT>
+            <WEIGHT name="CValueWCard">0</WEIGHT>
+            <WEIGHT name="CValueWCardPlus">0</WEIGHT>
+            <WEIGHT name="D">1</WEIGHT>
+            <WEIGHT name="DDW">0</WEIGHT>
+            <WEIGHT name="Freq">1</WEIGHT>
+            <WEIGHT name="IM">N/A</WEIGHT>
+            <WEIGHT name="LLR">N/A</WEIGHT>
+            <WEIGHT name="NormFreq">0.25</WEIGHT>
+            <WEIGHT name="iLong">1</WEIGHT>
+            <WEIGHT name="iTer">0.5</WEIGHT>
+            <WEIGHT name="idf">0:0</WEIGHT>
+            <WEIGHT name="ilnc">0</WEIGHT>
+            <WEIGHT name="ilncFreq">0</WEIGHT>
+            <WEIGHT name="nbdoc4tc">1</WEIGHT>
+            <WEIGHT name="tf">0:1</WEIGHT>
+            <WEIGHT name="tf-idf">0:0</WEIGHT>
+      </TERM_WEIGHTS>
+      <LOG_INFORMATION>YaTeA</LOG_INFORMATION>
+    </TERM_CANDIDATE>
+    <TERM_CANDIDATE MNP_STATUS="0">
+      <ID>term23</ID>
+      <FORM>cours</FORM>
+      <LEMMA>cours|cour</LEMMA>
+      <MORPHOSYNTACTIC_FEATURES>
+	    <SYNTACTIC_CATEGORY>NOM</SYNTACTIC_CATEGORY>
+      </MORPHOSYNTACTIC_FEATURES>
+      <HEAD>term23</HEAD>
+      <NUMBER_OCCURRENCES>1</NUMBER_OCCURRENCES>
+      <LIST_OCCURRENCES>
+      <OCCURRENCE>
+        <ID>occ53</ID>
+        <MNP>0</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>4</SENTENCE>
+        <START_POSITION>70</START_POSITION>
+        <END_POSITION>75</END_POSITION>
+        </OCCURRENCE>
+      </LIST_OCCURRENCES>
+      <TERM_CONFIDENCE>0.5</TERM_CONFIDENCE>
+      <TERM_WEIGHTS>
+            <WEIGHT name="CValue">0</WEIGHT>
+            <WEIGHT name="CValue1">0</WEIGHT>
+            <WEIGHT name="CValuePlus">0</WEIGHT>
+            <WEIGHT name="CValuePlus1">2</WEIGHT>
+            <WEIGHT name="CValueStar">N/A</WEIGHT>
+            <WEIGHT name="CValueStarH">0</WEIGHT>
+            <WEIGHT name="CValueStarM">N/A</WEIGHT>
+            <WEIGHT name="CValueStarR">N/A</WEIGHT>
+            <WEIGHT name="CValueWCard">0</WEIGHT>
+            <WEIGHT name="CValueWCardPlus">2</WEIGHT>
+            <WEIGHT name="D">1</WEIGHT>
+            <WEIGHT name="DDW">0</WEIGHT>
+            <WEIGHT name="Freq">1</WEIGHT>
+            <WEIGHT name="IM">N/A</WEIGHT>
+            <WEIGHT name="LLR">N/A</WEIGHT>
+            <WEIGHT name="NormFreq">0.25</WEIGHT>
+            <WEIGHT name="iLong">1</WEIGHT>
+            <WEIGHT name="iTer">1</WEIGHT>
+            <WEIGHT name="idf">0:0</WEIGHT>
+            <WEIGHT name="ilnc">1</WEIGHT>
+            <WEIGHT name="ilncFreq">1</WEIGHT>
+            <WEIGHT name="nbdoc4tc">1</WEIGHT>
+            <WEIGHT name="tf">0:1</WEIGHT>
+            <WEIGHT name="tf-idf">0:0</WEIGHT>
+      </TERM_WEIGHTS>
+      <LOG_INFORMATION>YaTeA</LOG_INFORMATION>
+    </TERM_CANDIDATE>
+    <TERM_CANDIDATE MNP_STATUS="1">
+      <ID>term36</ID>
+      <FORM>risque de choc</FORM>
+      <LEMMA>risque de choc</LEMMA>
+      <MORPHOSYNTACTIC_FEATURES>
+	    <SYNTACTIC_CATEGORY>NOM de NOM</SYNTACTIC_CATEGORY>
+      </MORPHOSYNTACTIC_FEATURES>
+      <HEAD>term37</HEAD>
+      <NUMBER_OCCURRENCES>1</NUMBER_OCCURRENCES>
+      <LIST_OCCURRENCES>
+      <OCCURRENCE>
+        <ID>occ30</ID>
+        <MNP>1</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>6</SENTENCE>
+        <START_POSITION>67</START_POSITION>
+        <END_POSITION>81</END_POSITION>
+        </OCCURRENCE>
+      </LIST_OCCURRENCES>
+      <TERM_CONFIDENCE>0.5</TERM_CONFIDENCE>
+      <TERM_WEIGHTS>
+            <WEIGHT name="CValue">1.58496250072116</WEIGHT>
+            <WEIGHT name="CValue1">2</WEIGHT>
+            <WEIGHT name="CValuePlus">1.58496250072116</WEIGHT>
+            <WEIGHT name="CValuePlus1">2</WEIGHT>
+            <WEIGHT name="CValueStar">N/A</WEIGHT>
+            <WEIGHT name="CValueStarH">N/A</WEIGHT>
+            <WEIGHT name="CValueStarM">N/A</WEIGHT>
+            <WEIGHT name="CValueStarR">0.415037499278844</WEIGHT>
+            <WEIGHT name="CValueWCard">0</WEIGHT>
+            <WEIGHT name="CValueWCardPlus">0</WEIGHT>
+            <WEIGHT name="D">1</WEIGHT>
+            <WEIGHT name="DDW">0</WEIGHT>
+            <WEIGHT name="Freq">1</WEIGHT>
+            <WEIGHT name="IM">4</WEIGHT>
+            <WEIGHT name="LLR">0.000115129154648748</WEIGHT>
+            <WEIGHT name="NormFreq">0.25</WEIGHT>
+            <WEIGHT name="iLong">0.333333333333333</WEIGHT>
+            <WEIGHT name="iTer">0.25</WEIGHT>
+            <WEIGHT name="idf">0:0</WEIGHT>
+            <WEIGHT name="ilnc">0</WEIGHT>
+            <WEIGHT name="ilncFreq">0</WEIGHT>
+            <WEIGHT name="nbdoc4tc">1</WEIGHT>
+            <WEIGHT name="tf">0:1</WEIGHT>
+            <WEIGHT name="tf-idf">0:0</WEIGHT>
+      </TERM_WEIGHTS>
+      <LOG_INFORMATION>YaTeA</LOG_INFORMATION>
+      <SYNTACTIC_ANALYSIS>
+        <HEAD>
+        term37
+        </HEAD>
+        <MODIFIER POSITION="AFTER">
+        term38
+        </MODIFIER>
+        <PREP>
+        de
+        </PREP>
+      </SYNTACTIC_ANALYSIS>
+    </TERM_CANDIDATE>
+    <TERM_CANDIDATE MNP_STATUS="0">
+      <ID>term29</ID>
+      <FORM>éolienne.Le</FORM>
+      <LEMMA>éolienne.Le</LEMMA>
+      <MORPHOSYNTACTIC_FEATURES>
+	    <SYNTACTIC_CATEGORY>NOM</SYNTACTIC_CATEGORY>
+      </MORPHOSYNTACTIC_FEATURES>
+      <HEAD>term29</HEAD>
+      <NUMBER_OCCURRENCES>1</NUMBER_OCCURRENCES>
+      <LIST_OCCURRENCES>
+      <OCCURRENCE>
+        <ID>occ61</ID>
+        <MNP>0</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>6</SENTENCE>
+        <START_POSITION>106</START_POSITION>
+        <END_POSITION>117</END_POSITION>
+        </OCCURRENCE>
+      </LIST_OCCURRENCES>
+      <TERM_CONFIDENCE>0.5</TERM_CONFIDENCE>
+      <TERM_WEIGHTS>
+            <WEIGHT name="CValue">0</WEIGHT>
+            <WEIGHT name="CValue1">0</WEIGHT>
+            <WEIGHT name="CValuePlus">0</WEIGHT>
+            <WEIGHT name="CValuePlus1">2</WEIGHT>
+            <WEIGHT name="CValueStar">N/A</WEIGHT>
+            <WEIGHT name="CValueStarH">0</WEIGHT>
+            <WEIGHT name="CValueStarM">N/A</WEIGHT>
+            <WEIGHT name="CValueStarR">N/A</WEIGHT>
+            <WEIGHT name="CValueWCard">0</WEIGHT>
+            <WEIGHT name="CValueWCardPlus">2</WEIGHT>
+            <WEIGHT name="D">1</WEIGHT>
+            <WEIGHT name="DDW">0</WEIGHT>
+            <WEIGHT name="Freq">1</WEIGHT>
+            <WEIGHT name="IM">N/A</WEIGHT>
+            <WEIGHT name="LLR">N/A</WEIGHT>
+            <WEIGHT name="NormFreq">0.25</WEIGHT>
+            <WEIGHT name="iLong">1</WEIGHT>
+            <WEIGHT name="iTer">1</WEIGHT>
+            <WEIGHT name="idf">0:0</WEIGHT>
+            <WEIGHT name="ilnc">1</WEIGHT>
+            <WEIGHT name="ilncFreq">1</WEIGHT>
+            <WEIGHT name="nbdoc4tc">1</WEIGHT>
+            <WEIGHT name="tf">0:1</WEIGHT>
+            <WEIGHT name="tf-idf">0:0</WEIGHT>
+      </TERM_WEIGHTS>
+      <LOG_INFORMATION>YaTeA</LOG_INFORMATION>
+    </TERM_CANDIDATE>
+    <TERM_CANDIDATE MNP_STATUS="0">
+      <ID>term24</ID>
+      <FORM>fauche</FORM>
+      <LEMMA>fauche</LEMMA>
+      <MORPHOSYNTACTIC_FEATURES>
+	    <SYNTACTIC_CATEGORY>NOM</SYNTACTIC_CATEGORY>
+      </MORPHOSYNTACTIC_FEATURES>
+      <HEAD>term24</HEAD>
+      <NUMBER_OCCURRENCES>1</NUMBER_OCCURRENCES>
+      <LIST_OCCURRENCES>
+      <OCCURRENCE>
+        <ID>occ54</ID>
+        <MNP>0</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>4</SENTENCE>
+        <START_POSITION>79</START_POSITION>
+        <END_POSITION>85</END_POSITION>
+        </OCCURRENCE>
+      </LIST_OCCURRENCES>
+      <TERM_CONFIDENCE>0.5</TERM_CONFIDENCE>
+      <TERM_WEIGHTS>
+            <WEIGHT name="CValue">0</WEIGHT>
+            <WEIGHT name="CValue1">0</WEIGHT>
+            <WEIGHT name="CValuePlus">0</WEIGHT>
+            <WEIGHT name="CValuePlus1">2</WEIGHT>
+            <WEIGHT name="CValueStar">N/A</WEIGHT>
+            <WEIGHT name="CValueStarH">N/A</WEIGHT>
+            <WEIGHT name="CValueStarM">0</WEIGHT>
+            <WEIGHT name="CValueStarR">N/A</WEIGHT>
+            <WEIGHT name="CValueWCard">0</WEIGHT>
+            <WEIGHT name="CValueWCardPlus">2</WEIGHT>
+            <WEIGHT name="D">1</WEIGHT>
+            <WEIGHT name="DDW">0</WEIGHT>
+            <WEIGHT name="Freq">1</WEIGHT>
+            <WEIGHT name="IM">N/A</WEIGHT>
+            <WEIGHT name="LLR">N/A</WEIGHT>
+            <WEIGHT name="NormFreq">0.25</WEIGHT>
+            <WEIGHT name="iLong">1</WEIGHT>
+            <WEIGHT name="iTer">0.5</WEIGHT>
+            <WEIGHT name="idf">0:0</WEIGHT>
+            <WEIGHT name="ilnc">0</WEIGHT>
+            <WEIGHT name="ilncFreq">0</WEIGHT>
+            <WEIGHT name="nbdoc4tc">1</WEIGHT>
+            <WEIGHT name="tf">0:1</WEIGHT>
+            <WEIGHT name="tf-idf">0:0</WEIGHT>
+      </TERM_WEIGHTS>
+      <LOG_INFORMATION>YaTeA</LOG_INFORMATION>
+    </TERM_CANDIDATE>
+    <TERM_CANDIDATE MNP_STATUS="0">
+      <ID>term44</ID>
+      <FORM>comportement</FORM>
+      <LEMMA>comportement</LEMMA>
+      <MORPHOSYNTACTIC_FEATURES>
+	    <SYNTACTIC_CATEGORY>NOM</SYNTACTIC_CATEGORY>
+      </MORPHOSYNTACTIC_FEATURES>
+      <HEAD>term44</HEAD>
+      <NUMBER_OCCURRENCES>1</NUMBER_OCCURRENCES>
+      <LIST_OCCURRENCES>
+      <OCCURRENCE>
+        <ID>occ73</ID>
+        <MNP>0</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>6</SENTENCE>
+        <START_POSITION>172</START_POSITION>
+        <END_POSITION>184</END_POSITION>
+        </OCCURRENCE>
+      </LIST_OCCURRENCES>
+      <TERM_CONFIDENCE>0.5</TERM_CONFIDENCE>
+      <TERM_WEIGHTS>
+            <WEIGHT name="CValue">0</WEIGHT>
+            <WEIGHT name="CValue1">0</WEIGHT>
+            <WEIGHT name="CValuePlus">0</WEIGHT>
+            <WEIGHT name="CValuePlus1">2</WEIGHT>
+            <WEIGHT name="CValueStar">N/A</WEIGHT>
+            <WEIGHT name="CValueStarH">0</WEIGHT>
+            <WEIGHT name="CValueStarM">N/A</WEIGHT>
+            <WEIGHT name="CValueStarR">N/A</WEIGHT>
+            <WEIGHT name="CValueWCard">0</WEIGHT>
+            <WEIGHT name="CValueWCardPlus">2</WEIGHT>
+            <WEIGHT name="D">1</WEIGHT>
+            <WEIGHT name="DDW">0</WEIGHT>
+            <WEIGHT name="Freq">1</WEIGHT>
+            <WEIGHT name="IM">N/A</WEIGHT>
+            <WEIGHT name="LLR">N/A</WEIGHT>
+            <WEIGHT name="NormFreq">0.25</WEIGHT>
+            <WEIGHT name="iLong">1</WEIGHT>
+            <WEIGHT name="iTer">1</WEIGHT>
+            <WEIGHT name="idf">0:0</WEIGHT>
+            <WEIGHT name="ilnc">1</WEIGHT>
+            <WEIGHT name="ilncFreq">1</WEIGHT>
+            <WEIGHT name="nbdoc4tc">1</WEIGHT>
+            <WEIGHT name="tf">0:1</WEIGHT>
+            <WEIGHT name="tf-idf">0:0</WEIGHT>
+      </TERM_WEIGHTS>
+      <LOG_INFORMATION>YaTeA</LOG_INFORMATION>
+    </TERM_CANDIDATE>
+    <TERM_CANDIDATE MNP_STATUS="0">
+      <ID>term33</ID>
+      <FORM>milan</FORM>
+      <LEMMA>milan</LEMMA>
+      <MORPHOSYNTACTIC_FEATURES>
+	    <SYNTACTIC_CATEGORY>NOM</SYNTACTIC_CATEGORY>
+      </MORPHOSYNTACTIC_FEATURES>
+      <HEAD>term33</HEAD>
+      <NUMBER_OCCURRENCES>1</NUMBER_OCCURRENCES>
+      <LIST_OCCURRENCES>
+      <OCCURRENCE>
+        <ID>occ64</ID>
+        <MNP>0</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>0</SENTENCE>
+        <START_POSITION>146</START_POSITION>
+        <END_POSITION>151</END_POSITION>
+        </OCCURRENCE>
+      </LIST_OCCURRENCES>
+      <TERM_CONFIDENCE>0.5</TERM_CONFIDENCE>
+      <TERM_WEIGHTS>
+            <WEIGHT name="CValue">0</WEIGHT>
+            <WEIGHT name="CValue1">0</WEIGHT>
+            <WEIGHT name="CValuePlus">0</WEIGHT>
+            <WEIGHT name="CValuePlus1">2</WEIGHT>
+            <WEIGHT name="CValueStar">N/A</WEIGHT>
+            <WEIGHT name="CValueStarH">0</WEIGHT>
+            <WEIGHT name="CValueStarM">N/A</WEIGHT>
+            <WEIGHT name="CValueStarR">N/A</WEIGHT>
+            <WEIGHT name="CValueWCard">0</WEIGHT>
+            <WEIGHT name="CValueWCardPlus">2</WEIGHT>
+            <WEIGHT name="D">1</WEIGHT>
+            <WEIGHT name="DDW">0</WEIGHT>
+            <WEIGHT name="Freq">1</WEIGHT>
+            <WEIGHT name="IM">N/A</WEIGHT>
+            <WEIGHT name="LLR">N/A</WEIGHT>
+            <WEIGHT name="NormFreq">0.25</WEIGHT>
+            <WEIGHT name="iLong">1</WEIGHT>
+            <WEIGHT name="iTer">1</WEIGHT>
+            <WEIGHT name="idf">0:0</WEIGHT>
+            <WEIGHT name="ilnc">1</WEIGHT>
+            <WEIGHT name="ilncFreq">1</WEIGHT>
+            <WEIGHT name="nbdoc4tc">1</WEIGHT>
+            <WEIGHT name="tf">0:1</WEIGHT>
+            <WEIGHT name="tf-idf">0:0</WEIGHT>
+      </TERM_WEIGHTS>
+      <LOG_INFORMATION>YaTeA</LOG_INFORMATION>
+    </TERM_CANDIDATE>
+    <TERM_CANDIDATE MNP_STATUS="0">
+      <ID>term37</ID>
+      <FORM>risque</FORM>
+      <LEMMA>risque</LEMMA>
+      <MORPHOSYNTACTIC_FEATURES>
+	    <SYNTACTIC_CATEGORY>NOM</SYNTACTIC_CATEGORY>
+      </MORPHOSYNTACTIC_FEATURES>
+      <HEAD>term37</HEAD>
+      <NUMBER_OCCURRENCES>1</NUMBER_OCCURRENCES>
+      <LIST_OCCURRENCES>
+      <OCCURRENCE>
+        <ID>occ67</ID>
+        <MNP>0</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>6</SENTENCE>
+        <START_POSITION>67</START_POSITION>
+        <END_POSITION>73</END_POSITION>
+        </OCCURRENCE>
+      </LIST_OCCURRENCES>
+      <TERM_CONFIDENCE>0.5</TERM_CONFIDENCE>
+      <TERM_WEIGHTS>
+            <WEIGHT name="CValue">0</WEIGHT>
+            <WEIGHT name="CValue1">0</WEIGHT>
+            <WEIGHT name="CValuePlus">0</WEIGHT>
+            <WEIGHT name="CValuePlus1">2</WEIGHT>
+            <WEIGHT name="CValueStar">N/A</WEIGHT>
+            <WEIGHT name="CValueStarH">0</WEIGHT>
+            <WEIGHT name="CValueStarM">N/A</WEIGHT>
+            <WEIGHT name="CValueStarR">N/A</WEIGHT>
+            <WEIGHT name="CValueWCard">0</WEIGHT>
+            <WEIGHT name="CValueWCardPlus">2</WEIGHT>
+            <WEIGHT name="D">1</WEIGHT>
+            <WEIGHT name="DDW">0</WEIGHT>
+            <WEIGHT name="Freq">1</WEIGHT>
+            <WEIGHT name="IM">N/A</WEIGHT>
+            <WEIGHT name="LLR">N/A</WEIGHT>
+            <WEIGHT name="NormFreq">0.25</WEIGHT>
+            <WEIGHT name="iLong">1</WEIGHT>
+            <WEIGHT name="iTer">1</WEIGHT>
+            <WEIGHT name="idf">0:0</WEIGHT>
+            <WEIGHT name="ilnc">1</WEIGHT>
+            <WEIGHT name="ilncFreq">1</WEIGHT>
+            <WEIGHT name="nbdoc4tc">1</WEIGHT>
+            <WEIGHT name="tf">0:1</WEIGHT>
+            <WEIGHT name="tf-idf">0:0</WEIGHT>
+      </TERM_WEIGHTS>
+      <LOG_INFORMATION>YaTeA</LOG_INFORMATION>
+    </TERM_CANDIDATE>
+    <TERM_CANDIDATE MNP_STATUS="1">
+      <ID>term51</ID>
+      <FORM>parcelles adjacentes</FORM>
+      <LEMMA>parcelle adjacent</LEMMA>
+      <MORPHOSYNTACTIC_FEATURES>
+	    <SYNTACTIC_CATEGORY>NOM ADJ</SYNTACTIC_CATEGORY>
+      </MORPHOSYNTACTIC_FEATURES>
+      <HEAD>term52</HEAD>
+      <NUMBER_OCCURRENCES>1</NUMBER_OCCURRENCES>
+      <LIST_OCCURRENCES>
+      <OCCURRENCE>
+        <ID>occ17</ID>
+        <MNP>1</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>3</SENTENCE>
+        <START_POSITION>63</START_POSITION>
+        <END_POSITION>83</END_POSITION>
+        </OCCURRENCE>
+      </LIST_OCCURRENCES>
+      <TERM_CONFIDENCE>0.5</TERM_CONFIDENCE>
+      <TERM_WEIGHTS>
+            <WEIGHT name="CValue">1</WEIGHT>
+            <WEIGHT name="CValue1">1.58496250072116</WEIGHT>
+            <WEIGHT name="CValuePlus">1</WEIGHT>
+            <WEIGHT name="CValuePlus1">1.58496250072116</WEIGHT>
+            <WEIGHT name="CValueStar">N/A</WEIGHT>
+            <WEIGHT name="CValueStarH">N/A</WEIGHT>
+            <WEIGHT name="CValueStarM">N/A</WEIGHT>
+            <WEIGHT name="CValueStarR">0.584962500721156</WEIGHT>
+            <WEIGHT name="CValueWCard">0</WEIGHT>
+            <WEIGHT name="CValueWCardPlus">0</WEIGHT>
+            <WEIGHT name="D">1</WEIGHT>
+            <WEIGHT name="DDW">0</WEIGHT>
+            <WEIGHT name="Freq">1</WEIGHT>
+            <WEIGHT name="IM">4</WEIGHT>
+            <WEIGHT name="LLR">0.000115129154648748</WEIGHT>
+            <WEIGHT name="NormFreq">0.25</WEIGHT>
+            <WEIGHT name="iLong">0.5</WEIGHT>
+            <WEIGHT name="iTer">0.333333333333333</WEIGHT>
+            <WEIGHT name="idf">0:0</WEIGHT>
+            <WEIGHT name="ilnc">0</WEIGHT>
+            <WEIGHT name="ilncFreq">0</WEIGHT>
+            <WEIGHT name="nbdoc4tc">1</WEIGHT>
+            <WEIGHT name="tf">0:1</WEIGHT>
+            <WEIGHT name="tf-idf">0:0</WEIGHT>
+      </TERM_WEIGHTS>
+      <LOG_INFORMATION>YaTeA</LOG_INFORMATION>
+      <SYNTACTIC_ANALYSIS>
+        <HEAD>
+        term52
+        </HEAD>
+        <MODIFIER POSITION="AFTER">
+        term53
+        </MODIFIER>
+      </SYNTACTIC_ANALYSIS>
+    </TERM_CANDIDATE>
+    <TERM_CANDIDATE MNP_STATUS="0">
+      <ID>term17</ID>
+      <FORM>directe</FORM>
+      <LEMMA>direct</LEMMA>
+      <MORPHOSYNTACTIC_FEATURES>
+	    <SYNTACTIC_CATEGORY>ADJ</SYNTACTIC_CATEGORY>
+      </MORPHOSYNTACTIC_FEATURES>
+      <HEAD>term17</HEAD>
+      <NUMBER_OCCURRENCES>1</NUMBER_OCCURRENCES>
+      <LIST_OCCURRENCES>
+      <OCCURRENCE>
+        <ID>occ49</ID>
+        <MNP>0</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>1</SENTENCE>
+        <START_POSITION>41</START_POSITION>
+        <END_POSITION>48</END_POSITION>
+        </OCCURRENCE>
+      </LIST_OCCURRENCES>
+      <TERM_CONFIDENCE>0.5</TERM_CONFIDENCE>
+      <TERM_WEIGHTS>
+            <WEIGHT name="CValue">0</WEIGHT>
+            <WEIGHT name="CValue1">0</WEIGHT>
+            <WEIGHT name="CValuePlus">0</WEIGHT>
+            <WEIGHT name="CValuePlus1">2</WEIGHT>
+            <WEIGHT name="CValueStar">N/A</WEIGHT>
+            <WEIGHT name="CValueStarH">N/A</WEIGHT>
+            <WEIGHT name="CValueStarM">0</WEIGHT>
+            <WEIGHT name="CValueStarR">N/A</WEIGHT>
+            <WEIGHT name="CValueWCard">0</WEIGHT>
+            <WEIGHT name="CValueWCardPlus">2</WEIGHT>
+            <WEIGHT name="D">1</WEIGHT>
+            <WEIGHT name="DDW">0</WEIGHT>
+            <WEIGHT name="Freq">1</WEIGHT>
+            <WEIGHT name="IM">N/A</WEIGHT>
+            <WEIGHT name="LLR">N/A</WEIGHT>
+            <WEIGHT name="NormFreq">0.25</WEIGHT>
+            <WEIGHT name="iLong">1</WEIGHT>
+            <WEIGHT name="iTer">0.5</WEIGHT>
+            <WEIGHT name="idf">0:0</WEIGHT>
+            <WEIGHT name="ilnc">0</WEIGHT>
+            <WEIGHT name="ilncFreq">0</WEIGHT>
+            <WEIGHT name="nbdoc4tc">1</WEIGHT>
+            <WEIGHT name="tf">0:1</WEIGHT>
+            <WEIGHT name="tf-idf">0:0</WEIGHT>
+      </TERM_WEIGHTS>
+      <LOG_INFORMATION>YaTeA</LOG_INFORMATION>
+    </TERM_CANDIDATE>
+    <TERM_CANDIDATE MNP_STATUS="1">
+      <ID>term27</ID>
+      <FORM>éolienne.Le suivi annuel</FORM>
+      <LEMMA>éolienne.Le suivre annuel</LEMMA>
+      <MORPHOSYNTACTIC_FEATURES>
+	    <SYNTACTIC_CATEGORY>NOM VER:pper ADJ</SYNTACTIC_CATEGORY>
+      </MORPHOSYNTACTIC_FEATURES>
+      <HEAD>term29</HEAD>
+      <NUMBER_OCCURRENCES>1</NUMBER_OCCURRENCES>
+      <LIST_OCCURRENCES>
+      <OCCURRENCE>
+        <ID>occ32</ID>
+        <MNP>1</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>6</SENTENCE>
+        <START_POSITION>106</START_POSITION>
+        <END_POSITION>130</END_POSITION>
+        </OCCURRENCE>
+      </LIST_OCCURRENCES>
+      <TERM_CONFIDENCE>0.5</TERM_CONFIDENCE>
+      <TERM_WEIGHTS>
+            <WEIGHT name="CValue">1.58496250072116</WEIGHT>
+            <WEIGHT name="CValue1">2</WEIGHT>
+            <WEIGHT name="CValuePlus">1.58496250072116</WEIGHT>
+            <WEIGHT name="CValuePlus1">2</WEIGHT>
+            <WEIGHT name="CValueStar">N/A</WEIGHT>
+            <WEIGHT name="CValueStarH">N/A</WEIGHT>
+            <WEIGHT name="CValueStarM">N/A</WEIGHT>
+            <WEIGHT name="CValueStarR">0.415037499278844</WEIGHT>
+            <WEIGHT name="CValueWCard">0</WEIGHT>
+            <WEIGHT name="CValueWCardPlus">0</WEIGHT>
+            <WEIGHT name="D">1</WEIGHT>
+            <WEIGHT name="DDW">0</WEIGHT>
+            <WEIGHT name="Freq">1</WEIGHT>
+            <WEIGHT name="IM">4</WEIGHT>
+            <WEIGHT name="LLR">0.000115129154648748</WEIGHT>
+            <WEIGHT name="NormFreq">0.25</WEIGHT>
+            <WEIGHT name="iLong">0.333333333333333</WEIGHT>
+            <WEIGHT name="iTer">0.25</WEIGHT>
+            <WEIGHT name="idf">0:0</WEIGHT>
+            <WEIGHT name="ilnc">0</WEIGHT>
+            <WEIGHT name="ilncFreq">0</WEIGHT>
+            <WEIGHT name="nbdoc4tc">1</WEIGHT>
+            <WEIGHT name="tf">0:1</WEIGHT>
+            <WEIGHT name="tf-idf">0:0</WEIGHT>
+      </TERM_WEIGHTS>
+      <LOG_INFORMATION>YaTeA</LOG_INFORMATION>
+      <SYNTACTIC_ANALYSIS>
+        <HEAD>
+        term28
+        </HEAD>
+        <MODIFIER POSITION="AFTER">
+        term31
+        </MODIFIER>
+      </SYNTACTIC_ANALYSIS>
+    </TERM_CANDIDATE>
+    <TERM_CANDIDATE MNP_STATUS="1">
+      <ID>term54</ID>
+      <FORM>grand nombre de rapaces</FORM>
+      <LEMMA>grand nombre de rapace</LEMMA>
+      <MORPHOSYNTACTIC_FEATURES>
+	    <SYNTACTIC_CATEGORY>ADJ NOM de NOM</SYNTACTIC_CATEGORY>
+      </MORPHOSYNTACTIC_FEATURES>
+      <HEAD>term57</HEAD>
+      <NUMBER_OCCURRENCES>1</NUMBER_OCCURRENCES>
+      <LIST_OCCURRENCES>
+      <OCCURRENCE>
+        <ID>occ29</ID>
+        <MNP>1</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>6</SENTENCE>
+        <START_POSITION>18</START_POSITION>
+        <END_POSITION>41</END_POSITION>
+        </OCCURRENCE>
+      </LIST_OCCURRENCES>
+      <TERM_CONFIDENCE>0.5</TERM_CONFIDENCE>
+      <TERM_WEIGHTS>
+            <WEIGHT name="CValue">2</WEIGHT>
+            <WEIGHT name="CValue1">2.32192809488736</WEIGHT>
+            <WEIGHT name="CValuePlus">2</WEIGHT>
+            <WEIGHT name="CValuePlus1">2.32192809488736</WEIGHT>
+            <WEIGHT name="CValueStar">N/A</WEIGHT>
+            <WEIGHT name="CValueStarH">N/A</WEIGHT>
+            <WEIGHT name="CValueStarM">N/A</WEIGHT>
+            <WEIGHT name="CValueStarR">0.321928094887362</WEIGHT>
+            <WEIGHT name="CValueWCard">0</WEIGHT>
+            <WEIGHT name="CValueWCardPlus">0</WEIGHT>
+            <WEIGHT name="D">1</WEIGHT>
+            <WEIGHT name="DDW">0</WEIGHT>
+            <WEIGHT name="Freq">1</WEIGHT>
+            <WEIGHT name="IM">2</WEIGHT>
+            <WEIGHT name="LLR">1.38627436101989</WEIGHT>
+            <WEIGHT name="NormFreq">0.25</WEIGHT>
+            <WEIGHT name="iLong">0.25</WEIGHT>
+            <WEIGHT name="iTer">0.2</WEIGHT>
+            <WEIGHT name="idf">0:0</WEIGHT>
+            <WEIGHT name="ilnc">0</WEIGHT>
+            <WEIGHT name="ilncFreq">0</WEIGHT>
+            <WEIGHT name="nbdoc4tc">1</WEIGHT>
+            <WEIGHT name="tf">0:1</WEIGHT>
+            <WEIGHT name="tf-idf">0:0</WEIGHT>
+      </TERM_WEIGHTS>
+      <LOG_INFORMATION>YaTeA</LOG_INFORMATION>
+      <SYNTACTIC_ANALYSIS>
+        <HEAD>
+        term55
+        </HEAD>
+        <MODIFIER POSITION="AFTER">
+        term58
+        </MODIFIER>
+        <PREP>
+        de
+        </PREP>
+      </SYNTACTIC_ANALYSIS>
+    </TERM_CANDIDATE>
+    <TERM_CANDIDATE MNP_STATUS="1">
+      <ID>term26</ID>
+      <FORM>cadavre</FORM>
+      <LEMMA>cadavre</LEMMA>
+      <MORPHOSYNTACTIC_FEATURES>
+	    <SYNTACTIC_CATEGORY>NOM</SYNTACTIC_CATEGORY>
+      </MORPHOSYNTACTIC_FEATURES>
+      <HEAD>term26</HEAD>
+      <NUMBER_OCCURRENCES>1</NUMBER_OCCURRENCES>
+      <LIST_OCCURRENCES>
+      <OCCURRENCE>
+        <ID>occ59</ID>
+        <MNP>1</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>2</SENTENCE>
+        <START_POSITION>3</START_POSITION>
+        <END_POSITION>10</END_POSITION>
+        </OCCURRENCE>
+      </LIST_OCCURRENCES>
+      <TERM_CONFIDENCE>0.5</TERM_CONFIDENCE>
+      <TERM_WEIGHTS>
+            <WEIGHT name="CValue">0</WEIGHT>
+            <WEIGHT name="CValue1">2</WEIGHT>
+            <WEIGHT name="CValuePlus">0</WEIGHT>
+            <WEIGHT name="CValuePlus1">2</WEIGHT>
+            <WEIGHT name="CValueStar">N/A</WEIGHT>
+            <WEIGHT name="CValueStarH">N/A</WEIGHT>
+            <WEIGHT name="CValueStarM">N/A</WEIGHT>
+            <WEIGHT name="CValueStarR">2</WEIGHT>
+            <WEIGHT name="CValueWCard">0</WEIGHT>
+            <WEIGHT name="CValueWCardPlus">0</WEIGHT>
+            <WEIGHT name="D">1</WEIGHT>
+            <WEIGHT name="DDW">0</WEIGHT>
+            <WEIGHT name="Freq">1</WEIGHT>
+            <WEIGHT name="IM">N/A</WEIGHT>
+            <WEIGHT name="LLR">N/A</WEIGHT>
+            <WEIGHT name="NormFreq">0.25</WEIGHT>
+            <WEIGHT name="iLong">1</WEIGHT>
+            <WEIGHT name="iTer">0.5</WEIGHT>
+            <WEIGHT name="idf">0:0</WEIGHT>
+            <WEIGHT name="ilnc">0</WEIGHT>
+            <WEIGHT name="ilncFreq">0</WEIGHT>
+            <WEIGHT name="nbdoc4tc">1</WEIGHT>
+            <WEIGHT name="tf">0:1</WEIGHT>
+            <WEIGHT name="tf-idf">0:0</WEIGHT>
+      </TERM_WEIGHTS>
+      <LOG_INFORMATION>YaTeA</LOG_INFORMATION>
+    </TERM_CANDIDATE>
+    <TERM_CANDIDATE MNP_STATUS="1">
+      <ID>term63</ID>
+      <FORM>activité</FORM>
+      <LEMMA>activité</LEMMA>
+      <MORPHOSYNTACTIC_FEATURES>
+	    <SYNTACTIC_CATEGORY>NOM</SYNTACTIC_CATEGORY>
+      </MORPHOSYNTACTIC_FEATURES>
+      <HEAD>term63</HEAD>
+      <NUMBER_OCCURRENCES>1</NUMBER_OCCURRENCES>
+      <LIST_OCCURRENCES>
+      <OCCURRENCE>
+        <ID>occ89</ID>
+        <MNP>1</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>5</SENTENCE>
+        <START_POSITION>27</START_POSITION>
+        <END_POSITION>35</END_POSITION>
+        </OCCURRENCE>
+      </LIST_OCCURRENCES>
+      <TERM_CONFIDENCE>0.5</TERM_CONFIDENCE>
+      <TERM_WEIGHTS>
+            <WEIGHT name="CValue">0</WEIGHT>
+            <WEIGHT name="CValue1">1</WEIGHT>
+            <WEIGHT name="CValuePlus">0</WEIGHT>
+            <WEIGHT name="CValuePlus1">1</WEIGHT>
+            <WEIGHT name="CValueStar">N/A</WEIGHT>
+            <WEIGHT name="CValueStarH">N/A</WEIGHT>
+            <WEIGHT name="CValueStarM">N/A</WEIGHT>
+            <WEIGHT name="CValueStarR">1</WEIGHT>
+            <WEIGHT name="CValueWCard">0</WEIGHT>
+            <WEIGHT name="CValueWCardPlus">0</WEIGHT>
+            <WEIGHT name="D">1</WEIGHT>
+            <WEIGHT name="DDW">0</WEIGHT>
+            <WEIGHT name="Freq">1</WEIGHT>
+            <WEIGHT name="IM">N/A</WEIGHT>
+            <WEIGHT name="LLR">N/A</WEIGHT>
+            <WEIGHT name="NormFreq">0.25</WEIGHT>
+            <WEIGHT name="iLong">1</WEIGHT>
+            <WEIGHT name="iTer">0.5</WEIGHT>
+            <WEIGHT name="idf">0:0</WEIGHT>
+            <WEIGHT name="ilnc">0</WEIGHT>
+            <WEIGHT name="ilncFreq">0</WEIGHT>
+            <WEIGHT name="nbdoc4tc">1</WEIGHT>
+            <WEIGHT name="tf">0:1</WEIGHT>
+            <WEIGHT name="tf-idf">0:0</WEIGHT>
+      </TERM_WEIGHTS>
+      <LOG_INFORMATION>YaTeA</LOG_INFORMATION>
+    </TERM_CANDIDATE>
+    <TERM_CANDIDATE MNP_STATUS="1">
+      <ID>term49</ID>
+      <FORM>sol</FORM>
+      <LEMMA>sol</LEMMA>
+      <MORPHOSYNTACTIC_FEATURES>
+	    <SYNTACTIC_CATEGORY>NOM</SYNTACTIC_CATEGORY>
+      </MORPHOSYNTACTIC_FEATURES>
+      <HEAD>term49</HEAD>
+      <NUMBER_OCCURRENCES>1</NUMBER_OCCURRENCES>
+      <LIST_OCCURRENCES>
+      <OCCURRENCE>
+        <ID>occ78</ID>
+        <MNP>1</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>0</SENTENCE>
+        <START_POSITION>128</START_POSITION>
+        <END_POSITION>131</END_POSITION>
+        </OCCURRENCE>
+      </LIST_OCCURRENCES>
+      <TERM_CONFIDENCE>0.5</TERM_CONFIDENCE>
+      <TERM_WEIGHTS>
+            <WEIGHT name="CValue">0</WEIGHT>
+            <WEIGHT name="CValue1">1</WEIGHT>
+            <WEIGHT name="CValuePlus">0</WEIGHT>
+            <WEIGHT name="CValuePlus1">1</WEIGHT>
+            <WEIGHT name="CValueStar">N/A</WEIGHT>
+            <WEIGHT name="CValueStarH">N/A</WEIGHT>
+            <WEIGHT name="CValueStarM">N/A</WEIGHT>
+            <WEIGHT name="CValueStarR">1</WEIGHT>
+            <WEIGHT name="CValueWCard">0</WEIGHT>
+            <WEIGHT name="CValueWCardPlus">0</WEIGHT>
+            <WEIGHT name="D">1</WEIGHT>
+            <WEIGHT name="DDW">0</WEIGHT>
+            <WEIGHT name="Freq">1</WEIGHT>
+            <WEIGHT name="IM">N/A</WEIGHT>
+            <WEIGHT name="LLR">N/A</WEIGHT>
+            <WEIGHT name="NormFreq">0.25</WEIGHT>
+            <WEIGHT name="iLong">1</WEIGHT>
+            <WEIGHT name="iTer">0.5</WEIGHT>
+            <WEIGHT name="idf">0:0</WEIGHT>
+            <WEIGHT name="ilnc">0</WEIGHT>
+            <WEIGHT name="ilncFreq">0</WEIGHT>
+            <WEIGHT name="nbdoc4tc">1</WEIGHT>
+            <WEIGHT name="tf">0:1</WEIGHT>
+            <WEIGHT name="tf-idf">0:0</WEIGHT>
+      </TERM_WEIGHTS>
+      <LOG_INFORMATION>YaTeA</LOG_INFORMATION>
+    </TERM_CANDIDATE>
+    <TERM_CANDIDATE MNP_STATUS="1">
+      <ID>term4</ID>
+      <FORM>suivi de la mortalité aviaire</FORM>
+      <LEMMA>suivi de le mortalité aviaire</LEMMA>
+      <MORPHOSYNTACTIC_FEATURES>
+	    <SYNTACTIC_CATEGORY>NOM de DET:ART NOM ADJ</SYNTACTIC_CATEGORY>
+      </MORPHOSYNTACTIC_FEATURES>
+      <HEAD>term5</HEAD>
+      <NUMBER_OCCURRENCES>1</NUMBER_OCCURRENCES>
+      <LIST_OCCURRENCES>
+      <OCCURRENCE>
+        <ID>occ2</ID>
+        <MNP>1</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>0</SENTENCE>
+        <START_POSITION>45</START_POSITION>
+        <END_POSITION>74</END_POSITION>
+        </OCCURRENCE>
+      </LIST_OCCURRENCES>
+      <TERM_CONFIDENCE>0.5</TERM_CONFIDENCE>
+      <TERM_WEIGHTS>
+            <WEIGHT name="CValue">2.32192809488736</WEIGHT>
+            <WEIGHT name="CValue1">2.58496250072116</WEIGHT>
+            <WEIGHT name="CValuePlus">2.32192809488736</WEIGHT>
+            <WEIGHT name="CValuePlus1">2.58496250072116</WEIGHT>
+            <WEIGHT name="CValueStar">N/A</WEIGHT>
+            <WEIGHT name="CValueStarH">N/A</WEIGHT>
+            <WEIGHT name="CValueStarM">N/A</WEIGHT>
+            <WEIGHT name="CValueStarR">0.263034405833794</WEIGHT>
+            <WEIGHT name="CValueWCard">0</WEIGHT>
+            <WEIGHT name="CValueWCardPlus">0</WEIGHT>
+            <WEIGHT name="D">1</WEIGHT>
+            <WEIGHT name="DDW">0</WEIGHT>
+            <WEIGHT name="Freq">1</WEIGHT>
+            <WEIGHT name="IM">4</WEIGHT>
+            <WEIGHT name="LLR">0.000115129154648748</WEIGHT>
+            <WEIGHT name="NormFreq">0.25</WEIGHT>
+            <WEIGHT name="iLong">0.2</WEIGHT>
+            <WEIGHT name="iTer">0.166666666666667</WEIGHT>
+            <WEIGHT name="idf">0:0</WEIGHT>
+            <WEIGHT name="ilnc">0</WEIGHT>
+            <WEIGHT name="ilncFreq">0</WEIGHT>
+            <WEIGHT name="nbdoc4tc">1</WEIGHT>
+            <WEIGHT name="tf">0:1</WEIGHT>
+            <WEIGHT name="tf-idf">0:0</WEIGHT>
+      </TERM_WEIGHTS>
+      <LOG_INFORMATION>YaTeA</LOG_INFORMATION>
+      <SYNTACTIC_ANALYSIS>
+        <HEAD>
+        term5
+        </HEAD>
+        <MODIFIER POSITION="AFTER">
+        term6
+        </MODIFIER>
+        <PREP>
+        de
+        </PREP>
+        <DETERMINER>
+        la
+        </DETERMINER>
+      </SYNTACTIC_ANALYSIS>
+    </TERM_CANDIDATE>
+    <TERM_CANDIDATE MNP_STATUS="0">
+      <ID>term3</ID>
+      <FORM>éolien</FORM>
+      <LEMMA>éolien</LEMMA>
+      <MORPHOSYNTACTIC_FEATURES>
+	    <SYNTACTIC_CATEGORY>ADJ</SYNTACTIC_CATEGORY>
+      </MORPHOSYNTACTIC_FEATURES>
+      <HEAD>term3</HEAD>
+      <NUMBER_OCCURRENCES>1</NUMBER_OCCURRENCES>
+      <LIST_OCCURRENCES>
+      <OCCURRENCE>
+        <ID>occ38</ID>
+        <MNP>0</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>0</SENTENCE>
+        <START_POSITION>87</START_POSITION>
+        <END_POSITION>93</END_POSITION>
+        </OCCURRENCE>
+      </LIST_OCCURRENCES>
+      <TERM_CONFIDENCE>0.5</TERM_CONFIDENCE>
+      <TERM_WEIGHTS>
+            <WEIGHT name="CValue">0</WEIGHT>
+            <WEIGHT name="CValue1">0</WEIGHT>
+            <WEIGHT name="CValuePlus">0</WEIGHT>
+            <WEIGHT name="CValuePlus1">2</WEIGHT>
+            <WEIGHT name="CValueStar">N/A</WEIGHT>
+            <WEIGHT name="CValueStarH">N/A</WEIGHT>
+            <WEIGHT name="CValueStarM">0</WEIGHT>
+            <WEIGHT name="CValueStarR">N/A</WEIGHT>
+            <WEIGHT name="CValueWCard">0</WEIGHT>
+            <WEIGHT name="CValueWCardPlus">2</WEIGHT>
+            <WEIGHT name="D">1</WEIGHT>
+            <WEIGHT name="DDW">0</WEIGHT>
+            <WEIGHT name="Freq">1</WEIGHT>
+            <WEIGHT name="IM">N/A</WEIGHT>
+            <WEIGHT name="LLR">N/A</WEIGHT>
+            <WEIGHT name="NormFreq">0.25</WEIGHT>
+            <WEIGHT name="iLong">1</WEIGHT>
+            <WEIGHT name="iTer">0.5</WEIGHT>
+            <WEIGHT name="idf">0:0</WEIGHT>
+            <WEIGHT name="ilnc">0</WEIGHT>
+            <WEIGHT name="ilncFreq">0</WEIGHT>
+            <WEIGHT name="nbdoc4tc">1</WEIGHT>
+            <WEIGHT name="tf">0:1</WEIGHT>
+            <WEIGHT name="tf-idf">0:0</WEIGHT>
+      </TERM_WEIGHTS>
+      <LOG_INFORMATION>YaTeA</LOG_INFORMATION>
+    </TERM_CANDIDATE>
+    <TERM_CANDIDATE MNP_STATUS="0">
+      <ID>term2</ID>
+      <FORM>parc</FORM>
+      <LEMMA>parc</LEMMA>
+      <MORPHOSYNTACTIC_FEATURES>
+	    <SYNTACTIC_CATEGORY>NOM</SYNTACTIC_CATEGORY>
+      </MORPHOSYNTACTIC_FEATURES>
+      <HEAD>term2</HEAD>
+      <NUMBER_OCCURRENCES>1</NUMBER_OCCURRENCES>
+      <LIST_OCCURRENCES>
+      <OCCURRENCE>
+        <ID>occ37</ID>
+        <MNP>0</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>0</SENTENCE>
+        <START_POSITION>82</START_POSITION>
+        <END_POSITION>86</END_POSITION>
+        </OCCURRENCE>
+      </LIST_OCCURRENCES>
+      <TERM_CONFIDENCE>0.5</TERM_CONFIDENCE>
+      <TERM_WEIGHTS>
+            <WEIGHT name="CValue">0</WEIGHT>
+            <WEIGHT name="CValue1">0</WEIGHT>
+            <WEIGHT name="CValuePlus">0</WEIGHT>
+            <WEIGHT name="CValuePlus1">2</WEIGHT>
+            <WEIGHT name="CValueStar">N/A</WEIGHT>
+            <WEIGHT name="CValueStarH">0</WEIGHT>
+            <WEIGHT name="CValueStarM">N/A</WEIGHT>
+            <WEIGHT name="CValueStarR">N/A</WEIGHT>
+            <WEIGHT name="CValueWCard">0</WEIGHT>
+            <WEIGHT name="CValueWCardPlus">2</WEIGHT>
+            <WEIGHT name="D">1</WEIGHT>
+            <WEIGHT name="DDW">0</WEIGHT>
+            <WEIGHT name="Freq">1</WEIGHT>
+            <WEIGHT name="IM">N/A</WEIGHT>
+            <WEIGHT name="LLR">N/A</WEIGHT>
+            <WEIGHT name="NormFreq">0.25</WEIGHT>
+            <WEIGHT name="iLong">1</WEIGHT>
+            <WEIGHT name="iTer">1</WEIGHT>
+            <WEIGHT name="idf">0:0</WEIGHT>
+            <WEIGHT name="ilnc">1</WEIGHT>
+            <WEIGHT name="ilncFreq">1</WEIGHT>
+            <WEIGHT name="nbdoc4tc">1</WEIGHT>
+            <WEIGHT name="tf">0:1</WEIGHT>
+            <WEIGHT name="tf-idf">0:0</WEIGHT>
+      </TERM_WEIGHTS>
+      <LOG_INFORMATION>YaTeA</LOG_INFORMATION>
+    </TERM_CANDIDATE>
+    <TERM_CANDIDATE MNP_STATUS="0">
+      <ID>term5</ID>
+      <FORM>suivi</FORM>
+      <LEMMA>suivi</LEMMA>
+      <MORPHOSYNTACTIC_FEATURES>
+	    <SYNTACTIC_CATEGORY>NOM</SYNTACTIC_CATEGORY>
+      </MORPHOSYNTACTIC_FEATURES>
+      <HEAD>term5</HEAD>
+      <NUMBER_OCCURRENCES>1</NUMBER_OCCURRENCES>
+      <LIST_OCCURRENCES>
+      <OCCURRENCE>
+        <ID>occ39</ID>
+        <MNP>0</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>0</SENTENCE>
+        <START_POSITION>45</START_POSITION>
+        <END_POSITION>50</END_POSITION>
+        </OCCURRENCE>
+      </LIST_OCCURRENCES>
+      <TERM_CONFIDENCE>0.5</TERM_CONFIDENCE>
+      <TERM_WEIGHTS>
+            <WEIGHT name="CValue">0</WEIGHT>
+            <WEIGHT name="CValue1">0</WEIGHT>
+            <WEIGHT name="CValuePlus">0</WEIGHT>
+            <WEIGHT name="CValuePlus1">2</WEIGHT>
+            <WEIGHT name="CValueStar">N/A</WEIGHT>
+            <WEIGHT name="CValueStarH">0</WEIGHT>
+            <WEIGHT name="CValueStarM">N/A</WEIGHT>
+            <WEIGHT name="CValueStarR">N/A</WEIGHT>
+            <WEIGHT name="CValueWCard">0</WEIGHT>
+            <WEIGHT name="CValueWCardPlus">2</WEIGHT>
+            <WEIGHT name="D">1</WEIGHT>
+            <WEIGHT name="DDW">0</WEIGHT>
+            <WEIGHT name="Freq">1</WEIGHT>
+            <WEIGHT name="IM">N/A</WEIGHT>
+            <WEIGHT name="LLR">N/A</WEIGHT>
+            <WEIGHT name="NormFreq">0.25</WEIGHT>
+            <WEIGHT name="iLong">1</WEIGHT>
+            <WEIGHT name="iTer">1</WEIGHT>
+            <WEIGHT name="idf">0:0</WEIGHT>
+            <WEIGHT name="ilnc">1</WEIGHT>
+            <WEIGHT name="ilncFreq">1</WEIGHT>
+            <WEIGHT name="nbdoc4tc">1</WEIGHT>
+            <WEIGHT name="tf">0:1</WEIGHT>
+            <WEIGHT name="tf-idf">0:0</WEIGHT>
+      </TERM_WEIGHTS>
+      <LOG_INFORMATION>YaTeA</LOG_INFORMATION>
+    </TERM_CANDIDATE>
+    <TERM_CANDIDATE MNP_STATUS="1">
+      <ID>term9</ID>
+      <FORM>secteur</FORM>
+      <LEMMA>secteur</LEMMA>
+      <MORPHOSYNTACTIC_FEATURES>
+	    <SYNTACTIC_CATEGORY>NOM</SYNTACTIC_CATEGORY>
+      </MORPHOSYNTACTIC_FEATURES>
+      <HEAD>term9</HEAD>
+      <NUMBER_OCCURRENCES>1</NUMBER_OCCURRENCES>
+      <LIST_OCCURRENCES>
+      <OCCURRENCE>
+        <ID>occ43</ID>
+        <MNP>1</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>5</SENTENCE>
+        <START_POSITION>79</START_POSITION>
+        <END_POSITION>86</END_POSITION>
+        </OCCURRENCE>
+      </LIST_OCCURRENCES>
+      <TERM_CONFIDENCE>0.5</TERM_CONFIDENCE>
+      <TERM_WEIGHTS>
+            <WEIGHT name="CValue">0</WEIGHT>
+            <WEIGHT name="CValue1">1</WEIGHT>
+            <WEIGHT name="CValuePlus">0</WEIGHT>
+            <WEIGHT name="CValuePlus1">1</WEIGHT>
+            <WEIGHT name="CValueStar">N/A</WEIGHT>
+            <WEIGHT name="CValueStarH">N/A</WEIGHT>
+            <WEIGHT name="CValueStarM">N/A</WEIGHT>
+            <WEIGHT name="CValueStarR">1</WEIGHT>
+            <WEIGHT name="CValueWCard">0</WEIGHT>
+            <WEIGHT name="CValueWCardPlus">0</WEIGHT>
+            <WEIGHT name="D">1</WEIGHT>
+            <WEIGHT name="DDW">0</WEIGHT>
+            <WEIGHT name="Freq">1</WEIGHT>
+            <WEIGHT name="IM">N/A</WEIGHT>
+            <WEIGHT name="LLR">N/A</WEIGHT>
+            <WEIGHT name="NormFreq">0.25</WEIGHT>
+            <WEIGHT name="iLong">1</WEIGHT>
+            <WEIGHT name="iTer">0.5</WEIGHT>
+            <WEIGHT name="idf">0:0</WEIGHT>
+            <WEIGHT name="ilnc">0</WEIGHT>
+            <WEIGHT name="ilncFreq">0</WEIGHT>
+            <WEIGHT name="nbdoc4tc">1</WEIGHT>
+            <WEIGHT name="tf">0:1</WEIGHT>
+            <WEIGHT name="tf-idf">0:0</WEIGHT>
+      </TERM_WEIGHTS>
+      <LOG_INFORMATION>YaTeA</LOG_INFORMATION>
+    </TERM_CANDIDATE>
+    <TERM_CANDIDATE MNP_STATUS="0">
+      <ID>term58</ID>
+      <FORM>rapaces</FORM>
+      <LEMMA>rapace</LEMMA>
+      <MORPHOSYNTACTIC_FEATURES>
+	    <SYNTACTIC_CATEGORY>NOM</SYNTACTIC_CATEGORY>
+      </MORPHOSYNTACTIC_FEATURES>
+      <HEAD>term58</HEAD>
+      <NUMBER_OCCURRENCES>2</NUMBER_OCCURRENCES>
+      <LIST_OCCURRENCES>
+      <OCCURRENCE>
+        <ID>occ85</ID>
+        <MNP>0</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>6</SENTENCE>
+        <START_POSITION>34</START_POSITION>
+        <END_POSITION>41</END_POSITION>
+        </OCCURRENCE>
+      <OCCURRENCE>
+        <ID>occ88</ID>
+        <MNP>0</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>4</SENTENCE>
+        <START_POSITION>21</START_POSITION>
+        <END_POSITION>28</END_POSITION>
+        </OCCURRENCE>
+      </LIST_OCCURRENCES>
+      <TERM_CONFIDENCE>0.5</TERM_CONFIDENCE>
+      <TERM_WEIGHTS>
+            <WEIGHT name="CValue">0</WEIGHT>
+            <WEIGHT name="CValue1">1</WEIGHT>
+            <WEIGHT name="CValuePlus">0</WEIGHT>
+            <WEIGHT name="CValuePlus1">3</WEIGHT>
+            <WEIGHT name="CValueStar">1</WEIGHT>
+            <WEIGHT name="CValueStarH">1</WEIGHT>
+            <WEIGHT name="CValueStarM">1</WEIGHT>
+            <WEIGHT name="CValueStarR">N/A</WEIGHT>
+            <WEIGHT name="CValueWCard">1</WEIGHT>
+            <WEIGHT name="CValueWCardPlus">3</WEIGHT>
+            <WEIGHT name="D">1</WEIGHT>
+            <WEIGHT name="DDW">0</WEIGHT>
+            <WEIGHT name="Freq">2</WEIGHT>
+            <WEIGHT name="IM">N/A</WEIGHT>
+            <WEIGHT name="LLR">N/A</WEIGHT>
+            <WEIGHT name="NormFreq">0.5</WEIGHT>
+            <WEIGHT name="iLong">2</WEIGHT>
+            <WEIGHT name="iTer">2</WEIGHT>
+            <WEIGHT name="idf">0:0</WEIGHT>
+            <WEIGHT name="ilnc">1</WEIGHT>
+            <WEIGHT name="ilncFreq">1</WEIGHT>
+            <WEIGHT name="nbdoc4tc">1</WEIGHT>
+            <WEIGHT name="tf">0:2</WEIGHT>
+            <WEIGHT name="tf-idf">0:0</WEIGHT>
+      </TERM_WEIGHTS>
+      <LOG_INFORMATION>YaTeA</LOG_INFORMATION>
+    </TERM_CANDIDATE>
+    <TERM_CANDIDATE MNP_STATUS="1">
+      <ID>term15</ID>
+      <FORM>collision directe</FORM>
+      <LEMMA>collision direct</LEMMA>
+      <MORPHOSYNTACTIC_FEATURES>
+	    <SYNTACTIC_CATEGORY>NOM ADJ</SYNTACTIC_CATEGORY>
+      </MORPHOSYNTACTIC_FEATURES>
+      <HEAD>term16</HEAD>
+      <NUMBER_OCCURRENCES>1</NUMBER_OCCURRENCES>
+      <LIST_OCCURRENCES>
+      <OCCURRENCE>
+        <ID>occ11</ID>
+        <MNP>1</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>1</SENTENCE>
+        <START_POSITION>31</START_POSITION>
+        <END_POSITION>48</END_POSITION>
+        </OCCURRENCE>
+      </LIST_OCCURRENCES>
+      <TERM_CONFIDENCE>0.5</TERM_CONFIDENCE>
+      <TERM_WEIGHTS>
+            <WEIGHT name="CValue">1</WEIGHT>
+            <WEIGHT name="CValue1">1.58496250072116</WEIGHT>
+            <WEIGHT name="CValuePlus">1</WEIGHT>
+            <WEIGHT name="CValuePlus1">1.58496250072116</WEIGHT>
+            <WEIGHT name="CValueStar">1</WEIGHT>
+            <WEIGHT name="CValueStarH">N/A</WEIGHT>
+            <WEIGHT name="CValueStarM">N/A</WEIGHT>
+            <WEIGHT name="CValueStarR">0.584962500721156</WEIGHT>
+            <WEIGHT name="CValueWCard">0</WEIGHT>
+            <WEIGHT name="CValueWCardPlus">0</WEIGHT>
+            <WEIGHT name="D">1</WEIGHT>
+            <WEIGHT name="DDW">0</WEIGHT>
+            <WEIGHT name="Freq">1</WEIGHT>
+            <WEIGHT name="IM">4</WEIGHT>
+            <WEIGHT name="LLR">0.000115129154648748</WEIGHT>
+            <WEIGHT name="NormFreq">0.25</WEIGHT>
+            <WEIGHT name="iLong">0.5</WEIGHT>
+            <WEIGHT name="iTer">0.333333333333333</WEIGHT>
+            <WEIGHT name="idf">0:0</WEIGHT>
+            <WEIGHT name="ilnc">0</WEIGHT>
+            <WEIGHT name="ilncFreq">0</WEIGHT>
+            <WEIGHT name="nbdoc4tc">1</WEIGHT>
+            <WEIGHT name="tf">0:1</WEIGHT>
+            <WEIGHT name="tf-idf">0:0</WEIGHT>
+      </TERM_WEIGHTS>
+      <LOG_INFORMATION>YaTeA</LOG_INFORMATION>
+      <SYNTACTIC_ANALYSIS>
+        <HEAD>
+        term16
+        </HEAD>
+        <MODIFIER POSITION="AFTER">
+        term17
+        </MODIFIER>
+      </SYNTACTIC_ANALYSIS>
+    </TERM_CANDIDATE>
+    <TERM_CANDIDATE MNP_STATUS="0">
+      <ID>term47</ID>
+      <FORM>royaux</FORM>
+      <LEMMA>royal</LEMMA>
+      <MORPHOSYNTACTIC_FEATURES>
+	    <SYNTACTIC_CATEGORY>ADJ</SYNTACTIC_CATEGORY>
+      </MORPHOSYNTACTIC_FEATURES>
+      <HEAD>term47</HEAD>
+      <NUMBER_OCCURRENCES>1</NUMBER_OCCURRENCES>
+      <LIST_OCCURRENCES>
+      <OCCURRENCE>
+        <ID>occ76</ID>
+        <MNP>0</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>6</SENTENCE>
+        <START_POSITION>196</START_POSITION>
+        <END_POSITION>202</END_POSITION>
+        </OCCURRENCE>
+      </LIST_OCCURRENCES>
+      <TERM_CONFIDENCE>0.5</TERM_CONFIDENCE>
+      <TERM_WEIGHTS>
+            <WEIGHT name="CValue">0</WEIGHT>
+            <WEIGHT name="CValue1">0</WEIGHT>
+            <WEIGHT name="CValuePlus">0</WEIGHT>
+            <WEIGHT name="CValuePlus1">2</WEIGHT>
+            <WEIGHT name="CValueStar">1</WEIGHT>
+            <WEIGHT name="CValueStarH">N/A</WEIGHT>
+            <WEIGHT name="CValueStarM">0</WEIGHT>
+            <WEIGHT name="CValueStarR">N/A</WEIGHT>
+            <WEIGHT name="CValueWCard">0</WEIGHT>
+            <WEIGHT name="CValueWCardPlus">2</WEIGHT>
+            <WEIGHT name="D">1</WEIGHT>
+            <WEIGHT name="DDW">0</WEIGHT>
+            <WEIGHT name="Freq">1</WEIGHT>
+            <WEIGHT name="IM">N/A</WEIGHT>
+            <WEIGHT name="LLR">N/A</WEIGHT>
+            <WEIGHT name="NormFreq">0.25</WEIGHT>
+            <WEIGHT name="iLong">1</WEIGHT>
+            <WEIGHT name="iTer">0.5</WEIGHT>
+            <WEIGHT name="idf">0:0</WEIGHT>
+            <WEIGHT name="ilnc">0</WEIGHT>
+            <WEIGHT name="ilncFreq">0</WEIGHT>
+            <WEIGHT name="nbdoc4tc">1</WEIGHT>
+            <WEIGHT name="tf">0:1</WEIGHT>
+            <WEIGHT name="tf-idf">0:0</WEIGHT>
+      </TERM_WEIGHTS>
+      <LOG_INFORMATION>YaTeA</LOG_INFORMATION>
+    </TERM_CANDIDATE>
+    <TERM_CANDIDATE MNP_STATUS="1">
+      <ID>term32</ID>
+      <FORM>milan royal</FORM>
+      <LEMMA>milan royal</LEMMA>
+      <MORPHOSYNTACTIC_FEATURES>
+	    <SYNTACTIC_CATEGORY>NOM ADJ</SYNTACTIC_CATEGORY>
+      </MORPHOSYNTACTIC_FEATURES>
+      <HEAD>term33</HEAD>
+      <NUMBER_OCCURRENCES>1</NUMBER_OCCURRENCES>
+      <LIST_OCCURRENCES>
+      <OCCURRENCE>
+        <ID>occ7</ID>
+        <MNP>1</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>0</SENTENCE>
+        <START_POSITION>146</START_POSITION>
+        <END_POSITION>157</END_POSITION>
+        </OCCURRENCE>
+      </LIST_OCCURRENCES>
+      <TERM_CONFIDENCE>0.5</TERM_CONFIDENCE>
+      <TERM_WEIGHTS>
+            <WEIGHT name="CValue">1</WEIGHT>
+            <WEIGHT name="CValue1">1.58496250072116</WEIGHT>
+            <WEIGHT name="CValuePlus">1</WEIGHT>
+            <WEIGHT name="CValuePlus1">1.58496250072116</WEIGHT>
+            <WEIGHT name="CValueStar">1</WEIGHT>
+            <WEIGHT name="CValueStarH">N/A</WEIGHT>
+            <WEIGHT name="CValueStarM">N/A</WEIGHT>
+            <WEIGHT name="CValueStarR">0.584962500721156</WEIGHT>
+            <WEIGHT name="CValueWCard">0</WEIGHT>
+            <WEIGHT name="CValueWCardPlus">0</WEIGHT>
+            <WEIGHT name="D">1</WEIGHT>
+            <WEIGHT name="DDW">0</WEIGHT>
+            <WEIGHT name="Freq">1</WEIGHT>
+            <WEIGHT name="IM">4</WEIGHT>
+            <WEIGHT name="LLR">0.000115129154648748</WEIGHT>
+            <WEIGHT name="NormFreq">0.25</WEIGHT>
+            <WEIGHT name="iLong">0.5</WEIGHT>
+            <WEIGHT name="iTer">0.333333333333333</WEIGHT>
+            <WEIGHT name="idf">0:0</WEIGHT>
+            <WEIGHT name="ilnc">0</WEIGHT>
+            <WEIGHT name="ilncFreq">0</WEIGHT>
+            <WEIGHT name="nbdoc4tc">1</WEIGHT>
+            <WEIGHT name="tf">0:1</WEIGHT>
+            <WEIGHT name="tf-idf">0:0</WEIGHT>
+      </TERM_WEIGHTS>
+      <LOG_INFORMATION>YaTeA</LOG_INFORMATION>
+      <SYNTACTIC_ANALYSIS>
+        <HEAD>
+        term33
+        </HEAD>
+        <MODIFIER POSITION="AFTER">
+        term34
+        </MODIFIER>
+      </SYNTACTIC_ANALYSIS>
+    </TERM_CANDIDATE>
+    <TERM_CANDIDATE MNP_STATUS="0">
+      <ID>term61</ID>
+      <FORM>autres</FORM>
+      <LEMMA>autre</LEMMA>
+      <MORPHOSYNTACTIC_FEATURES>
+	    <SYNTACTIC_CATEGORY>ADJ</SYNTACTIC_CATEGORY>
+      </MORPHOSYNTACTIC_FEATURES>
+      <HEAD>term61</HEAD>
+      <NUMBER_OCCURRENCES>1</NUMBER_OCCURRENCES>
+      <LIST_OCCURRENCES>
+      <OCCURRENCE>
+        <ID>occ87</ID>
+        <MNP>0</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>4</SENTENCE>
+        <START_POSITION>14</START_POSITION>
+        <END_POSITION>20</END_POSITION>
+        </OCCURRENCE>
+      </LIST_OCCURRENCES>
+      <TERM_CONFIDENCE>0.5</TERM_CONFIDENCE>
+      <TERM_WEIGHTS>
+            <WEIGHT name="CValue">0</WEIGHT>
+            <WEIGHT name="CValue1">0</WEIGHT>
+            <WEIGHT name="CValuePlus">0</WEIGHT>
+            <WEIGHT name="CValuePlus1">2</WEIGHT>
+            <WEIGHT name="CValueStar">1</WEIGHT>
+            <WEIGHT name="CValueStarH">N/A</WEIGHT>
+            <WEIGHT name="CValueStarM">0</WEIGHT>
+            <WEIGHT name="CValueStarR">N/A</WEIGHT>
+            <WEIGHT name="CValueWCard">0</WEIGHT>
+            <WEIGHT name="CValueWCardPlus">2</WEIGHT>
+            <WEIGHT name="D">1</WEIGHT>
+            <WEIGHT name="DDW">0</WEIGHT>
+            <WEIGHT name="Freq">1</WEIGHT>
+            <WEIGHT name="IM">N/A</WEIGHT>
+            <WEIGHT name="LLR">N/A</WEIGHT>
+            <WEIGHT name="NormFreq">0.25</WEIGHT>
+            <WEIGHT name="iLong">1</WEIGHT>
+            <WEIGHT name="iTer">0.5</WEIGHT>
+            <WEIGHT name="idf">0:0</WEIGHT>
+            <WEIGHT name="ilnc">0</WEIGHT>
+            <WEIGHT name="ilncFreq">0</WEIGHT>
+            <WEIGHT name="nbdoc4tc">1</WEIGHT>
+            <WEIGHT name="tf">0:1</WEIGHT>
+            <WEIGHT name="tf-idf">0:0</WEIGHT>
+      </TERM_WEIGHTS>
+      <LOG_INFORMATION>YaTeA</LOG_INFORMATION>
+    </TERM_CANDIDATE>
+    <TERM_CANDIDATE MNP_STATUS="0">
+      <ID>term12</ID>
+      <FORM>fauches</FORM>
+      <LEMMA>fauche</LEMMA>
+      <MORPHOSYNTACTIC_FEATURES>
+	    <SYNTACTIC_CATEGORY>NOM</SYNTACTIC_CATEGORY>
+      </MORPHOSYNTACTIC_FEATURES>
+      <HEAD>term12</HEAD>
+      <NUMBER_OCCURRENCES>1</NUMBER_OCCURRENCES>
+      <LIST_OCCURRENCES>
+      <OCCURRENCE>
+        <ID>occ45</ID>
+        <MNP>0</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>3</SENTENCE>
+        <START_POSITION>4</START_POSITION>
+        <END_POSITION>11</END_POSITION>
+        </OCCURRENCE>
+      </LIST_OCCURRENCES>
+      <TERM_CONFIDENCE>0.5</TERM_CONFIDENCE>
+      <TERM_WEIGHTS>
+            <WEIGHT name="CValue">0</WEIGHT>
+            <WEIGHT name="CValue1">0</WEIGHT>
+            <WEIGHT name="CValuePlus">0</WEIGHT>
+            <WEIGHT name="CValuePlus1">2</WEIGHT>
+            <WEIGHT name="CValueStar">1</WEIGHT>
+            <WEIGHT name="CValueStarH">0</WEIGHT>
+            <WEIGHT name="CValueStarM">N/A</WEIGHT>
+            <WEIGHT name="CValueStarR">N/A</WEIGHT>
+            <WEIGHT name="CValueWCard">0</WEIGHT>
+            <WEIGHT name="CValueWCardPlus">2</WEIGHT>
+            <WEIGHT name="D">1</WEIGHT>
+            <WEIGHT name="DDW">0</WEIGHT>
+            <WEIGHT name="Freq">1</WEIGHT>
+            <WEIGHT name="IM">N/A</WEIGHT>
+            <WEIGHT name="LLR">N/A</WEIGHT>
+            <WEIGHT name="NormFreq">0.25</WEIGHT>
+            <WEIGHT name="iLong">1</WEIGHT>
+            <WEIGHT name="iTer">1</WEIGHT>
+            <WEIGHT name="idf">0:0</WEIGHT>
+            <WEIGHT name="ilnc">1</WEIGHT>
+            <WEIGHT name="ilncFreq">1</WEIGHT>
+            <WEIGHT name="nbdoc4tc">1</WEIGHT>
+            <WEIGHT name="tf">0:1</WEIGHT>
+            <WEIGHT name="tf-idf">0:0</WEIGHT>
+      </TERM_WEIGHTS>
+      <LOG_INFORMATION>YaTeA</LOG_INFORMATION>
+    </TERM_CANDIDATE>
+    <TERM_CANDIDATE MNP_STATUS="0">
+      <ID>term57</ID>
+      <FORM>nombre</FORM>
+      <LEMMA>nombre</LEMMA>
+      <MORPHOSYNTACTIC_FEATURES>
+	    <SYNTACTIC_CATEGORY>NOM</SYNTACTIC_CATEGORY>
+      </MORPHOSYNTACTIC_FEATURES>
+      <HEAD>term57</HEAD>
+      <NUMBER_OCCURRENCES>1</NUMBER_OCCURRENCES>
+      <LIST_OCCURRENCES>
+      <OCCURRENCE>
+        <ID>occ84</ID>
+        <MNP>0</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>6</SENTENCE>
+        <START_POSITION>24</START_POSITION>
+        <END_POSITION>30</END_POSITION>
+        </OCCURRENCE>
+      </LIST_OCCURRENCES>
+      <TERM_CONFIDENCE>0.5</TERM_CONFIDENCE>
+      <TERM_WEIGHTS>
+            <WEIGHT name="CValue">0</WEIGHT>
+            <WEIGHT name="CValue1">0</WEIGHT>
+            <WEIGHT name="CValuePlus">0</WEIGHT>
+            <WEIGHT name="CValuePlus1">2</WEIGHT>
+            <WEIGHT name="CValueStar">1</WEIGHT>
+            <WEIGHT name="CValueStarH">0</WEIGHT>
+            <WEIGHT name="CValueStarM">N/A</WEIGHT>
+            <WEIGHT name="CValueStarR">N/A</WEIGHT>
+            <WEIGHT name="CValueWCard">0</WEIGHT>
+            <WEIGHT name="CValueWCardPlus">2</WEIGHT>
+            <WEIGHT name="D">1</WEIGHT>
+            <WEIGHT name="DDW">0</WEIGHT>
+            <WEIGHT name="Freq">1</WEIGHT>
+            <WEIGHT name="IM">N/A</WEIGHT>
+            <WEIGHT name="LLR">N/A</WEIGHT>
+            <WEIGHT name="NormFreq">0.25</WEIGHT>
+            <WEIGHT name="iLong">1</WEIGHT>
+            <WEIGHT name="iTer">1</WEIGHT>
+            <WEIGHT name="idf">0:0</WEIGHT>
+            <WEIGHT name="ilnc">1</WEIGHT>
+            <WEIGHT name="ilncFreq">1</WEIGHT>
+            <WEIGHT name="nbdoc4tc">1</WEIGHT>
+            <WEIGHT name="tf">0:1</WEIGHT>
+            <WEIGHT name="tf-idf">0:0</WEIGHT>
+      </TERM_WEIGHTS>
+      <LOG_INFORMATION>YaTeA</LOG_INFORMATION>
+    </TERM_CANDIDATE>
+    <TERM_CANDIDATE MNP_STATUS="1">
+      <ID>term50</ID>
+      <FORM>lieu</FORM>
+      <LEMMA>lieu</LEMMA>
+      <MORPHOSYNTACTIC_FEATURES>
+	    <SYNTACTIC_CATEGORY>NOM</SYNTACTIC_CATEGORY>
+      </MORPHOSYNTACTIC_FEATURES>
+      <HEAD>term50</HEAD>
+      <NUMBER_OCCURRENCES>1</NUMBER_OCCURRENCES>
+      <LIST_OCCURRENCES>
+      <OCCURRENCE>
+        <ID>occ79</ID>
+        <MNP>1</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>3</SENTENCE>
+        <START_POSITION>27</START_POSITION>
+        <END_POSITION>31</END_POSITION>
+        </OCCURRENCE>
+      </LIST_OCCURRENCES>
+      <TERM_CONFIDENCE>0.5</TERM_CONFIDENCE>
+      <TERM_WEIGHTS>
+            <WEIGHT name="CValue">0</WEIGHT>
+            <WEIGHT name="CValue1">1</WEIGHT>
+            <WEIGHT name="CValuePlus">0</WEIGHT>
+            <WEIGHT name="CValuePlus1">1</WEIGHT>
+            <WEIGHT name="CValueStar">1</WEIGHT>
+            <WEIGHT name="CValueStarH">N/A</WEIGHT>
+            <WEIGHT name="CValueStarM">N/A</WEIGHT>
+            <WEIGHT name="CValueStarR">1</WEIGHT>
+            <WEIGHT name="CValueWCard">0</WEIGHT>
+            <WEIGHT name="CValueWCardPlus">0</WEIGHT>
+            <WEIGHT name="D">1</WEIGHT>
+            <WEIGHT name="DDW">0</WEIGHT>
+            <WEIGHT name="Freq">1</WEIGHT>
+            <WEIGHT name="IM">N/A</WEIGHT>
+            <WEIGHT name="LLR">N/A</WEIGHT>
+            <WEIGHT name="NormFreq">0.25</WEIGHT>
+            <WEIGHT name="iLong">1</WEIGHT>
+            <WEIGHT name="iTer">0.5</WEIGHT>
+            <WEIGHT name="idf">0:0</WEIGHT>
+            <WEIGHT name="ilnc">0</WEIGHT>
+            <WEIGHT name="ilncFreq">0</WEIGHT>
+            <WEIGHT name="nbdoc4tc">1</WEIGHT>
+            <WEIGHT name="tf">0:1</WEIGHT>
+            <WEIGHT name="tf-idf">0:0</WEIGHT>
+      </TERM_WEIGHTS>
+      <LOG_INFORMATION>YaTeA</LOG_INFORMATION>
+    </TERM_CANDIDATE>
+    <TERM_CANDIDATE MNP_STATUS="1">
+      <ID>term41</ID>
+      <FORM>m</FORM>
+      <LEMMA>m</LEMMA>
+      <MORPHOSYNTACTIC_FEATURES>
+	    <SYNTACTIC_CATEGORY>NOM</SYNTACTIC_CATEGORY>
+      </MORPHOSYNTACTIC_FEATURES>
+      <HEAD>term41</HEAD>
+      <NUMBER_OCCURRENCES>1</NUMBER_OCCURRENCES>
+      <LIST_OCCURRENCES>
+      <OCCURRENCE>
+        <ID>occ71</ID>
+        <MNP>1</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>0</SENTENCE>
+        <START_POSITION>183</START_POSITION>
+        <END_POSITION>184</END_POSITION>
+        </OCCURRENCE>
+      </LIST_OCCURRENCES>
+      <TERM_CONFIDENCE>0.5</TERM_CONFIDENCE>
+      <TERM_WEIGHTS>
+            <WEIGHT name="CValue">0</WEIGHT>
+            <WEIGHT name="CValue1">1</WEIGHT>
+            <WEIGHT name="CValuePlus">0</WEIGHT>
+            <WEIGHT name="CValuePlus1">1</WEIGHT>
+            <WEIGHT name="CValueStar">1</WEIGHT>
+            <WEIGHT name="CValueStarH">N/A</WEIGHT>
+            <WEIGHT name="CValueStarM">N/A</WEIGHT>
+            <WEIGHT name="CValueStarR">1</WEIGHT>
+            <WEIGHT name="CValueWCard">0</WEIGHT>
+            <WEIGHT name="CValueWCardPlus">0</WEIGHT>
+            <WEIGHT name="D">1</WEIGHT>
+            <WEIGHT name="DDW">0</WEIGHT>
+            <WEIGHT name="Freq">1</WEIGHT>
+            <WEIGHT name="IM">N/A</WEIGHT>
+            <WEIGHT name="LLR">N/A</WEIGHT>
+            <WEIGHT name="NormFreq">0.25</WEIGHT>
+            <WEIGHT name="iLong">1</WEIGHT>
+            <WEIGHT name="iTer">0.5</WEIGHT>
+            <WEIGHT name="idf">0:0</WEIGHT>
+            <WEIGHT name="ilnc">0</WEIGHT>
+            <WEIGHT name="ilncFreq">0</WEIGHT>
+            <WEIGHT name="nbdoc4tc">1</WEIGHT>
+            <WEIGHT name="tf">0:1</WEIGHT>
+            <WEIGHT name="tf-idf">0:0</WEIGHT>
+      </TERM_WEIGHTS>
+      <LOG_INFORMATION>YaTeA</LOG_INFORMATION>
+    </TERM_CANDIDATE>
+    <TERM_CANDIDATE MNP_STATUS="1">
+      <ID>term0</ID>
+      <FORM>Choc</FORM>
+      <LEMMA>choc</LEMMA>
+      <MORPHOSYNTACTIC_FEATURES>
+	    <SYNTACTIC_CATEGORY>NOM</SYNTACTIC_CATEGORY>
+      </MORPHOSYNTACTIC_FEATURES>
+      <HEAD>term0</HEAD>
+      <NUMBER_OCCURRENCES>1</NUMBER_OCCURRENCES>
+      <LIST_OCCURRENCES>
+      <OCCURRENCE>
+        <ID>occ36</ID>
+        <MNP>1</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>0</SENTENCE>
+        <START_POSITION>0</START_POSITION>
+        <END_POSITION>4</END_POSITION>
+        </OCCURRENCE>
+      </LIST_OCCURRENCES>
+      <TERM_CONFIDENCE>0.5</TERM_CONFIDENCE>
+      <TERM_WEIGHTS>
+            <WEIGHT name="CValue">0</WEIGHT>
+            <WEIGHT name="CValue1">1</WEIGHT>
+            <WEIGHT name="CValuePlus">0</WEIGHT>
+            <WEIGHT name="CValuePlus1">1</WEIGHT>
+            <WEIGHT name="CValueStar">1</WEIGHT>
+            <WEIGHT name="CValueStarH">N/A</WEIGHT>
+            <WEIGHT name="CValueStarM">N/A</WEIGHT>
+            <WEIGHT name="CValueStarR">1</WEIGHT>
+            <WEIGHT name="CValueWCard">0</WEIGHT>
+            <WEIGHT name="CValueWCardPlus">0</WEIGHT>
+            <WEIGHT name="D">1</WEIGHT>
+            <WEIGHT name="DDW">0</WEIGHT>
+            <WEIGHT name="Freq">1</WEIGHT>
+            <WEIGHT name="IM">N/A</WEIGHT>
+            <WEIGHT name="LLR">N/A</WEIGHT>
+            <WEIGHT name="NormFreq">0.25</WEIGHT>
+            <WEIGHT name="iLong">1</WEIGHT>
+            <WEIGHT name="iTer">0.5</WEIGHT>
+            <WEIGHT name="idf">0:0</WEIGHT>
+            <WEIGHT name="ilnc">0</WEIGHT>
+            <WEIGHT name="ilncFreq">0</WEIGHT>
+            <WEIGHT name="nbdoc4tc">1</WEIGHT>
+            <WEIGHT name="tf">0:1</WEIGHT>
+            <WEIGHT name="tf-idf">0:0</WEIGHT>
+      </TERM_WEIGHTS>
+      <LOG_INFORMATION>YaTeA</LOG_INFORMATION>
+    </TERM_CANDIDATE>
+    <TERM_CANDIDATE MNP_STATUS="0">
+      <ID>term20</ID>
+      <FORM>apparentes</FORM>
+      <LEMMA>apparent</LEMMA>
+      <MORPHOSYNTACTIC_FEATURES>
+	    <SYNTACTIC_CATEGORY>ADJ</SYNTACTIC_CATEGORY>
+      </MORPHOSYNTACTIC_FEATURES>
+      <HEAD>term20</HEAD>
+      <NUMBER_OCCURRENCES>1</NUMBER_OCCURRENCES>
+      <LIST_OCCURRENCES>
+      <OCCURRENCE>
+        <ID>occ51</ID>
+        <MNP>0</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>2</SENTENCE>
+        <START_POSITION>68</START_POSITION>
+        <END_POSITION>78</END_POSITION>
+        </OCCURRENCE>
+      </LIST_OCCURRENCES>
+      <TERM_CONFIDENCE>0.5</TERM_CONFIDENCE>
+      <TERM_WEIGHTS>
+            <WEIGHT name="CValue">0</WEIGHT>
+            <WEIGHT name="CValue1">0</WEIGHT>
+            <WEIGHT name="CValuePlus">0</WEIGHT>
+            <WEIGHT name="CValuePlus1">2</WEIGHT>
+            <WEIGHT name="CValueStar">1</WEIGHT>
+            <WEIGHT name="CValueStarH">N/A</WEIGHT>
+            <WEIGHT name="CValueStarM">0</WEIGHT>
+            <WEIGHT name="CValueStarR">N/A</WEIGHT>
+            <WEIGHT name="CValueWCard">0</WEIGHT>
+            <WEIGHT name="CValueWCardPlus">2</WEIGHT>
+            <WEIGHT name="D">1</WEIGHT>
+            <WEIGHT name="DDW">0</WEIGHT>
+            <WEIGHT name="Freq">1</WEIGHT>
+            <WEIGHT name="IM">N/A</WEIGHT>
+            <WEIGHT name="LLR">N/A</WEIGHT>
+            <WEIGHT name="NormFreq">0.25</WEIGHT>
+            <WEIGHT name="iLong">1</WEIGHT>
+            <WEIGHT name="iTer">0.5</WEIGHT>
+            <WEIGHT name="idf">0:0</WEIGHT>
+            <WEIGHT name="ilnc">0</WEIGHT>
+            <WEIGHT name="ilncFreq">0</WEIGHT>
+            <WEIGHT name="nbdoc4tc">1</WEIGHT>
+            <WEIGHT name="tf">0:1</WEIGHT>
+            <WEIGHT name="tf-idf">0:0</WEIGHT>
+      </TERM_WEIGHTS>
+      <LOG_INFORMATION>YaTeA</LOG_INFORMATION>
+    </TERM_CANDIDATE>
+    <TERM_CANDIDATE MNP_STATUS="1">
+      <ID>term18</ID>
+      <FORM>blessures apparentes</FORM>
+      <LEMMA>blessure apparent</LEMMA>
+      <MORPHOSYNTACTIC_FEATURES>
+	    <SYNTACTIC_CATEGORY>NOM ADJ</SYNTACTIC_CATEGORY>
+      </MORPHOSYNTACTIC_FEATURES>
+      <HEAD>term19</HEAD>
+      <NUMBER_OCCURRENCES>1</NUMBER_OCCURRENCES>
+      <LIST_OCCURRENCES>
+      <OCCURRENCE>
+        <ID>occ14</ID>
+        <MNP>1</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>2</SENTENCE>
+        <START_POSITION>58</START_POSITION>
+        <END_POSITION>78</END_POSITION>
+        </OCCURRENCE>
+      </LIST_OCCURRENCES>
+      <TERM_CONFIDENCE>0.5</TERM_CONFIDENCE>
+      <TERM_WEIGHTS>
+            <WEIGHT name="CValue">1</WEIGHT>
+            <WEIGHT name="CValue1">1.58496250072116</WEIGHT>
+            <WEIGHT name="CValuePlus">1</WEIGHT>
+            <WEIGHT name="CValuePlus1">1.58496250072116</WEIGHT>
+            <WEIGHT name="CValueStar">1</WEIGHT>
+            <WEIGHT name="CValueStarH">N/A</WEIGHT>
+            <WEIGHT name="CValueStarM">N/A</WEIGHT>
+            <WEIGHT name="CValueStarR">0.584962500721156</WEIGHT>
+            <WEIGHT name="CValueWCard">0</WEIGHT>
+            <WEIGHT name="CValueWCardPlus">0</WEIGHT>
+            <WEIGHT name="D">1</WEIGHT>
+            <WEIGHT name="DDW">0</WEIGHT>
+            <WEIGHT name="Freq">1</WEIGHT>
+            <WEIGHT name="IM">4</WEIGHT>
+            <WEIGHT name="LLR">0.000115129154648748</WEIGHT>
+            <WEIGHT name="NormFreq">0.25</WEIGHT>
+            <WEIGHT name="iLong">0.5</WEIGHT>
+            <WEIGHT name="iTer">0.333333333333333</WEIGHT>
+            <WEIGHT name="idf">0:0</WEIGHT>
+            <WEIGHT name="ilnc">0</WEIGHT>
+            <WEIGHT name="ilncFreq">0</WEIGHT>
+            <WEIGHT name="nbdoc4tc">1</WEIGHT>
+            <WEIGHT name="tf">0:1</WEIGHT>
+            <WEIGHT name="tf-idf">0:0</WEIGHT>
+      </TERM_WEIGHTS>
+      <LOG_INFORMATION>YaTeA</LOG_INFORMATION>
+      <SYNTACTIC_ANALYSIS>
+        <HEAD>
+        term19
+        </HEAD>
+        <MODIFIER POSITION="AFTER">
+        term20
+        </MODIFIER>
+      </SYNTACTIC_ANALYSIS>
+    </TERM_CANDIDATE>
+    <TERM_CANDIDATE MNP_STATUS="0">
+      <ID>term53</ID>
+      <FORM>adjacentes</FORM>
+      <LEMMA>adjacent</LEMMA>
+      <MORPHOSYNTACTIC_FEATURES>
+	    <SYNTACTIC_CATEGORY>ADJ</SYNTACTIC_CATEGORY>
+      </MORPHOSYNTACTIC_FEATURES>
+      <HEAD>term53</HEAD>
+      <NUMBER_OCCURRENCES>1</NUMBER_OCCURRENCES>
+      <LIST_OCCURRENCES>
+      <OCCURRENCE>
+        <ID>occ81</ID>
+        <MNP>0</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>3</SENTENCE>
+        <START_POSITION>73</START_POSITION>
+        <END_POSITION>83</END_POSITION>
+        </OCCURRENCE>
+      </LIST_OCCURRENCES>
+      <TERM_CONFIDENCE>0.5</TERM_CONFIDENCE>
+      <TERM_WEIGHTS>
+            <WEIGHT name="CValue">0</WEIGHT>
+            <WEIGHT name="CValue1">0</WEIGHT>
+            <WEIGHT name="CValuePlus">0</WEIGHT>
+            <WEIGHT name="CValuePlus1">2</WEIGHT>
+            <WEIGHT name="CValueStar">1</WEIGHT>
+            <WEIGHT name="CValueStarH">N/A</WEIGHT>
+            <WEIGHT name="CValueStarM">0</WEIGHT>
+            <WEIGHT name="CValueStarR">N/A</WEIGHT>
+            <WEIGHT name="CValueWCard">0</WEIGHT>
+            <WEIGHT name="CValueWCardPlus">2</WEIGHT>
+            <WEIGHT name="D">1</WEIGHT>
+            <WEIGHT name="DDW">0</WEIGHT>
+            <WEIGHT name="Freq">1</WEIGHT>
+            <WEIGHT name="IM">N/A</WEIGHT>
+            <WEIGHT name="LLR">N/A</WEIGHT>
+            <WEIGHT name="NormFreq">0.25</WEIGHT>
+            <WEIGHT name="iLong">1</WEIGHT>
+            <WEIGHT name="iTer">0.5</WEIGHT>
+            <WEIGHT name="idf">0:0</WEIGHT>
+            <WEIGHT name="ilnc">0</WEIGHT>
+            <WEIGHT name="ilncFreq">0</WEIGHT>
+            <WEIGHT name="nbdoc4tc">1</WEIGHT>
+            <WEIGHT name="tf">0:1</WEIGHT>
+            <WEIGHT name="tf-idf">0:0</WEIGHT>
+      </TERM_WEIGHTS>
+      <LOG_INFORMATION>YaTeA</LOG_INFORMATION>
+    </TERM_CANDIDATE>
+    <TERM_CANDIDATE MNP_STATUS="1">
+      <ID>term1</ID>
+      <FORM>parc éolien</FORM>
+      <LEMMA>parc éolien</LEMMA>
+      <MORPHOSYNTACTIC_FEATURES>
+	    <SYNTACTIC_CATEGORY>NOM ADJ</SYNTACTIC_CATEGORY>
+      </MORPHOSYNTACTIC_FEATURES>
+      <HEAD>term2</HEAD>
+      <NUMBER_OCCURRENCES>1</NUMBER_OCCURRENCES>
+      <LIST_OCCURRENCES>
+      <OCCURRENCE>
+        <ID>occ3</ID>
+        <MNP>1</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>0</SENTENCE>
+        <START_POSITION>82</START_POSITION>
+        <END_POSITION>93</END_POSITION>
+        </OCCURRENCE>
+      </LIST_OCCURRENCES>
+      <TERM_CONFIDENCE>0.5</TERM_CONFIDENCE>
+      <TERM_WEIGHTS>
+            <WEIGHT name="CValue">1</WEIGHT>
+            <WEIGHT name="CValue1">1.58496250072116</WEIGHT>
+            <WEIGHT name="CValuePlus">1</WEIGHT>
+            <WEIGHT name="CValuePlus1">1.58496250072116</WEIGHT>
+            <WEIGHT name="CValueStar">1</WEIGHT>
+            <WEIGHT name="CValueStarH">N/A</WEIGHT>
+            <WEIGHT name="CValueStarM">N/A</WEIGHT>
+            <WEIGHT name="CValueStarR">0.584962500721156</WEIGHT>
+            <WEIGHT name="CValueWCard">0</WEIGHT>
+            <WEIGHT name="CValueWCardPlus">0</WEIGHT>
+            <WEIGHT name="D">1</WEIGHT>
+            <WEIGHT name="DDW">0</WEIGHT>
+            <WEIGHT name="Freq">1</WEIGHT>
+            <WEIGHT name="IM">4</WEIGHT>
+            <WEIGHT name="LLR">0.000115129154648748</WEIGHT>
+            <WEIGHT name="NormFreq">0.25</WEIGHT>
+            <WEIGHT name="iLong">0.5</WEIGHT>
+            <WEIGHT name="iTer">0.333333333333333</WEIGHT>
+            <WEIGHT name="idf">0:0</WEIGHT>
+            <WEIGHT name="ilnc">0</WEIGHT>
+            <WEIGHT name="ilncFreq">0</WEIGHT>
+            <WEIGHT name="nbdoc4tc">1</WEIGHT>
+            <WEIGHT name="tf">0:1</WEIGHT>
+            <WEIGHT name="tf-idf">0:0</WEIGHT>
+      </TERM_WEIGHTS>
+      <LOG_INFORMATION>YaTeA</LOG_INFORMATION>
+      <SYNTACTIC_ANALYSIS>
+        <HEAD>
+        term2
+        </HEAD>
+        <MODIFIER POSITION="AFTER">
+        term3
+        </MODIFIER>
+      </SYNTACTIC_ANALYSIS>
+    </TERM_CANDIDATE>
+    <TERM_CANDIDATE MNP_STATUS="0">
+      <ID>term56</ID>
+      <FORM>grand</FORM>
+      <LEMMA>grand</LEMMA>
+      <MORPHOSYNTACTIC_FEATURES>
+	    <SYNTACTIC_CATEGORY>ADJ</SYNTACTIC_CATEGORY>
+      </MORPHOSYNTACTIC_FEATURES>
+      <HEAD>term56</HEAD>
+      <NUMBER_OCCURRENCES>1</NUMBER_OCCURRENCES>
+      <LIST_OCCURRENCES>
+      <OCCURRENCE>
+        <ID>occ83</ID>
+        <MNP>0</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>6</SENTENCE>
+        <START_POSITION>18</START_POSITION>
+        <END_POSITION>23</END_POSITION>
+        </OCCURRENCE>
+      </LIST_OCCURRENCES>
+      <TERM_CONFIDENCE>0.5</TERM_CONFIDENCE>
+      <TERM_WEIGHTS>
+            <WEIGHT name="CValue">0</WEIGHT>
+            <WEIGHT name="CValue1">0</WEIGHT>
+            <WEIGHT name="CValuePlus">0</WEIGHT>
+            <WEIGHT name="CValuePlus1">2</WEIGHT>
+            <WEIGHT name="CValueStar">1</WEIGHT>
+            <WEIGHT name="CValueStarH">N/A</WEIGHT>
+            <WEIGHT name="CValueStarM">0</WEIGHT>
+            <WEIGHT name="CValueStarR">N/A</WEIGHT>
+            <WEIGHT name="CValueWCard">0</WEIGHT>
+            <WEIGHT name="CValueWCardPlus">2</WEIGHT>
+            <WEIGHT name="D">1</WEIGHT>
+            <WEIGHT name="DDW">0</WEIGHT>
+            <WEIGHT name="Freq">1</WEIGHT>
+            <WEIGHT name="IM">N/A</WEIGHT>
+            <WEIGHT name="LLR">N/A</WEIGHT>
+            <WEIGHT name="NormFreq">0.25</WEIGHT>
+            <WEIGHT name="iLong">1</WEIGHT>
+            <WEIGHT name="iTer">0.5</WEIGHT>
+            <WEIGHT name="idf">0:0</WEIGHT>
+            <WEIGHT name="ilnc">0</WEIGHT>
+            <WEIGHT name="ilncFreq">0</WEIGHT>
+            <WEIGHT name="nbdoc4tc">1</WEIGHT>
+            <WEIGHT name="tf">0:1</WEIGHT>
+            <WEIGHT name="tf-idf">0:0</WEIGHT>
+      </TERM_WEIGHTS>
+      <LOG_INFORMATION>YaTeA</LOG_INFORMATION>
+    </TERM_CANDIDATE>
+    <TERM_CANDIDATE MNP_STATUS="1">
+      <ID>term22</ID>
+      <FORM>cours de fauche</FORM>
+      <LEMMA>cours|cour de fauche</LEMMA>
+      <MORPHOSYNTACTIC_FEATURES>
+	    <SYNTACTIC_CATEGORY>NOM de NOM</SYNTACTIC_CATEGORY>
+      </MORPHOSYNTACTIC_FEATURES>
+      <HEAD>term23</HEAD>
+      <NUMBER_OCCURRENCES>1</NUMBER_OCCURRENCES>
+      <LIST_OCCURRENCES>
+      <OCCURRENCE>
+        <ID>occ22</ID>
+        <MNP>1</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>4</SENTENCE>
+        <START_POSITION>70</START_POSITION>
+        <END_POSITION>85</END_POSITION>
+        </OCCURRENCE>
+      </LIST_OCCURRENCES>
+      <TERM_CONFIDENCE>0.5</TERM_CONFIDENCE>
+      <TERM_WEIGHTS>
+            <WEIGHT name="CValue">1.58496250072116</WEIGHT>
+            <WEIGHT name="CValue1">2</WEIGHT>
+            <WEIGHT name="CValuePlus">1.58496250072116</WEIGHT>
+            <WEIGHT name="CValuePlus1">2</WEIGHT>
+            <WEIGHT name="CValueStar">1</WEIGHT>
+            <WEIGHT name="CValueStarH">N/A</WEIGHT>
+            <WEIGHT name="CValueStarM">N/A</WEIGHT>
+            <WEIGHT name="CValueStarR">0.415037499278844</WEIGHT>
+            <WEIGHT name="CValueWCard">0</WEIGHT>
+            <WEIGHT name="CValueWCardPlus">0</WEIGHT>
+            <WEIGHT name="D">1</WEIGHT>
+            <WEIGHT name="DDW">0</WEIGHT>
+            <WEIGHT name="Freq">1</WEIGHT>
+            <WEIGHT name="IM">4</WEIGHT>
+            <WEIGHT name="LLR">0.000115129154648748</WEIGHT>
+            <WEIGHT name="NormFreq">0.25</WEIGHT>
+            <WEIGHT name="iLong">0.333333333333333</WEIGHT>
+            <WEIGHT name="iTer">0.25</WEIGHT>
+            <WEIGHT name="idf">0:0</WEIGHT>
+            <WEIGHT name="ilnc">0</WEIGHT>
+            <WEIGHT name="ilncFreq">0</WEIGHT>
+            <WEIGHT name="nbdoc4tc">1</WEIGHT>
+            <WEIGHT name="tf">0:1</WEIGHT>
+            <WEIGHT name="tf-idf">0:0</WEIGHT>
+      </TERM_WEIGHTS>
+      <LOG_INFORMATION>YaTeA</LOG_INFORMATION>
+      <SYNTACTIC_ANALYSIS>
+        <HEAD>
+        term23
+        </HEAD>
+        <MODIFIER POSITION="AFTER">
+        term24
+        </MODIFIER>
+        <PREP>
+        de
+        </PREP>
+      </SYNTACTIC_ANALYSIS>
+    </TERM_CANDIDATE>
+    <TERM_CANDIDATE MNP_STATUS="0">
+      <ID>term28</ID>
+      <FORM>éolienne.Le suivi</FORM>
+      <LEMMA>éolienne.Le suivre</LEMMA>
+      <MORPHOSYNTACTIC_FEATURES>
+	    <SYNTACTIC_CATEGORY>NOM VER:pper</SYNTACTIC_CATEGORY>
+      </MORPHOSYNTACTIC_FEATURES>
+      <HEAD>term29</HEAD>
+      <NUMBER_OCCURRENCES>1</NUMBER_OCCURRENCES>
+      <LIST_OCCURRENCES>
+      <OCCURRENCE>
+        <ID>occ60</ID>
+        <MNP>0</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>6</SENTENCE>
+        <START_POSITION>106</START_POSITION>
+        <END_POSITION>123</END_POSITION>
+        </OCCURRENCE>
+      </LIST_OCCURRENCES>
+      <TERM_CONFIDENCE>0.5</TERM_CONFIDENCE>
+      <TERM_WEIGHTS>
+            <WEIGHT name="CValue">0</WEIGHT>
+            <WEIGHT name="CValue1">0</WEIGHT>
+            <WEIGHT name="CValuePlus">2</WEIGHT>
+            <WEIGHT name="CValuePlus1">3.16992500144231</WEIGHT>
+            <WEIGHT name="CValueStar">1</WEIGHT>
+            <WEIGHT name="CValueStarH">0</WEIGHT>
+            <WEIGHT name="CValueStarM">N/A</WEIGHT>
+            <WEIGHT name="CValueStarR">N/A</WEIGHT>
+            <WEIGHT name="CValueWCard">0</WEIGHT>
+            <WEIGHT name="CValueWCardPlus">2</WEIGHT>
+            <WEIGHT name="D">1</WEIGHT>
+            <WEIGHT name="DDW">0</WEIGHT>
+            <WEIGHT name="Freq">1</WEIGHT>
+            <WEIGHT name="IM">4</WEIGHT>
+            <WEIGHT name="LLR">0.000115129154648748</WEIGHT>
+            <WEIGHT name="NormFreq">0.25</WEIGHT>
+            <WEIGHT name="iLong">0.5</WEIGHT>
+            <WEIGHT name="iTer">0.666666666666667</WEIGHT>
+            <WEIGHT name="idf">0:0</WEIGHT>
+            <WEIGHT name="ilnc">1</WEIGHT>
+            <WEIGHT name="ilncFreq">1</WEIGHT>
+            <WEIGHT name="nbdoc4tc">1</WEIGHT>
+            <WEIGHT name="tf">0:1</WEIGHT>
+            <WEIGHT name="tf-idf">0:0</WEIGHT>
+      </TERM_WEIGHTS>
+      <LOG_INFORMATION>YaTeA</LOG_INFORMATION>
+      <SYNTACTIC_ANALYSIS>
+        <HEAD>
+        term29
+        </HEAD>
+        <MODIFIER POSITION="AFTER">
+        term30
+        </MODIFIER>
+      </SYNTACTIC_ANALYSIS>
+    </TERM_CANDIDATE>
+    <TERM_CANDIDATE MNP_STATUS="0">
+      <ID>term8</ID>
+      <FORM>aviaire</FORM>
+      <LEMMA>aviaire</LEMMA>
+      <MORPHOSYNTACTIC_FEATURES>
+	    <SYNTACTIC_CATEGORY>ADJ</SYNTACTIC_CATEGORY>
+      </MORPHOSYNTACTIC_FEATURES>
+      <HEAD>term8</HEAD>
+      <NUMBER_OCCURRENCES>1</NUMBER_OCCURRENCES>
+      <LIST_OCCURRENCES>
+      <OCCURRENCE>
+        <ID>occ42</ID>
+        <MNP>0</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>0</SENTENCE>
+        <START_POSITION>67</START_POSITION>
+        <END_POSITION>74</END_POSITION>
+        </OCCURRENCE>
+      </LIST_OCCURRENCES>
+      <TERM_CONFIDENCE>0.5</TERM_CONFIDENCE>
+      <TERM_WEIGHTS>
+            <WEIGHT name="CValue">0</WEIGHT>
+            <WEIGHT name="CValue1">0</WEIGHT>
+            <WEIGHT name="CValuePlus">0</WEIGHT>
+            <WEIGHT name="CValuePlus1">2</WEIGHT>
+            <WEIGHT name="CValueStar">1</WEIGHT>
+            <WEIGHT name="CValueStarH">N/A</WEIGHT>
+            <WEIGHT name="CValueStarM">0</WEIGHT>
+            <WEIGHT name="CValueStarR">N/A</WEIGHT>
+            <WEIGHT name="CValueWCard">0</WEIGHT>
+            <WEIGHT name="CValueWCardPlus">2</WEIGHT>
+            <WEIGHT name="D">1</WEIGHT>
+            <WEIGHT name="DDW">0</WEIGHT>
+            <WEIGHT name="Freq">1</WEIGHT>
+            <WEIGHT name="IM">N/A</WEIGHT>
+            <WEIGHT name="LLR">N/A</WEIGHT>
+            <WEIGHT name="NormFreq">0.25</WEIGHT>
+            <WEIGHT name="iLong">1</WEIGHT>
+            <WEIGHT name="iTer">0.5</WEIGHT>
+            <WEIGHT name="idf">0:0</WEIGHT>
+            <WEIGHT name="ilnc">0</WEIGHT>
+            <WEIGHT name="ilncFreq">0</WEIGHT>
+            <WEIGHT name="nbdoc4tc">1</WEIGHT>
+            <WEIGHT name="tf">0:1</WEIGHT>
+            <WEIGHT name="tf-idf">0:0</WEIGHT>
+      </TERM_WEIGHTS>
+      <LOG_INFORMATION>YaTeA</LOG_INFORMATION>
+    </TERM_CANDIDATE>
+    <TERM_CANDIDATE MNP_STATUS="1">
+      <ID>term21</ID>
+      <FORM>présence</FORM>
+      <LEMMA>présence</LEMMA>
+      <MORPHOSYNTACTIC_FEATURES>
+	    <SYNTACTIC_CATEGORY>NOM</SYNTACTIC_CATEGORY>
+      </MORPHOSYNTACTIC_FEATURES>
+      <HEAD>term21</HEAD>
+      <NUMBER_OCCURRENCES>1</NUMBER_OCCURRENCES>
+      <LIST_OCCURRENCES>
+      <OCCURRENCE>
+        <ID>occ52</ID>
+        <MNP>1</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>6</SENTENCE>
+        <START_POSITION>3</START_POSITION>
+        <END_POSITION>11</END_POSITION>
+        </OCCURRENCE>
+      </LIST_OCCURRENCES>
+      <TERM_CONFIDENCE>0.5</TERM_CONFIDENCE>
+      <TERM_WEIGHTS>
+            <WEIGHT name="CValue">0</WEIGHT>
+            <WEIGHT name="CValue1">1</WEIGHT>
+            <WEIGHT name="CValuePlus">0</WEIGHT>
+            <WEIGHT name="CValuePlus1">1</WEIGHT>
+            <WEIGHT name="CValueStar">1</WEIGHT>
+            <WEIGHT name="CValueStarH">N/A</WEIGHT>
+            <WEIGHT name="CValueStarM">N/A</WEIGHT>
+            <WEIGHT name="CValueStarR">1</WEIGHT>
+            <WEIGHT name="CValueWCard">0</WEIGHT>
+            <WEIGHT name="CValueWCardPlus">0</WEIGHT>
+            <WEIGHT name="D">1</WEIGHT>
+            <WEIGHT name="DDW">0</WEIGHT>
+            <WEIGHT name="Freq">1</WEIGHT>
+            <WEIGHT name="IM">N/A</WEIGHT>
+            <WEIGHT name="LLR">N/A</WEIGHT>
+            <WEIGHT name="NormFreq">0.25</WEIGHT>
+            <WEIGHT name="iLong">1</WEIGHT>
+            <WEIGHT name="iTer">0.5</WEIGHT>
+            <WEIGHT name="idf">0:0</WEIGHT>
+            <WEIGHT name="ilnc">0</WEIGHT>
+            <WEIGHT name="ilncFreq">0</WEIGHT>
+            <WEIGHT name="nbdoc4tc">1</WEIGHT>
+            <WEIGHT name="tf">0:1</WEIGHT>
+            <WEIGHT name="tf-idf">0:0</WEIGHT>
+      </TERM_WEIGHTS>
+      <LOG_INFORMATION>YaTeA</LOG_INFORMATION>
+    </TERM_CANDIDATE>
+    <TERM_CANDIDATE MNP_STATUS="0">
+      <ID>term6</ID>
+      <FORM>mortalité aviaire</FORM>
+      <LEMMA>mortalité aviaire</LEMMA>
+      <MORPHOSYNTACTIC_FEATURES>
+	    <SYNTACTIC_CATEGORY>NOM ADJ</SYNTACTIC_CATEGORY>
+      </MORPHOSYNTACTIC_FEATURES>
+      <HEAD>term7</HEAD>
+      <NUMBER_OCCURRENCES>1</NUMBER_OCCURRENCES>
+      <LIST_OCCURRENCES>
+      <OCCURRENCE>
+        <ID>occ40</ID>
+        <MNP>0</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>0</SENTENCE>
+        <START_POSITION>57</START_POSITION>
+        <END_POSITION>74</END_POSITION>
+        </OCCURRENCE>
+      </LIST_OCCURRENCES>
+      <TERM_CONFIDENCE>0.5</TERM_CONFIDENCE>
+      <TERM_WEIGHTS>
+            <WEIGHT name="CValue">0</WEIGHT>
+            <WEIGHT name="CValue1">0</WEIGHT>
+            <WEIGHT name="CValuePlus">2</WEIGHT>
+            <WEIGHT name="CValuePlus1">3.16992500144231</WEIGHT>
+            <WEIGHT name="CValueStar">1</WEIGHT>
+            <WEIGHT name="CValueStarH">N/A</WEIGHT>
+            <WEIGHT name="CValueStarM">0</WEIGHT>
+            <WEIGHT name="CValueStarR">N/A</WEIGHT>
+            <WEIGHT name="CValueWCard">0</WEIGHT>
+            <WEIGHT name="CValueWCardPlus">2</WEIGHT>
+            <WEIGHT name="D">1</WEIGHT>
+            <WEIGHT name="DDW">0</WEIGHT>
+            <WEIGHT name="Freq">1</WEIGHT>
+            <WEIGHT name="IM">4</WEIGHT>
+            <WEIGHT name="LLR">0.000115129154648748</WEIGHT>
+            <WEIGHT name="NormFreq">0.25</WEIGHT>
+            <WEIGHT name="iLong">0.5</WEIGHT>
+            <WEIGHT name="iTer">0.333333333333333</WEIGHT>
+            <WEIGHT name="idf">0:0</WEIGHT>
+            <WEIGHT name="ilnc">0</WEIGHT>
+            <WEIGHT name="ilncFreq">0</WEIGHT>
+            <WEIGHT name="nbdoc4tc">1</WEIGHT>
+            <WEIGHT name="tf">0:1</WEIGHT>
+            <WEIGHT name="tf-idf">0:0</WEIGHT>
+      </TERM_WEIGHTS>
+      <LOG_INFORMATION>YaTeA</LOG_INFORMATION>
+      <SYNTACTIC_ANALYSIS>
+        <HEAD>
+        term7
+        </HEAD>
+        <MODIFIER POSITION="AFTER">
+        term8
+        </MODIFIER>
+      </SYNTACTIC_ANALYSIS>
+    </TERM_CANDIDATE>
+    <TERM_CANDIDATE MNP_STATUS="1">
+      <ID>term40</ID>
+      <FORM>bureau</FORM>
+      <LEMMA>bureau</LEMMA>
+      <MORPHOSYNTACTIC_FEATURES>
+	    <SYNTACTIC_CATEGORY>NOM</SYNTACTIC_CATEGORY>
+      </MORPHOSYNTACTIC_FEATURES>
+      <HEAD>term40</HEAD>
+      <NUMBER_OCCURRENCES>1</NUMBER_OCCURRENCES>
+      <LIST_OCCURRENCES>
+      <OCCURRENCE>
+        <ID>occ70</ID>
+        <MNP>1</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>0</SENTENCE>
+        <START_POSITION>99</START_POSITION>
+        <END_POSITION>105</END_POSITION>
+        </OCCURRENCE>
+      </LIST_OCCURRENCES>
+      <TERM_CONFIDENCE>0.5</TERM_CONFIDENCE>
+      <TERM_WEIGHTS>
+            <WEIGHT name="CValue">0</WEIGHT>
+            <WEIGHT name="CValue1">1</WEIGHT>
+            <WEIGHT name="CValuePlus">0</WEIGHT>
+            <WEIGHT name="CValuePlus1">1</WEIGHT>
+            <WEIGHT name="CValueStar">1</WEIGHT>
+            <WEIGHT name="CValueStarH">N/A</WEIGHT>
+            <WEIGHT name="CValueStarM">N/A</WEIGHT>
+            <WEIGHT name="CValueStarR">1</WEIGHT>
+            <WEIGHT name="CValueWCard">0</WEIGHT>
+            <WEIGHT name="CValueWCardPlus">0</WEIGHT>
+            <WEIGHT name="D">1</WEIGHT>
+            <WEIGHT name="DDW">0</WEIGHT>
+            <WEIGHT name="Freq">1</WEIGHT>
+            <WEIGHT name="IM">N/A</WEIGHT>
+            <WEIGHT name="LLR">N/A</WEIGHT>
+            <WEIGHT name="NormFreq">0.25</WEIGHT>
+            <WEIGHT name="iLong">1</WEIGHT>
+            <WEIGHT name="iTer">0.5</WEIGHT>
+            <WEIGHT name="idf">0:0</WEIGHT>
+            <WEIGHT name="ilnc">0</WEIGHT>
+            <WEIGHT name="ilncFreq">0</WEIGHT>
+            <WEIGHT name="nbdoc4tc">1</WEIGHT>
+            <WEIGHT name="tf">0:1</WEIGHT>
+            <WEIGHT name="tf-idf">0:0</WEIGHT>
+      </TERM_WEIGHTS>
+      <LOG_INFORMATION>YaTeA</LOG_INFORMATION>
+    </TERM_CANDIDATE>
+    <TERM_CANDIDATE MNP_STATUS="0">
+      <ID>term31</ID>
+      <FORM>annuel</FORM>
+      <LEMMA>annuel</LEMMA>
+      <MORPHOSYNTACTIC_FEATURES>
+	    <SYNTACTIC_CATEGORY>ADJ</SYNTACTIC_CATEGORY>
+      </MORPHOSYNTACTIC_FEATURES>
+      <HEAD>term31</HEAD>
+      <NUMBER_OCCURRENCES>1</NUMBER_OCCURRENCES>
+      <LIST_OCCURRENCES>
+      <OCCURRENCE>
+        <ID>occ63</ID>
+        <MNP>0</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>6</SENTENCE>
+        <START_POSITION>124</START_POSITION>
+        <END_POSITION>130</END_POSITION>
+        </OCCURRENCE>
+      </LIST_OCCURRENCES>
+      <TERM_CONFIDENCE>0.5</TERM_CONFIDENCE>
+      <TERM_WEIGHTS>
+            <WEIGHT name="CValue">0</WEIGHT>
+            <WEIGHT name="CValue1">0</WEIGHT>
+            <WEIGHT name="CValuePlus">0</WEIGHT>
+            <WEIGHT name="CValuePlus1">2</WEIGHT>
+            <WEIGHT name="CValueStar">1</WEIGHT>
+            <WEIGHT name="CValueStarH">N/A</WEIGHT>
+            <WEIGHT name="CValueStarM">0</WEIGHT>
+            <WEIGHT name="CValueStarR">N/A</WEIGHT>
+            <WEIGHT name="CValueWCard">0</WEIGHT>
+            <WEIGHT name="CValueWCardPlus">2</WEIGHT>
+            <WEIGHT name="D">1</WEIGHT>
+            <WEIGHT name="DDW">0</WEIGHT>
+            <WEIGHT name="Freq">1</WEIGHT>
+            <WEIGHT name="IM">N/A</WEIGHT>
+            <WEIGHT name="LLR">N/A</WEIGHT>
+            <WEIGHT name="NormFreq">0.25</WEIGHT>
+            <WEIGHT name="iLong">1</WEIGHT>
+            <WEIGHT name="iTer">0.5</WEIGHT>
+            <WEIGHT name="idf">0:0</WEIGHT>
+            <WEIGHT name="ilnc">0</WEIGHT>
+            <WEIGHT name="ilncFreq">0</WEIGHT>
+            <WEIGHT name="nbdoc4tc">1</WEIGHT>
+            <WEIGHT name="tf">0:1</WEIGHT>
+            <WEIGHT name="tf-idf">0:0</WEIGHT>
+      </TERM_WEIGHTS>
+      <LOG_INFORMATION>YaTeA</LOG_INFORMATION>
+    </TERM_CANDIDATE>
+    <TERM_CANDIDATE MNP_STATUS="1">
+      <ID>term64</ID>
+      <FORM>contexte</FORM>
+      <LEMMA>contexte</LEMMA>
+      <MORPHOSYNTACTIC_FEATURES>
+	    <SYNTACTIC_CATEGORY>NOM</SYNTACTIC_CATEGORY>
+      </MORPHOSYNTACTIC_FEATURES>
+      <HEAD>term64</HEAD>
+      <NUMBER_OCCURRENCES>1</NUMBER_OCCURRENCES>
+      <LIST_OCCURRENCES>
+      <OCCURRENCE>
+        <ID>occ90</ID>
+        <MNP>1</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>5</SENTENCE>
+        <START_POSITION>3</START_POSITION>
+        <END_POSITION>11</END_POSITION>
+        </OCCURRENCE>
+      </LIST_OCCURRENCES>
+      <TERM_CONFIDENCE>0.5</TERM_CONFIDENCE>
+      <TERM_WEIGHTS>
+            <WEIGHT name="CValue">0</WEIGHT>
+            <WEIGHT name="CValue1">1</WEIGHT>
+            <WEIGHT name="CValuePlus">0</WEIGHT>
+            <WEIGHT name="CValuePlus1">1</WEIGHT>
+            <WEIGHT name="CValueStar">1</WEIGHT>
+            <WEIGHT name="CValueStarH">N/A</WEIGHT>
+            <WEIGHT name="CValueStarM">N/A</WEIGHT>
+            <WEIGHT name="CValueStarR">1</WEIGHT>
+            <WEIGHT name="CValueWCard">0</WEIGHT>
+            <WEIGHT name="CValueWCardPlus">0</WEIGHT>
+            <WEIGHT name="D">1</WEIGHT>
+            <WEIGHT name="DDW">0</WEIGHT>
+            <WEIGHT name="Freq">1</WEIGHT>
+            <WEIGHT name="IM">N/A</WEIGHT>
+            <WEIGHT name="LLR">N/A</WEIGHT>
+            <WEIGHT name="NormFreq">0.25</WEIGHT>
+            <WEIGHT name="iLong">1</WEIGHT>
+            <WEIGHT name="iTer">0.5</WEIGHT>
+            <WEIGHT name="idf">0:0</WEIGHT>
+            <WEIGHT name="ilnc">0</WEIGHT>
+            <WEIGHT name="ilncFreq">0</WEIGHT>
+            <WEIGHT name="nbdoc4tc">1</WEIGHT>
+            <WEIGHT name="tf">0:1</WEIGHT>
+            <WEIGHT name="tf-idf">0:0</WEIGHT>
+      </TERM_WEIGHTS>
+      <LOG_INFORMATION>YaTeA</LOG_INFORMATION>
+    </TERM_CANDIDATE>
+    <TERM_CANDIDATE MNP_STATUS="1">
+      <ID>term10</ID>
+      <FORM>individu</FORM>
+      <LEMMA>individu</LEMMA>
+      <MORPHOSYNTACTIC_FEATURES>
+	    <SYNTACTIC_CATEGORY>NOM</SYNTACTIC_CATEGORY>
+      </MORPHOSYNTACTIC_FEATURES>
+      <HEAD>term10</HEAD>
+      <NUMBER_OCCURRENCES>1</NUMBER_OCCURRENCES>
+      <LIST_OCCURRENCES>
+      <OCCURRENCE>
+        <ID>occ44</ID>
+        <MNP>1</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>6</SENTENCE>
+        <START_POSITION>88</START_POSITION>
+        <END_POSITION>96</END_POSITION>
+        </OCCURRENCE>
+      </LIST_OCCURRENCES>
+      <TERM_CONFIDENCE>0.5</TERM_CONFIDENCE>
+      <TERM_WEIGHTS>
+            <WEIGHT name="CValue">0</WEIGHT>
+            <WEIGHT name="CValue1">1</WEIGHT>
+            <WEIGHT name="CValuePlus">0</WEIGHT>
+            <WEIGHT name="CValuePlus1">1</WEIGHT>
+            <WEIGHT name="CValueStar">1</WEIGHT>
+            <WEIGHT name="CValueStarH">N/A</WEIGHT>
+            <WEIGHT name="CValueStarM">N/A</WEIGHT>
+            <WEIGHT name="CValueStarR">1</WEIGHT>
+            <WEIGHT name="CValueWCard">0</WEIGHT>
+            <WEIGHT name="CValueWCardPlus">0</WEIGHT>
+            <WEIGHT name="D">1</WEIGHT>
+            <WEIGHT name="DDW">0</WEIGHT>
+            <WEIGHT name="Freq">1</WEIGHT>
+            <WEIGHT name="IM">N/A</WEIGHT>
+            <WEIGHT name="LLR">N/A</WEIGHT>
+            <WEIGHT name="NormFreq">0.25</WEIGHT>
+            <WEIGHT name="iLong">1</WEIGHT>
+            <WEIGHT name="iTer">0.5</WEIGHT>
+            <WEIGHT name="idf">0:0</WEIGHT>
+            <WEIGHT name="ilnc">0</WEIGHT>
+            <WEIGHT name="ilncFreq">0</WEIGHT>
+            <WEIGHT name="nbdoc4tc">1</WEIGHT>
+            <WEIGHT name="tf">0:1</WEIGHT>
+            <WEIGHT name="tf-idf">0:0</WEIGHT>
+      </TERM_WEIGHTS>
+      <LOG_INFORMATION>YaTeA</LOG_INFORMATION>
+    </TERM_CANDIDATE>
+    <TERM_CANDIDATE MNP_STATUS="0">
+      <ID>term13</ID>
+      <FORM>foin</FORM>
+      <LEMMA>foin</LEMMA>
+      <MORPHOSYNTACTIC_FEATURES>
+	    <SYNTACTIC_CATEGORY>NOM</SYNTACTIC_CATEGORY>
+      </MORPHOSYNTACTIC_FEATURES>
+      <HEAD>term13</HEAD>
+      <NUMBER_OCCURRENCES>1</NUMBER_OCCURRENCES>
+      <LIST_OCCURRENCES>
+      <OCCURRENCE>
+        <ID>occ46</ID>
+        <MNP>0</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>3</SENTENCE>
+        <START_POSITION>15</START_POSITION>
+        <END_POSITION>19</END_POSITION>
+        </OCCURRENCE>
+      </LIST_OCCURRENCES>
+      <TERM_CONFIDENCE>0.5</TERM_CONFIDENCE>
+      <TERM_WEIGHTS>
+            <WEIGHT name="CValue">0</WEIGHT>
+            <WEIGHT name="CValue1">0</WEIGHT>
+            <WEIGHT name="CValuePlus">0</WEIGHT>
+            <WEIGHT name="CValuePlus1">2</WEIGHT>
+            <WEIGHT name="CValueStar">1</WEIGHT>
+            <WEIGHT name="CValueStarH">N/A</WEIGHT>
+            <WEIGHT name="CValueStarM">0</WEIGHT>
+            <WEIGHT name="CValueStarR">N/A</WEIGHT>
+            <WEIGHT name="CValueWCard">0</WEIGHT>
+            <WEIGHT name="CValueWCardPlus">2</WEIGHT>
+            <WEIGHT name="D">1</WEIGHT>
+            <WEIGHT name="DDW">0</WEIGHT>
+            <WEIGHT name="Freq">1</WEIGHT>
+            <WEIGHT name="IM">N/A</WEIGHT>
+            <WEIGHT name="LLR">N/A</WEIGHT>
+            <WEIGHT name="NormFreq">0.25</WEIGHT>
+            <WEIGHT name="iLong">1</WEIGHT>
+            <WEIGHT name="iTer">0.5</WEIGHT>
+            <WEIGHT name="idf">0:0</WEIGHT>
+            <WEIGHT name="ilnc">0</WEIGHT>
+            <WEIGHT name="ilncFreq">0</WEIGHT>
+            <WEIGHT name="nbdoc4tc">1</WEIGHT>
+            <WEIGHT name="tf">0:1</WEIGHT>
+            <WEIGHT name="tf-idf">0:0</WEIGHT>
+      </TERM_WEIGHTS>
+      <LOG_INFORMATION>YaTeA</LOG_INFORMATION>
+    </TERM_CANDIDATE>
+    <TERM_CANDIDATE MNP_STATUS="1">
+      <ID>term65</ID>
+      <FORM>champs</FORM>
+      <LEMMA>champ</LEMMA>
+      <MORPHOSYNTACTIC_FEATURES>
+	    <SYNTACTIC_CATEGORY>NOM</SYNTACTIC_CATEGORY>
+      </MORPHOSYNTACTIC_FEATURES>
+      <HEAD>term65</HEAD>
+      <NUMBER_OCCURRENCES>1</NUMBER_OCCURRENCES>
+      <LIST_OCCURRENCES>
+      <OCCURRENCE>
+        <ID>occ91</ID>
+        <MNP>1</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>4</SENTENCE>
+        <START_POSITION>60</START_POSITION>
+        <END_POSITION>66</END_POSITION>
+        </OCCURRENCE>
+      </LIST_OCCURRENCES>
+      <TERM_CONFIDENCE>0.5</TERM_CONFIDENCE>
+      <TERM_WEIGHTS>
+            <WEIGHT name="CValue">0</WEIGHT>
+            <WEIGHT name="CValue1">1</WEIGHT>
+            <WEIGHT name="CValuePlus">0</WEIGHT>
+            <WEIGHT name="CValuePlus1">1</WEIGHT>
+            <WEIGHT name="CValueStar">1</WEIGHT>
+            <WEIGHT name="CValueStarH">N/A</WEIGHT>
+            <WEIGHT name="CValueStarM">N/A</WEIGHT>
+            <WEIGHT name="CValueStarR">1</WEIGHT>
+            <WEIGHT name="CValueWCard">0</WEIGHT>
+            <WEIGHT name="CValueWCardPlus">0</WEIGHT>
+            <WEIGHT name="D">1</WEIGHT>
+            <WEIGHT name="DDW">0</WEIGHT>
+            <WEIGHT name="Freq">1</WEIGHT>
+            <WEIGHT name="IM">N/A</WEIGHT>
+            <WEIGHT name="LLR">N/A</WEIGHT>
+            <WEIGHT name="NormFreq">0.25</WEIGHT>
+            <WEIGHT name="iLong">1</WEIGHT>
+            <WEIGHT name="iTer">0.5</WEIGHT>
+            <WEIGHT name="idf">0:0</WEIGHT>
+            <WEIGHT name="ilnc">0</WEIGHT>
+            <WEIGHT name="ilncFreq">0</WEIGHT>
+            <WEIGHT name="nbdoc4tc">1</WEIGHT>
+            <WEIGHT name="tf">0:1</WEIGHT>
+            <WEIGHT name="tf-idf">0:0</WEIGHT>
+      </TERM_WEIGHTS>
+      <LOG_INFORMATION>YaTeA</LOG_INFORMATION>
+    </TERM_CANDIDATE>
+    <TERM_CANDIDATE MNP_STATUS="0">
+      <ID>term55</ID>
+      <FORM>grand nombre</FORM>
+      <LEMMA>grand nombre</LEMMA>
+      <MORPHOSYNTACTIC_FEATURES>
+	    <SYNTACTIC_CATEGORY>ADJ NOM</SYNTACTIC_CATEGORY>
+      </MORPHOSYNTACTIC_FEATURES>
+      <HEAD>term57</HEAD>
+      <NUMBER_OCCURRENCES>1</NUMBER_OCCURRENCES>
+      <LIST_OCCURRENCES>
+      <OCCURRENCE>
+        <ID>occ82</ID>
+        <MNP>0</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>6</SENTENCE>
+        <START_POSITION>18</START_POSITION>
+        <END_POSITION>30</END_POSITION>
+        </OCCURRENCE>
+      </LIST_OCCURRENCES>
+      <TERM_CONFIDENCE>0.5</TERM_CONFIDENCE>
+      <TERM_WEIGHTS>
+            <WEIGHT name="CValue">0</WEIGHT>
+            <WEIGHT name="CValue1">0</WEIGHT>
+            <WEIGHT name="CValuePlus">2</WEIGHT>
+            <WEIGHT name="CValuePlus1">3.16992500144231</WEIGHT>
+            <WEIGHT name="CValueStar">1</WEIGHT>
+            <WEIGHT name="CValueStarH">0</WEIGHT>
+            <WEIGHT name="CValueStarM">N/A</WEIGHT>
+            <WEIGHT name="CValueStarR">N/A</WEIGHT>
+            <WEIGHT name="CValueWCard">0</WEIGHT>
+            <WEIGHT name="CValueWCardPlus">2</WEIGHT>
+            <WEIGHT name="D">1</WEIGHT>
+            <WEIGHT name="DDW">0</WEIGHT>
+            <WEIGHT name="Freq">1</WEIGHT>
+            <WEIGHT name="IM">4</WEIGHT>
+            <WEIGHT name="LLR">0.000115129154648748</WEIGHT>
+            <WEIGHT name="NormFreq">0.25</WEIGHT>
+            <WEIGHT name="iLong">0.5</WEIGHT>
+            <WEIGHT name="iTer">0.666666666666667</WEIGHT>
+            <WEIGHT name="idf">0:0</WEIGHT>
+            <WEIGHT name="ilnc">1</WEIGHT>
+            <WEIGHT name="ilncFreq">1</WEIGHT>
+            <WEIGHT name="nbdoc4tc">1</WEIGHT>
+            <WEIGHT name="tf">0:1</WEIGHT>
+            <WEIGHT name="tf-idf">0:0</WEIGHT>
+      </TERM_WEIGHTS>
+      <LOG_INFORMATION>YaTeA</LOG_INFORMATION>
+      <SYNTACTIC_ANALYSIS>
+        <HEAD>
+        term57
+        </HEAD>
+        <MODIFIER POSITION="BEFORE">
+        term56
+        </MODIFIER>
+      </SYNTACTIC_ANALYSIS>
+    </TERM_CANDIDATE>
+    <TERM_CANDIDATE MNP_STATUS="0">
+      <ID>term19</ID>
+      <FORM>blessures</FORM>
+      <LEMMA>blessure</LEMMA>
+      <MORPHOSYNTACTIC_FEATURES>
+	    <SYNTACTIC_CATEGORY>NOM</SYNTACTIC_CATEGORY>
+      </MORPHOSYNTACTIC_FEATURES>
+      <HEAD>term19</HEAD>
+      <NUMBER_OCCURRENCES>1</NUMBER_OCCURRENCES>
+      <LIST_OCCURRENCES>
+      <OCCURRENCE>
+        <ID>occ50</ID>
+        <MNP>0</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>2</SENTENCE>
+        <START_POSITION>58</START_POSITION>
+        <END_POSITION>67</END_POSITION>
+        </OCCURRENCE>
+      </LIST_OCCURRENCES>
+      <TERM_CONFIDENCE>0.5</TERM_CONFIDENCE>
+      <TERM_WEIGHTS>
+            <WEIGHT name="CValue">0</WEIGHT>
+            <WEIGHT name="CValue1">0</WEIGHT>
+            <WEIGHT name="CValuePlus">0</WEIGHT>
+            <WEIGHT name="CValuePlus1">2</WEIGHT>
+            <WEIGHT name="CValueStar">1</WEIGHT>
+            <WEIGHT name="CValueStarH">0</WEIGHT>
+            <WEIGHT name="CValueStarM">N/A</WEIGHT>
+            <WEIGHT name="CValueStarR">N/A</WEIGHT>
+            <WEIGHT name="CValueWCard">0</WEIGHT>
+            <WEIGHT name="CValueWCardPlus">2</WEIGHT>
+            <WEIGHT name="D">1</WEIGHT>
+            <WEIGHT name="DDW">0</WEIGHT>
+            <WEIGHT name="Freq">1</WEIGHT>
+            <WEIGHT name="IM">N/A</WEIGHT>
+            <WEIGHT name="LLR">N/A</WEIGHT>
+            <WEIGHT name="NormFreq">0.25</WEIGHT>
+            <WEIGHT name="iLong">1</WEIGHT>
+            <WEIGHT name="iTer">1</WEIGHT>
+            <WEIGHT name="idf">0:0</WEIGHT>
+            <WEIGHT name="ilnc">1</WEIGHT>
+            <WEIGHT name="ilncFreq">1</WEIGHT>
+            <WEIGHT name="nbdoc4tc">1</WEIGHT>
+            <WEIGHT name="tf">0:1</WEIGHT>
+            <WEIGHT name="tf-idf">0:0</WEIGHT>
+      </TERM_WEIGHTS>
+      <LOG_INFORMATION>YaTeA</LOG_INFORMATION>
+    </TERM_CANDIDATE>
+    <TERM_CANDIDATE MNP_STATUS="0">
+      <ID>term7</ID>
+      <FORM>mortalité</FORM>
+      <LEMMA>mortalité</LEMMA>
+      <MORPHOSYNTACTIC_FEATURES>
+	    <SYNTACTIC_CATEGORY>NOM</SYNTACTIC_CATEGORY>
+      </MORPHOSYNTACTIC_FEATURES>
+      <HEAD>term7</HEAD>
+      <NUMBER_OCCURRENCES>1</NUMBER_OCCURRENCES>
+      <LIST_OCCURRENCES>
+      <OCCURRENCE>
+        <ID>occ41</ID>
+        <MNP>0</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>0</SENTENCE>
+        <START_POSITION>57</START_POSITION>
+        <END_POSITION>66</END_POSITION>
+        </OCCURRENCE>
+      </LIST_OCCURRENCES>
+      <TERM_CONFIDENCE>0.5</TERM_CONFIDENCE>
+      <TERM_WEIGHTS>
+            <WEIGHT name="CValue">0</WEIGHT>
+            <WEIGHT name="CValue1">0</WEIGHT>
+            <WEIGHT name="CValuePlus">0</WEIGHT>
+            <WEIGHT name="CValuePlus1">2</WEIGHT>
+            <WEIGHT name="CValueStar">1</WEIGHT>
+            <WEIGHT name="CValueStarH">0</WEIGHT>
+            <WEIGHT name="CValueStarM">N/A</WEIGHT>
+            <WEIGHT name="CValueStarR">N/A</WEIGHT>
+            <WEIGHT name="CValueWCard">0</WEIGHT>
+            <WEIGHT name="CValueWCardPlus">2</WEIGHT>
+            <WEIGHT name="D">1</WEIGHT>
+            <WEIGHT name="DDW">0</WEIGHT>
+            <WEIGHT name="Freq">1</WEIGHT>
+            <WEIGHT name="IM">N/A</WEIGHT>
+            <WEIGHT name="LLR">N/A</WEIGHT>
+            <WEIGHT name="NormFreq">0.25</WEIGHT>
+            <WEIGHT name="iLong">1</WEIGHT>
+            <WEIGHT name="iTer">1</WEIGHT>
+            <WEIGHT name="idf">0:0</WEIGHT>
+            <WEIGHT name="ilnc">1</WEIGHT>
+            <WEIGHT name="ilncFreq">1</WEIGHT>
+            <WEIGHT name="nbdoc4tc">1</WEIGHT>
+            <WEIGHT name="tf">0:1</WEIGHT>
+            <WEIGHT name="tf-idf">0:0</WEIGHT>
+      </TERM_WEIGHTS>
+      <LOG_INFORMATION>YaTeA</LOG_INFORMATION>
+    </TERM_CANDIDATE>
+    <TERM_CANDIDATE MNP_STATUS="0">
+      <ID>term30</ID>
+      <FORM>suivi</FORM>
+      <LEMMA>suivre</LEMMA>
+      <MORPHOSYNTACTIC_FEATURES>
+	    <SYNTACTIC_CATEGORY>VER:pper</SYNTACTIC_CATEGORY>
+      </MORPHOSYNTACTIC_FEATURES>
+      <HEAD>term30</HEAD>
+      <NUMBER_OCCURRENCES>1</NUMBER_OCCURRENCES>
+      <LIST_OCCURRENCES>
+      <OCCURRENCE>
+        <ID>occ62</ID>
+        <MNP>0</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>6</SENTENCE>
+        <START_POSITION>118</START_POSITION>
+        <END_POSITION>123</END_POSITION>
+        </OCCURRENCE>
+      </LIST_OCCURRENCES>
+      <TERM_CONFIDENCE>0.5</TERM_CONFIDENCE>
+      <TERM_WEIGHTS>
+            <WEIGHT name="CValue">0</WEIGHT>
+            <WEIGHT name="CValue1">0</WEIGHT>
+            <WEIGHT name="CValuePlus">0</WEIGHT>
+            <WEIGHT name="CValuePlus1">2</WEIGHT>
+            <WEIGHT name="CValueStar">1</WEIGHT>
+            <WEIGHT name="CValueStarH">N/A</WEIGHT>
+            <WEIGHT name="CValueStarM">0</WEIGHT>
+            <WEIGHT name="CValueStarR">N/A</WEIGHT>
+            <WEIGHT name="CValueWCard">0</WEIGHT>
+            <WEIGHT name="CValueWCardPlus">2</WEIGHT>
+            <WEIGHT name="D">1</WEIGHT>
+            <WEIGHT name="DDW">0</WEIGHT>
+            <WEIGHT name="Freq">1</WEIGHT>
+            <WEIGHT name="IM">N/A</WEIGHT>
+            <WEIGHT name="LLR">N/A</WEIGHT>
+            <WEIGHT name="NormFreq">0.25</WEIGHT>
+            <WEIGHT name="iLong">1</WEIGHT>
+            <WEIGHT name="iTer">0.5</WEIGHT>
+            <WEIGHT name="idf">0:0</WEIGHT>
+            <WEIGHT name="ilnc">0</WEIGHT>
+            <WEIGHT name="ilncFreq">0</WEIGHT>
+            <WEIGHT name="nbdoc4tc">1</WEIGHT>
+            <WEIGHT name="tf">0:1</WEIGHT>
+            <WEIGHT name="tf-idf">0:0</WEIGHT>
+      </TERM_WEIGHTS>
+      <LOG_INFORMATION>YaTeA</LOG_INFORMATION>
+    </TERM_CANDIDATE>
+    <TERM_CANDIDATE MNP_STATUS="0">
+      <ID>term16</ID>
+      <FORM>collision</FORM>
+      <LEMMA>collision</LEMMA>
+      <MORPHOSYNTACTIC_FEATURES>
+	    <SYNTACTIC_CATEGORY>NOM</SYNTACTIC_CATEGORY>
+      </MORPHOSYNTACTIC_FEATURES>
+      <HEAD>term16</HEAD>
+      <NUMBER_OCCURRENCES>1</NUMBER_OCCURRENCES>
+      <LIST_OCCURRENCES>
+      <OCCURRENCE>
+        <ID>occ48</ID>
+        <MNP>0</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>1</SENTENCE>
+        <START_POSITION>31</START_POSITION>
+        <END_POSITION>40</END_POSITION>
+        </OCCURRENCE>
+      </LIST_OCCURRENCES>
+      <TERM_CONFIDENCE>0.5</TERM_CONFIDENCE>
+      <TERM_WEIGHTS>
+            <WEIGHT name="CValue">0</WEIGHT>
+            <WEIGHT name="CValue1">0</WEIGHT>
+            <WEIGHT name="CValuePlus">0</WEIGHT>
+            <WEIGHT name="CValuePlus1">2</WEIGHT>
+            <WEIGHT name="CValueStar">1</WEIGHT>
+            <WEIGHT name="CValueStarH">0</WEIGHT>
+            <WEIGHT name="CValueStarM">N/A</WEIGHT>
+            <WEIGHT name="CValueStarR">N/A</WEIGHT>
+            <WEIGHT name="CValueWCard">0</WEIGHT>
+            <WEIGHT name="CValueWCardPlus">2</WEIGHT>
+            <WEIGHT name="D">1</WEIGHT>
+            <WEIGHT name="DDW">0</WEIGHT>
+            <WEIGHT name="Freq">1</WEIGHT>
+            <WEIGHT name="IM">N/A</WEIGHT>
+            <WEIGHT name="LLR">N/A</WEIGHT>
+            <WEIGHT name="NormFreq">0.25</WEIGHT>
+            <WEIGHT name="iLong">1</WEIGHT>
+            <WEIGHT name="iTer">1</WEIGHT>
+            <WEIGHT name="idf">0:0</WEIGHT>
+            <WEIGHT name="ilnc">1</WEIGHT>
+            <WEIGHT name="ilncFreq">1</WEIGHT>
+            <WEIGHT name="nbdoc4tc">1</WEIGHT>
+            <WEIGHT name="tf">0:1</WEIGHT>
+            <WEIGHT name="tf-idf">0:0</WEIGHT>
+      </TERM_WEIGHTS>
+      <LOG_INFORMATION>YaTeA</LOG_INFORMATION>
+    </TERM_CANDIDATE>
+    <TERM_CANDIDATE MNP_STATUS="1">
+      <ID>term14</ID>
+      <FORM>milans</FORM>
+      <LEMMA>milan</LEMMA>
+      <MORPHOSYNTACTIC_FEATURES>
+	    <SYNTACTIC_CATEGORY>NOM</SYNTACTIC_CATEGORY>
+      </MORPHOSYNTACTIC_FEATURES>
+      <HEAD>term14</HEAD>
+      <NUMBER_OCCURRENCES>2</NUMBER_OCCURRENCES>
+      <LIST_OCCURRENCES>
+      <OCCURRENCE>
+        <ID>occ47</ID>
+        <MNP>1</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>4</SENTENCE>
+        <START_POSITION>4</START_POSITION>
+        <END_POSITION>10</END_POSITION>
+        </OCCURRENCE>
+      <OCCURRENCE>
+        <ID>occ75</ID>
+        <MNP>0</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>6</SENTENCE>
+        <START_POSITION>189</START_POSITION>
+        <END_POSITION>195</END_POSITION>
+        </OCCURRENCE>
+      </LIST_OCCURRENCES>
+      <TERM_CONFIDENCE>0.5</TERM_CONFIDENCE>
+      <TERM_WEIGHTS>
+            <WEIGHT name="CValue">0</WEIGHT>
+            <WEIGHT name="CValue1">2</WEIGHT>
+            <WEIGHT name="CValuePlus">0</WEIGHT>
+            <WEIGHT name="CValuePlus1">4</WEIGHT>
+            <WEIGHT name="CValueStar">1</WEIGHT>
+            <WEIGHT name="CValueStarH">2</WEIGHT>
+            <WEIGHT name="CValueStarM">N/A</WEIGHT>
+            <WEIGHT name="CValueStarR">N/A</WEIGHT>
+            <WEIGHT name="CValueWCard">1</WEIGHT>
+            <WEIGHT name="CValueWCardPlus">3</WEIGHT>
+            <WEIGHT name="D">1</WEIGHT>
+            <WEIGHT name="DDW">0</WEIGHT>
+            <WEIGHT name="Freq">2</WEIGHT>
+            <WEIGHT name="IM">N/A</WEIGHT>
+            <WEIGHT name="LLR">N/A</WEIGHT>
+            <WEIGHT name="NormFreq">0.5</WEIGHT>
+            <WEIGHT name="iLong">2</WEIGHT>
+            <WEIGHT name="iTer">2</WEIGHT>
+            <WEIGHT name="idf">0:0</WEIGHT>
+            <WEIGHT name="ilnc">1</WEIGHT>
+            <WEIGHT name="ilncFreq">1</WEIGHT>
+            <WEIGHT name="nbdoc4tc">1</WEIGHT>
+            <WEIGHT name="tf">0:2</WEIGHT>
+            <WEIGHT name="tf-idf">0:0</WEIGHT>
+      </TERM_WEIGHTS>
+      <LOG_INFORMATION>YaTeA</LOG_INFORMATION>
+    </TERM_CANDIDATE>
+    <TERM_CANDIDATE MNP_STATUS="0">
+      <ID>term45</ID>
+      <FORM>milans royaux</FORM>
+      <LEMMA>milan royal</LEMMA>
+      <MORPHOSYNTACTIC_FEATURES>
+	    <SYNTACTIC_CATEGORY>NOM ADJ</SYNTACTIC_CATEGORY>
+      </MORPHOSYNTACTIC_FEATURES>
+      <HEAD>term14</HEAD>
+      <NUMBER_OCCURRENCES>1</NUMBER_OCCURRENCES>
+      <LIST_OCCURRENCES>
+      <OCCURRENCE>
+        <ID>occ74</ID>
+        <MNP>0</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>6</SENTENCE>
+        <START_POSITION>189</START_POSITION>
+        <END_POSITION>202</END_POSITION>
+        </OCCURRENCE>
+      </LIST_OCCURRENCES>
+      <TERM_CONFIDENCE>0.5</TERM_CONFIDENCE>
+      <TERM_WEIGHTS>
+            <WEIGHT name="CValue">0</WEIGHT>
+            <WEIGHT name="CValue1">0</WEIGHT>
+            <WEIGHT name="CValuePlus">2</WEIGHT>
+            <WEIGHT name="CValuePlus1">3.16992500144231</WEIGHT>
+            <WEIGHT name="CValueStar">1</WEIGHT>
+            <WEIGHT name="CValueStarH">N/A</WEIGHT>
+            <WEIGHT name="CValueStarM">0</WEIGHT>
+            <WEIGHT name="CValueStarR">N/A</WEIGHT>
+            <WEIGHT name="CValueWCard">0</WEIGHT>
+            <WEIGHT name="CValueWCardPlus">2</WEIGHT>
+            <WEIGHT name="D">1</WEIGHT>
+            <WEIGHT name="DDW">0</WEIGHT>
+            <WEIGHT name="Freq">1</WEIGHT>
+            <WEIGHT name="IM">1.33333333333333</WEIGHT>
+            <WEIGHT name="LLR">0.000115129154648748</WEIGHT>
+            <WEIGHT name="NormFreq">0.25</WEIGHT>
+            <WEIGHT name="iLong">0.5</WEIGHT>
+            <WEIGHT name="iTer">0.333333333333333</WEIGHT>
+            <WEIGHT name="idf">0:0</WEIGHT>
+            <WEIGHT name="ilnc">0</WEIGHT>
+            <WEIGHT name="ilncFreq">0</WEIGHT>
+            <WEIGHT name="nbdoc4tc">1</WEIGHT>
+            <WEIGHT name="tf">0:1</WEIGHT>
+            <WEIGHT name="tf-idf">0:0</WEIGHT>
+      </TERM_WEIGHTS>
+      <LOG_INFORMATION>YaTeA</LOG_INFORMATION>
+      <SYNTACTIC_ANALYSIS>
+        <HEAD>
+        term14
+        </HEAD>
+        <MODIFIER POSITION="AFTER">
+        term47
+        </MODIFIER>
+      </SYNTACTIC_ANALYSIS>
+    </TERM_CANDIDATE>
+    <TERM_CANDIDATE MNP_STATUS="1">
+      <ID>term42</ID>
+      <FORM>éoliennes</FORM>
+      <LEMMA>éolienne</LEMMA>
+      <MORPHOSYNTACTIC_FEATURES>
+	    <SYNTACTIC_CATEGORY>NOM</SYNTACTIC_CATEGORY>
+      </MORPHOSYNTACTIC_FEATURES>
+      <HEAD>term42</HEAD>
+      <NUMBER_OCCURRENCES>1</NUMBER_OCCURRENCES>
+      <LIST_OCCURRENCES>
+      <OCCURRENCE>
+        <ID>occ72</ID>
+        <MNP>1</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>6</SENTENCE>
+        <START_POSITION>214</START_POSITION>
+        <END_POSITION>223</END_POSITION>
+        </OCCURRENCE>
+      </LIST_OCCURRENCES>
+      <TERM_CONFIDENCE>0.5</TERM_CONFIDENCE>
+      <TERM_WEIGHTS>
+            <WEIGHT name="CValue">0</WEIGHT>
+            <WEIGHT name="CValue1">1</WEIGHT>
+            <WEIGHT name="CValuePlus">0</WEIGHT>
+            <WEIGHT name="CValuePlus1">1</WEIGHT>
+            <WEIGHT name="CValueStar">1</WEIGHT>
+            <WEIGHT name="CValueStarH">N/A</WEIGHT>
+            <WEIGHT name="CValueStarM">N/A</WEIGHT>
+            <WEIGHT name="CValueStarR">1</WEIGHT>
+            <WEIGHT name="CValueWCard">0</WEIGHT>
+            <WEIGHT name="CValueWCardPlus">0</WEIGHT>
+            <WEIGHT name="D">1</WEIGHT>
+            <WEIGHT name="DDW">0</WEIGHT>
+            <WEIGHT name="Freq">1</WEIGHT>
+            <WEIGHT name="IM">N/A</WEIGHT>
+            <WEIGHT name="LLR">N/A</WEIGHT>
+            <WEIGHT name="NormFreq">0.25</WEIGHT>
+            <WEIGHT name="iLong">1</WEIGHT>
+            <WEIGHT name="iTer">0.5</WEIGHT>
+            <WEIGHT name="idf">0:0</WEIGHT>
+            <WEIGHT name="ilnc">0</WEIGHT>
+            <WEIGHT name="ilncFreq">0</WEIGHT>
+            <WEIGHT name="nbdoc4tc">1</WEIGHT>
+            <WEIGHT name="tf">0:1</WEIGHT>
+            <WEIGHT name="tf-idf">0:0</WEIGHT>
+      </TERM_WEIGHTS>
+      <LOG_INFORMATION>YaTeA</LOG_INFORMATION>
+    </TERM_CANDIDATE>
+    <TERM_CANDIDATE MNP_STATUS="0">
+      <ID>term34</ID>
+      <FORM>royal</FORM>
+      <LEMMA>royal</LEMMA>
+      <MORPHOSYNTACTIC_FEATURES>
+	    <SYNTACTIC_CATEGORY>ADJ</SYNTACTIC_CATEGORY>
+      </MORPHOSYNTACTIC_FEATURES>
+      <HEAD>term34</HEAD>
+      <NUMBER_OCCURRENCES>1</NUMBER_OCCURRENCES>
+      <LIST_OCCURRENCES>
+      <OCCURRENCE>
+        <ID>occ65</ID>
+        <MNP>0</MNP>
+        <DOC>0</DOC>
+        <SENTENCE>0</SENTENCE>
+        <START_POSITION>152</START_POSITION>
+        <END_POSITION>157</END_POSITION>
+        </OCCURRENCE>
+      </LIST_OCCURRENCES>
+      <TERM_CONFIDENCE>0.5</TERM_CONFIDENCE>
+      <TERM_WEIGHTS>
+            <WEIGHT name="CValue">0</WEIGHT>
+            <WEIGHT name="CValue1">0</WEIGHT>
+            <WEIGHT name="CValuePlus">0</WEIGHT>
+            <WEIGHT name="CValuePlus1">2</WEIGHT>
+            <WEIGHT name="CValueStar">1</WEIGHT>
+            <WEIGHT name="CValueStarH">N/A</WEIGHT>
+            <WEIGHT name="CValueStarM">0</WEIGHT>
+            <WEIGHT name="CValueStarR">N/A</WEIGHT>
+            <WEIGHT name="CValueWCard">0</WEIGHT>
+            <WEIGHT name="CValueWCardPlus">2</WEIGHT>
+            <WEIGHT name="D">1</WEIGHT>
+            <WEIGHT name="DDW">0</WEIGHT>
+            <WEIGHT name="Freq">1</WEIGHT>
+            <WEIGHT name="IM">N/A</WEIGHT>
+            <WEIGHT name="LLR">N/A</WEIGHT>
+            <WEIGHT name="NormFreq">0.25</WEIGHT>
+            <WEIGHT name="iLong">1</WEIGHT>
+            <WEIGHT name="iTer">0.5</WEIGHT>
+            <WEIGHT name="idf">0:0</WEIGHT>
+            <WEIGHT name="ilnc">0</WEIGHT>
+            <WEIGHT name="ilncFreq">0</WEIGHT>
+            <WEIGHT name="nbdoc4tc">1</WEIGHT>
+            <WEIGHT name="tf">0:1</WEIGHT>
+            <WEIGHT name="tf-idf">0:0</WEIGHT>
+      </TERM_WEIGHTS>
+      <LOG_INFORMATION>YaTeA</LOG_INFORMATION>
+    </TERM_CANDIDATE>
+  </LIST_TERM_CANDIDATES>
+</TERM_EXTRACTION_RESULTS>

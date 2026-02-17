@@ -1,0 +1,156 @@
+if: Fuite
+pos: NOM
+lf: fuite
+is a term candidate: 1
+
+-----------------
+
+if: 15h15
+pos: NAM
+lf: 15h15
+is a term candidate: 1
+
+-----------------
+
+if: agents
+pos: NOM
+lf: agent
+is a term candidate: 1
+
+-----------------
+
+if: écoulement
+pos: NOM
+lf: écoulement
+is a term candidate: 1
+
+-----------------
+
+if: jours
+pos: NOM
+lf: jour
+is a term candidate: 1
+
+-----------------
+
+if: sol
+pos: NOM
+lf: sol
+is a term candidate: 1
+
+-----------------
+
+if: équipe de maintenance
+pos: NOM de NOM
+lf: équipe de maintenance
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( équipe<=H> de<=P> maintenance<=M> )
+islands: 0
+
+
+-----------------
+
+if: raccord
+pos: NOM
+lf: raccord
+is a term candidate: 1
+
+-----------------
+
+if: huile
+pos: NOM
+lf: huile
+is a term candidate: 1
+
+-----------------
+
+if: campagne de remplacement des raccords identiques
+pos: NOM de NOM des NOM ADJ
+lf: campagne de remplacement du raccord identique
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: origine de la fuite
+pos: NOM de DET:ART NOM
+lf: origine de le fuite
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( origine<=H> de<=P> la<=D> fuite<=M> )
+islands: 0
+
+
+-----------------
+
+if: nacelle
+pos: NOM
+lf: nacelle
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: installation
+pos: NOM
+lf: installation
+is a term candidate: 1
+
+-----------------
+
+if: place des absorbants
+pos: NOM des ADJ
+lf: place du absorbant
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: employé
+pos: NOM
+lf: employé
+is a term candidate: 1
+
+-----------------
+
+if: défaillance
+pos: NOM
+lf: défaillance
+is a term candidate: 1
+
+-----------------
+
+if: parc
+pos: NOM
+lf: parc
+is a term candidate: 1
+
+-----------------
+
+if: circuit de refroidissement de l' huile de la boîte de vitesse de l' éolienne
+pos: NOM de NOM de DET:ART NOM de DET:ART NOM de NOM de DET:ART NOM
+lf: circuit de refroidissement de le huile de le boîte de vitesse de le éolienne
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: exploitant
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+

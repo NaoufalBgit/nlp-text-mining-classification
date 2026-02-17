@@ -1,0 +1,371 @@
+if: municipalité
+pos: NOM
+lf: municipalité
+is a term candidate: 1
+
+-----------------
+
+if: armoire électrique
+pos: NOM ADJ
+lf: armoire électrique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( armoire<=H> électrique<=M> )
+islands: 0
+
+
+-----------------
+
+if: propagation de courants de court circuit
+pos: NOM de NOM de ADJ NOM
+lf: propagation de courant de court circuit
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: intervention
+pos: NOM
+lf: intervention
+is a term candidate: 1
+
+-----------------
+
+if: arrêté
+pos: NOM
+lf: arrêté
+is a term candidate: 1
+
+-----------------
+
+if: dispositifs de protection électrique
+pos: NOM de NOM ADJ
+lf: dispositif de protection électrique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( dispositifs<=H> de<=P> ( protection<=H> électrique<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: chute de pale
+pos: NOM de NOM
+lf: chute de pale
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( chute<=H> de<=P> pale<=M> )
+islands: 0
+
+
+-----------------
+
+if: amélioration
+pos: NOM
+lf: amélioration
+is a term candidate: 1
+
+-----------------
+
+if: nacelle
+pos: NOM
+lf: nacelle
+is a term candidate: 1
+
+-----------------
+
+if: localisation des incendies
+pos: NOM des NOM
+lf: localisation du incendie
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( localisation<=H> des<=P> incendies<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne Un feu
+pos: ADJ DET:ART NOM
+lf: éolien un feu
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: propagation de l' incendie à la végétation environnante
+pos: NOM de DET:ART NOM à DET:ART NOM ADJ
+lf: propagation de le incendie à le végétation environnant
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: m² de garrigue environnante
+pos: NOM de NOM ADJ
+lf: m² de garrigue environnant
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( m²<=H> de<=P> ( garrigue<=H> environnante<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: suite de la chute
+pos: NOM de DET:ART NOM
+lf: suite de le chute
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( suite<=H> de<=P> la<=D> chute<=M> )
+islands: 0
+
+
+-----------------
+
+if: chemin menant à l' éolienne.Le feu
+pos: NOM VER:ppre à DET:ART NOM ADJ
+lf: chemin mener à le éolienne.Le feu
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: câbles
+pos: NOM
+lf: câble
+is a term candidate: 1
+
+-----------------
+
+if: dysfonctionnement du frein de l' éolienne à la suite de la perte des dispositifs de pilotage résultant de l' incendie
+pos: NOM du NOM de DET:ART NOM à DET:ART NOM de DET:ART NOM des NOM de NOM VER:ppre de DET:ART NOM
+lf: dysfonctionnement du frein de le éolienne à le suite de le perte du dispositif de pilotage résulter de le incendie
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: Feu
+pos: NOM
+lf: feu
+is a term candidate: 1
+
+-----------------
+
+if: pied
+pos: NOM
+lf: pied
+is a term candidate: 1
+
+-----------------
+
+if: pompiers
+pos: NOM
+lf: pompier
+is a term candidate: 1
+
+-----------------
+
+if: gardiennage
+pos: NOM
+lf: gardiennage
+is a term candidate: 1
+
+-----------------
+
+if: pale à 15h20
+pos: NOM à NAM
+lf: pale à 15h20
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( pale<=H> à<=P> 15h20<=M> )
+islands: 0
+
+
+-----------------
+
+if: voisin
+pos: NOM
+lf: voisin
+is a term candidate: 1
+
+-----------------
+
+if: exploitant
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+
+if: dysfonctionnement de disjoncteur
+pos: NOM de NOM
+lf: dysfonctionnement de disjoncteur
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( dysfonctionnement<=H> de<=P> disjoncteur<=M> )
+islands: 0
+
+
+-----------------
+
+if: départ
+pos: NOM
+lf: départ
+is a term candidate: 1
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: incendie
+pos: NOM
+lf: incendie
+is a term candidate: 1
+
+-----------------
+
+if: 21h30
+pos: NAM
+lf: 21h30
+is a term candidate: 1
+
+-----------------
+
+if: réduction des délais
+pos: NOM des NOM
+lf: réduction du délai
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( réduction<=H> des<=P> délais<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne de 660 kW
+pos: NOM de NUM NOM
+lf: éolienne de 660 kW
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: sécurité à l' aube
+pos: NOM à DET:ART NOM
+lf: sécurité à le aube
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( sécurité<=H> à<=P> l'<=D> aube<=M> )
+islands: 0
+
+
+-----------------
+
+if: question
+pos: NOM
+lf: question
+is a term candidate: 1
+
+-----------------
+
+if: projections incandescentes
+pos: NOM ADJ
+lf: projection incandescent
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( projections<=H> incandescentes<=M> )
+islands: 0
+
+
+-----------------
+
+if: éoliennes
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: pistes
+pos: NOM
+lf: piste
+is a term candidate: 1
+
+-----------------
+
+if: alerte à 17h30
+pos: NOM à NAM
+lf: alerte à 17h30
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( alerte<=H> à<=P> 17h30<=M> )
+islands: 0
+
+
+-----------------
+
+if: circonstance aggravante.Cet accident
+pos: NOM ADJ NOM
+lf: circonstance aggravante.Cet accident
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: possibilités de suraccident
+pos: NOM de NOM
+lf: possibilité de suraccident
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( possibilités<=H> de<=P> suraccident<=M> )
+islands: 0
+
+
+-----------------
+

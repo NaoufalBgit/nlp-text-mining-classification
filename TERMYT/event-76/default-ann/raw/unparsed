@@ -1,0 +1,114 @@
+if: vent fort
+pos: NOM ADJ
+lf: vent fort
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( vent<=H> fort<=M> )
+islands: 0
+
+
+-----------------
+
+if: génératrice
+pos: NOM
+lf: génératrice
+is a term candidate: 1
+
+-----------------
+
+if: défaillance des freins
+pos: NOM des NOM
+lf: défaillance du frein
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( défaillance<=H> des<=P> freins<=M> )
+islands: 0
+
+
+-----------------
+
+if: route
+pos: NOM
+lf: route
+is a term candidate: 1
+
+-----------------
+
+if: jour de vent
+pos: NOM de NOM
+lf: jour de vent
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( jour<=H> de<=P> vent<=M> )
+islands: 0
+
+
+-----------------
+
+if: dehors du mât
+pos: NOM du NOM
+lf: dehors du mât
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( dehors<=H> du<=P> mât<=M> )
+islands: 0
+
+
+-----------------
+
+if: éoliennes
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: origine de l' accident
+pos: NOM de DET:ART NOM
+lf: origine de le accident
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( origine<=H> de<=P> l'<=D> accident<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: pales
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: dommage
+pos: NOM
+lf: dommage
+is a term candidate: 1
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+

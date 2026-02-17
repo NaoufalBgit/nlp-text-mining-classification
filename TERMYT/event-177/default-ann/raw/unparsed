@@ -1,0 +1,215 @@
+if: plafond bas
+pos: NOM ADJ
+lf: plafond bas
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( plafond<=H> bas<=M> )
+islands: 0
+
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: averses
+pos: NOM
+lf: averse
+is a term candidate: 1
+
+-----------------
+
+if: individu migrateur
+pos: NOM ADJ
+lf: individu migrateur
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( individu<=H> migrateur<=M> )
+islands: 0
+
+
+-----------------
+
+if: m
+pos: NOM
+lf: m
+is a term candidate: 1
+
+-----------------
+
+if: suivi de la mortalité aviaire
+pos: NOM de DET:ART NOM ADJ
+lf: suivi de le mortalité aviaire
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( suivi<=H> de<=P> la<=D> ( mortalité<=H> aviaire<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: animal
+pos: NOM
+lf: animal
+is a term candidate: 1
+
+-----------------
+
+if: milan royal
+pos: NOM ADJ
+lf: milan royal
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( milan<=H> royal<=M> )
+islands: 0
+
+
+-----------------
+
+if: rafales de vent relevées le jour de la mortalité
+pos: NOM de NOM VER:pper DET:ART NOM de DET:ART NOM
+lf: rafale de vent relever le jour de le mortalité
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: études
+pos: NOM
+lf: étude
+is a term candidate: 1
+
+-----------------
+
+if: espèce
+pos: NOM
+lf: espèce
+is a term candidate: 1
+
+-----------------
+
+if: époque de l' année
+pos: NOM de DET:ART NOM
+lf: époque de le année
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( époque<=H> de<=P> l'<=D> année<=M> )
+islands: 0
+
+
+-----------------
+
+if: trajectoire
+pos: NOM
+lf: trajectoire
+is a term candidate: 1
+
+-----------------
+
+if: mauvaise visibilité
+pos: ADJ NOM
+lf: mauvais visibilité
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( mauvaise<=M> visibilité<=H> )
+islands: 0
+
+
+-----------------
+
+if: sol
+pos: NOM
+lf: sol
+is a term candidate: 1
+
+-----------------
+
+if: Choc
+pos: NOM
+lf: choc
+is a term candidate: 1
+
+-----------------
+
+if: pales
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: éolienne.Les conditions climatiques
+pos: ADJ NOM ADJ
+lf: éolienne.Les condition climatique
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: vol de l' individu
+pos: NOM de DET:ART NOM
+lf: vol de le individu
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( vol<=H> de<=P> l'<=D> individu<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne et/ou
+pos: ADJ NOM
+lf: éolien et/ou
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( éolienne<=M> et/ou<=H> )
+islands: 0
+
+
+-----------------
+
+if: collision directe
+pos: NOM ADJ
+lf: collision direct
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( collision<=H> directe<=M> )
+islands: 0
+
+
+-----------------
+
+if: bureau
+pos: NOM
+lf: bureau
+is a term candidate: 1
+
+-----------------
+

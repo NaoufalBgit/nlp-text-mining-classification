@@ -1,0 +1,70 @@
+if: parc
+pos: NOM
+lf: parc
+is a term candidate: 1
+
+-----------------
+
+if: éolienne suite au vent
+pos: ADJ NOM au NOM
+lf: éolien suite au vent
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: installation
+pos: NOM
+lf: installation
+is a term candidate: 1
+
+-----------------
+
+if: dimensionnement insuffisant
+pos: NOM ADJ
+lf: dimensionnement insuffisant
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( dimensionnement<=H> insuffisant<=M> )
+islands: 0
+
+
+-----------------
+
+if: Chute
+pos: NOM
+lf: chute
+is a term candidate: 1
+
+-----------------
+
+if: fondations
+pos: NOM
+lf: fondation
+is a term candidate: 1
+
+-----------------
+
+if: exploitant
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+
+if: éoliennes
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: expertise
+pos: NOM
+lf: expertise
+is a term candidate: 1
+
+-----------------
+

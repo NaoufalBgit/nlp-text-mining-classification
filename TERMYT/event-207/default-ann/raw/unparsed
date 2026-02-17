@@ -1,0 +1,75 @@
+if: aide
+pos: NOM
+lf: aide
+is a term candidate: 1
+
+-----------------
+
+if: extincteur à poudre.L'origine du départ de feu
+pos: NOM à NOM du NOM de NOM
+lf: extincteur à poudre.L'origine du départ de feu
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: 14h20
+pos: NAM
+lf: 14h20
+is a term candidate: 1
+
+-----------------
+
+if: pompiers
+pos: NOM
+lf: pompier
+is a term candidate: 1
+
+-----------------
+
+if: partie basse
+pos: NOM ADJ
+lf: partie bas
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( partie<=H> basse<=M> )
+islands: 0
+
+
+-----------------
+
+if: Incendie
+pos: NOM
+lf: incendie
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: défaillance électrique
+pos: NOM ADJ
+lf: défaillance électrique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( défaillance<=H> électrique<=M> )
+islands: 0
+
+
+-----------------
+
+if: feu
+pos: NOM
+lf: feu
+is a term candidate: 1
+
+-----------------
+

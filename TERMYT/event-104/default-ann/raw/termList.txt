@@ -1,0 +1,121 @@
+# ID	Inflected form	Lemmatised form	Frequency	CValue	CValue1	CValuePlus	CValuePlus1	CValueStar	CValueStarH	CValueStarM	CValueStarR	CValueWCard	CValueWCardPlus	D	DDW	Freq	idf	ilnc	ilncFreq	iLong	IM	iTer	LLR	nbdoc4tc	NormFreq	tf	tf-idf	Head	Modifier	MainHead
+99	maintenance suite à la casse totale	maintenance suite à le casse total	1	2.58496250072116	2.8073549220576	2.58496250072116	2.8073549220576	4	N/A	N/A	0.222392421336448	0	0	1	0	1	0:0	0	0	0.166666666666667	5	0.142857142857143	0.000115129154648748	1	0.2	0:1	0:0	100	103	101	
+127	système de contrôle/commande de l' éolienne	système de contrôle/commande de le éolienne	1	2.58496250072116	2.8073549220576	2.58496250072116	2.8073549220576	4	N/A	N/A	0.222392421336448	0	0	1	0	1	0:0	0	0	0.166666666666667	1	0.142857142857143	0.000115129154648748	1	0.2	0:1	0:0	128	12	129	
+90	vitesse de rotation excessive.Après expertise	vitesse de rotation excessive.Après expertise	1	2.32192809488736	2.58496250072116	2.32192809488736	2.58496250072116	N/A	N/A	N/A	0.263034405833794	0	0	1	0	1	0:0	0	0	0.2	5	0.166666666666667	0.000115129154648748	1	0.2	0:1	0:0	91	96	92	
+14	rupture des pales à cause	rupture du pale à cause	1	2.32192809488736	2.58496250072116	2.32192809488736	2.58496250072116	N/A	N/A	N/A	0.263034405833794	0	0	1	0	1	0:0	0	0	0.2	2.5	0.166666666666667	0.000115129154648748	1	0.2	0:1	0:0	15	18	16	
+33	casse de l' arbre lent	casse de le arbre lent	1	2.32192809488736	2.58496250072116	2.32192809488736	2.58496250072116	4	N/A	N/A	0.263034405833794	0	0	1	0	1	0:0	0	0	0.2	0.833333333333333	0.166666666666667	6.93134680530211e-06	1	0.2	0:1	0:0	34	35	34	
+35	arbre lent	arbre lent	3	2	3.16992500144231	4	6.33985000288463	N/A	N/A	1.16992500144231	N/A	2	4	1	0	3	0:0	0	0	1.5	0.75	1	0.62146364949363	1	0.6	0:3	0:0	36	37	36	
+83	épisode de vents violents	épisode de vent violent	1	2	2.32192809488736	2	2.32192809488736	N/A	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	5	0.2	0.000115129154648748	1	0.2	0:1	0:0	84	85	84	
+43	vents à 25 m/s	vent à 25 m/s	1	2	2.32192809488736	2	2.32192809488736	N/A	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	2.5	0.2	6.93134680530211e-06	1	0.2	0:1	0:0	44	45	44	
+49	capteur inductif de présence	capteur inductif de présence	1	2	2.32192809488736	2	2.32192809488736	N/A	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	5	0.2	0.000115129154648748	1	0.2	0:1	0:0	50	53	51	
+8	aérofrein des pales	aérofrein du pale	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	1	0.25	0	1	0.2	0:1	0:0	9	10	9	
+110	Rupture des pales	rupture du pale	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	1	0.25	0	1	0.2	0:1	0:0	111	10	111	
+5	remplacement des pièces	remplacement du pièce	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	5	0.25	0.000115129154648748	1	0.2	0:1	0:0	6	7	6	
+54	position de sécurité	position de sécurité	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	2.5	0.25	0.000115129154648748	1	0.2	0:1	0:0	55	56	55	
+26	endommagement du roulement	endommagement du roulement	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	2.5	0.25	0.000115129154648748	1	0.2	0:1	0:0	27	28	27	
+75	contrainte particulière.L'éolienne accidentée	contrainte particulière.L'éolien accidenté	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	5	0.25	0.000115129154648748	1	0.2	0:1	0:0	76	79	77	
+117	ensemble roulement/arbre lent	ensemble roulement/arbre lent	1	1.58496250072116	2	1.58496250072116	2	4	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	1.25	0.25	0	1	0.2	0:1	0:0	118	37	119	
+1	intervalles réguliers	intervalle régulier	1	1	1.58496250072116	1	1.58496250072116	N/A	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	5	0.333333333333333	0.000115129154648748	1	0.2	0:1	0:0	2	3	2	
+114	autres installations	autre installation	1	1	1.58496250072116	1	1.58496250072116	N/A	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	5	0.333333333333333	0.000115129154648748	1	0.2	0:1	0:0	116	115	116	
+70	éventuel défaut	éventuel défaut	1	1	1.58496250072116	1	1.58496250072116	N/A	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	5	0.333333333333333	0.000115129154648748	1	0.2	0:1	0:0	72	71	72	
+19	partie arrière	partie arrière	1	1	1.58496250072116	1	1.58496250072116	4	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	5	0.333333333333333	0.000115129154648748	1	0.2	0:1	0:0	20	21	20	
+64	contrôle vibratoire	contrôle vibratoire	1	1	1.58496250072116	1	1.58496250072116	4	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	2.5	0.333333333333333	6.93134680530211e-06	1	0.2	0:1	0:0	23	66	23	
+22	contrôle visuel	contrôle visuel	1	1	1.58496250072116	1	1.58496250072116	4	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	2.5	0.333333333333333	6.93134680530211e-06	1	0.2	0:1	0:0	23	24	23	
+80	pareil cas	pareil cas	1	1	1.58496250072116	1	1.58496250072116	4	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	5	0.333333333333333	0.000115129154648748	1	0.2	0:1	0:0	82	81	82	
+135	contrainte importante	contrainte important	1	1	1.58496250072116	1	1.58496250072116	4	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	2.5	0.333333333333333	6.93134680530211e-06	1	0.2	0:1	0:0	77	137	77	
+10	pales	pale	5	0	4	0	6	N/A	N/A	2	N/A	4	6	1	0	5	0:0	0	0	5	N/A	2.5	N/A	1	1	0:5	0:0				
+36	arbre	arbre	5	0	3	0	7	4	0	4	N/A	3	7	1	0	5	0:0	2	5	5	N/A	7.5	N/A	1	1	0:5	0:0				
+12	éolienne	éolienne	4	0	4	0	6	N/A	N/A	4	N/A	3	5	1	0	4	0:0	0	0	4	N/A	2	N/A	1	0.8	0:4	0:0				
+37	lent	lent	4	0	2	0	6	N/A	N/A	-2	N/A	2	6	1	0	4	0:0	0	0	4	N/A	2	N/A	1	0.8	0:4	0:0				
+88	exploitant	exploitant	3	0	3	0	3	N/A	N/A	N/A	3	0	0	1	0	3	0:0	0	0	3	N/A	1.5	N/A	1	0.6	0:3	0:0				
+16	rupture	rupture	3	0	2	0	4	N/A	2	N/A	N/A	2	4	1	0	3	0:0	1	1	3	N/A	3	N/A	1	0.6	0:3	0:0				
+28	roulement	roulement	2	0	1	0	3	N/A	N/A	1	N/A	1	3	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.4	0:2	0:0				
+34	casse	casse	2	0	1	0	3	N/A	0	N/A	N/A	1	3	1	0	2	0:0	2	2	2	N/A	3	N/A	1	0.4	0:2	0:0				
+23	contrôle	contrôle	2	0	1	0	3	N/A	0	N/A	N/A	1	3	1	0	2	0:0	2	2	2	N/A	3	N/A	1	0.4	0:2	0:0				
+56	sécurité	sécurité	2	0	1	0	3	N/A	N/A	1	N/A	1	3	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.4	0:2	0:0				
+13	service	service	2	0	2	0	2	N/A	N/A	N/A	2	0	0	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.4	0:2	0:0				
+44	vents	vent	2	0	1	0	3	N/A	0	N/A	N/A	1	3	1	0	2	0:0	2	2	2	N/A	3	N/A	1	0.4	0:2	0:0				
+77	contrainte	contrainte	2	0	1	0	3	4	0	N/A	N/A	1	3	1	0	2	0:0	2	2	2	N/A	3	N/A	1	0.4	0:2	0:0				
+11	multiplicateur	multiplicateur	2	0	2	0	2	4	N/A	N/A	2	0	0	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.4	0:2	0:0				
+18	cause	cause	2	0	1	0	3	4	N/A	1	N/A	1	3	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.4	0:2	0:0				
+126	accès.L'éolienne	accès.L'éolienne	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+51	capteur	capteur	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+6	remplacement	remplacement	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+89	vent	vent	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+96	expertise	expertise	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+138	mise	mise	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+52	inductif	inductif	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+132	jours	jour	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+27	endommagement	endommagement	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+122	gardiennage	gardiennage	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+2	intervalles	intervalle	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+93	rotation excessive.Après	rotation excessive.Après	1	0	0	2	3.16992500144231	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.5	5	0.333333333333333	0.000115129154648748	1	0.2	0:1	0:0	94	95	94	
+57	parc	parc	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+41	rotor	rotor	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+101	maintenance	maintenance	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+72	défaut	défaut	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+68	place	place	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+92	vitesse	vitesse	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+84	épisode	épisode	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+133	entrainement	entrainement	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+100	maintenance suite	maintenance suite	1	0	0	2	3.16992500144231	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.5	5	0.666666666666667	0.000115129154648748	1	0.2	0:1	0:0	101	102	101	
+102	suite	suite	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+91	vitesse de rotation excessive.Après	vitesse de rotation excessive.Après	1	0	0	4	4.64385618977472	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.25	5	0.4	0.000115129154648748	1	0.2	0:1	0:0	92	93	92	
+24	visuel	visuel	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+3	réguliers	régulier	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+81	pareil	pareil	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+50	capteur inductif	capteur inductif	1	0	0	2	3.16992500144231	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.5	5	0.666666666666667	0.000115129154648748	1	0.2	0:1	0:0	51	52	51	
+128	système de contrôle/commande	système de contrôle/commande	1	0	0	3.16992500144231	4	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	5	0.5	0.000115129154648748	1	0.2	0:1	0:0	129	130	129	
+78	particulière.L'éolienne	particulière.L'éolien	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+116	installations	installation	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+119	ensemble	ensemble	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+74	chaîne	chaîne	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+55	position	position	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+4	conséquence	conséquence	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+60	structure de la matière	structure de le matière	1	0	0	4	4.64385618977472	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.25	5	0.4	0.000115129154648748	1	0.2	0:1	0:0	61	62	61	
+20	partie	partie	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+32	mm	mm	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+94	rotation	rotation	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+95	excessive.Après	excessive.Après	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+85	vents violents	vent violent	1	0	0	2	3.16992500144231	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.5	2.5	0.333333333333333	6.93134680530211e-06	1	0.2	0:1	0:0	44	87	44	
+118	ensemble roulement/arbre	ensemble roulement/arbre	1	0	0	2	3.16992500144231	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.5	5	0.666666666666667	0.000115129154648748	1	0.2	0:1	0:0	119	120	119	
+124	anomalie.Afin	anomalie.Afin	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+113	contrôles	contrôle	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+61	structure	structure	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+137	importante	important	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+69	renouvellement	renouvellement	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+7	pièces	pièce	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+105	totale	total	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+45	25 m/s	25 m/s	1	0	0	2	3.16992500144231	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.5	5	0.333333333333333	0.000115129154648748	1	0.2	0:1	0:0	47	46	47	
+123	sol	sol	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+79	accidentée	accidenté	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+58	mât	mât	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+46	25	25	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+87	violents	violent	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+0	kW	kW	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+125	mat	mat	1	0	2	0	2	N/A	N/A	N/A	2	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+38	aérogénérateurs	aérogénérateur	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+48	incident	incident	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+66	vibratoire	vibratoire	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+21	arrière	arrière	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+9	aérofrein	aérofrein	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+115	autres	autre	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+76	contrainte particulière.L'éolienne	contrainte particulière.L'éolien	1	0	0	2	3.16992500144231	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.5	2.5	0.666666666666667	6.93134680530211e-06	1	0.2	0:1	0:0	77	78	77	
+103	casse totale	casse total	1	0	0	2	3.16992500144231	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.5	2.5	0.333333333333333	6.93134680530211e-06	1	0.2	0:1	0:0	34	105	34	
+111	Rupture	rupture	1	0	0	0	2	4	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+130	contrôle/commande	contrôle/commande	1	0	0	0	2	4	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+39	arrêt	arrêt	1	0	1	0	1	4	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+53	présence	présence	1	0	0	0	2	4	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+15	rupture des pales	rupture du pale	1	0	0	3.16992500144231	4	4	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	0.333333333333333	0.5	0	1	0.2	0:1	0:0	16	10	16	
+120	roulement/arbre	roulement/arbre	1	0	0	0	2	4	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+30	flexion	flexion	1	0	1	0	1	4	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+97	défaillance	défaillance	1	0	1	0	1	4	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+129	système	système	1	0	0	0	2	4	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+62	matière	matière	1	0	0	0	2	4	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+82	cas	cas	1	0	0	0	2	4	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+42	entrée	entrée	1	0	1	0	1	4	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+40	impacts	impact	1	0	1	0	1	4	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+71	éventuel	éventuel	1	0	0	0	2	4	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+73	faiblesse	faiblesse	1	0	1	0	1	4	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+29	réparation	réparation	1	0	1	0	1	4	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+47	m/s	m/s	1	0	0	0	2	4	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				

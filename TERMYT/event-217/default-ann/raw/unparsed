@@ -1,0 +1,253 @@
+if: pale
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: éléments
+pos: NOM
+lf: élément
+is a term candidate: 1
+
+-----------------
+
+if: arrivée
+pos: NOM
+lf: arrivée
+is a term candidate: 1
+
+-----------------
+
+if: partie de l' aérofrein
+pos: NOM de DET:ART NOM
+lf: partie de le aérofrein
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( partie<=H> de<=P> l'<=D> aérofrein<=M> )
+islands: 0
+
+
+-----------------
+
+if: sol
+pos: NOM
+lf: sol
+is a term candidate: 1
+
+-----------------
+
+if: m du mât
+pos: NOM du NOM
+lf: m du mât
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( m<=H> du<=P> mât<=M> )
+islands: 0
+
+
+-----------------
+
+if: parties de l' aérofrein de la pale
+pos: NOM de DET:ART NOM de DET:ART NOM
+lf: partie de le aérofrein de le pale
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: extrémité
+pos: NOM
+lf: extrémité
+is a term candidate: 1
+
+-----------------
+
+if: bas.L'exploitant
+pos: NOM
+lf: bas.L'exploitant
+is a term candidate: 1
+
+-----------------
+
+if: approche
+pos: NOM
+lf: approche
+is a term candidate: 1
+
+-----------------
+
+if: Chute
+pos: NOM
+lf: chute
+is a term candidate: 1
+
+-----------------
+
+if: plaques
+pos: NOM
+lf: plaque
+is a term candidate: 1
+
+-----------------
+
+if: exploitant
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+
+if: incident à une défaillance matérielle
+pos: NOM à DET:ART NOM ADJ
+lf: incident à un défaillance matériel
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( incident<=H> à<=P> une<=D> ( défaillance<=H> matérielle<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: sécurité
+pos: NOM
+lf: sécurité
+is a term candidate: 1
+
+-----------------
+
+if: mesure 3 m de long
+pos: NOM NUM NOM de NOM
+lf: mesure 3 m de long
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: partie mécanique interne
+pos: NOM ADJ ADJ
+lf: partie mécanique interne
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: centre de maintenance de l' exploitant
+pos: NOM de NOM de DET:ART NOM
+lf: centre de maintenance de le exploitant
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: expertise
+pos: NOM
+lf: expertise
+is a term candidate: 1
+
+-----------------
+
+if: décollage
+pos: NOM
+lf: décollage
+is a term candidate: 1
+
+-----------------
+
+if: pales des 8 autres éoliennes du parc
+pos: NOM des NUM ADJ NOM du NOM
+lf: pale du 8 autre éolienne du parc
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: fibre de verre
+pos: NOM de NOM
+lf: fibre de verre
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( fibre<=H> de<=P> verre<=M> )
+islands: 0
+
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: partie
+pos: NOM
+lf: partie
+is a term candidate: 1
+
+-----------------
+
+if: inspection visuelle
+pos: NOM ADJ
+lf: inspection visuel
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( inspection<=H> visuelle<=M> )
+islands: 0
+
+
+-----------------
+
+if: morceaux récupérés au sol
+pos: NOM VER:pper au NOM
+lf: morceau récupérer au sol
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( morceaux<=H> ( récupérés<=H> au<=P> sol<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: techniciens de maintenance
+pos: NOM de NOM
+lf: technicien de maintenance
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( techniciens<=H> de<=P> maintenance<=M> )
+islands: 0
+
+
+-----------------
+

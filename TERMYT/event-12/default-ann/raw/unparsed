@@ -1,0 +1,359 @@
+if: vérification préventive
+pos: NOM ADJ
+lf: vérification préventif
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( vérification<=H> préventive<=M> )
+islands: 0
+
+
+-----------------
+
+if: entreprise
+pos: NOM
+lf: entreprise
+is a term candidate: 1
+
+-----------------
+
+if: technicien
+pos: NOM
+lf: technicien
+is a term candidate: 1
+
+-----------------
+
+if: petites projections
+pos: ADJ NOM
+lf: petit projection
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( petites<=M> projections<=H> )
+islands: 0
+
+
+-----------------
+
+if: parc éolien Une fuite
+pos: NOM ADJ DET:ART NOM
+lf: parc éolien un fuite
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: Fuite
+pos: NOM
+lf: fuite
+is a term candidate: 1
+
+-----------------
+
+if: huile
+pos: NOM
+lf: huile
+is a term candidate: 1
+
+-----------------
+
+if: pales
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: fuite
+pos: NOM
+lf: fuite
+is a term candidate: 1
+
+-----------------
+
+if: erreur humaine à la conception des turbines
+pos: NOM ADJ à DET:ART NOM des NOM
+lf: erreur humain à le conception du turbine
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: problème
+pos: NOM
+lf: problème
+is a term candidate: 1
+
+-----------------
+
+if: ensemble des flexibles hydrauliques de lamachine
+pos: NOM des ADJ NOM de NOM
+lf: ensemble du flexible hydraulique de lamachine
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: charge de la construction
+pos: NOM de DET:ART NOM
+lf: charge de le construction
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( charge<=H> de<=P> la<=D> construction<=M> )
+islands: 0
+
+
+-----------------
+
+if: agriculteur
+pos: NOM
+lf: agriculteur
+is a term candidate: 1
+
+-----------------
+
+if: régulière des flexibles hydrauliques
+pos: ADJ des ADJ NOM
+lf: régulier du flexible hydraulique
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: remplacement
+pos: NOM
+lf: remplacement
+is a term candidate: 1
+
+-----------------
+
+if: jours
+pos: NOM
+lf: jour
+is a term candidate: 1
+
+-----------------
+
+if: exploitant
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+
+if: analyse des causes profondes
+pos: NOM des NOM ADJ
+lf: analyse du cause profond
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( analyse<=H> des<=P> ( causes<=H> profondes<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: quantité
+pos: NOM
+lf: quantité
+is a term candidate: 1
+
+-----------------
+
+if: inspection
+pos: NOM
+lf: inspection
+is a term candidate: 1
+
+-----------------
+
+if: événement
+pos: NOM
+lf: événement
+is a term candidate: 1
+
+-----------------
+
+if: constatation
+pos: NOM
+lf: constatation
+is a term candidate: 1
+
+-----------------
+
+if: mois
+pos: NOM
+lf: mois|moi
+is a term candidate: 1
+
+-----------------
+
+if: arrêt
+pos: NOM
+lf: arrêt
+is a term candidate: 1
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: hub de l' éolienne
+pos: NOM de DET:ART NOM
+lf: hub de le éolienne
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( hub<=H> de<=P> l'<=D> éolienne<=M> )
+islands: 0
+
+
+-----------------
+
+if: litres
+pos: NOM
+lf: litre
+is a term candidate: 1
+
+-----------------
+
+if: pièces défectueuses
+pos: NOM ADJ
+lf: pièce défectueux
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( pièces<=H> défectueuses<=M> )
+islands: 0
+
+
+-----------------
+
+if: origine de la fuite.A
+pos: NOM de DET:ART NOM
+lf: origine de le fuite.A
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( origine<=H> de<=P> la<=D> fuite.A<=M> )
+islands: 0
+
+
+-----------------
+
+if: reste du parc
+pos: NOM du NOM
+lf: reste du parc
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( reste<=H> du<=P> parc<=M> )
+islands: 0
+
+
+-----------------
+
+if: date du début de la fuite
+pos: NOM du NOM de DET:ART NOM
+lf: date du début de le fuite
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: parcelle agricole
+pos: NOM ADJ
+lf: parcelle agricole
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parcelle<=H> agricole<=M> )
+islands: 0
+
+
+-----------------
+
+if: sertissage des tuyaux
+pos: NOM des NOM
+lf: sertissage du tuyau
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( sertissage<=H> des<=P> tuyaux<=M> )
+islands: 0
+
+
+-----------------
+
+if: dernier entretien de maintenance 3 mois
+pos: ADJ NOM de NOM NUM NOM
+lf: dernier entretien de maintenance 3 mois|moi
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: porosité
+pos: NOM
+lf: porosité
+is a term candidate: 1
+
+-----------------
+
+if: nettoyage des tours
+pos: NOM des NOM
+lf: nettoyage du tour
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( nettoyage<=H> des<=P> tours<=M> )
+islands: 0
+
+
+-----------------
+
+if: diagnostic de pollution des sols
+pos: NOM de NOM des NOM
+lf: diagnostic de pollution du sol
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: turbine
+pos: NOM
+lf: turbine
+is a term candidate: 1
+
+-----------------
+
+if: tuyaux poreux
+pos: NOM ADJ
+lf: tuyau poreux
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( tuyaux<=H> poreux<=M> )
+islands: 0
+
+
+-----------------
+

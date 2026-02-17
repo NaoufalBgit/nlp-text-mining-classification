@@ -1,0 +1,49 @@
+# ID	Inflected form	Lemmatised form	Frequency	CValue	CValue1	CValuePlus	CValuePlus1	CValueStar	CValueStarH	CValueStarM	CValueStarR	CValueWCard	CValueWCardPlus	D	DDW	Freq	idf	ilnc	ilncFreq	iLong	IM	iTer	LLR	nbdoc4tc	NormFreq	tf	tf-idf	Head	Modifier	MainHead
+12	parc éolien	parc éolien	4	3	4.75488750216347	5	7.92481250360578	N/A	N/A	1.16992500144231	N/A	3	5	1	0	4	0:0	0	0	2	1	1.33333333333333	8.4728690784509e-06	1	1	0:4	0:0	13	14	13	
+5	suivi de la mortalité aviaire	suivi de le mortalité aviaire	1	2.32192809488736	2.58496250072116	2.32192809488736	2.58496250072116	N/A	N/A	N/A	0.263034405833794	0	0	1	0	1	0:0	0	0	0.2	4	0.166666666666667	0.000115129154648748	1	0.25	0:1	0:0	6	7	6	
+31	faucon crécerellette	faucon crécerellette	2	2	3.16992500144231	2	3.16992500144231	N/A	N/A	N/A	1.16992500144231	0	0	1	0	2	0:0	0	0	1	0.888888888888889	0.666666666666667	0.000112060551454184	1	0.5	0:2	0:0	32	33	32	
+22	sud de la France	sud de le France	1	2	2.32192809488736	2	2.32192809488736	N/A	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	4	0.2	0.000115129154648748	1	0.25	0:1	0:0	23	24	23	
+49	niveau du parc éolien	niveau du parc éolien	1	2	2.32192809488736	2	2.32192809488736	N/A	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	1	0.2	0	1	0.25	0:1	0:0	50	12	50	
+10	exploitant du parc éolien	exploitant du parc éolien	1	2	2.32192809488736	2	2.32192809488736	N/A	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	1	0.2	0	1	0.25	0:1	0:0	11	12	11	
+42	période de l' année	période de le année	1	2	2.32192809488736	2	2.32192809488736	N/A	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	2	0.2	6.93134680530211e-06	1	0.25	0:1	0:0	17	44	17	
+0	aire de répartition habituelle	aire de répartition habituel	1	2	2.32192809488736	2	2.32192809488736	N/A	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	4	0.2	0.000115129154648748	1	0.25	0:1	0:0	1	2	1	
+25	faucons crécerellettes susceptibles	faucon crécerellette susceptible	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	4	0.25	0.000115129154648748	1	0.25	0:1	0:0	26	29	20	
+16	période post-nuptiale	période post-nuptial	1	1	1.58496250072116	1	1.58496250072116	N/A	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	2	0.333333333333333	6.93134680530211e-06	1	0.25	0:1	0:0	17	18	17	
+45	collision directe	collision direct	1	1	1.58496250072116	1	1.58496250072116	N/A	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	2	0.333333333333333	0.000115129154648748	1	0.25	0:1	0:0	46	47	46	
+13	parc	parc	4	0	1.66666666666667	0	6.33333333333333	N/A	-3	N/A	N/A	1.66666666666667	6.33333333333333	1	0	4	0:0	3	7	4	N/A	8	N/A	1	1	0:4	0:0				
+14	éolien	éolien	4	0	1.66666666666667	0	6.33333333333333	N/A	N/A	-3	N/A	1.66666666666667	6.33333333333333	1	0	4	0:0	0	0	4	N/A	2	N/A	1	1	0:4	0:0				
+32	faucon	faucon	3	0	1	0	5	N/A	1	N/A	N/A	1	5	1	0	3	0:0	1	2	3	N/A	3	N/A	1	0.75	0:3	0:0				
+20	faucons	faucon	2	0	1	0	3	N/A	1	N/A	N/A	1	3	1	0	2	0:0	1	1	2	N/A	2	N/A	1	0.5	0:2	0:0				
+8	mortalité	mortalité	2	0	1	0	3	N/A	1	N/A	N/A	1	3	1	0	2	0:0	1	1	2	N/A	2	N/A	1	0.5	0:2	0:0				
+33	crécerellette	crécerellette	2	0	1	0	5	N/A	N/A	1	N/A	0	4	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.5	0:2	0:0				
+17	période	période	2	0	1	0	3	N/A	0	N/A	N/A	1	3	1	0	2	0:0	2	2	2	N/A	3	N/A	1	0.5	0:2	0:0				
+55	éolienne	éolienne	2	0	2	0	2	N/A	N/A	N/A	2	0	0	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.5	0:2	0:0				
+50	niveau	niveau	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+44	année	année	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+2	répartition habituelle	répartition habituel	1	0	0	2	3.16992500144231	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.5	4	0.333333333333333	0.000115129154648748	1	0.25	0:1	0:0	3	4	3	
+23	sud	sud	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+35	études	étude	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+24	France	France	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+26	faucons crécerellettes	faucon crécerellette	1	0	0	2	3.16992500144231	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.5	2	0.666666666666667	0.000115129154648748	1	0.25	0:1	0:0	20	28	20	
+6	suivi	suivi	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+36	nord	nord	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+21	visites	visite	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+56	migration	migration	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+30	espèce	espèce	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+34	m	m	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+15	aérogénérateurs	aérogénérateur	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+19	éolienne.A	éolienne.A	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+28	crécerellettes	crécerellette	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+11	exploitant	exploitant	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+1	aire	aire	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+54	Choc	choc	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+18	post-nuptiale	post-nuptial	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+57	sol	sol	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+3	répartition	répartition	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+46	collision	collision	1	0	1	0	3	N/A	1	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+47	directe	direct	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+29	susceptibles	susceptible	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+9	aviaire	aviaire	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+4	habituelle	habituel	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+7	mortalité aviaire	mortalité aviaire	1	0	0	2	3.16992500144231	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.5	2	0.333333333333333	0.000115129154648748	1	0.25	0:1	0:0	8	9	8	
+38	bureau	bureau	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				

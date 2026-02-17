@@ -1,0 +1,291 @@
+if: contrôle extérieur obligatoire
+pos: NOM ADJ ADJ
+lf: contrôle extérieur obligatoire
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: sécurité de 800 m
+pos: NOM de NUM NOM
+lf: sécurité de 800 m
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: service de l' éolienne
+pos: NOM de DET:ART NOM
+lf: service de le éolienne
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( service<=H> de<=P> l'<=D> éolienne<=M> )
+islands: 0
+
+
+-----------------
+
+if: obscurité
+pos: NOM
+lf: obscurité
+is a term candidate: 1
+
+-----------------
+
+if: sécurité
+pos: NOM
+lf: sécurité
+is a term candidate: 1
+
+-----------------
+
+if: équipe
+pos: NOM
+lf: équipe
+is a term candidate: 1
+
+-----------------
+
+if: installation
+pos: NOM
+lf: installation
+is a term candidate: 1
+
+-----------------
+
+if: service
+pos: NOM
+lf: service
+is a term candidate: 1
+
+-----------------
+
+if: équipement
+pos: NOM
+lf: équipement
+is a term candidate: 1
+
+-----------------
+
+if: préparation à la mise
+pos: NOM à DET:ART NOM
+lf: préparation à le mise
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( préparation<=H> à<=P> la<=D> mise<=M> )
+islands: 0
+
+
+-----------------
+
+if: présence de vent violent.L'exploitant
+pos: NOM de NOM ADJ
+lf: présence de vent violent.L'exploitant
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( présence<=H> de<=P> ( vent<=H> violent.L'exploitant<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: pales
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: circulation
+pos: NOM
+lf: circulation
+is a term candidate: 1
+
+-----------------
+
+if: secours
+pos: NOM
+lf: secours
+is a term candidate: 1
+
+-----------------
+
+if: erreur de positionnement des angles des pales
+pos: NOM de NOM des NOM des NOM
+lf: erreur de positionnement du angle du pale
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: position de sécurité.L'incident
+pos: NOM de NOM
+lf: position de sécurité.L'incident
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( position<=H> de<=P> sécurité.L'incident<=M> )
+islands: 0
+
+
+-----------------
+
+if: conditions climatiques
+pos: NOM ADJ
+lf: condition climatique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( conditions<=H> climatiques<=M> )
+islands: 0
+
+
+-----------------
+
+if: absence de raccordement électrique
+pos: NOM de NOM ADJ
+lf: absence de raccordement électrique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( absence<=H> de<=P> ( raccordement<=H> électrique<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: urgence
+pos: NOM
+lf: urgence
+is a term candidate: 1
+
+-----------------
+
+if: gendarmes
+pos: NOM
+lf: gendarme
+is a term candidate: 1
+
+-----------------
+
+if: accident
+pos: NOM
+lf: accident
+is a term candidate: 1
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: travail
+pos: NOM
+lf: travail
+is a term candidate: 1
+
+-----------------
+
+if: mise
+pos: NOM
+lf: mise
+is a term candidate: 1
+
+-----------------
+
+if: mouvement
+pos: NOM
+lf: mouvement
+is a term candidate: 1
+
+-----------------
+
+if: rotor
+pos: NOM
+lf: rotor
+is a term candidate: 1
+
+-----------------
+
+if: lendemain
+pos: NOM
+lf: lendemain
+is a term candidate: 1
+
+-----------------
+
+if: vent violent
+pos: NOM ADJ
+lf: vent violent
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( vent<=H> violent<=M> )
+islands: 0
+
+
+-----------------
+
+if: échelle
+pos: NOM
+lf: échelle
+is a term candidate: 1
+
+-----------------
+
+if: procédure de positionnement des pales
+pos: NOM de NOM des NOM
+lf: procédure de positionnement du pale
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: Perte de contrôle
+pos: NOM de NOM
+lf: perte de contrôle
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Perte<=H> de<=P> contrôle<=M> )
+islands: 0
+
+
+-----------------
+
+if: route voisine
+pos: NOM ADJ
+lf: route voisin
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( route<=H> voisine<=M> )
+islands: 0
+
+
+-----------------
+
+if: étiquetage
+pos: NOM
+lf: étiquetage
+is a term candidate: 1
+
+-----------------
+

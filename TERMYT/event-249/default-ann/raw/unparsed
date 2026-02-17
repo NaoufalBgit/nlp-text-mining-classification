@@ -1,0 +1,125 @@
+if: éoliennes
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: ARIA
+pos: NOM
+lf: aria
+is a term candidate: 1
+
+-----------------
+
+if: site
+pos: NOM
+lf: site
+is a term candidate: 1
+
+-----------------
+
+if: Chute de pale
+pos: NOM de NOM
+lf: chute de pale
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Chute<=H> de<=P> pale<=M> )
+islands: 0
+
+
+-----------------
+
+if: parc
+pos: NOM
+lf: parc
+is a term candidate: 1
+
+-----------------
+
+if: victime
+pos: NOM
+lf: victime
+is a term candidate: 1
+
+-----------------
+
+if: nouvelle demande
+pos: ADJ NOM
+lf: nouveau demande
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( nouvelle<=M> demande<=H> )
+islands: 0
+
+
+-----------------
+
+if: instruction
+pos: NOM
+lf: instruction
+is a term candidate: 1
+
+-----------------
+
+if: autres évènements
+pos: ADJ NOM
+lf: autre événement
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( autres<=M> évènements<=H> )
+islands: 0
+
+
+-----------------
+
+if: chute au sol
+pos: NOM au NOM
+lf: chute au sol
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( chute<=H> au<=P> sol<=M> )
+islands: 0
+
+
+-----------------
+
+if: type
+pos: NOM
+lf: type
+is a term candidate: 1
+
+-----------------
+
+if: aérogénérateurs
+pos: NOM
+lf: aérogénérateur
+is a term candidate: 1
+
+-----------------
+
+if: cours
+pos: NOM
+lf: cours|cour
+is a term candidate: 1
+
+-----------------
+
+if: permis
+pos: NOM
+lf: permis
+is a term candidate: 1
+
+-----------------
+
+if: accident
+pos: NOM
+lf: accident
+is a term candidate: 1
+
+-----------------
+

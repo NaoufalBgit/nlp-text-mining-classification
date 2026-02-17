@@ -1,0 +1,278 @@
+if: nacelle de l' activité des chiroptères
+pos: NOM de DET:ART NOM des NOM
+lf: nacelle de le activité du chiroptères
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: plateforme
+pos: NOM
+lf: plateforme
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: cycle biologique
+pos: NOM ADJ
+lf: cycle biologique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( cycle<=H> biologique<=M> )
+islands: 0
+
+
+-----------------
+
+if: plan de régulation.En
+pos: NOM de NOM
+lf: plan de régulation.En
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( plan<=H> de<=P> régulation.En<=M> )
+islands: 0
+
+
+-----------------
+
+if: collision
+pos: NOM
+lf: collision
+is a term candidate: 1
+
+-----------------
+
+if: parc éolien espèce
+pos: NOM ADJ NOM
+lf: parc éolien espèce
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: suivi
+pos: NOM
+lf: suivi
+is a term candidate: 1
+
+-----------------
+
+if: mortalité
+pos: NOM
+lf: mortalité
+is a term candidate: 1
+
+-----------------
+
+if: suivi réglementaire
+pos: NOM ADJ
+lf: suivi réglementaire
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( suivi<=H> réglementaire<=M> )
+islands: 0
+
+
+-----------------
+
+if: oeuvre
+pos: NOM
+lf: œuvre
+is a term candidate: 1
+
+-----------------
+
+if: paramètres de vent
+pos: NOM de NOM
+lf: paramètre de vent
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( paramètres<=H> de<=P> vent<=M> )
+islands: 0
+
+
+-----------------
+
+if: chiroptères
+pos: NOM
+lf: chiroptères
+is a term candidate: 1
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: études
+pos: NOM
+lf: étude
+is a term candidate: 1
+
+-----------------
+
+if: enjeux locaux
+pos: NOM ADJ
+lf: enjeu local
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( enjeux<=H> locaux<=M> )
+islands: 0
+
+
+-----------------
+
+if: mesures proportionnées aux impacts réels
+pos: NOM VER:pper aux NOM ADJ
+lf: mesure proportionner au impact réel
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: :appréhender les facteurs
+pos: NAM DET:ART NOM
+lf: :appréhender le facteur
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( :appréhender<=H> les<=D> facteurs<=M> )
+islands: 0
+
+
+-----------------
+
+if: décomposition
+pos: NOM
+lf: décomposition
+is a term candidate: 1
+
+-----------------
+
+if: suivi environnemental
+pos: NOM ADJ
+lf: suivi environnemental
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( suivi<=H> environnemental<=M> )
+islands: 0
+
+
+-----------------
+
+if: activité relevée
+pos: NOM ADJ
+lf: activité relevé
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( activité<=H> relevée<=M> )
+islands: 0
+
+
+-----------------
+
+if: minioptère de schreibers
+pos: NOM de NOM
+lf: minioptère de schreibers
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( minioptère<=H> de<=P> schreibers<=M> )
+islands: 0
+
+
+-----------------
+
+if: objet
+pos: NOM
+lf: objet
+is a term candidate: 1
+
+-----------------
+
+if: température
+pos: NOM
+lf: température
+is a term candidate: 1
+
+-----------------
+
+if: cadavre de chiroptère
+pos: NOM de NOM
+lf: cadavre de chiroptère
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( cadavre<=H> de<=P> chiroptère<=M> )
+islands: 0
+
+
+-----------------
+
+if: espèce
+pos: NOM
+lf: espèce
+is a term candidate: 1
+
+-----------------
+
+if: bureau
+pos: NOM
+lf: bureau
+is a term candidate: 1
+
+-----------------
+
+if: sol
+pos: NOM
+lf: sol
+is a term candidate: 1
+
+-----------------
+
+if: cadavre
+pos: NOM
+lf: cadavre
+is a term candidate: 1
+
+-----------------
+
+if: barotraumatisme
+pos: NOM
+lf: barotraumatisme
+is a term candidate: 1
+
+-----------------
+
+if: année
+pos: NOM
+lf: année
+is a term candidate: 1
+
+-----------------
+

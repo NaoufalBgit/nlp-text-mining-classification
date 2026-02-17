@@ -1,0 +1,185 @@
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: seuil de déclenchement du module
+pos: NOM de NOM du NOM
+lf: seuil de déclenchement du module
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: prise
+pos: NOM
+lf: prise
+is a term candidate: 1
+
+-----------------
+
+if: rotation des pales
+pos: NOM des NOM
+lf: rotation du pale
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( rotation<=H> des<=P> pales<=M> )
+islands: 0
+
+
+-----------------
+
+if: Choc
+pos: NOM
+lf: choc
+is a term candidate: 1
+
+-----------------
+
+if: Détection
+pos: NOM
+lf: détection
+is a term candidate: 1
+
+-----------------
+
+if: espèce
+pos: NOM
+lf: espèce
+is a term candidate: 1
+
+-----------------
+
+if: collision
+pos: NOM
+lf: collision
+is a term candidate: 1
+
+-----------------
+
+if: apprentissage
+pos: NOM
+lf: apprentissage
+is a term candidate: 1
+
+-----------------
+
+if: compte
+pos: NOM
+lf: compte
+is a term candidate: 1
+
+-----------------
+
+if: effarouchement
+pos: NOM
+lf: effarouchement
+is a term candidate: 1
+
+-----------------
+
+if: phase
+pos: NOM
+lf: phase
+is a term candidate: 1
+
+-----------------
+
+if: oiseau.Le gestionnaire
+pos: NOM ADJ
+lf: oiseau.Le gestionnaire
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( oiseau.Le<=H> gestionnaire<=M> )
+islands: 0
+
+
+-----------------
+
+if: parc
+pos: NOM
+lf: parc
+is a term candidate: 1
+
+-----------------
+
+if: conditions de vent
+pos: NOM de NOM
+lf: condition de vent
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( conditions<=H> de<=P> vent<=M> )
+islands: 0
+
+
+-----------------
+
+if: comportement du jeune rapace
+pos: NOM du ADJ NOM
+lf: comportement du jeune rapace
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: évitement
+pos: NOM
+lf: évitement
+is a term candidate: 1
+
+-----------------
+
+if: jeune
+pos: NOM
+lf: jeune
+is a term candidate: 1
+
+-----------------
+
+if: découverte au sol
+pos: NOM au NOM
+lf: découverte au sol
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( découverte<=H> au<=P> sol<=M> )
+islands: 0
+
+
+-----------------
+
+if: cadavre de Milan Royal
+pos: NOM de NAM NAM
+lf: cadavre de Milan Royal
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: m
+pos: NOM
+lf: m
+is a term candidate: 1
+
+-----------------
+

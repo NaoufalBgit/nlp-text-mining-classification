@@ -1,0 +1,124 @@
+if: équipes de maintenance du site
+pos: NOM de NOM du NOM
+lf: équipe de maintenance du site
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: dérobées.D'après
+pos: NOM
+lf: dérobées.D'après
+is a term candidate: 1
+
+-----------------
+
+if: incendie
+pos: NOM
+lf: incendie
+is a term candidate: 1
+
+-----------------
+
+if: condensateur
+pos: NOM
+lf: condensateur
+is a term candidate: 1
+
+-----------------
+
+if: pièces déposées au pied de l' éolienne à la suite de l' incendie
+pos: NOM VER:pper au NOM de DET:ART NOM à DET:ART NOM de DET:ART NOM
+lf: pièce déposer au pied de le éolienne à le suite de le incendie
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: pompiers
+pos: NOM
+lf: pompier
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: origine du sinistre
+pos: NOM du NOM
+lf: origine du sinistre
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( origine<=H> du<=P> sinistre<=M> )
+islands: 0
+
+
+-----------------
+
+if: feu
+pos: NOM
+lf: feu
+is a term candidate: 1
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: court-circuit
+pos: NOM
+lf: court-circuit
+is a term candidate: 1
+
+-----------------
+
+if: extinction
+pos: NOM
+lf: extinction
+is a term candidate: 1
+
+-----------------
+
+if: Incendie
+pos: NOM
+lf: incendie
+is a term candidate: 1
+
+-----------------
+
+if: contrôles thermiques
+pos: NOM ADJ
+lf: contrôle thermique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( contrôles<=H> thermiques<=M> )
+islands: 0
+
+
+-----------------
+
+if: lendemain
+pos: NOM
+lf: lendemain
+is a term candidate: 1
+
+-----------------
+

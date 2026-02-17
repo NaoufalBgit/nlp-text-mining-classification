@@ -1,0 +1,238 @@
+if: pales
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: carbone
+pos: NOM
+lf: carbone
+is a term candidate: 1
+
+-----------------
+
+if: Rupture de l' aérofrein
+pos: NOM de DET:ART NOM
+lf: rupture de le aérofrein
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Rupture<=H> de<=P> l'<=D> aérofrein<=M> )
+islands: 0
+
+
+-----------------
+
+if: aérofrein
+pos: NOM
+lf: aérofrein
+is a term candidate: 1
+
+-----------------
+
+if: secours
+pos: NOM
+lf: secours
+is a term candidate: 1
+
+-----------------
+
+if: investigations
+pos: NOM
+lf: investigation
+is a term candidate: 1
+
+-----------------
+
+if: campagne de contrôle des pales
+pos: NOM de NOM des NOM
+lf: campagne de contrôle du pale
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: 11h30
+pos: NAM
+lf: 11h30
+is a term candidate: 1
+
+-----------------
+
+if: ouverture de l' aérofrein
+pos: NOM de DET:ART NOM
+lf: ouverture de le aérofrein
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( ouverture<=H> de<=P> l'<=D> aérofrein<=M> )
+islands: 0
+
+
+-----------------
+
+if: dommages matériels à 130k
+pos: NOM ADJ à NAM
+lf: dommage matériel à 130k
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: pale
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: point
+pos: NOM
+lf: point
+is a term candidate: 1
+
+-----------------
+
+if: exploitation de 70k
+pos: NOM de NAM
+lf: exploitation de 70k
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( exploitation<=H> de<=P> 70k<=M> )
+islands: 0
+
+
+-----------------
+
+if: fait des fortes charges présentes
+pos: NOM des ADJ NOM ADJ
+lf: fait du fort charge présent
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: aérofreins
+pos: NOM
+lf: aérofrein
+is a term candidate: 1
+
+-----------------
+
+if: chute au sol
+pos: NOM au NOM
+lf: chute au sol
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( chute<=H> au<=P> sol<=M> )
+islands: 0
+
+
+-----------------
+
+if: chaîne de sécurité
+pos: NOM de NOM
+lf: chaîne de sécurité
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( chaîne<=H> de<=P> sécurité<=M> )
+islands: 0
+
+
+-----------------
+
+if: exploitant
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+
+if: rotor
+pos: NOM
+lf: rotor
+is a term candidate: 1
+
+-----------------
+
+if: axe
+pos: NOM
+lf: axe
+is a term candidate: 1
+
+-----------------
+
+if: perte
+pos: NOM
+lf: perte
+is a term candidate: 1
+
+-----------------
+
+if: aérofrein à la pale et/ou le point
+pos: NOM à DET:ART NOM ADJ DET:ART NOM
+lf: aérofrein à le pale et/ou le point
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: attache du système mécanique de commande de l' aérofrein
+pos: NOM du NOM ADJ de NOM de DET:ART NOM
+lf: attache du système mécanique de commande de le aérofrein
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: lieux
+pos: NOM
+lf: lieu
+is a term candidate: 1
+
+-----------------
+
+if: système à câble
+pos: NOM à NOM
+lf: système à câble
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( système<=H> à<=P> câble<=M> )
+islands: 0
+
+
+-----------------
+
+if: arrêt de l' ensemble du parc éolien à distance
+pos: NOM de DET:ART NOM du NOM ADJ à NOM
+lf: arrêt de le ensemble du parc éolien à distance
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: ancrage
+pos: NOM
+lf: ancrage
+is a term candidate: 1
+
+-----------------
+

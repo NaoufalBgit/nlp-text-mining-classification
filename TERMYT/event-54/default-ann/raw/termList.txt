@@ -1,0 +1,69 @@
+# ID	Inflected form	Lemmatised form	Frequency	CValue	CValue1	CValuePlus	CValuePlus1	CValueStar	CValueStarH	CValueStarM	CValueStarR	CValueWCard	CValueWCardPlus	D	DDW	Freq	idf	ilnc	ilncFreq	iLong	IM	iTer	LLR	nbdoc4tc	NormFreq	tf	tf-idf	Head	Modifier	MainHead
+61	refroidissement de la boite de vitesse	refroidissement de le boite de vitesse	1	2.58496250072116	2.8073549220576	2.58496250072116	2.8073549220576	N/A	N/A	N/A	0.222392421336448	0	0	1	0	1	0:0	0	0	0.166666666666667	2	0.142857142857143	0.000115129154648748	1	0.25	0:1	0:0	62	27	62	
+13	système de rétention des écoulements accidentels	système de rétention du écoulement accidentel	1	2.58496250072116	2.8073549220576	2.58496250072116	2.8073549220576	N/A	N/A	N/A	0.222392421336448	0	0	1	0	1	0:0	0	0	0.166666666666667	4	0.142857142857143	0.000115129154648748	1	0.25	0:1	0:0	14	17	15	
+55	huile hydraulique	huile hydraulique	2	2	3.16992500144231	2	3.16992500144231	N/A	N/A	N/A	1.16992500144231	0	0	1	0	2	0:0	0	0	1	0.666666666666667	0.666666666666667	0.000112060551454184	1	0.5	0:2	0:0	21	57	21	
+44	boîte de vitesse.La fuite	boîte de vitesse.La fuite	1	2	2.32192809488736	2	2.32192809488736	N/A	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	1	0.2	0	1	0.25	0:1	0:0	45	8	46	
+10	pied de la tour	pied de le tour	1	2	2.32192809488736	2	2.32192809488736	N/A	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	4	0.2	0.000115129154648748	1	0.25	0:1	0:0	11	12	11	
+78	fond de la nacelle	fond de le nacelle	1	2	2.32192809488736	2	2.32192809488736	N/A	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	1.33333333333333	0.2	0.000115129154648748	1	0.25	0:1	0:0	79	75	79	
+27	boite de vitesse	boite de vitesse	2	1.58496250072116	2	4.75488750216347	6	N/A	N/A	0.415037499278844	N/A	1	3	1	0	2	0:0	0	0	0.666666666666667	2	0.5	1.09859895531206e-05	1	0.5	0:2	0:0	28	29	28	
+49	inspection des installations	inspection du installation	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	4	0.25	0.000115129154648748	1	0.25	0:1	0:0	50	51	50	
+71	long du mât	long du mât	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	4	0.25	0.000115129154648748	1	0.25	0:1	0:0	72	73	72	
+33	remise à niveau	remise à niveau	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	2	0.25	0.000115129154648748	1	0.25	0:1	0:0	34	35	34	
+30	ensemble du parc	ensemble du parc	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	2	0.25	6.93134680530211e-06	1	0.25	0:1	0:0	31	32	31	
+67	structure même	structure même	1	1	1.58496250072116	1	1.58496250072116	N/A	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	4	0.333333333333333	0.000115129154648748	1	0.25	0:1	0:0	68	69	68	
+52	société indépendante	société indépendant	1	1	1.58496250072116	1	1.58496250072116	N/A	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	2	0.333333333333333	0.000115129154648748	1	0.25	0:1	0:0	53	54	53	
+21	huile	huile	4	0	2	0	6	N/A	2	N/A	N/A	2	6	1	0	4	0:0	1	2	4	N/A	4	N/A	1	1	0:4	0:0				
+8	fuite	fuite	4	0	3	0	5	N/A	N/A	2	N/A	3	5	1	0	4	0:0	0	0	4	N/A	2	N/A	1	1	0:4	0:0				
+75	nacelle	nacelle	3	0	2	0	4	N/A	N/A	2	N/A	2	4	1	0	3	0:0	0	0	3	N/A	1.5	N/A	1	0.75	0:3	0:0				
+1	turbine	turbine	2	0	2	0	2	N/A	N/A	N/A	2	0	0	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.5	0:2	0:0				
+43	exploitant	exploitant	2	0	3	0	3	N/A	N/A	N/A	3	0	0	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.5	0:2	0:0				
+22	l	l	2	0	2	0	2	N/A	N/A	N/A	2	0	0	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.5	0:2	0:0				
+53	société	société	2	0	1	0	3	N/A	1	N/A	N/A	1	3	1	0	2	0:0	1	1	2	N/A	2	N/A	1	0.5	0:2	0:0				
+29	vitesse	vitesse	2	0	0.5	0	3.5	N/A	N/A	-1	N/A	0.5	3.5	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.5	0:2	0:0				
+28	boite	boite	2	0	0.5	0	3.5	N/A	-1	N/A	N/A	0.5	3.5	1	0	2	0:0	2	3	2	N/A	3	N/A	1	0.5	0:2	0:0				
+57	hydraulique	hydraulique	2	0	1	0	5	N/A	N/A	1	N/A	0	4	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.5	0:2	0:0				
+76	éolienne	éolienne	2	0	2	0	2	N/A	N/A	N/A	2	0	0	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.5	0:2	0:0				
+31	ensemble	ensemble	2	0	1	0	3	N/A	0	N/A	N/A	1	3	1	0	2	0:0	2	2	2	N/A	3	N/A	1	0.5	0:2	0:0				
+42	machine	machine	2	0	1	0	3	N/A	N/A	1	N/A	1	3	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.5	0:2	0:0				
+40	hydrauliques de la machine	hydraulique de le machine	1	0	0	4	4.64385618977472	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.25	2	0.4	0.000115129154648748	1	0.25	0:1	0:0	41	42	41	
+50	inspection	inspection	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+60	fragilité	fragilité	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+51	installations	installation	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+58	quantité	quantité	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+54	indépendante	indépendant	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+34	remise	remise	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+23	hauteur	hauteur	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+72	long	long	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+15	système	système	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+7	détection	détection	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+19	accidentels	accidentel	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+6	suite	suite	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+14	système de rétention	système de rétention	1	0	0	3.16992500144231	4	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	2	0.5	0.000115129154648748	1	0.25	0:1	0:0	15	16	15	
+68	structure	structure	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+32	parc	parc	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+17	écoulements accidentels	écoulement accidentel	1	0	0	2	3.16992500144231	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.5	4	0.333333333333333	0.000115129154648748	1	0.25	0:1	0:0	18	19	18	
+35	niveau	niveau	1	0	1	0	3	N/A	N/A	1	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+5	sécurité	sécurité	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+45	boîte de vitesse.La	boîte de vitesse.La	1	0	0	3.16992500144231	4	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	4	0.5	0.000115129154648748	1	0.25	0:1	0:0	46	47	46	
+59	rupture	rupture	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+18	écoulements	écoulement	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+39	flexibles	flexible	1	0	1	0	3	N/A	N/A	1	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+46	boîte	boîte	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+74	sols	sol	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+69	même	même	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+47	vitesse.La	vitesse.La	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+26	flexible.L'exploitant	flexible.L'exploitant	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+20	mise	mise	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+16	rétention	rétention	1	0	1	0	3	N/A	N/A	1	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+11	pied	pied	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+66	travail	travail	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+24	réparation	réparation	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+41	hydrauliques	hydraulique	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+0	Fuite	fuite	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+73	mât	mât	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+9	place	place	1	0	2	0	2	N/A	N/A	N/A	2	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+12	tour	tour	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+62	refroidissement	refroidissement	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+38	flexibles hydrauliques de la machine	flexible hydraulique de le machine	1	0	0	4.64385618977472	5.16992500144231	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.2	2	0.166666666666667	0.000115129154648748	1	0.25	0:1	0:0	40	39	41	
+79	fond	fond	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+4	sécurité à la suite	sécurité à le suite	1	0	0	4	4.64385618977472	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.25	4	0.4	0.000115129154648748	1	0.25	0:1	0:0	5	6	5	

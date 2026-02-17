@@ -1,0 +1,303 @@
+if: degré de gravité du défaut de collage
+pos: NOM de NOM du NOM de NOM
+lf: degré de gravité du défaut de collage
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: arrêt l' éolienne
+pos: NOM DET:ART ADJ
+lf: arrêt le éolien
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: pales
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: défaut de fabrication
+pos: NOM de NOM
+lf: défaut de fabrication
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( défaut<=H> de<=P> fabrication<=M> )
+islands: 0
+
+
+-----------------
+
+if: inspections tape-test
+pos: NOM ADJ
+lf: inspection tape-test
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( inspections<=H> tape-test<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: intempéries
+pos: NOM
+lf: intempérie
+is a term candidate: 1
+
+-----------------
+
+if: défaut de collage
+pos: NOM de NOM
+lf: défaut de collage
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( défaut<=H> de<=P> collage<=M> )
+islands: 0
+
+
+-----------------
+
+if: découverte de l' aggravation du défaut
+pos: NOM de DET:ART NOM du NOM
+lf: découverte de le aggravation du défaut
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: tape-test
+pos: NOM
+lf: tape-test
+is a term candidate: 1
+
+-----------------
+
+if: technicien
+pos: NOM
+lf: technicien
+is a term candidate: 1
+
+-----------------
+
+if: exploitation de 90 000 .La fissure
+pos: NOM de NUM NUM ABR NOM
+lf: exploitation de 90 000 .La fissure
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: contrôle visuel
+pos: NOM ADJ
+lf: contrôle visuel
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( contrôle<=H> visuel<=M> )
+islands: 0
+
+
+-----------------
+
+if: actions
+pos: NOM
+lf: action
+is a term candidate: 1
+
+-----------------
+
+if: Dégradation aggravée de la structure
+pos: NOM VER:pper de DET:ART NOM
+lf: dégradation aggraver de le structure
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: fabrication de la pale
+pos: NOM de DET:ART NOM
+lf: fabrication de le pale
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( fabrication<=H> de<=P> la<=D> pale<=M> )
+islands: 0
+
+
+-----------------
+
+if: défaut
+pos: NOM
+lf: défaut
+is a term candidate: 1
+
+-----------------
+
+if: plan
+pos: NOM
+lf: plan
+is a term candidate: 1
+
+-----------------
+
+if: agriculteur
+pos: NOM
+lf: agriculteur
+is a term candidate: 1
+
+-----------------
+
+if: perte
+pos: NOM
+lf: perte
+is a term candidate: 1
+
+-----------------
+
+if: pale.L'arrêt de l' éolienne
+pos: NOM de DET:ART NOM
+lf: pale.L'arrêt de le éolienne
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( pale.L'arrêt<=H> de<=P> l'<=D> éolienne<=M> )
+islands: 0
+
+
+-----------------
+
+if: inspection
+pos: NOM
+lf: inspection
+is a term candidate: 1
+
+-----------------
+
+if: novembre
+pos: NOM
+lf: novembre
+is a term candidate: 1
+
+-----------------
+
+if: même parc éolien
+pos: ADJ NOM ADJ
+lf: même parc éolien
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: sol
+pos: NOM
+lf: sol
+is a term candidate: 1
+
+-----------------
+
+if: 14h30
+pos: NAM
+lf: 14h30
+is a term candidate: 1
+
+-----------------
+
+if: pale
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: zone
+pos: NOM
+lf: zone
+is a term candidate: 1
+
+-----------------
+
+if: occasion
+pos: NOM
+lf: occasion
+is a term candidate: 1
+
+-----------------
+
+if: fois
+pos: NOM
+lf: fois
+is a term candidate: 1
+
+-----------------
+
+if: réparations
+pos: NOM
+lf: réparation
+is a term candidate: 1
+
+-----------------
+
+if: exploitant
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+
+if: nacelle élévatrice
+pos: NOM ADJ
+lf: nacelle élévateur
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( nacelle<=H> élévatrice<=M> )
+islands: 0
+
+
+-----------------
+
+if: fissure
+pos: NOM
+lf: fissure
+is a term candidate: 1
+
+-----------------
+
+if: dégradation.Huit autres pales
+pos: NOM ADJ NOM
+lf: dégradation.Huit autre pale
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: mois de mai à cause de la crise sanitaire liée à la Covid-19
+pos: NOM de NOM à NOM de DET:ART NOM ADJ VER:pper à DET:ART NAM
+lf: mois|moi de mai à cause de le crise sanitaire lier à le Covid-19
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+

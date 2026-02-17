@@ -1,0 +1,114 @@
+if: France.L'époque
+pos: NAM
+lf: France.L'époque
+is a term candidate: 1
+
+-----------------
+
+if: importants passages de migration prénuptiale
+pos: ADJ NOM de NOM ADJ
+lf: important passage de migration prénuptial
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: cas de collision
+pos: NOM de NOM
+lf: cas de collision
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( cas<=H> de<=P> collision<=M> )
+islands: 0
+
+
+-----------------
+
+if: dizaine de cadavres de grues
+pos: NOM de NOM de NOM
+lf: dizaine de cadavre de grue
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: parc éolien Fin février
+pos: NOM ADJ ADJ NOM
+lf: parc éolien fin février
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: collision
+pos: NOM
+lf: collision
+is a term candidate: 1
+
+-----------------
+
+if: année
+pos: NOM
+lf: année
+is a term candidate: 1
+
+-----------------
+
+if: espèce
+pos: NOM
+lf: espèce
+is a term candidate: 1
+
+-----------------
+
+if: Découverte de cadavres de grues
+pos: NOM de NOM de NOM
+lf: découverte de cadavre de grue
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: lieu de nuit
+pos: NOM de NOM
+lf: lieu de nuit
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( lieu<=H> de<=P> nuit<=M> )
+islands: 0
+
+
+-----------------
+
+if: nuit
+pos: NOM
+lf: nuit
+is a term candidate: 1
+
+-----------------
+

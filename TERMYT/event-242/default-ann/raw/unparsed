@@ -1,0 +1,237 @@
+if: bureau
+pos: NOM
+lf: bureau
+is a term candidate: 1
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: jeune
+pos: NOM
+lf: jeune
+is a term candidate: 1
+
+-----------------
+
+if: système de détection/effarouchement
+pos: NOM de NOM
+lf: système de détection/effarouchement
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( système<=H> de<=P> détection/effarouchement<=M> )
+islands: 0
+
+
+-----------------
+
+if: trajectoire
+pos: NOM
+lf: trajectoire
+is a term candidate: 1
+
+-----------------
+
+if: collision directe
+pos: NOM ADJ
+lf: collision direct
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( collision<=H> directe<=M> )
+islands: 0
+
+
+-----------------
+
+if: distance de détection
+pos: NOM de NOM
+lf: distance de détection
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( distance<=H> de<=P> détection<=M> )
+islands: 0
+
+
+-----------------
+
+if: études
+pos: NOM
+lf: étude
+is a term candidate: 1
+
+-----------------
+
+if: espèces cibles
+pos: NOM NOM
+lf: espèce cible
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( espèces<=H> cibles<=M> )
+islands: 0
+
+
+-----------------
+
+if: phase
+pos: NOM
+lf: phase
+is a term candidate: 1
+
+-----------------
+
+if: espèce
+pos: NOM
+lf: espèce
+is a term candidate: 1
+
+-----------------
+
+if: moyenne/grande taille de rapaces
+pos: ADJ NOM de NOM
+lf: moyenne/grand taille de rapace
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: sol
+pos: NOM
+lf: sol
+is a term candidate: 1
+
+-----------------
+
+if: maximum possible
+pos: NOM ADJ
+lf: maximum possible
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( maximum<=H> possible<=M> )
+islands: 0
+
+
+-----------------
+
+if: 18h17
+pos: NAM
+lf: 18h17
+is a term candidate: 1
+
+-----------------
+
+if: individu isolé
+pos: NOM ADJ
+lf: individu isolé
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( individu<=H> isolé<=M> )
+islands: 0
+
+
+-----------------
+
+if: suivi environnemental
+pos: NOM ADJ
+lf: suivi environnemental
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( suivi<=H> environnemental<=M> )
+islands: 0
+
+
+-----------------
+
+if: Choc
+pos: NOM
+lf: choc
+is a term candidate: 1
+
+-----------------
+
+if: apprentissage
+pos: NOM
+lf: apprentissage
+is a term candidate: 1
+
+-----------------
+
+if: approche de l' éolienne.L'éolienne
+pos: NOM de DET:ART NOM
+lf: approche de le éolienne.L'éolienne
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( approche<=H> de<=P> l'<=D> éolienne.L'éolienne<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: mortalité aviaire
+pos: NOM ADJ
+lf: mortalité aviaire
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( mortalité<=H> aviaire<=M> )
+islands: 0
+
+
+-----------------
+
+if: vidéos de l' éolienne
+pos: NOM de DET:ART NOM
+lf: vidéo de le éolienne
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( vidéos<=H> de<=P> l'<=D> éolienne<=M> )
+islands: 0
+
+
+-----------------
+
+if: m
+pos: NOM
+lf: m
+is a term candidate: 1
+
+-----------------
+
+if: milan royal
+pos: NOM ADJ
+lf: milan royal
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( milan<=H> royal<=M> )
+islands: 0
+
+
+-----------------
+

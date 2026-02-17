@@ -1,0 +1,183 @@
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: tête de l' aérogénérateur
+pos: NOM de DET:ART NOM
+lf: tête de le aérogénérateur
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( tête<=H> de<=P> l'<=D> aérogénérateur<=M> )
+islands: 0
+
+
+-----------------
+
+if: m de haut
+pos: NOM de NOM
+lf: m de haut
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( m<=H> de<=P> haut<=M> )
+islands: 0
+
+
+-----------------
+
+if: machine
+pos: NOM
+lf: machine
+is a term candidate: 1
+
+-----------------
+
+if: pupitre de commande
+pos: NOM de NOM
+lf: pupitre de commande
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( pupitre<=H> de<=P> commande<=M> )
+islands: 0
+
+
+-----------------
+
+if: pompiers
+pos: NOM
+lf: pompier
+is a term candidate: 1
+
+-----------------
+
+if: défaillance électrique
+pos: NOM ADJ
+lf: défaillance électrique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( défaillance<=H> électrique<=M> )
+islands: 0
+
+
+-----------------
+
+if: interventions
+pos: NOM
+lf: intervention
+is a term candidate: 1
+
+-----------------
+
+if: fumée
+pos: NOM
+lf: fumée
+is a term candidate: 1
+
+-----------------
+
+if: origine de l' incendie
+pos: NOM de DET:ART NOM
+lf: origine de le incendie
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( origine<=H> de<=P> l'<=D> incendie<=M> )
+islands: 0
+
+
+-----------------
+
+if: reconnaissance
+pos: NOM
+lf: reconnaissance
+is a term candidate: 1
+
+-----------------
+
+if: Feu
+pos: NOM
+lf: feu
+is a term candidate: 1
+
+-----------------
+
+if: point de départ
+pos: NOM de NOM
+lf: point de départ
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( point<=H> de<=P> départ<=M> )
+islands: 0
+
+
+-----------------
+
+if: maintenance
+pos: NOM
+lf: maintenance
+is a term candidate: 1
+
+-----------------
+
+if: partie haute
+pos: NOM ADJ
+lf: partie haut
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( partie<=H> haute<=M> )
+islands: 0
+
+
+-----------------
+
+if: milieux périlleux
+pos: NOM ADJ
+lf: milieu périlleux
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( milieux<=H> périlleux<=M> )
+islands: 0
+
+
+-----------------
+
+if: armoire
+pos: NOM
+lf: armoire
+is a term candidate: 1
+
+-----------------
+
+if: trappe de ventilation
+pos: NOM de NOM
+lf: trappe de ventilation
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( trappe<=H> de<=P> ventilation<=M> )
+islands: 0
+
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+

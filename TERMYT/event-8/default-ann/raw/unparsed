@@ -1,0 +1,529 @@
+if: m
+pos: NOM
+lf: m
+is a term candidate: 1
+
+-----------------
+
+if: niveau
+pos: NOM
+lf: niveau
+is a term candidate: 1
+
+-----------------
+
+if: suite à la détection
+pos: NOM à DET:ART NOM
+lf: suite à le détection
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( suite<=H> à<=P> la<=D> détection<=M> )
+islands: 0
+
+
+-----------------
+
+if: absence de fissures résiduelles
+pos: NOM de NOM ADJ
+lf: absence de fissure résiduel
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( absence<=H> de<=P> ( fissures<=H> résiduelles<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: pied de mat
+pos: NOM de NOM
+lf: pied de mat
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( pied<=H> de<=P> mat<=M> )
+islands: 0
+
+
+-----------------
+
+if: charge de la maintenance
+pos: NOM de DET:ART NOM
+lf: charge de le maintenance
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( charge<=H> de<=P> la<=D> maintenance<=M> )
+islands: 0
+
+
+-----------------
+
+if: oscillation anormale
+pos: NOM ADJ
+lf: oscillation anormal
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( oscillation<=H> anormale<=M> )
+islands: 0
+
+
+-----------------
+
+if: trous
+pos: NOM
+lf: trou
+is a term candidate: 1
+
+-----------------
+
+if: rupture
+pos: NOM
+lf: rupture
+is a term candidate: 1
+
+-----------------
+
+if: pale au hub
+pos: NOM au NOM
+lf: pale au hub
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( pale<=H> au<=P> hub<=M> )
+islands: 0
+
+
+-----------------
+
+if: pied
+pos: NOM
+lf: pied
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: stockage des pièces constitutives
+pos: NOM des NOM ADJ
+lf: stockage du pièce constitutif
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( stockage<=H> des<=P> ( pièces<=H> constitutives<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: rupture du roulement
+pos: NOM du NOM
+lf: rupture du roulement
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( rupture<=H> du<=P> roulement<=M> )
+islands: 0
+
+
+-----------------
+
+if: pale
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: fabricante
+pos: NOM
+lf: fabricant
+is a term candidate: 1
+
+-----------------
+
+if: installation
+pos: NOM
+lf: installation
+is a term candidate: 1
+
+-----------------
+
+if: roulement
+pos: NOM
+lf: roulement
+is a term candidate: 1
+
+-----------------
+
+if: Chute
+pos: NOM
+lf: chute
+is a term candidate: 1
+
+-----------------
+
+if: contraintes anormales
+pos: NOM ADJ
+lf: contrainte anormal
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( contraintes<=H> anormales<=M> )
+islands: 0
+
+
+-----------------
+
+if: m de l' A10.L'analyse des relevés des capteurs
+pos: NOM de DET:ART NOM des NOM des NOM
+lf: m de le A10.L'analyse du relevé du capteur
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: t
+pos: NOM
+lf: t
+is a term candidate: 1
+
+-----------------
+
+if: aérogénérateur
+pos: NOM
+lf: aérogénérateur
+is a term candidate: 1
+
+-----------------
+
+if: anomalie
+pos: NOM
+lf: anomalie
+is a term candidate: 1
+
+-----------------
+
+if: place de nouveaux roulements possédant une protection
+pos: NOM de ADJ NOM VER:ppre DET:ART NOM
+lf: place de nouveau roulement posséder un protection
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: service fin octobre
+pos: NOM ADJ NOM
+lf: service fin octobre
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: corrosion
+pos: NOM
+lf: corrosion
+is a term candidate: 1
+
+-----------------
+
+if: contrôles
+pos: NOM
+lf: contrôle
+is a term candidate: 1
+
+-----------------
+
+if: fabricant
+pos: NOM
+lf: fabricant
+is a term candidate: 1
+
+-----------------
+
+if: arrêt
+pos: NOM
+lf: arrêt
+is a term candidate: 1
+
+-----------------
+
+if: compte-rendus
+pos: NOM
+lf: compte-rendus
+is a term candidate: 1
+
+-----------------
+
+if: aspect visuel
+pos: NOM ADJ
+lf: aspect visuel
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( aspect<=H> visuel<=M> )
+islands: 0
+
+
+-----------------
+
+if: défaut
+pos: NOM
+lf: défaut
+is a term candidate: 1
+
+-----------------
+
+if: astreinte
+pos: NOM
+lf: astreinte
+is a term candidate: 1
+
+-----------------
+
+if: roulements
+pos: NOM
+lf: roulement
+is a term candidate: 1
+
+-----------------
+
+if: courant de Foucault.Les roulements
+pos: NOM de ADJ NOM
+lf: courant de Foucault.Les roulement
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: orientation des pales
+pos: NOM des NOM
+lf: orientation du pale
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( orientation<=H> des<=P> pales<=M> )
+islands: 0
+
+
+-----------------
+
+if: différence
+pos: NOM
+lf: différence
+is a term candidate: 1
+
+-----------------
+
+if: hub
+pos: NOM
+lf: hub
+is a term candidate: 1
+
+-----------------
+
+if: conditions de production
+pos: NOM de NOM
+lf: condition de production
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( conditions<=H> de<=P> production<=M> )
+islands: 0
+
+
+-----------------
+
+if: mois.procéder au contrôle acoustique
+pos: NOM au NOM ADJ
+lf: mois.procéder au contrôle acoustique
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: corrosion.L'exploitant demande à l' entreprise
+pos: ADJ NOM à DET:ART NOM
+lf: corrosion.L'exploitant demande à le entreprise
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: été
+pos: NOM
+lf: été
+is a term candidate: 1
+
+-----------------
+
+if: corrosion des alésages
+pos: NOM des NOM
+lf: corrosion du alésage
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( corrosion<=H> des<=P> alésages<=M> )
+islands: 0
+
+
+-----------------
+
+if: traces de corrosion
+pos: NOM de NOM
+lf: trace de corrosion
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( traces<=H> de<=P> corrosion<=M> )
+islands: 0
+
+
+-----------------
+
+if: entretien
+pos: NOM
+lf: entretien
+is a term candidate: 1
+
+-----------------
+
+if: service
+pos: NOM
+lf: service
+is a term candidate: 1
+
+-----------------
+
+if: équipe de maintenance
+pos: NOM de NOM
+lf: équipe de maintenance
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( équipe<=H> de<=P> maintenance<=M> )
+islands: 0
+
+
+-----------------
+
+if: m de la D389
+pos: NOM de DET:ART NAM
+lf: m de le D389
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( m<=H> de<=P> la<=D> D389<=M> )
+islands: 0
+
+
+-----------------
+
+if: alésages traversant une des bagues du roulement reliant pale
+pos: NOM VER:ppre DET:ART des NOM du NOM VER:ppre NOM
+lf: alésage traverser un du bague du roulement relier pale
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: parc de 26 éoliennes de 2 MW
+pos: NOM de NUM NOM de NUM NOM
+lf: parc de 26 éolienne de 2 MW
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: éoliennes du parc
+pos: NOM du NOM
+lf: éolienne du parc
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( éoliennes<=H> du<=P> parc<=M> )
+islands: 0
+
+
+-----------------
+
+if: roulements de l' ensemble des éoliennes
+pos: NOM de DET:ART NOM des ADJ
+lf: roulement de le ensemble du éolien
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: contrôle visuel
+pos: NOM ADJ
+lf: contrôle visuel
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( contrôle<=H> visuel<=M> )
+islands: 0
+
+
+-----------------
+
+if: chute
+pos: NOM
+lf: chute
+is a term candidate: 1
+
+-----------------
+
+if: remplacement de la pale
+pos: NOM de DET:ART NOM
+lf: remplacement de le pale
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( remplacement<=H> de<=P> la<=D> pale<=M> )
+islands: 0
+
+
+-----------------
+
+if: vibration suspecte
+pos: NOM ADJ
+lf: vibration suspect
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( vibration<=H> suspecte<=M> )
+islands: 0
+
+
+-----------------
+
+if: signe précurseur
+pos: NOM ADJ
+lf: signe précurseur
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( signe<=H> précurseur<=M> )
+islands: 0
+
+
+-----------------
+

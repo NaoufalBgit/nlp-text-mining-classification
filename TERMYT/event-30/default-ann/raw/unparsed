@@ -1,0 +1,246 @@
+if: sol
+pos: NOM
+lf: sol
+is a term candidate: 1
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: visite de site
+pos: NOM de NOM
+lf: visite de site
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( visite<=H> de<=P> site<=M> )
+islands: 0
+
+
+-----------------
+
+if: cause
+pos: NOM
+lf: cause
+is a term candidate: 1
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: simulations de cas de fuite
+pos: NOM de NOM de NOM
+lf: simulation de cas de fuite
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: une des éolienne
+pos: NOM des NOM
+lf: un du éolienne
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( une<=H> des<=P> éolienne<=M> )
+islands: 0
+
+
+-----------------
+
+if: incidents environnementaux
+pos: NOM ADJ
+lf: incident environnemental
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( incidents<=H> environnementaux<=M> )
+islands: 0
+
+
+-----------------
+
+if: sensibilisations
+pos: NOM
+lf: sensibilisation
+is a term candidate: 1
+
+-----------------
+
+if: exploitant
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+
+if: sous-traitant
+pos: NOM
+lf: sous-traitant
+is a term candidate: 1
+
+-----------------
+
+if: appoint des niveaux
+pos: NOM des NOM
+lf: appoint du niveau
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( appoint<=H> des<=P> niveaux<=M> )
+islands: 0
+
+
+-----------------
+
+if: impact
+pos: NOM
+lf: impact
+is a term candidate: 1
+
+-----------------
+
+if: opérateur
+pos: NOM
+lf: opérateur
+is a term candidate: 1
+
+-----------------
+
+if: diagnostic de pollution des sols
+pos: NOM de NOM des NOM
+lf: diagnostic de pollution du sol
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: quantité
+pos: NOM
+lf: quantité
+is a term candidate: 1
+
+-----------------
+
+if: travaux de dépollution nécessaires.L'exploitant
+pos: NOM de NOM ADJ
+lf: travail de dépollution nécessaires.L'exploitant
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( travaux<=H> de<=P> ( dépollution<=H> nécessaires.L'exploitant<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: accidents
+pos: NOM
+lf: accident
+is a term candidate: 1
+
+-----------------
+
+if: sol au pied du mât
+pos: NOM au NOM du NOM
+lf: sol au pied du mât
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: Fuite
+pos: NOM
+lf: fuite
+is a term candidate: 1
+
+-----------------
+
+if: sous-traitants de maintenance
+pos: NOM de NOM
+lf: sous-traitant de maintenance
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( sous-traitants<=H> de<=P> maintenance<=M> )
+islands: 0
+
+
+-----------------
+
+if: accumulateur à un collecteur de deux pales.L'exploitant
+pos: NOM à DET:ART NOM de NUM NOM
+lf: accumulateur à un collecteur de deux pales.L'exploitant
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: fuite
+pos: NOM
+lf: fuite
+is a term candidate: 1
+
+-----------------
+
+if: fondation extérieure
+pos: NOM ADJ
+lf: fondation extérieur
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( fondation<=H> extérieure<=M> )
+islands: 0
+
+
+-----------------
+
+if: huile
+pos: NOM
+lf: huile
+is a term candidate: 1
+
+-----------------
+
+if: formations aux procédés internes
+pos: NOM aux NOM ADJ
+lf: formation au procédé interne
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: produit
+pos: NOM
+lf: produit
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+

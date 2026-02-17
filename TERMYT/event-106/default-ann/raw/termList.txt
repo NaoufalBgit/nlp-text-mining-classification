@@ -1,0 +1,175 @@
+# ID	Inflected form	Lemmatised form	Frequency	CValue	CValue1	CValuePlus	CValuePlus1	CValueStar	CValueStarH	CValueStarM	CValueStarR	CValueWCard	CValueWCardPlus	D	DDW	Freq	idf	ilnc	ilncFreq	iLong	IM	iTer	LLR	nbdoc4tc	NormFreq	tf	tf-idf	Head	Modifier	MainHead
+184	site industriel de fabrication de pièces	site industriel de fabrication de pièce	1	2.58496250072116	2.8073549220576	2.58496250072116	2.8073549220576	N/A	N/A	N/A	0.222392421336448	0	0	1	0	1	0:0	0	0	0.166666666666667	5	0.142857142857143	0.000115129154648748	1	0.2	0:1	0:0	185	190	121	
+142	remise à niveau des installations existantes	remise à niveau du installation existant	1	2.58496250072116	2.8073549220576	2.58496250072116	2.8073549220576	N/A	N/A	N/A	0.222392421336448	0	0	1	0	1	0:0	0	0	0.166666666666667	5	0.142857142857143	0.000115129154648748	1	0.2	0:1	0:0	143	146	144	
+174	perte de 50 milliards de yens	perte de 50 milliard de yen	1	2.58496250072116	2.8073549220576	2.58496250072116	2.8073549220576	1	N/A	N/A	0.222392421336448	0	0	1	0	1	0:0	0	0	0.166666666666667	1.66666666666667	0.142857142857143	4.05454274736608e-06	1	0.2	0:1	0:0	62	176	62	
+161	mise à l' arrêt immédiate	mise à le arrêt immédiat	1	2.32192809488736	2.58496250072116	2.32192809488736	2.58496250072116	N/A	N/A	N/A	0.263034405833794	0	0	1	0	1	0:0	0	0	0.2	5	0.166666666666667	0.000115129154648748	1	0.2	0:1	0:0	162	163	162	
+44	étouffement de la combustion	étouffement de le combustion	1	2	2.32192809488736	2	2.32192809488736	N/A	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	5	0.2	0.000115129154648748	1	0.2	0:1	0:0	45	46	45	
+98	sable remplissant un interstice	sable remplir un interstice	1	2	2.32192809488736	2	2.32192809488736	N/A	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	2.5	0.2	6.93134680530211e-06	1	0.2	0:1	0:0	99	100	99	
+193	ferme éolienne à Kahuku	ferme éolienne à Kahuku	1	2	2.32192809488736	2	2.32192809488736	N/A	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	5	0.2	0.000115129154648748	1	0.2	0:1	0:0	194	197	196	
+119	site industriel à Oyama	site industriel à Oyama	1	2	2.32192809488736	2	2.32192809488736	N/A	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	2.5	0.2	6.93134680530211e-06	1	0.2	0:1	0:0	120	123	121	
+41	analyse de l' accident	analyse de le accident	1	2	2.32192809488736	2	2.32192809488736	N/A	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	0.833333333333333	0.2	0	1	0.2	0:1	0:0	42	43	42	
+69	exploitant de la batterie	exploitant de le batterie	1	2	2.32192809488736	2	2.32192809488736	3	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	0.625	0.2	0.339788073540795	1	0.2	0:1	0:0	70	27	70	
+64	blocs de 96 cellules	bloc de 96 cellule	1	2	2.32192809488736	2	2.32192809488736	3	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	1.25	0.2	6.93134680530211e-06	1	0.2	0:1	0:0	65	66	65	
+168	Feu de batterie sodium	feu de batterie sodium	1	2	2.32192809488736	2	2.32192809488736	3	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	1.66666666666667	0.2	1.38627436101989	1	0.2	0:1	0:0	169	40	170	
+59	prévision de perte exceptionnelle	prévision de perte exceptionnel	1	2	2.32192809488736	2	2.32192809488736	3	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	5	0.2	0.000115129154648748	1	0.2	0:1	0:0	60	61	60	
+110	écoulement du sodium fondu	écoulement du sodium fondu	1	2	2.32192809488736	2	2.32192809488736	2	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	5	0.2	0.000115129154648748	1	0.2	0:1	0:0	111	112	111	
+53	suite de l' accident	suite de le accident	1	2	2.32192809488736	2	2.32192809488736	2	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	1.66666666666667	0.2	0	1	0.2	0:1	0:0	54	43	54	
+23	arrivée des pompiers.La batterie	arrivée du pompiers.La batterie	1	2	2.32192809488736	2	2.32192809488736	2	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	1.25	0.2	0.339788073540795	1	0.2	0:1	0:0	24	27	25	
+36	contact de l' eau	contact de le eau	1	2	2.32192809488736	2	2.32192809488736	2	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	5	0.2	0.000115129154648748	1	0.2	0:1	0:0	37	38	37	
+151	causes de l' accident	cause de le accident	1	2	2.32192809488736	2	2.32192809488736	2	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	1.66666666666667	0.2	0	1	0.2	0:1	0:0	152	43	152	
+124	batterie au sodium-soufre	batterie au sodium-soufre	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	1.25	0.25	2.87671655764548e-06	1	0.2	0:1	0:0	27	126	27	
+3	injection de vermiculite	injection de vermiculite	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	5	0.25	0.000115129154648748	1	0.2	0:1	0:0	4	5	4	
+135	fuite de matière	fuite de matière	1	1.58496250072116	2	1.58496250072116	2	1	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	5	0.25	0.000115129154648748	1	0.2	0:1	0:0	136	137	136	
+89	ensemble des modules	ensemble du module	1	1.58496250072116	2	1.58496250072116	2	3	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	0.5	0.25	0.000115129154648748	1	0.2	0:1	0:0	52	91	52	
+0	milliards de Yens	milliard de yen	1	1.58496250072116	2	1.58496250072116	2	3	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	2.5	0.25	6.93134680530211e-06	1	0.2	0:1	0:0	1	2	1	
+106	progression des flammes	progression du flamme	1	1.58496250072116	2	1.58496250072116	2	3	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	5	0.25	0.000115129154648748	1	0.2	0:1	0:0	107	108	107	
+158	perte de confinement	perte de confinement	1	1.58496250072116	2	1.58496250072116	2	2	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	1.66666666666667	0.25	4.05454274736608e-06	1	0.2	0:1	0:0	62	160	62	
+198	communiqué de presse	communiqué de presse	1	1.58496250072116	2	1.58496250072116	2	2	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	1.25	0.25	0.000115129154648748	1	0.2	0:1	0:0	199	200	199	
+81	propagation du feu	propagation du feu	1	1.58496250072116	2	1.58496250072116	2	2	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	5	0.25	0.000115129154648748	1	0.2	0:1	0:0	82	83	82	
+131	foyer de sable	foyer de sable	1	1.58496250072116	2	1.58496250072116	2	2	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	2.5	0.25	1.38627436101989	1	0.2	0:1	0:0	132	99	132	
+120	site industriel	site industriel	2	1	1.58496250072116	3	4.75488750216347	N/A	0	N/A	N/A	1	3	1	0	2	0:0	2	2	1	2.5	2	1.09859895531206e-05	1	0.4	0:2	0:0	121	122	121	
+138	panneaux isolants	panneau isolant	1	1	1.58496250072116	1	1.58496250072116	N/A	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	2.5	0.333333333333333	6.93134680530211e-06	1	0.2	0:1	0:0	85	140	85	
+93	arrêt total	arrêt total	1	1	1.58496250072116	1	1.58496250072116	N/A	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	2.5	0.333333333333333	6.93134680530211e-06	1	0.2	0:1	0:0	94	95	94	
+155	pompiers locaux	pompier local	1	1	1.58496250072116	1	1.58496250072116	N/A	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	5	0.333333333333333	0.000115129154648748	1	0.2	0:1	0:0	156	157	156	
+49	année fiscale	année fiscal	1	1	1.58496250072116	1	1.58496250072116	N/A	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	5	0.333333333333333	0.000115129154648748	1	0.2	0:1	0:0	50	51	50	
+115	cellules adjacentes	cellule adjacent	1	1	1.58496250072116	1	1.58496250072116	N/A	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	2.5	0.333333333333333	6.93134680530211e-06	1	0.2	0:1	0:0	68	117	68	
+84	panneaux coupe-feu	panneau coupe-feu	1	1	1.58496250072116	1	1.58496250072116	3	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	2.5	0.333333333333333	6.93134680530211e-06	1	0.2	0:1	0:0	85	86	85	
+127	revenu net	revenu net	1	1	1.58496250072116	1	1.58496250072116	3	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	5	0.333333333333333	0.000115129154648748	1	0.2	0:1	0:0	128	129	128	
+103	semaine suivante	semaine suivant	1	1	1.58496250072116	1	1.58496250072116	3	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	5	0.333333333333333	0.000115129154648748	1	0.2	0:1	0:0	104	105	104	
+76	extinction spécifique	extinction spécifique	1	1	1.58496250072116	1	1.58496250072116	3	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	2.5	0.333333333333333	0.000115129154648748	1	0.2	0:1	0:0	56	78	56	
+181	blocs contigus	bloc contigu	1	1	1.58496250072116	1	1.58496250072116	3	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	1.25	0.333333333333333	6.93134680530211e-06	1	0.2	0:1	0:0	65	183	65	
+29	sinistre auto-entretenu	sinistre auto-entretenu	1	1	1.58496250072116	1	1.58496250072116	2	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	5	0.333333333333333	0.000115129154648748	1	0.2	0:1	0:0	30	31	30	
+91	modules	module	5	0	4	0	6	N/A	N/A	4	N/A	4	6	1	0	5	0:0	0	0	5	N/A	2.5	N/A	1	1	0:5	0:0				
+65	blocs	bloc	4	0	3	0	5	N/A	2	N/A	N/A	3	5	1	0	4	0:0	2	2	4	N/A	6	N/A	1	0.8	0:4	0:0				
+27	batterie	batterie	4	0	3	0	5	3	3	1	N/A	3	5	1	0	4	0:0	1	1	4	N/A	4	N/A	1	0.8	0:4	0:0				
+62	perte	perte	3	0	2	0	4	1	0	N/A	N/A	2	4	1	0	3	0:0	3	3	3	N/A	6	N/A	1	0.6	0:3	0:0				
+40	sodium	sodium	3	0	2	0	4	2	2	2	N/A	2	4	1	0	3	0:0	1	1	3	N/A	3	N/A	1	0.6	0:3	0:0				
+43	accident	accident	3	0	2	0	4	2	N/A	0	N/A	2	4	1	0	3	0:0	0	0	3	N/A	1.5	N/A	1	0.6	0:3	0:0				
+20	batteries	batterie	2	0	1	0	3	N/A	1	N/A	N/A	1	3	1	0	2	0:0	1	1	2	N/A	2	N/A	1	0.4	0:2	0:0				
+68	cellules	cellule	2	0	1	0	3	N/A	0	N/A	N/A	1	3	1	0	2	0:0	2	2	2	N/A	3	N/A	1	0.4	0:2	0:0				
+42	analyse	analyse	2	0	1	0	3	N/A	1	N/A	N/A	1	3	1	0	2	0:0	1	1	2	N/A	2	N/A	1	0.4	0:2	0:0				
+121	site	site	2	0	0.5	0	3.5	N/A	-1	N/A	N/A	0.5	3.5	1	0	2	0:0	2	3	2	N/A	3	N/A	1	0.4	0:2	0:0				
+1	milliards	milliard	2	0	1	0	3	N/A	0	N/A	N/A	1	3	1	0	2	0:0	2	2	2	N/A	3	N/A	1	0.4	0:2	0:0				
+6	fabricant	fabricant	2	0	3	0	3	N/A	N/A	N/A	3	0	0	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.4	0:2	0:0				
+92	installations	installation	2	0	1	0	3	N/A	1	N/A	N/A	1	3	1	0	2	0:0	1	1	2	N/A	2	N/A	1	0.4	0:2	0:0				
+167	M	M	2	0	2	0	2	N/A	N/A	N/A	2	0	0	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.4	0:2	0:0				
+99	sable	sable	2	0	1	0	3	1	1	1	N/A	1	3	1	0	2	0:0	1	1	2	N/A	2	N/A	1	0.4	0:2	0:0				
+94	arrêt	arrêt	2	0	1	0	3	1	0	N/A	N/A	1	3	1	0	2	0:0	2	2	2	N/A	3	N/A	1	0.4	0:2	0:0				
+122	industriel	industriel	2	0	0.5	0	3.5	3	N/A	-1	N/A	0.5	3.5	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.4	0:2	0:0				
+85	panneaux	panneau	2	0	1	0	3	3	0	N/A	N/A	1	3	1	0	2	0:0	2	2	2	N/A	3	N/A	1	0.4	0:2	0:0				
+58	installation	installation	2	0	2	0	2	3	N/A	N/A	2	0	0	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.4	0:2	0:0				
+70	exploitant	exploitant	2	0	1	0	3	3	1	N/A	N/A	1	3	1	0	2	0:0	1	1	2	N/A	2	N/A	1	0.4	0:2	0:0				
+52	ensemble	ensemble	2	0	1	0	3	3	1	N/A	N/A	1	3	1	0	2	0:0	1	1	2	N/A	2	N/A	1	0.4	0:2	0:0				
+56	extinction	extinction	2	0	1	0	3	2	1	N/A	N/A	1	3	1	0	2	0:0	1	1	2	N/A	2	N/A	1	0.4	0:2	0:0				
+33	clients	client	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+117	adjacentes	adjacent	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+190	pièces	pièce	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+13	moindre importance impliquant des batteries NaS	moindre importance impliquer du batterie NaS	1	0	0	5.16992500144231	5.61470984411521	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.166666666666667	5	0.142857142857143	0.000115129154648748	1	0.2	0:1	0:0	15	14	16	
+134	Japon	Japon	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+176	50 milliards de yens	50 milliard de yen	1	0	0	4	4.64385618977472	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.25	5	0.2	0.000115129154648748	1	0.2	0:1	0:0	178	177	1	
+170	Feu	feu	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+22	court-circuit	court-circuit	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+78	spécifique	spécifique	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+202	frais	frais|frai	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+50	année	année	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+108	flammes	flamme	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+163	arrêt immédiate	arrêt immédiat	1	0	0	2	3.16992500144231	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.5	2.5	0.333333333333333	6.93134680530211e-06	1	0.2	0:1	0:0	94	165	94	
+34	service	service	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+26	pompiers.La	pompiers.La	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+162	mise	mise	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+152	causes	cause	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+18	impliquant	impliquer	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+143	remise à niveau	remise à niveau	1	0	0	3.16992500144231	4	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	5	0.5	0.000115129154648748	1	0.2	0:1	0:0	144	145	144	
+88	incendie	incendie	1	0	2	0	2	N/A	N/A	N/A	2	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+157	locaux	local	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+16	importance	importance	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+165	immédiate	immédiat	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+54	suite	suite	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+66	96 cellules	96 cellule	1	0	0	2	3.16992500144231	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.5	2.5	0.333333333333333	6.93134680530211e-06	1	0.2	0:1	0:0	68	67	68	
+114	fondu	fondu	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+177	50	50	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+189	fabrication	fabrication	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+12	incendies	incendie	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+197	Kahuku	Kahuku	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+130	fusible	fusible	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+160	confinement	confinement	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+67	96	96	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+87	outils	outil	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+21	NaS	NaS	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+140	isolants	isolant	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+128	revenu	revenu	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+46	combustion	combustion	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+47	courant	courant	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+37	contact	contact	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+191	protections	protection	1	0	1	0	1	1	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+82	propagation	propagation	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+183	contigus	contigu	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+5	vermiculite	vermiculite	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+60	prévision	prévision	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+111	écoulement	écoulement	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+180	yens	yen	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+100	remplissant un interstice	remplir un interstice	1	0	0	3.16992500144231	4	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.333333333333333	5	0.25	0.000115129154648748	1	0.2	0:1	0:0	101	102	101	
+25	arrivée	arrivée	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+144	remise	remise	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+154	dispositif	dispositif	1	0	1	0	1	1	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+107	progression	progression	1	0	0	0	2	3	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+109	7h40	7h40	1	0	1	0	1	3	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+148	existantes	existant	1	0	0	0	2	3	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+195	ferme	ferme	1	0	0	0	2	3	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+4	injection	injection	1	0	0	0	2	3	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+199	communiqué	communiqué	1	0	1	0	3	3	1	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+132	foyer	foyer	1	0	0	0	2	3	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+137	matière	matière	1	0	0	0	2	3	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+86	coupe-feu	coupe-feu	1	0	0	0	2	3	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+166	cellule	cellule	1	0	1	0	1	3	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+146	installations existantes	installation existant	1	0	0	2	3.16992500144231	3	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.5	2.5	0.333333333333333	0.000115129154648748	1	0.2	0:1	0:0	92	148	92	
+141	apparition	apparition	1	0	1	0	1	3	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+73	NaS	NaS	1	0	1	0	1	3	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+10	autres	autre	1	0	0	0	2	3	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+31	auto-entretenu	auto-entretenu	1	0	0	0	2	3	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+201	courts-circuits	courts-circuit	1	0	1	0	1	3	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+129	net	net	1	0	0	0	2	3	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+200	presse	presse	1	0	1	0	3	3	N/A	1	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+17	impliquant des batteries NaS	impliquer du batterie NaS	1	0	0	4	4.64385618977472	3	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.25	5	0.2	0.000115129154648748	1	0.2	0:1	0:0	18	19	18	
+104	semaine	semaine	1	0	0	0	2	3	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+19	batteries NaS	batterie NaS	1	0	0	2	3.16992500144231	3	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.5	2.5	0.333333333333333	0.000115129154648748	1	0.2	0:1	0:0	20	21	20	
+105	suivante	suivant	1	0	0	0	2	3	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+112	sodium fondu	sodium fondu	1	0	0	2	3.16992500144231	3	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.5	1.66666666666667	0.333333333333333	6.93134680530211e-06	1	0.2	0:1	0:0	40	114	40	
+102	interstice	interstice	1	0	0	0	2	3	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+80	carbures	carbure	1	0	1	0	1	3	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+96	monde	monde	1	0	1	0	1	2	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+28	temps	temps	1	0	1	0	1	2	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+169	Feu de batterie	feu de batterie	1	0	0	3.16992500144231	4	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	1.25	0.5	0.339788073540795	1	0.2	0:1	0:0	170	27	170	
+63	exceptionnelle	exceptionnel	1	0	0	0	2	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+118	fusibles	fusible	1	0	1	0	1	2	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+57	Etats-Unis	Etats-Unis	1	0	1	0	1	2	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+178	milliards de yens	milliard de yen	1	0	0	3.16992500144231	4	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	2.5	0.5	6.93134680530211e-06	1	0.2	0:1	0:0	1	180	1	
+185	site industriel de fabrication	site industriel de fabrication	1	0	0	4	4.64385618977472	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.25	2.5	0.4	6.93134680530211e-06	1	0.2	0:1	0:0	120	189	121	
+149	fusion	fusion	1	0	1	0	1	2	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+30	sinistre	sinistre	1	0	0	0	2	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+101	remplissant	remplir	1	0	0	0	2	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+24	arrivée des pompiers.La	arrivée du pompiers.La	1	0	0	3.16992500144231	4	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	5	0.5	0.000115129154648748	1	0.2	0:1	0:0	25	26	25	
+194	ferme éolienne	ferme éolienne	1	0	0	2	3.16992500144231	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.5	5	0.666666666666667	0.000115129154648748	1	0.2	0:1	0:0	196	195	196	
+14	moindre	moindre	1	0	0	0	2	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+97	un	un	1	0	1	0	1	2	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+48	surlendemain	surlendemain	1	0	1	0	1	2	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+95	total	total	1	0	0	0	2	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+61	perte exceptionnelle	perte exceptionnel	1	0	0	2	3.16992500144231	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.5	1.66666666666667	0.333333333333333	4.05454274736608e-06	1	0.2	0:1	0:0	62	63	62	
+123	Oyama	Oyama	1	0	0	0	2	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+150	production	production	1	0	1	0	1	2	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+32	mi	mi	1	0	1	0	1	2	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+126	sodium-soufre	sodium-soufre	1	0	0	0	2	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+51	fiscale	fiscal	1	0	0	0	2	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+35	mode	mode	1	0	1	0	1	2	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+136	fuite	fuite	1	0	0	0	2	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+79	sens	sens|sen	1	0	1	0	1	2	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+2	Yens	yen	1	0	0	0	2	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+75	bloc	bloc	1	0	1	0	1	2	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+83	feu	feu	1	0	0	0	2	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+156	pompiers	pompier	1	0	0	0	2	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+45	étouffement	étouffement	1	0	0	0	2	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+38	eau	eau	1	0	0	0	2	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+196	éolienne	éolienne	1	0	0	0	2	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+15	importance impliquant des batteries NaS	importance impliquer du batterie NaS	1	0	0	4.64385618977472	5.16992500144231	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.2	5	0.333333333333333	0.000115129154648748	1	0.2	0:1	0:0	16	17	16	
+145	niveau	niveau	1	0	0	0	2	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+8	cours.Deux	cours.Deux	1	0	0	0	2	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				

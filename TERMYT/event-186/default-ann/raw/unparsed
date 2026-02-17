@@ -1,0 +1,114 @@
+if: éolienne de 2 MW
+pos: NOM de NUM NAM
+lf: éolienne de 2 MW
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: place 24 h/24
+pos: NOM NUM NOM
+lf: place 24 h/24
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: zone
+pos: NOM
+lf: zone
+is a term candidate: 1
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: Chute
+pos: NOM
+lf: chute
+is a term candidate: 1
+
+-----------------
+
+if: extrémité
+pos: NOM
+lf: extrémité
+is a term candidate: 1
+
+-----------------
+
+if: morceaux
+pos: NOM
+lf: morceau
+is a term candidate: 1
+
+-----------------
+
+if: sol
+pos: NOM
+lf: sol
+is a term candidate: 1
+
+-----------------
+
+if: exploitant
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+
+if: pale
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: gardiennage
+pos: NOM
+lf: gardiennage
+is a term candidate: 1
+
+-----------------
+
+if: épisode venteux
+pos: NOM ADJ
+lf: épisode venteux
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( épisode<=H> venteux<=M> )
+islands: 0
+
+
+-----------------
+
+if: morceau de 20 m
+pos: NOM de NUM NOM
+lf: morceau de 20 m
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+

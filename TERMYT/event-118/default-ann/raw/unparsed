@@ -1,0 +1,216 @@
+if: câbles
+pos: NOM
+lf: câble
+is a term candidate: 1
+
+-----------------
+
+if: chute de la pièce métallique
+pos: NOM de DET:ART NOM ADJ
+lf: chute de le pièce métallique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( chute<=H> de<=P> la<=D> ( pièce<=H> métallique<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: pertes de production
+pos: NOM de NOM
+lf: perte de production
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( pertes<=H> de<=P> production<=M> )
+islands: 0
+
+
+-----------------
+
+if: 14h45
+pos: NAM
+lf: 14h45
+is a term candidate: 1
+
+-----------------
+
+if: éolienne à l' arrêt
+pos: NOM à DET:ART NOM
+lf: éolienne à le arrêt
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( éolienne<=H> à<=P> l'<=D> arrêt<=M> )
+islands: 0
+
+
+-----------------
+
+if: moyeu
+pos: NOM
+lf: moyeu
+is a term candidate: 1
+
+-----------------
+
+if: midi
+pos: NOM
+lf: midi
+is a term candidate: 1
+
+-----------------
+
+if: équipe de maintenance
+pos: NOM de NOM
+lf: équipe de maintenance
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( équipe<=H> de<=P> maintenance<=M> )
+islands: 0
+
+
+-----------------
+
+if: nacelle
+pos: NOM
+lf: nacelle
+is a term candidate: 1
+
+-----------------
+
+if: pièces de fixation du marche pied
+pos: NOM de NOM du NOM NOM
+lf: pièce de fixation du marche pied
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: Incident mécanique
+pos: NOM ADJ
+lf: incident mécanique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Incident<=H> mécanique<=M> )
+islands: 0
+
+
+-----------------
+
+if: suite de la remontée du défaut
+pos: NOM de DET:ART NOM du NOM
+lf: suite de le remontée du défaut
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: état
+pos: NOM
+lf: état
+is a term candidate: 1
+
+-----------------
+
+if: accès au pied de la turbine
+pos: NOM au NOM de DET:ART NOM
+lf: accès au pied de le turbine
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: conséquences des dégâts matériels
+pos: NOM des NOM ADJ
+lf: conséquence du dégât matériel
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( conséquences<=H> des<=P> ( dégâts<=H> matériels<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: alimentation
+pos: NOM
+lf: alimentation
+is a term candidate: 1
+
+-----------------
+
+if: marche pied
+pos: NOM NOM
+lf: marche pied
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( marche<=H> pied<=M> )
+islands: 0
+
+
+-----------------
+
+if: escalier
+pos: NOM
+lf: escalier
+is a term candidate: 1
+
+-----------------
+
+if: pied
+pos: NOM
+lf: pied
+is a term candidate: 1
+
+-----------------
+
+if: marche-pied coincé.Cet incident
+pos: ADJ NOM ADJ
+lf: marche-pied coincé.Cet incident
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: chute
+pos: NOM
+lf: chute
+is a term candidate: 1
+
+-----------------
+
+if: cône
+pos: NOM
+lf: cône
+is a term candidate: 1
+
+-----------------
+
+if: débris de marche-pieds
+pos: NOM de NOM
+lf: débris de marche-pied
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( débris<=H> de<=P> marche-pieds<=M> )
+islands: 0
+
+
+-----------------
+

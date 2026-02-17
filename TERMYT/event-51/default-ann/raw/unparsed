@@ -1,0 +1,168 @@
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: technicien de maintenance
+pos: NOM de NOM
+lf: technicien de maintenance
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( technicien<=H> de<=P> maintenance<=M> )
+islands: 0
+
+
+-----------------
+
+if: nez de la nacelle
+pos: NOM de DET:ART NOM
+lf: nez de le nacelle
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( nez<=H> de<=P> la<=D> nacelle<=M> )
+islands: 0
+
+
+-----------------
+
+if: période ventée
+pos: NOM ADJ
+lf: période venté
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( période<=H> ventée<=M> )
+islands: 0
+
+
+-----------------
+
+if: fixations de l' ensemble des nacelles du parc
+pos: NOM de DET:ART NOM des NOM du NOM
+lf: fixation de le ensemble du nacelle du parc
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: évolution de la fixation des nacelles
+pos: NOM de DET:ART NOM des NOM
+lf: évolution de le fixation du nacelle
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: suite de l' événement
+pos: NOM de DET:ART NOM
+lf: suite de le événement
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( suite<=H> de<=P> l'<=D> événement<=M> )
+islands: 0
+
+
+-----------------
+
+if: Chute du nez
+pos: NOM du NOM
+lf: chute du nez
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Chute<=H> du<=P> nez<=M> )
+islands: 0
+
+
+-----------------
+
+if: balisage
+pos: NOM
+lf: balisage
+is a term candidate: 1
+
+-----------------
+
+if: éolienne tombe
+pos: ADJ NOM
+lf: éolien tombe
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( éolienne<=M> tombe<=H> )
+islands: 0
+
+
+-----------------
+
+if: moyen
+pos: NOM
+lf: moyen
+is a term candidate: 1
+
+-----------------
+
+if: nacelle
+pos: NOM
+lf: nacelle
+is a term candidate: 1
+
+-----------------
+
+if: exploitation agricole
+pos: NOM ADJ
+lf: exploitation agricole
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( exploitation<=H> agricole<=M> )
+islands: 0
+
+
+-----------------
+
+if: champ
+pos: NOM
+lf: champ
+is a term candidate: 1
+
+-----------------
+
+if: fréquence de vérification
+pos: NOM de NOM
+lf: fréquence de vérification
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( fréquence<=H> de<=P> vérification<=M> )
+islands: 0
+
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+

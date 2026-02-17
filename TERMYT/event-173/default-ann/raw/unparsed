@@ -1,0 +1,148 @@
+if: espèce
+pos: NOM
+lf: espèce
+is a term candidate: 1
+
+-----------------
+
+if: hirondelle de fenêtre
+pos: NOM de NOM
+lf: hirondelle de fenêtre
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( hirondelle<=H> de<=P> fenêtre<=M> )
+islands: 0
+
+
+-----------------
+
+if: cas de mortalité
+pos: NOM de NOM
+lf: cas de mortalité
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( cas<=H> de<=P> mortalité<=M> )
+islands: 0
+
+
+-----------------
+
+if: Découverte de cadavres
+pos: NOM de NOM
+lf: découverte de cadavre
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Découverte<=H> de<=P> cadavres<=M> )
+islands: 0
+
+
+-----------------
+
+if: collision
+pos: NOM
+lf: collision
+is a term candidate: 1
+
+-----------------
+
+if: suivi environnemental
+pos: NOM ADJ
+lf: suivi environnemental
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( suivi<=H> environnemental<=M> )
+islands: 0
+
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: bureau
+pos: NOM
+lf: bureau
+is a term candidate: 1
+
+-----------------
+
+if: oiseaux migrateurs
+pos: NOM ADJ
+lf: oiseau migrateur
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( oiseaux<=H> migrateurs<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: études
+pos: NOM
+lf: étude
+is a term candidate: 1
+
+-----------------
+
+if: constat
+pos: NOM
+lf: constat
+is a term candidate: 1
+
+-----------------
+
+if: sol à proximité de 4 éoliennes 7 cadavres
+pos: NOM à NOM de NUM NOM NUM NOM
+lf: sol à proximité de 4 éolienne 7 cadavre
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: espèce menacée au niveau régional
+pos: NOM VER:pper au NOM ADJ
+lf: espèce menacer au niveau régional
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: parc
+pos: NOM
+lf: parc
+is a term candidate: 1
+
+-----------------
+
+if: vague de migration de l' espèce
+pos: NOM de NOM de DET:ART NOM
+lf: vague de migration de le espèce
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+

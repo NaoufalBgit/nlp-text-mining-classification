@@ -1,0 +1,41 @@
+# ID	Inflected form	Lemmatised form	Frequency	CValue	CValue1	CValuePlus	CValuePlus1	CValueStar	CValueStarH	CValueStarM	CValueStarR	CValueWCard	CValueWCardPlus	D	DDW	Freq	idf	ilnc	ilncFreq	iLong	IM	iTer	LLR	nbdoc4tc	NormFreq	tf	tf-idf	Head	Modifier	MainHead
+6	évolution de la fixation des nacelles	évolution de le fixation du nacelle	1	2.58496250072116	2.8073549220576	2.58496250072116	2.8073549220576	1	N/A	N/A	0.222392421336448	0	0	1	0	1	0:0	0	0	0.166666666666667	1	0.142857142857143	0	1	0.5	0:1	0:0	7	10	8	
+42	suite de l' événement	suite de le événement	1	2	2.32192809488736	2	2.32192809488736	N/A	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	2	0.2	0.000115129154648748	1	0.5	0:1	0:0	43	44	43	
+3	nez de la nacelle	nez de le nacelle	1	2	2.32192809488736	2	2.32192809488736	1	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	0.5	0.2	6.93134680530211e-06	1	0.5	0:1	0:0	4	5	4	
+27	fréquence de vérification	fréquence de vérification	1	1.58496250072116	2	1.58496250072116	2	1	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	2	0.25	0.000115129154648748	1	0.5	0:1	0:0	28	29	28	
+38	Chute du nez	chute du nez	1	1.58496250072116	2	1.58496250072116	2	1	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	1	0.25	1.38627436101989	1	0.5	0:1	0:0	39	4	39	
+24	technicien de maintenance	technicien de maintenance	1	1.58496250072116	2	1.58496250072116	2	1	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	2	0.25	0.000115129154648748	1	0.5	0:1	0:0	25	26	25	
+21	parc éolien	parc éolien	1	1	1.58496250072116	1	1.58496250072116	1	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	1	0.333333333333333	6.93134680530211e-06	1	0.5	0:1	0:0	20	23	20	
+11	éolienne tombe	éolien tombe	1	1	1.58496250072116	1	1.58496250072116	1	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	2	0.333333333333333	0.000115129154648748	1	0.5	0:1	0:0	13	12	13	
+35	période ventée	période venté	1	1	1.58496250072116	1	1.58496250072116	1	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	2	0.333333333333333	0.000115129154648748	1	0.5	0:1	0:0	36	37	36	
+0	exploitation agricole	exploitation agricole	1	1	1.58496250072116	1	1.58496250072116	1	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	2	0.333333333333333	0.000115129154648748	1	0.5	0:1	0:0	1	2	1	
+20	parc	parc	2	0	1	0	3	1	1	1	N/A	1	3	1	0	2	0:0	1	1	2	N/A	2	N/A	1	1	0:2	0:0				
+5	nacelle	nacelle	2	0	1	0	3	1	N/A	1	N/A	1	3	1	0	2	0:0	0	0	2	N/A	1	N/A	1	1	0:2	0:0				
+10	nacelles	nacelle	2	0	1	0	3	1	N/A	0	N/A	1	3	1	0	2	0:0	0	0	2	N/A	1	N/A	1	1	0:2	0:0				
+4	nez	nez	2	0	1	0	3	1	1	1	N/A	1	3	1	0	2	0:0	1	1	2	N/A	2	N/A	1	1	0:2	0:0				
+25	technicien	technicien	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.5	0:1	0:0				
+29	vérification	vérification	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+23	éolien	éolien	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+37	ventée	venté	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+26	maintenance	maintenance	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+7	évolution de la fixation	évolution de le fixation	1	0	0	4	4.64385618977472	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.25	2	0.4	0.000115129154648748	1	0.5	0:1	0:0	8	9	8	
+30	champ	champ	1	0	1	0	1	1	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+44	événement	événement	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+1	exploitation	exploitation	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.5	0:1	0:0				
+43	suite	suite	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.5	0:1	0:0				
+39	Chute	chute	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.5	0:1	0:0				
+28	fréquence	fréquence	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.5	0:1	0:0				
+18	ensemble	ensemble	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+13	tombe	tombe	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.5	0:1	0:0				
+2	agricole	agricole	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+16	fixations de l' ensemble	fixation de le ensemble	1	0	0	4	4.64385618977472	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.25	2	0.4	0.000115129154648748	1	0.5	0:1	0:0	17	18	17	
+41	moyen	moyen	1	0	1	0	1	1	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+32	balisage	balisage	1	0	1	0	1	1	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+36	période	période	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.5	0:1	0:0				
+17	fixations	fixation	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.5	0:1	0:0				
+33	place	place	1	0	1	0	1	1	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+12	éolienne	éolien	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+15	fixations de l' ensemble des nacelles	fixation de le ensemble du nacelle	1	0	0	5.16992500144231	5.61470984411521	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.166666666666667	1	0.285714285714286	0	1	0.5	0:1	0:0	16	10	17	
+9	fixation	fixation	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+8	évolution	évolution	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.5	0:1	0:0				
+31	éolienne	éolienne	1	0	1	0	1	1	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				

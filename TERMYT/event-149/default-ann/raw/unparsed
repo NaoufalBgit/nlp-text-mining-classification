@@ -1,0 +1,224 @@
+if: incident
+pos: NOM
+lf: incident
+is a term candidate: 1
+
+-----------------
+
+if: carbone de fixation de l' aérofrein
+pos: NOM de NOM de DET:ART NOM
+lf: carbone de fixation de le aérofrein
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: raison de l' arrêt de l' aérogénérateur
+pos: NOM de DET:ART NOM de DET:ART NOM
+lf: raison de le arrêt de le aérogénérateur
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: axe
+pos: NOM
+lf: axe
+is a term candidate: 1
+
+-----------------
+
+if: ARIA
+pos: NOM
+lf: aria
+is a term candidate: 1
+
+-----------------
+
+if: rayon de 150 m au pied du mât
+pos: NOM de NUM NOM au NOM du NOM
+lf: rayon de 150 m au pied du mât
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: parc au début
+pos: NOM au NOM
+lf: parc au début
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> au<=P> début<=M> )
+islands: 0
+
+
+-----------------
+
+if: installation
+pos: NOM
+lf: installation
+is a term candidate: 1
+
+-----------------
+
+if: débris
+pos: NOM
+lf: débris
+is a term candidate: 1
+
+-----------------
+
+if: extrémité des pales
+pos: NOM des NOM
+lf: extrémité du pale
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( extrémité<=H> des<=P> pales<=M> )
+islands: 0
+
+
+-----------------
+
+if: traitement
+pos: NOM
+lf: traitement
+is a term candidate: 1
+
+-----------------
+
+if: parc éolien Les 3 aérofreins
+pos: NOM ADJ DET:ART NUM NOM
+lf: parc éolien le 3 aérofrein
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: équipe technique
+pos: NOM ADJ
+lf: équipe technique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( équipe<=H> technique<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: fibre de verre
+pos: NOM de NOM
+lf: fibre de verre
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( fibre<=H> de<=P> verre<=M> )
+islands: 0
+
+
+-----------------
+
+if: rupture des parties
+pos: NOM des NOM
+lf: rupture du partie
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( rupture<=H> des<=P> parties<=M> )
+islands: 0
+
+
+-----------------
+
+if: sécurité
+pos: NOM
+lf: sécurité
+is a term candidate: 1
+
+-----------------
+
+if: recyclage
+pos: NOM
+lf: recyclage
+is a term candidate: 1
+
+-----------------
+
+if: suite de l' ouverture de la chaîne de sécurité
+pos: NOM de DET:ART NOM de DET:ART NOM de NOM
+lf: suite de le ouverture de le chaîne de sécurité
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: sol
+pos: NOM
+lf: sol
+is a term candidate: 1
+
+-----------------
+
+if: pied du mât
+pos: NOM du NOM
+lf: pied du mât
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( pied<=H> du<=P> mât<=M> )
+islands: 0
+
+
+-----------------
+
+if: site
+pos: NOM
+lf: site
+is a term candidate: 1
+
+-----------------
+
+if: constatée.Un accident similaire
+pos: ADJ NOM ADJ
+lf: constatée.Un accident similaire
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: Chute de 3 aérofreins
+pos: NOM de NUM NOM
+lf: chute de 3 aérofrein
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: filaire agréée.L'éolienne
+pos: NOM ADJ
+lf: filaire agréée.L'éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( filaire<=H> agréée.L'éolienne<=M> )
+islands: 0
+
+
+-----------------
+

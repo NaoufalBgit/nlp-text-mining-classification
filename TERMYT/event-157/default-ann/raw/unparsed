@@ -1,0 +1,188 @@
+if: rotor
+pos: NOM
+lf: rotor
+is a term candidate: 1
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: périmètre de sécurité
+pos: NOM de NOM
+lf: périmètre de sécurité
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( périmètre<=H> de<=P> sécurité<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne Un feu
+pos: ADJ DET:ART NOM
+lf: éolien un feu
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: partie moteur
+pos: NOM ADJ
+lf: partie moteur
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( partie<=H> moteur<=M> )
+islands: 0
+
+
+-----------------
+
+if: services de l' aviation civile
+pos: NOM de DET:ART NOM ADJ
+lf: service de le aviation civil
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( services<=H> de<=P> l'<=D> ( aviation<=H> civile<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: presse
+pos: NOM
+lf: presse
+is a term candidate: 1
+
+-----------------
+
+if: machine étant hors-service
+pos: NOM VER:ppre ADJ
+lf: machine être hors-service
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: éolienne de 2,5 MW
+pos: NOM de NUM NOM
+lf: éolienne de 2,5 MW
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: nacelle
+pos: NOM
+lf: nacelle
+is a term candidate: 1
+
+-----------------
+
+if: basculement à l' explosif
+pos: NOM à DET:ART NOM
+lf: basculement à le explosif
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( basculement<=H> à<=P> l'<=D> explosif<=M> )
+islands: 0
+
+
+-----------------
+
+if: balisage aéronautique
+pos: NOM ADJ
+lf: balisage aéronautique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( balisage<=H> aéronautique<=M> )
+islands: 0
+
+
+-----------------
+
+if: départ de feu.L'éolienne sinistrée
+pos: NOM de NOM ADJ
+lf: départ de feu.L'éolienne sinistré
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( départ<=H> de<=P> ( feu.L'éolienne<=H> sinistrée<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: Feu
+pos: NOM
+lf: feu
+is a term candidate: 1
+
+-----------------
+
+if: mise
+pos: NOM
+lf: mise
+is a term candidate: 1
+
+-----------------
+
+if: périmètre de sécurité de 300 m
+pos: NOM de NOM de NUM NOM
+lf: périmètre de sécurité de 300 m
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: feu
+pos: NOM
+lf: feu
+is a term candidate: 1
+
+-----------------
+
+if: incident électrique
+pos: NOM ADJ
+lf: incident électrique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( incident<=H> électrique<=M> )
+islands: 0
+
+
+-----------------
+
+if: opération
+pos: NOM
+lf: opération
+is a term candidate: 1
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+

@@ -1,0 +1,128 @@
+if: phénomène de barotraumatisme
+pos: NOM de NOM
+lf: phénomène de barotraumatisme
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( phénomène<=H> de<=P> barotraumatisme<=M> )
+islands: 0
+
+
+-----------------
+
+if: études
+pos: NOM
+lf: étude
+is a term candidate: 1
+
+-----------------
+
+if: sol
+pos: NOM
+lf: sol
+is a term candidate: 1
+
+-----------------
+
+if: espèce menacée au niveau local
+pos: NOM VER:pper au NOM ADJ
+lf: espèce menacer au niveau local
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: origine de la mort.C'est le 2ème cadavre de faucon crécerelle
+pos: NOM de DET:ART NOM DET:ART NUM NOM de NOM NOM
+lf: origine de le mort.C'est le 2ème cadavre de faucon crécerelle
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: ARIA
+pos: NOM
+lf: aria
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: cadavre de faucon crécerelle au pied
+pos: NOM de NOM NOM au NOM
+lf: cadavre de faucon crécerelle au pied
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: faucon crécerelle adulte
+pos: NOM NOM ADJ
+lf: faucon crécerelle adulte
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: bureau
+pos: NOM
+lf: bureau
+is a term candidate: 1
+
+-----------------
+
+if: m
+pos: NOM
+lf: m
+is a term candidate: 1
+
+-----------------
+
+if: suivi de la mortalité aviaire
+pos: NOM de DET:ART NOM ADJ
+lf: suivi de le mortalité aviaire
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( suivi<=H> de<=P> la<=D> ( mortalité<=H> aviaire<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: jours
+pos: NOM
+lf: jour
+is a term candidate: 1
+
+-----------------
+
+if: parc
+pos: NOM
+lf: parc
+is a term candidate: 1
+
+-----------------
+

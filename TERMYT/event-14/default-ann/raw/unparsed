@@ -1,0 +1,611 @@
+if: dispositif de détection
+pos: NOM de NOM
+lf: dispositif de détection
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( dispositif<=H> de<=P> détection<=M> )
+islands: 0
+
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: année
+pos: NOM
+lf: année
+is a term candidate: 1
+
+-----------------
+
+if: effarouchement
+pos: NOM
+lf: effarouchement
+is a term candidate: 1
+
+-----------------
+
+if: période de migration post-nuptiale.En
+pos: NOM de NOM ADJ
+lf: période de migration post-nuptiale.En
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( période<=H> de<=P> ( migration<=H> post-nuptiale.En<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: zone de survol
+pos: NOM de NOM
+lf: zone de survol
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( zone<=H> de<=P> survol<=M> )
+islands: 0
+
+
+-----------------
+
+if: bureau
+pos: NOM
+lf: bureau
+is a term candidate: 1
+
+-----------------
+
+if: mise
+pos: NOM
+lf: mise
+is a term candidate: 1
+
+-----------------
+
+if: études
+pos: NOM
+lf: étude
+is a term candidate: 1
+
+-----------------
+
+if: place de mesure
+pos: NOM de NOM
+lf: place de mesure
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( place<=H> de<=P> mesure<=M> )
+islands: 0
+
+
+-----------------
+
+if: 1h
+pos: NAM
+lf: 1h
+is a term candidate: 1
+
+-----------------
+
+if: catégorie vulnérable
+pos: NOM ADJ
+lf: catégorie vulnérable
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( catégorie<=H> vulnérable<=M> )
+islands: 0
+
+
+-----------------
+
+if: arrêt des machines de 1h
+pos: NOM des NOM de NAM
+lf: arrêt du machine de 1h
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: parc éolien comprenant 9 machines.Le rapace
+pos: NOM ADJ VER:ppre NUM NOM ADJ
+lf: parc éolien comprendre 9 machines.Le rapace
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: exploitant
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+
+if: coucher du soleil
+pos: NOM du NOM
+lf: coucher du soleil
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( coucher<=H> du<=P> soleil<=M> )
+islands: 0
+
+
+-----------------
+
+if: pale de l' éolienne
+pos: NOM de DET:ART NOM
+lf: pale de le éolienne
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( pale<=H> de<=P> l'<=D> éolienne<=M> )
+islands: 0
+
+
+-----------------
+
+if: passage migratoire
+pos: NOM ADJ
+lf: passage migratoire
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( passage<=H> migratoire<=M> )
+islands: 0
+
+
+-----------------
+
+if: réduction spécifique.L'exploitant
+pos: NOM ADJ
+lf: réduction spécifique.L'exploitant
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( réduction<=H> spécifique.L'exploitant<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: dispositif
+pos: NOM
+lf: dispositif
+is a term candidate: 1
+
+-----------------
+
+if: impact
+pos: NOM
+lf: impact
+is a term candidate: 1
+
+-----------------
+
+if: test de persistance utilisant des leurres au gabarit proche
+pos: NOM de NOM VER:ppre des NOM au NOM ADJ
+lf: test de persistance utiliser du leurre au gabarit proche
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: rayon de 50 m
+pos: NOM de NUM NOM
+lf: rayon de 50 m
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: période post-nuptiale
+pos: NOM ADJ
+lf: période post-nuptial
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( période<=H> post-nuptiale<=M> )
+islands: 0
+
+
+-----------------
+
+if: activité de l' avifaune
+pos: NOM de DET:ART NOM
+lf: activité de le avifaune
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( activité<=H> de<=P> l'<=D> avifaune<=M> )
+islands: 0
+
+
+-----------------
+
+if: ARIA
+pos: NOM
+lf: aria
+is a term candidate: 1
+
+-----------------
+
+if: Milan Royal
+pos: NAM NAM
+lf: Milan Royal
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Milan<=H> Royal<=M> )
+islands: 0
+
+
+-----------------
+
+if: cadre du suivi environnemental classique
+pos: NOM du NOM ADJ ADJ
+lf: cadre du suivi environnemental classique
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: lever du soleil
+pos: NOM du NOM
+lf: lever du soleil
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( lever<=H> du<=P> soleil<=M> )
+islands: 0
+
+
+-----------------
+
+if: cadavre de Milan Royal
+pos: NOM de NAM NAM
+lf: cadavre de Milan Royal
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: pied
+pos: NOM
+lf: pied
+is a term candidate: 1
+
+-----------------
+
+if: période de migration post-nuptiale
+pos: NOM de NOM ADJ
+lf: période de migration post-nuptial
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( période<=H> de<=P> ( migration<=H> post-nuptiale<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: novembre
+pos: NOM
+lf: novembre
+is a term candidate: 1
+
+-----------------
+
+if: approche
+pos: NOM
+lf: approche
+is a term candidate: 1
+
+-----------------
+
+if: rapace
+pos: NOM
+lf: rapace
+is a term candidate: 1
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: temps réel
+pos: NOM ADJ
+lf: temps réel
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( temps<=H> réel<=M> )
+islands: 0
+
+
+-----------------
+
+if: suivi spécifique
+pos: NOM ADJ
+lf: suivi spécifique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( suivi<=H> spécifique<=M> )
+islands: 0
+
+
+-----------------
+
+if: arrêt
+pos: NOM
+lf: arrêt
+is a term candidate: 1
+
+-----------------
+
+if: mois
+pos: NOM
+lf: mois|moi
+is a term candidate: 1
+
+-----------------
+
+if: septembre
+pos: NOM
+lf: septembre
+is a term candidate: 1
+
+-----------------
+
+if: suivi
+pos: NOM
+lf: suivi
+is a term candidate: 1
+
+-----------------
+
+if: évitement
+pos: NOM
+lf: évitement
+is a term candidate: 1
+
+-----------------
+
+if: caméras
+pos: NOM
+lf: caméra
+is a term candidate: 1
+
+-----------------
+
+if: cadre du suivi de la migration post-nuptiale
+pos: NOM du NOM de DET:ART NOM ADJ
+lf: cadre du suivi de le migration post-nuptial
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: trajectoire de vol
+pos: NOM de NOM
+lf: trajectoire de vol
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( trajectoire<=H> de<=P> vol<=M> )
+islands: 0
+
+
+-----------------
+
+if: mortalité du Milan Royal
+pos: NOM du NAM NAM
+lf: mortalité du Milan Royal
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: évidence
+pos: NOM
+lf: évidence
+is a term candidate: 1
+
+-----------------
+
+if: parc
+pos: NOM
+lf: parc
+is a term candidate: 1
+
+-----------------
+
+if: Mortalité
+pos: NOM
+lf: mortalité
+is a term candidate: 1
+
+-----------------
+
+if: espèce
+pos: NOM
+lf: espèce
+is a term candidate: 1
+
+-----------------
+
+if: régulation
+pos: NOM
+lf: régulation
+is a term candidate: 1
+
+-----------------
+
+if: un
+pos: NOM
+lf: un
+is a term candidate: 1
+
+-----------------
+
+if: octobre
+pos: NOM
+lf: octobre
+is a term candidate: 1
+
+-----------------
+
+if: prolongation de la durée du suivi de la mortalité
+pos: NOM de DET:ART NOM du NOM de DET:ART NOM
+lf: prolongation de le durée du suivi de le mortalité
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: rapace diurne
+pos: NOM ADJ
+lf: rapace diurne
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( rapace<=H> diurne<=M> )
+islands: 0
+
+
+-----------------
+
+if: étude
+pos: NOM
+lf: étude
+is a term candidate: 1
+
+-----------------
+
+if: fin de la migration postnuptiale
+pos: NOM de DET:ART NOM ADJ
+lf: fin de le migration postnuptial
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( fin<=H> de<=P> la<=D> ( migration<=H> postnuptiale<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: oiseaux
+pos: NOM
+lf: oiseau
+is a term candidate: 1
+
+-----------------
+
+if: suivi environnemental
+pos: NOM ADJ
+lf: suivi environnemental
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( suivi<=H> environnemental<=M> )
+islands: 0
+
+
+-----------------
+
+if: actions suivantes :reconduction
+pos: NOM ADJ ADJ
+lf: action suivant :reconduction
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: période
+pos: NOM
+lf: période
+is a term candidate: 1
+
+-----------------
+
+if: régulation des machines
+pos: NOM des NOM
+lf: régulation du machine
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( régulation<=H> des<=P> machines<=M> )
+islands: 0
+
+
+-----------------
+
+if: autres cas de décès
+pos: ADJ NOM de NOM
+lf: autre cas de décès
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: effarouchement sonore
+pos: NOM ADJ
+lf: effarouchement sonore
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( effarouchement<=H> sonore<=M> )
+islands: 0
+
+
+-----------------
+
+if: impact du parc
+pos: NOM du NOM
+lf: impact du parc
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( impact<=H> du<=P> parc<=M> )
+islands: 0
+
+
+-----------------
+

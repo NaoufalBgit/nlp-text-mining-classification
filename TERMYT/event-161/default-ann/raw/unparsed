@@ -1,0 +1,214 @@
+if: vitesse du vent
+pos: NOM du NOM
+lf: vitesse du vent
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( vitesse<=H> du<=P> vent<=M> )
+islands: 0
+
+
+-----------------
+
+if: défaut à 10 h. Des agents de maintenance
+pos: NOM à NUM ABR PRP:det NOM de NOM
+lf: défaut à 10 h. du agent de maintenance
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: pales
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: éolienne Une éolienne
+pos: ADJ DET:ART NOM
+lf: éolien un éolienne
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: accident
+pos: NOM
+lf: accident
+is a term candidate: 1
+
+-----------------
+
+if: débris de pale long
+pos: NOM de NOM ADJ
+lf: débris de pale long
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( débris<=H> de<=P> ( pale<=H> long<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: impact
+pos: NOM
+lf: impact
+is a term candidate: 1
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: drapeau
+pos: NOM
+lf: drapeau
+is a term candidate: 1
+
+-----------------
+
+if: défaut de vibration
+pos: NOM de NOM
+lf: défaut de vibration
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( défaut<=H> de<=P> vibration<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: assurance
+pos: NOM
+lf: assurance
+is a term candidate: 1
+
+-----------------
+
+if: présence
+pos: NOM
+lf: présence
+is a term candidate: 1
+
+-----------------
+
+if: Chute
+pos: NOM
+lf: chute
+is a term candidate: 1
+
+-----------------
+
+if: m/s
+pos: NOM
+lf: m/s
+is a term candidate: 1
+
+-----------------
+
+if: inspection des installations
+pos: NOM des NOM
+lf: inspection du installation
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( inspection<=H> des<=P> installations<=M> )
+islands: 0
+
+
+-----------------
+
+if: pale
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: techniciens
+pos: NOM
+lf: technicien
+is a term candidate: 1
+
+-----------------
+
+if: arrêt automatique suite à l' apparition
+pos: NOM ADJ NOM à DET:ART NOM
+lf: arrêt automatique suite à le apparition
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: accident à un impact de foudre
+pos: NOM à DET:ART NOM de NOM
+lf: accident à un impact de foudre
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: sécurité
+pos: NOM
+lf: sécurité
+is a term candidate: 1
+
+-----------------
+
+if: projection à 20 m
+pos: NOM à NUM NOM
+lf: projection à 20 m
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: minutes
+pos: NOM
+lf: minute
+is a term candidate: 1
+
+-----------------
+
+if: 12h14
+pos: NAM
+lf: 12h14
+is a term candidate: 1
+
+-----------------
+
+if: périmètre de sécurité de 100 m
+pos: NOM de NOM de NUM NOM
+lf: périmètre de sécurité de 100 m
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: an
+pos: NOM
+lf: an
+is a term candidate: 1
+
+-----------------
+

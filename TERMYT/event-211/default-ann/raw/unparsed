@@ -1,0 +1,91 @@
+if: personnel de maintenance
+pos: NOM de NOM
+lf: personnel de maintenance
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( personnel<=H> de<=P> maintenance<=M> )
+islands: 0
+
+
+-----------------
+
+if: équipement
+pos: NOM
+lf: équipement
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: 12h15
+pos: NAM
+lf: 12h15
+is a term candidate: 1
+
+-----------------
+
+if: sous-traitant
+pos: NOM
+lf: sous-traitant
+is a term candidate: 1
+
+-----------------
+
+if: technicien
+pos: NOM
+lf: technicien
+is a term candidate: 1
+
+-----------------
+
+if: maintenance
+pos: NOM
+lf: maintenance
+is a term candidate: 1
+
+-----------------
+
+if: reconnaissances au sommet de l' éolienne
+pos: NOM au NOM de DET:ART NOM
+lf: reconnaissance au sommet de le éolienne
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: victime
+pos: NOM
+lf: victime
+is a term candidate: 1
+
+-----------------
+
+if: Électrisation
+pos: NOM
+lf: électrisation
+is a term candidate: 1
+
+-----------------
+
+if: hôpital
+pos: NOM
+lf: hôpital
+is a term candidate: 1
+
+-----------------
+
+if: courant
+pos: NOM
+lf: courant
+is a term candidate: 1
+
+-----------------
+

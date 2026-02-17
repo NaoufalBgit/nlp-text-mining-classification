@@ -1,0 +1,233 @@
+if: endommagement de la pâle
+pos: NOM de DET:ART ADJ
+lf: endommagement de le pâle
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: lendemain
+pos: NOM
+lf: lendemain
+is a term candidate: 1
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: mairie
+pos: NOM
+lf: mairie
+is a term candidate: 1
+
+-----------------
+
+if: incident électrique
+pos: NOM ADJ
+lf: incident électrique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( incident<=H> électrique<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne Un agriculteur
+pos: ADJ DET:ART NOM
+lf: éolien un agriculteur
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: incident
+pos: NOM
+lf: incident
+is a term candidate: 1
+
+-----------------
+
+if: accès à l' éolienne concernée.Sur
+pos: NOM à DET:ART ADJ NOM
+lf: accès à le éolien concernée.Sur
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: sol
+pos: NOM
+lf: sol
+is a term candidate: 1
+
+-----------------
+
+if: pale
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: morceaux de pâle
+pos: NOM de ADJ
+lf: morceau de pâle
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: sécurité
+pos: NOM
+lf: sécurité
+is a term candidate: 1
+
+-----------------
+
+if: inspection des installations
+pos: NOM des NOM
+lf: inspection du installation
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( inspection<=H> des<=P> installations<=M> )
+islands: 0
+
+
+-----------------
+
+if: mairie informe
+pos: NOM ADJ
+lf: mairie informe
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( mairie<=H> informe<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne au sol
+pos: NOM au NOM
+lf: éolienne au sol
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( éolienne<=H> au<=P> sol<=M> )
+islands: 0
+
+
+-----------------
+
+if: fin de journée
+pos: NOM de NOM
+lf: fin de journée
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( fin<=H> de<=P> journée<=M> )
+islands: 0
+
+
+-----------------
+
+if: transformateur de la commune rompant la communication
+pos: NOM de DET:ART NOM VER:ppre DET:ART NOM
+lf: transformateur de le commune rompre le communication
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: personnel
+pos: NOM
+lf: personnel
+is a term candidate: 1
+
+-----------------
+
+if: opérateur
+pos: NOM
+lf: opérateur
+is a term candidate: 1
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: communication
+pos: NOM
+lf: communication
+is a term candidate: 1
+
+-----------------
+
+if: peignes acoustiques tombés au sol
+pos: NOM ADJ VER:pper au NOM
+lf: peigne acoustique tomber au sol
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: charge de la maintenance du parc
+pos: NOM de DET:ART NOM du NOM
+lf: charge de le maintenance du parc
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: 21h30
+pos: NAM
+lf: 21h30
+is a term candidate: 1
+
+-----------------
+
+if: cm
+pos: NOM
+lf: cm
+is a term candidate: 1
+
+-----------------
+
+if: parc
+pos: NOM
+lf: parc
+is a term candidate: 1
+
+-----------------
+
+if: Endommagement
+pos: NOM
+lf: endommagement
+is a term candidate: 1
+
+-----------------
+

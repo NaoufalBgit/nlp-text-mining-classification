@@ -1,0 +1,269 @@
+if: incendie.L'exploitant
+pos: NOM
+lf: incendie.L'exploitant
+is a term candidate: 1
+
+-----------------
+
+if: partie du câble de basculement de l' éolienne
+pos: NOM du NOM de NOM de DET:ART NOM
+lf: partie du câble de basculement de le éolienne
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: parc
+pos: NOM
+lf: parc
+is a term candidate: 1
+
+-----------------
+
+if: kits anti-pollution
+pos: NOM ADJ
+lf: kit anti-pollution
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( kits<=H> anti-pollution<=M> )
+islands: 0
+
+
+-----------------
+
+if: entreprise de dépollution
+pos: NOM de NOM
+lf: entreprise de dépollution
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( entreprise<=H> de<=P> dépollution<=M> )
+islands: 0
+
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: mainteneur de l' éolienne
+pos: NOM de DET:ART NOM
+lf: mainteneur de le éolienne
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( mainteneur<=H> de<=P> l'<=D> éolienne<=M> )
+islands: 0
+
+
+-----------------
+
+if: accès à la zone
+pos: NOM à DET:ART NOM
+lf: accès à le zone
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( accès<=H> à<=P> la<=D> zone<=M> )
+islands: 0
+
+
+-----------------
+
+if: installation
+pos: NOM
+lf: installation
+is a term candidate: 1
+
+-----------------
+
+if: bâtiment
+pos: NOM
+lf: bâtiment
+is a term candidate: 1
+
+-----------------
+
+if: graisse
+pos: NOM
+lf: graisse
+is a term candidate: 1
+
+-----------------
+
+if: semaine
+pos: NOM
+lf: semaine
+is a term candidate: 1
+
+-----------------
+
+if: m
+pos: NOM
+lf: m
+is a term candidate: 1
+
+-----------------
+
+if: base vie
+pos: NOM NOM
+lf: base vie
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( base<=H> vie<=M> )
+islands: 0
+
+
+-----------------
+
+if: terres polluées.Après une inspection
+pos: NOM ADJ DET:ART NOM
+lf: terre polluées.Après un inspection
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: feu
+pos: NOM
+lf: feu
+is a term candidate: 1
+
+-----------------
+
+if: pompiers
+pos: NOM
+lf: pompier
+is a term candidate: 1
+
+-----------------
+
+if: système de détection incendie
+pos: NOM de NOM NOM
+lf: système de détection incendie
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: m³
+pos: NOM
+lf: m³
+is a term candidate: 1
+
+-----------------
+
+if: local
+pos: NOM
+lf: local
+is a term candidate: 1
+
+-----------------
+
+if: zone
+pos: NOM
+lf: zone
+is a term candidate: 1
+
+-----------------
+
+if: 23h30
+pos: NAM
+lf: 23h30
+is a term candidate: 1
+
+-----------------
+
+if: exploitant
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+
+if: service
+pos: NOM
+lf: service
+is a term candidate: 1
+
+-----------------
+
+if: déversement
+pos: NOM
+lf: déversement
+is a term candidate: 1
+
+-----------------
+
+if: Incendie
+pos: NOM
+lf: incendie
+is a term candidate: 1
+
+-----------------
+
+if: local base vie
+pos: ADJ NOM NOM
+lf: local base vie
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: mainteneur
+pos: NOM
+lf: mainteneur
+is a term candidate: 1
+
+-----------------
+
+if: arrêt sécurité
+pos: NOM NOM
+lf: arrêt sécurité
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( arrêt<=H> sécurité<=M> )
+islands: 0
+
+
+-----------------
+
+if: huile
+pos: NOM
+lf: huile
+is a term candidate: 1
+
+-----------------
+
+if: nouvelle base vie
+pos: ADJ NOM NOM
+lf: nouveau base vie
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: incendie
+pos: NOM
+lf: incendie
+is a term candidate: 1
+
+-----------------
+

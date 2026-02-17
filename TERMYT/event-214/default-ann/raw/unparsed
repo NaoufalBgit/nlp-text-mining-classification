@@ -1,0 +1,61 @@
+if: Électrisation
+pos: NOM
+lf: électrisation
+is a term candidate: 1
+
+-----------------
+
+if: interventions
+pos: NOM
+lf: intervention
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: employé
+pos: NOM
+lf: employé
+is a term candidate: 1
+
+-----------------
+
+if: pompiers
+pos: NOM
+lf: pompier
+is a term candidate: 1
+
+-----------------
+
+if: nez
+pos: NOM
+lf: nez
+is a term candidate: 1
+
+-----------------
+
+if: victime consciente
+pos: NOM ADJ
+lf: victime conscient
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( victime<=H> consciente<=M> )
+islands: 0
+
+
+-----------------
+
+if: hauteur
+pos: NOM
+lf: hauteur
+is a term candidate: 1
+
+-----------------
+

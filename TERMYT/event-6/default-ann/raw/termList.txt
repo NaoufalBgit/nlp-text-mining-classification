@@ -1,0 +1,180 @@
+# ID	Inflected form	Lemmatised form	Frequency	CValue	CValue1	CValuePlus	CValuePlus1	CValueStar	CValueStarH	CValueStarM	CValueStarR	CValueWCard	CValueWCardPlus	D	DDW	Freq	idf	ilnc	ilncFreq	iLong	IM	iTer	LLR	nbdoc4tc	NormFreq	tf	tf-idf	Head	Modifier	MainHead
+99	exploitants des parcs équipés de turbines	exploitant du parc équiper de turbine	1	2.58496250072116	2.8073549220576	2.58496250072116	2.8073549220576	1	N/A	N/A	0.222392421336448	0	0	1	0	1	0:0	0	0	0.166666666666667	10	0.142857142857143	0.000115129154648748	1	0.1	0:1	0:0	100	105	28	
+201	centre de supervision du parc éolien	centre de supervision du parc éolien	1	2.58496250072116	2.8073549220576	2.58496250072116	2.8073549220576	3	N/A	N/A	0.222392421336448	0	0	1	0	1	0:0	0	0	0.166666666666667	10	0.142857142857143	0.000115129154648748	1	0.1	0:1	0:0	202	205	11	
+26	exploitants des terres agricoles proches	exploitant du terre agricole proche	1	2.32192809488736	2.58496250072116	2.32192809488736	2.58496250072116	2	N/A	N/A	0.263034405833794	0	0	1	0	1	0:0	0	0	0.2	10	0.166666666666667	0.000115129154648748	1	0.1	0:1	0:0	27	32	28	
+185	risque de chute de morceaux	risque de chute de morceau	1	2.32192809488736	2.58496250072116	2.32192809488736	2.58496250072116	3	N/A	N/A	0.263034405833794	0	0	1	0	1	0:0	0	0	0.2	10	0.166666666666667	0.000115129154648748	1	0.1	0:1	0:0	186	189	187	
+75	autres pales de l' éolienne	autre pale de le éolienne	1	2.32192809488736	2.58496250072116	2.32192809488736	2.58496250072116	1	N/A	N/A	0.263034405833794	0	0	1	0	1	0:0	0	0	0.2	1	0.166666666666667	0	1	0.1	0:1	0:0	76	22	35	
+8	information au centre de maintenance	information au centre de maintenance	1	2.32192809488736	2.58496250072116	2.32192809488736	2.58496250072116	4	N/A	N/A	0.263034405833794	0	0	1	0	1	0:0	0	0	0.2	5	0.166666666666667	1.38627436101989	1	0.1	0:1	0:0	9	12	10	
+216	pitch contrôle	pitch contrôle	2	2	3.16992500144231	2	3.16992500144231	2	N/A	N/A	1.16992500144231	0	0	1	0	2	0:0	0	0	1	2.22222222222222	0.666666666666667	0.863036217305342	1	0.2	0:2	0:0	173	168	173	
+47	sécurité de 150 m	sécurité de 150 m	1	2	2.32192809488736	2	2.32192809488736	N/A	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	10	0.2	0.000115129154648748	1	0.1	0:1	0:0	48	49	48	
+170	moteur du pitch control	moteur du pitch control	1	2	2.32192809488736	2	2.32192809488736	2	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	10	0.2	0.000115129154648748	1	0.1	0:1	0:0	171	174	172	
+158	défauts superficiels de revêtement	défaut superficiel de revêtement	1	2	2.32192809488736	2	2.32192809488736	2	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	10	0.2	0.000115129154648748	1	0.1	0:1	0:0	159	162	68	
+151	arrêt de la machine	arrêt de le machine	1	2	2.32192809488736	2	2.32192809488736	2	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	5	0.2	0	1	0.1	0:1	0:0	152	117	152	
+23	rupture de la pale	rupture de le pale	1	2	2.32192809488736	2	2.32192809488736	2	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	2.5	0.2	0	1	0.1	0:1	0:0	24	25	24	
+106	régulation de la puissance	régulation de le puissance	1	2	2.32192809488736	2	2.32192809488736	1	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	10	0.2	0.000115129154648748	1	0.1	0:1	0:0	107	108	107	
+94	protocole de surveillance.Le logiciel	protocole de surveillance.Le logiciel	1	2	2.32192809488736	2	2.32192809488736	1	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	3.33333333333333	0.2	0	1	0.1	0:1	0:0	95	98	96	
+80	rayon de 100 m	rayon de 100 m	1	2	2.32192809488736	2	2.32192809488736	3	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	10	0.2	0.000115129154648748	1	0.1	0:1	0:0	81	82	81	
+40	moyeu de l' éolienne	moyeu de le éolienne	1	2	2.32192809488736	2	2.32192809488736	3	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	0.5	0.2	0	1	0.1	0:1	0:0	41	22	41	
+63	système de frein aérodynamique	système de frein aérodynamique	1	2	2.32192809488736	2	2.32192809488736	1	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	3.33333333333333	0.2	0.000115129154648748	1	0.1	0:1	0:0	62	65	62	
+175	maintenance de l' éolienne	maintenance de le éolienne	1	2	2.32192809488736	2	2.32192809488736	4	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	0.5	0.2	1.11568775642105	1	0.1	0:1	0:0	12	22	12	
+86	lanières de matériau	lanière de matériau	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	10	0.25	0.000115129154648748	1	0.1	0:1	0:0	87	88	87	
+210	vitesses de vent	vitesse de vent	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	5	0.25	0.000115129154648748	1	0.1	0:1	0:0	211	212	211	
+36	machines du parc	machine du parc	1	1.58496250072116	2	1.58496250072116	2	2	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	2.5	0.25	1.38627436101989	1	0.1	0:1	0:0	37	38	37	
+89	éléments au sol	élément au sol	1	1.58496250072116	2	1.58496250072116	2	2	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	1.66666666666667	0.25	0.523238143714547	1	0.1	0:1	0:0	14	3	14	
+146	Allemagne.Les autres éoliennes	Allemagne.Les autre éolien	1	1.58496250072116	2	1.58496250072116	2	2	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	10	0.25	0.000115129154648748	1	0.1	0:1	0:0	147	150	148	
+137	ensemble des débris	ensemble du débris	1	1.58496250072116	2	1.58496250072116	2	2	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	2.5	0.25	1.38627436101989	1	0.1	0:1	0:0	138	53	138	
+154	drapeau des pales	drapeau du pale	1	1.58496250072116	2	1.58496250072116	2	2	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	1.66666666666667	0.25	0.863036217305342	1	0.1	0:1	0:0	155	35	155	
+167	contrôle des pales	contrôle du pale	1	1.58496250072116	2	1.58496250072116	2	1	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	0.555555555555556	0.25	0	1	0.1	0:1	0:0	168	35	168	
+198	mise à jour	mise à jour	1	1.58496250072116	2	1.58496250072116	2	1	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	1.66666666666667	0.25	6.93134680530211e-06	1	0.1	0:1	0:0	6	142	6	
+130	débris au sol	débris au sol	1	1.58496250072116	2	1.58496250072116	2	1	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	0.833333333333333	0.25	0.523238143714547	1	0.1	0:1	0:0	53	3	53	
+4	alarme de mise	alarme de mise	1	1.58496250072116	2	1.58496250072116	2	3	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	3.33333333333333	0.25	1.38627436101989	1	0.1	0:1	0:0	5	6	5	
+191	long du mat	long du mat	1	1.58496250072116	2	1.58496250072116	2	1	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	10	0.25	0.000115129154648748	1	0.1	0:1	0:0	192	193	192	
+44	Début juillet	début juillet	1	1	1.58496250072116	1	1.58496250072116	N/A	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	5	0.333333333333333	6.93134680530211e-06	1	0.1	0:1	0:0	45	46	45	
+194	grande vitesse	grand vitesse	1	1	1.58496250072116	1	1.58496250072116	N/A	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	10	0.333333333333333	0.000115129154648748	1	0.1	0:1	0:0	196	195	196	
+0	position verticale	position vertical	1	1	1.58496250072116	1	1.58496250072116	2	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	10	0.333333333333333	0.000115129154648748	1	0.1	0:1	0:0	1	2	1	
+71	pâle.La pale	pâle.La pale	1	1	1.58496250072116	1	1.58496250072116	1	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	2.5	0.333333333333333	0	1	0.1	0:1	0:0	72	25	72	
+178	Début avril	début avril	1	1	1.58496250072116	1	1.58496250072116	3	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	5	0.333333333333333	6.93134680530211e-06	1	0.1	0:1	0:0	45	180	45	
+13	éléments instables	élément instable	1	1	1.58496250072116	1	1.58496250072116	1	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	5	0.333333333333333	6.93134680530211e-06	1	0.1	0:1	0:0	14	15	14	
+22	éolienne	éolienne	10	0	9	0	11	2	N/A	6	N/A	9	11	1	0	10	0:0	0	0	10	N/A	5	N/A	1	1	0:10	0:0				
+35	pales	pale	6	0	5	0	7	4	4	4	N/A	5	7	1	0	6	0:0	2	2	6	N/A	9	N/A	1	0.6	0:6	0:0				
+109	place	place	5	0	5	0	5	1	N/A	N/A	5	0	0	1	0	5	0:0	0	0	5	N/A	2.5	N/A	1	0.5	0:5	0:0				
+190	exploitant	exploitant	5	0	5	0	5	4	N/A	N/A	5	0	0	1	0	5	0:0	0	0	5	N/A	2.5	N/A	1	0.5	0:5	0:0				
+25	pale	pale	4	0	3	0	5	2	N/A	2	N/A	3	5	1	0	4	0:0	0	0	4	N/A	2	N/A	1	0.4	0:4	0:0				
+60	incident	incident	4	0	3	0	5	1	N/A	3	N/A	3	5	1	0	4	0:0	0	0	4	N/A	2	N/A	1	0.4	0:4	0:0				
+53	débris	débris	4	0	3	0	5	3	3	3	N/A	3	5	1	0	4	0:0	1	1	4	N/A	4	N/A	1	0.4	0:4	0:0				
+38	parc	parc	4	0	3	0	5	3	3	3	N/A	3	5	1	0	4	0:0	1	1	4	N/A	4	N/A	1	0.4	0:4	0:0				
+173	pitch	pitch	3	0	1.5	0	4.5	2	1	2	N/A	1.5	4.5	1	0	3	0:0	1	2	3	N/A	3	N/A	1	0.3	0:3	0:0				
+62	système	système	3	0	2	0	4	2	2	N/A	N/A	2	4	1	0	3	0:0	1	1	3	N/A	3	N/A	1	0.3	0:3	0:0				
+6	mise	mise	3	0	2	0	4	2	2	2	N/A	2	4	1	0	3	0:0	1	1	3	N/A	3	N/A	1	0.3	0:3	0:0				
+3	sol	sol	3	0	2	0	4	2	N/A	1	N/A	2	4	1	0	3	0:0	0	0	3	N/A	1.5	N/A	1	0.3	0:3	0:0				
+168	contrôle	contrôle	3	0	1.5	0	4.5	2	2	1	N/A	1.5	4.5	1	0	3	0:0	1	1	3	N/A	3	N/A	1	0.3	0:3	0:0				
+28	exploitants	exploitant	2	0	1	0	3	2	0	N/A	N/A	1	3	1	0	2	0:0	2	2	2	N/A	3	N/A	1	0.2	0:2	0:0				
+45	Début	début	2	0	1	0	3	2	0	N/A	N/A	1	3	1	0	2	0:0	2	2	2	N/A	3	N/A	1	0.2	0:2	0:0				
+12	maintenance	maintenance	2	0	1	0	3	1	1	1	N/A	1	3	1	0	2	0:0	1	1	2	N/A	2	N/A	1	0.2	0:2	0:0				
+51	m	m	2	0	1	0	3	1	0	N/A	N/A	1	3	1	0	2	0:0	2	2	2	N/A	3	N/A	1	0.2	0:2	0:0				
+43	drone	drone	2	0	2	0	2	1	N/A	N/A	2	0	0	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.2	0:2	0:0				
+117	machine	machine	2	0	1	0	3	1	N/A	0	N/A	1	3	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.2	0:2	0:0				
+142	jour	jour	2	0	1	0	3	1	N/A	1	N/A	1	3	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.2	0:2	0:0				
+41	moyeu	moyeu	2	0	1	0	3	3	1	N/A	N/A	1	3	1	0	2	0:0	1	1	2	N/A	2	N/A	1	0.2	0:2	0:0				
+98	logiciel	logiciel	2	0	2	0	4	3	N/A	1	N/A	1	3	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.2	0:2	0:0				
+77	autres	autre	2	0	1	0	3	3	N/A	0	N/A	1	3	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.2	0:2	0:0				
+14	éléments	élément	2	0	1	0	3	3	0	N/A	N/A	1	3	1	0	2	0:0	2	2	2	N/A	3	N/A	1	0.2	0:2	0:0				
+11	centre	centre	2	0	1	0	3	1	1	1	N/A	1	3	1	0	2	0:0	1	1	2	N/A	2	N/A	1	0.2	0:2	0:0				
+135	pompiers	pompier	2	0	2	0	2	4	N/A	N/A	2	0	0	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.2	0:2	0:0				
+68	défauts	défaut	2	0	1	0	3	4	1	N/A	N/A	1	3	1	0	2	0:0	1	1	2	N/A	2	N/A	1	0.2	0:2	0:0				
+39	inspection	inspection	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+101	exploitants des parcs	exploitant du parc	1	0	0	3.16992500144231	4	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	5	0.5	6.93134680530211e-06	1	0.1	0:1	0:0	28	103	28	
+172	moteur	moteur	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.1	0:1	0:0				
+184	base	base	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+81	rayon	rayon	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.1	0:1	0:0				
+61	protection	protection	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+49	150 m	150 m	1	0	0	2	3.16992500144231	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.5	5	0.333333333333333	6.93134680530211e-06	1	0.1	0:1	0:0	51	50	51	
+155	drapeau	drapeau	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.1	0:1	0:0				
+30	terres	terre	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.1	0:1	0:0				
+110	alentours	alentour	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+114	accès	accès	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.1	0:1	0:0				
+121	erreur de programmation du logiciel	erreur de programmation du logiciel	1	0	0	4.64385618977472	5.16992500144231	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.2	3.33333333333333	0.333333333333333	0	1	0.1	0:1	0:0	122	98	123	
+33	exclusion	exclusion	1	0	2	0	2	2	N/A	N/A	2	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+56	11 ans.Lors de l' incident	11 ans.Lors de le incident	1	0	0	4.64385618977472	5.16992500144231	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.2	10	0.166666666666667	0.000115129154648748	1	0.1	0:1	0:0	58	57	59	
+202	centre de supervision	centre de supervision	1	0	0	3.16992500144231	4	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	5	0.5	6.93134680530211e-06	1	0.1	0:1	0:0	11	204	11	
+180	avril	avril	1	0	0	0	2	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+46	juillet	juillet	1	0	0	0	2	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+157	mois	mois|moi	1	0	2	0	2	2	N/A	N/A	2	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+105	turbines	turbine	1	0	0	0	2	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+126	commande	commande	1	0	0	0	2	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+27	exploitants des terres agricoles	exploitant du terre agricole	1	0	0	4	4.64385618977472	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.25	5	0.4	6.93134680530211e-06	1	0.1	0:1	0:0	28	29	28	
+211	vitesses	vitesse	1	0	0	0	2	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.1	0:1	0:0				
+124	programmation	programmation	1	0	0	0	2	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+204	supervision	supervision	1	0	0	0	2	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+67	aérodynamique	aérodynamique	1	0	0	0	2	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+66	frein	frein	1	0	0	0	2	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.1	0:1	0:0				
+76	autres pales	autre pale	1	0	0	2	3.16992500144231	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.5	0.833333333333333	0.666666666666667	1.11570775652105	1	0.1	0:1	0:0	35	77	35	
+72	pâle.La	pâle.La	1	0	0	0	2	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.1	0:1	0:0				
+19	suite	suite	1	0	0	0	2	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.1	0:1	0:0				
+58	ans.Lors de l' incident	ans.Lors de le incident	1	0	0	4	4.64385618977472	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.25	2.5	0.4	0.000115129154648748	1	0.1	0:1	0:0	59	60	59	
+48	sécurité	sécurité	1	0	0	0	2	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.1	0:1	0:0				
+165	mode	mode	1	0	1	0	1	2	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+196	vitesse	vitesse	1	0	0	0	2	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.1	0:1	0:0				
+32	proches	proche	1	0	0	0	2	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+116	proximité	proximité	1	0	0	0	2	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+31	agricoles	agricole	1	0	0	0	2	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+52	Allemagne	Allemagne	1	0	1	0	1	2	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+95	protocole de surveillance.Le	protocole de surveillance.Le	1	0	0	3.16992500144231	4	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	10	0.5	0.000115129154648748	1	0.1	0:1	0:0	96	97	96	
+214	mât	mât	1	0	1	0	1	2	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+187	risque	risque	1	0	0	0	2	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.1	0:1	0:0				
+113	accès du chemin	accès du chemin	1	0	0	3.16992500144231	4	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	10	0.5	0.000115129154648748	1	0.1	0:1	0:0	114	115	114	
+65	frein aérodynamique	frein aérodynamique	1	0	0	2	3.16992500144231	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.5	10	0.333333333333333	0.000115129154648748	1	0.1	0:1	0:0	66	67	66	
+182	gardiennage	gardiennage	1	0	1	0	1	2	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+112	accès du chemin à proximité	accès du chemin à proximité	1	0	0	4.64385618977472	5.16992500144231	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.2	10	0.333333333333333	0.000115129154648748	1	0.1	0:1	0:0	113	116	114	
+183	Rupture	rupture	1	0	1	0	1	2	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+129	août	août	1	0	1	0	1	2	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+188	chute	chute	1	0	0	0	2	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+108	puissance	puissance	1	0	0	0	2	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+85	site	site	1	0	1	0	1	2	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+69	m/s	m/s	1	0	1	0	1	2	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+122	erreur de programmation	erreur de programmation	1	0	0	3.16992500144231	4	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	10	0.5	0.000115129154648748	1	0.1	0:1	0:0	123	124	123	
+93	survitesse	survitesse	1	0	1	0	1	1	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+57	11	11	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+133	expertise	expertise	1	0	1	0	1	1	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+144	personnel	personnel	1	0	1	0	1	1	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+152	arrêt	arrêt	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.1	0:1	0:0				
+34	intempéries	intempérie	1	0	1	0	1	1	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+181	jours	jour	1	0	1	0	1	1	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+212	vent	vent	1	0	1	0	3	1	N/A	1	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+186	risque de chute	risque de chute	1	0	0	3.16992500144231	4	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	10	0.5	0.000115129154648748	1	0.1	0:1	0:0	187	188	187	
+7	éoliennes	éolienne	1	0	1	0	1	1	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+2	verticale	vertical	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+123	erreur	erreur	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.1	0:1	0:0				
+97	surveillance.Le	surveillance.Le	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+140	terrains	terrain	1	0	1	0	1	1	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+145	surintensités	surintensité	1	0	1	0	1	1	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+150	éoliennes	éolien	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+20	évaluation	évaluation	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+192	long	long	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.1	0:1	0:0				
+15	instables	instable	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+148	Allemagne.Les	Allemagne.Les	1	0	0	0	2	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.1	0:1	0:0				
+96	protocole	protocole	1	0	0	0	2	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.1	0:1	0:0				
+163	zone	zone	1	0	2	0	2	2	N/A	N/A	2	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+174	control	control	1	0	0	0	2	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+10	information	information	1	0	0	0	2	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.1	0:1	0:0				
+50	150	150	1	0	0	0	2	3	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+195	grande	grand	1	0	0	0	2	3	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+100	exploitants des parcs équipés	exploitant du parc équiper	1	0	0	4	4.64385618977472	3	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.25	10	0.4	0.000115129154648748	1	0.1	0:1	0:0	101	104	28	
+209	composants	composant	1	0	1	0	1	3	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+82	100 m	100 m	1	0	0	2	3.16992500144231	3	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.5	5	0.333333333333333	6.93134680530211e-06	1	0.1	0:1	0:0	51	83	51	
+143	conteneurs	conteneur	1	0	1	0	1	3	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+87	lanières	lanière	1	0	0	0	2	3	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.1	0:1	0:0				
+161	superficiels	superficiel	1	0	0	0	2	3	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+1	position	position	1	0	0	0	2	3	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.1	0:1	0:0				
+205	parc éolien	parc éolien	1	0	0	2	3.16992500144231	3	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.5	2.5	0.333333333333333	6.93134680530211e-06	1	0.1	0:1	0:0	38	207	38	
+166	défaut	défaut	1	0	1	0	1	3	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+83	100	100	1	0	0	0	2	3	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+5	alarme	alarme	1	0	0	0	2	3	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.1	0:1	0:0				
+193	mat	mat	1	0	0	0	2	3	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+136	France	France	1	0	1	0	1	3	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+162	revêtement	revêtement	1	0	0	0	2	3	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+107	régulation	régulation	1	0	0	0	2	3	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.1	0:1	0:0				
+189	morceaux	morceau	1	0	0	0	2	3	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+9	information au centre	information au centre	1	0	0	3.16992500144231	4	3	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	5	0.5	1.38627436101989	1	0.1	0:1	0:0	10	11	10	
+88	matériau	matériau	1	0	0	0	2	3	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+213	6h50	6h50	1	0	1	0	1	3	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+21	stabilité	stabilité	1	0	0	0	2	3	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+37	machines	machine	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.1	0:1	0:0				
+29	terres agricoles	terre agricole	1	0	0	2	3.16992500144231	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.5	10	0.333333333333333	0.000115129154648748	1	0.1	0:1	0:0	30	31	30	
+134	convertisseur	convertisseur	1	0	1	0	1	1	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+159	défauts superficiels	défaut superficiel	1	0	0	2	3.16992500144231	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.5	5	0.666666666666667	0.000115129154648748	1	0.1	0:1	0:0	68	161	68	
+59	ans.Lors	ans.Lors	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.1	0:1	0:0				
+115	chemin	chemin	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+128	nacelle	nacelle	1	0	1	0	1	1	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+104	équipés	équiper	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+147	Allemagne.Les autres	Allemagne.Les autre	1	0	0	2	3.16992500144231	4	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.5	5	0.666666666666667	0	1	0.1	0:1	0:0	148	77	148	
+103	parcs	parc	1	0	0	0	2	4	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+171	moteur du pitch	moteur du pitch	1	0	0	3.16992500144231	4	4	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	3.33333333333333	0.5	1.90951250473444	1	0.1	0:1	0:0	172	173	172	
+18	suite de l' évaluation	suite de le évaluation	1	0	0	4	4.64385618977472	4	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.25	10	0.4	0.000115129154648748	1	0.1	0:1	0:0	19	20	19	
+127	convertisseurs	convertisseur	1	0	0	0	2	4	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+138	ensemble	ensemble	1	0	0	0	2	4	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.1	0:1	0:0				
+24	rupture	rupture	1	0	0	0	2	4	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.1	0:1	0:0				
+215	amont	amont	1	0	1	0	1	4	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+207	éolien	éolien	1	0	0	0	2	4	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+141	ordre	ordre	1	0	1	0	1	4	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				
+197	novembre	novembre	1	0	1	0	1	4	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.1	0:1	0:0				

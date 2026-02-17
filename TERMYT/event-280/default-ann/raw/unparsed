@@ -1,0 +1,82 @@
+if: techniciens
+pos: NOM
+lf: technicien
+is a term candidate: 1
+
+-----------------
+
+if: Feu
+pos: NOM
+lf: feu
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: derniers
+pos: NOM
+lf: dernier
+is a term candidate: 1
+
+-----------------
+
+if: service
+pos: NOM
+lf: service
+is a term candidate: 1
+
+-----------------
+
+if: 15h30
+pos: NAM
+lf: 15h30
+is a term candidate: 1
+
+-----------------
+
+if: extincteurs
+pos: NOM
+lf: extincteur
+is a term candidate: 1
+
+-----------------
+
+if: incendie
+pos: NOM
+lf: incendie
+is a term candidate: 1
+
+-----------------
+
+if: armoire électrique
+pos: NOM ADJ
+lf: armoire électrique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( armoire<=H> électrique<=M> )
+islands: 0
+
+
+-----------------
+
+if: réparations
+pos: NOM
+lf: réparation
+is a term candidate: 1
+
+-----------------
+
+if: feu
+pos: NOM
+lf: feu
+is a term candidate: 1
+
+-----------------
+

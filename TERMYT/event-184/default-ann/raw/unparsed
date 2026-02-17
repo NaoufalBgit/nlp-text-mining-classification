@@ -1,0 +1,183 @@
+if: ARIA
+pos: NOM
+lf: aria
+is a term candidate: 1
+
+-----------------
+
+if: début de l' année
+pos: NOM de DET:ART NOM
+lf: début de le année
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( début<=H> de<=P> l'<=D> année<=M> )
+islands: 0
+
+
+-----------------
+
+if: employé
+pos: NOM
+lf: employé
+is a term candidate: 1
+
+-----------------
+
+if: dommages structurels.Cet effondrement
+pos: NOM ADJ NOM
+lf: dommage structurels.Cet effondrement
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: perturbations ayant provoqué l' effondrement
+pos: NOM ayant VER:pper DET:ART NOM
+lf: perturbation avoir provoquer le effondrement
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: mise à jour
+pos: NOM à NOM
+lf: mise à jour
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( mise<=H> à<=P> jour<=M> )
+islands: 0
+
+
+-----------------
+
+if: redémarrage
+pos: NOM
+lf: redémarrage
+is a term candidate: 1
+
+-----------------
+
+if: logiciel de commande
+pos: NOM de NOM
+lf: logiciel de commande
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( logiciel<=H> de<=P> commande<=M> )
+islands: 0
+
+
+-----------------
+
+if: cas
+pos: NOM
+lf: cas
+is a term candidate: 1
+
+-----------------
+
+if: Effondrement
+pos: NOM
+lf: effondrement
+is a term candidate: 1
+
+-----------------
+
+if: mai
+pos: NOM
+lf: mai
+is a term candidate: 1
+
+-----------------
+
+if: drone
+pos: NOM
+lf: drone
+is a term candidate: 1
+
+-----------------
+
+if: accès au site
+pos: NOM au NOM
+lf: accès au site
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( accès<=H> au<=P> site<=M> )
+islands: 0
+
+
+-----------------
+
+if: rafales de vent
+pos: NOM de NOM
+lf: rafale de vent
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( rafales<=H> de<=P> vent<=M> )
+islands: 0
+
+
+-----------------
+
+if: pays
+pos: NOM
+lf: pays
+is a term candidate: 1
+
+-----------------
+
+if: juillet
+pos: NOM
+lf: juillet
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: investigation
+pos: NOM
+lf: investigation
+is a term candidate: 1
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: km/h.Deux éoliennes du même constructeur
+pos: NOM ADJ du ADJ NOM
+lf: km/h.Deux éolien du même constructeur
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: événement
+pos: NOM
+lf: événement
+is a term candidate: 1
+
+-----------------
+

@@ -1,0 +1,138 @@
+if: origine du sinistre
+pos: NOM du NOM
+lf: origine du sinistre
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( origine<=H> du<=P> sinistre<=M> )
+islands: 0
+
+
+-----------------
+
+if: effondrement du mât
+pos: NOM du NOM
+lf: effondrement du mât
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( effondrement<=H> du<=P> mât<=M> )
+islands: 0
+
+
+-----------------
+
+if: blessé
+pos: NOM
+lf: blessé
+is a term candidate: 1
+
+-----------------
+
+if: hélice
+pos: NOM
+lf: hélice
+is a term candidate: 1
+
+-----------------
+
+if: défaillance du système de freinage du rotor
+pos: NOM du NOM de NOM du NOM
+lf: défaillance du système de freinage du rotor
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: proximité
+pos: NOM
+lf: proximité
+is a term candidate: 1
+
+-----------------
+
+if: jour
+pos: NOM
+lf: jour
+is a term candidate: 1
+
+-----------------
+
+if: exploitant
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+
+if: technicien supervisant le fonctionnement du parc
+pos: NOM VER:ppre DET:ART NOM du NOM
+lf: technicien superviser le fonctionnement du parc
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: parc de 18 aérogénérateurs
+pos: NOM de NUM NOM
+lf: parc de 18 aérogénérateur
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: possession de l' installation
+pos: NOM de DET:ART NOM
+lf: possession de le installation
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( possession<=H> de<=P> l'<=D> installation<=M> )
+islands: 0
+
+
+-----------------
+
+if: une des pales
+pos: NOM des NOM
+lf: un du pale
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( une<=H> des<=P> pales<=M> )
+islands: 0
+
+
+-----------------
+
+if: construction
+pos: NOM
+lf: construction
+is a term candidate: 1
+
+-----------------
+
+if: vent
+pos: NOM
+lf: vent
+is a term candidate: 1
+
+-----------------
+
+if: Effondrement
+pos: NOM
+lf: effondrement
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+

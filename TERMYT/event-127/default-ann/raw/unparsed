@@ -1,0 +1,403 @@
+if: service
+pos: NOM
+lf: service
+is a term candidate: 1
+
+-----------------
+
+if: rafale de vent extrême
+pos: NOM de NOM ADJ
+lf: rafale de vent extrême
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( rafale<=H> de<=P> ( vent<=H> extrême<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: alarme " vent fort " de l' éolienne voisine
+pos: NOM PUN:cit NOM ADJ PUN:cit de DET:ART NOM ADJ
+lf: alarme " vent fort " de le éolienne voisin
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: même heure
+pos: ADJ NOM
+lf: même heure
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( même<=M> heure<=H> )
+islands: 0
+
+
+-----------------
+
+if: défaut
+pos: NOM
+lf: défaut
+is a term candidate: 1
+
+-----------------
+
+if: zone de 18 h à 18h30
+pos: NOM de NUM ABR à NAM
+lf: zone de 18 heure à 18h30
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: février 2011.Le fabricant de l' éolienne
+pos: NOM ADJ NOM de DET:ART NOM
+lf: février 2011.Le fabricant de le éolienne
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: secondes précédant la rupture
+pos: NOM VER:ppre DET:ART NOM
+lf: seconde|second précéder le rupture
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( secondes<=H> ( précédant<=H> la<=D> rupture<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: perte de liaison
+pos: NOM de NOM
+lf: perte de liaison
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( perte<=H> de<=P> liaison<=M> )
+islands: 0
+
+
+-----------------
+
+if: 18h10
+pos: NAM
+lf: 18h10
+is a term candidate: 1
+
+-----------------
+
+if: m de l' éolienne
+pos: NOM de DET:ART NOM
+lf: m de le éolienne
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( m<=H> de<=P> l'<=D> éolienne<=M> )
+islands: 0
+
+
+-----------------
+
+if: éoliennes de 2 MW
+pos: NOM de NUM NAM
+lf: éolienne de 2 MW
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: expertise.Un orage violent
+pos: ADJ NOM ADJ
+lf: expertise.Un orage violent
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: contrôle de 2 autres éoliennes du parc
+pos: NOM de NUM ADJ NOM du NOM
+lf: contrôle de 2 autre éolienne du parc
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: m de haut
+pos: NOM de ADJ
+lf: m de haut
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: extrémité
+pos: NOM
+lf: extrémité
+is a term candidate: 1
+
+-----------------
+
+if: orage
+pos: NOM
+lf: orage
+is a term candidate: 1
+
+-----------------
+
+if: morceaux
+pos: NOM
+lf: morceau
+is a term candidate: 1
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: casse
+pos: NOM
+lf: casse
+is a term candidate: 1
+
+-----------------
+
+if: vérifications
+pos: NOM
+lf: vérification
+is a term candidate: 1
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: parc
+pos: NOM
+lf: parc
+is a term candidate: 1
+
+-----------------
+
+if: ensemble du parc éolien
+pos: NOM du NOM ADJ
+lf: ensemble du parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( ensemble<=H> du<=P> ( parc<=H> éolien<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: arrêt
+pos: NOM
+lf: arrêt
+is a term candidate: 1
+
+-----------------
+
+if: 18h07
+pos: NAM
+lf: 18h07
+is a term candidate: 1
+
+-----------------
+
+if: hypothèse
+pos: NOM
+lf: hypothèse
+is a term candidate: 1
+
+-----------------
+
+if: exploitant
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+
+if: débris
+pos: NOM
+lf: débris
+is a term candidate: 1
+
+-----------------
+
+if: sol
+pos: NOM
+lf: sol
+is a term candidate: 1
+
+-----------------
+
+if: origine
+pos: NOM
+lf: origine
+is a term candidate: 1
+
+-----------------
+
+if: casse de la pale
+pos: NOM de DET:ART NOM
+lf: casse de le pale
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( casse<=H> de<=P> la<=D> pale<=M> )
+islands: 0
+
+
+-----------------
+
+if: impact de foudre
+pos: NOM de NOM
+lf: impact de foudre
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( impact<=H> de<=P> foudre<=M> )
+islands: 0
+
+
+-----------------
+
+if: respect des spécifications
+pos: NOM des NOM
+lf: respect du spécification
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( respect<=H> des<=P> spécifications<=M> )
+islands: 0
+
+
+-----------------
+
+if: m
+pos: NOM
+lf: m
+is a term candidate: 1
+
+-----------------
+
+if: expertise de la pale
+pos: NOM de DET:ART NOM
+lf: expertise de le pale
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( expertise<=H> de<=P> la<=D> pale<=M> )
+islands: 0
+
+
+-----------------
+
+if: société
+pos: NOM
+lf: société
+is a term candidate: 1
+
+-----------------
+
+if: pointe
+pos: NOM
+lf: pointe
+is a term candidate: 1
+
+-----------------
+
+if: pale
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: trace
+pos: NOM
+lf: trace
+is a term candidate: 1
+
+-----------------
+
+if: impact
+pos: NOM
+lf: impact
+is a term candidate: 1
+
+-----------------
+
+if: défaut de fabrication
+pos: NOM de NOM
+lf: défaut de fabrication
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( défaut<=H> de<=P> fabrication<=M> )
+islands: 0
+
+
+-----------------
+
+if: Rupture
+pos: NOM
+lf: rupture
+is a term candidate: 1
+
+-----------------
+
+if: réseau électrique
+pos: NOM ADJ
+lf: réseau électrique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( réseau<=H> électrique<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: alarme " capteur de vibration " de l' éolienne
+pos: NOM PUN:cit NOM de NOM PUN:cit de DET:ART NOM
+lf: alarme " capteur de vibration " de le éolienne
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+

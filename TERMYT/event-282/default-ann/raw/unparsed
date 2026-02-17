@@ -1,0 +1,53 @@
+if: foudre
+pos: NOM
+lf: foudre
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: éolienne de 46 m de diamètre
+pos: NOM de NUM NOM de NOM
+lf: éolienne de 46 m de diamètre
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: plie à 10 m du sol
+pos: NOM à NUM NOM du NOM
+lf: plie à 10 m du sol
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: Mât
+pos: NOM
+lf: mât
+is a term candidate: 1
+
+-----------------
+
+if: nacelle
+pos: NOM
+lf: nacelle
+is a term candidate: 1
+
+-----------------
+
+if: mât
+pos: NOM
+lf: mât
+is a term candidate: 1
+
+-----------------
+

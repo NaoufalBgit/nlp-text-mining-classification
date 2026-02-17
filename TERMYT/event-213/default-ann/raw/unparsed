@@ -1,0 +1,147 @@
+if: événement
+pos: NOM
+lf: événement
+is a term candidate: 1
+
+-----------------
+
+if: même modèle
+pos: ADJ NOM
+lf: même modèle
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( même<=M> modèle<=H> )
+islands: 0
+
+
+-----------------
+
+if: sécurité
+pos: NOM
+lf: sécurité
+is a term candidate: 1
+
+-----------------
+
+if: rayon de 20 m. L' exploitant
+pos: NOM de NUM ABR DET:ART NOM
+lf: rayon de 20 m. le exploitant
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: débris
+pos: NOM
+lf: débris
+is a term candidate: 1
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: verticale
+pos: NOM
+lf: vertical
+is a term candidate: 1
+
+-----------------
+
+if: rotor
+pos: NOM
+lf: rotor
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: jonction
+pos: NOM
+lf: jonction
+is a term candidate: 1
+
+-----------------
+
+if: autres aérogénérateurs du site
+pos: ADJ NOM du NOM
+lf: autre aérogénérateur du site
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: pale
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: pied du mat
+pos: NOM du NOM
+lf: pied du mat
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( pied<=H> du<=P> mat<=M> )
+islands: 0
+
+
+-----------------
+
+if: Chute
+pos: NOM
+lf: chute
+is a term candidate: 1
+
+-----------------
+
+if: 23h30
+pos: NAM
+lf: 23h30
+is a term candidate: 1
+
+-----------------
+
+if: installation
+pos: NOM
+lf: installation
+is a term candidate: 1
+
+-----------------
+
+if: accès au site.Le vent
+pos: NOM au NOM NOM
+lf: accès au site.Le vent
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+

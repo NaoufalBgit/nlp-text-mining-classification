@@ -1,0 +1,65 @@
+# ID	Inflected form	Lemmatised form	Frequency	CValue	CValue1	CValuePlus	CValuePlus1	CValueStar	CValueStarH	CValueStarM	CValueStarR	CValueWCard	CValueWCardPlus	D	DDW	Freq	idf	ilnc	ilncFreq	iLong	IM	iTer	LLR	nbdoc4tc	NormFreq	tf	tf-idf	Head	Modifier	MainHead
+51	goujons de fixation des pales	goujon de fixation du pale	1	2.32192809488736	2.58496250072116	2.32192809488736	2.58496250072116	N/A	N/A	N/A	0.263034405833794	0	0	1	0	1	0:0	0	0	0.2	1	0.166666666666667	0.339788073540795	1	0.2	0:1	0:0	52	1	53	
+63	insuffisance de la liaison	insuffisance de le liaison	1	2	2.32192809488736	2	2.32192809488736	N/A	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	5	0.2	0.000115129154648748	1	0.2	0:1	0:0	64	65	64	
+21	reconstruite.Le montant des dommages	reconstruite.Le monter du dommage	1	2	2.32192809488736	2	2.32192809488736	N/A	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	5	0.2	0.000115129154648748	1	0.2	0:1	0:0	22	23	22	
+67	ensemble des pales	ensemble du pale	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	1	0.25	0.339788073540795	1	0.2	0:1	0:0	68	1	68	
+48	tire-fonds de fixation	tire-fond de fixation	1	1.58496250072116	2	1.58496250072116	2	4	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	2.5	0.25	0	1	0.2	0:1	0:0	49	50	49	
+16	constructeur du moyeu	constructeur du moyeu	1	1.58496250072116	2	1.58496250072116	2	4	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	5	0.25	0.000115129154648748	1	0.2	0:1	0:0	17	18	17	
+40	défaut de conception	défaut de conception	1	1.58496250072116	2	1.58496250072116	2	4	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	5	0.25	0.000115129154648748	1	0.2	0:1	0:0	41	42	41	
+35	ferme éolienne	ferme éolienne	1	1	1.58496250072116	1	1.58496250072116	N/A	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	1.66666666666667	0.333333333333333	0.000115129154648748	1	0.2	0:1	0:0	37	36	37	
+12	fissuration pales	fissuration pale	1	1	1.58496250072116	1	1.58496250072116	N/A	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	1	0.333333333333333	0.339788073540795	1	0.2	0:1	0:0	13	1	13	
+31	expertise technique	expertise technique	1	1	1.58496250072116	1	1.58496250072116	N/A	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	5	0.333333333333333	0.000115129154648748	1	0.2	0:1	0:0	32	33	32	
+60	nacelle chute	nacelle chute	1	1	1.58496250072116	1	1.58496250072116	4	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	5	0.333333333333333	0.000115129154648748	1	0.2	0:1	0:0	61	62	61	
+45	resserrage mensuel	resserrage mensuel	1	1	1.58496250072116	1	1.58496250072116	4	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	5	0.333333333333333	0.000115129154648748	1	0.2	0:1	0:0	46	47	46	
+1	pales	pale	5	0	4	0	6	4	4	2	N/A	4	6	1	0	5	0:0	1	1	5	N/A	5	N/A	1	1	0:5	0:0				
+58	pale	pale	3	0	3	0	3	N/A	N/A	N/A	3	0	0	1	0	3	0:0	0	0	3	N/A	1.5	N/A	1	0.6	0:3	0:0				
+37	éolienne	éolienne	3	0	2	0	4	4	2	N/A	N/A	2	4	1	0	3	0:0	1	1	3	N/A	3	N/A	1	0.6	0:3	0:0				
+50	fixation	fixation	2	0	1	0	3	N/A	N/A	0	N/A	1	3	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.4	0:2	0:0				
+11	exploitant	exploitant	2	0	2	0	2	N/A	N/A	N/A	2	0	0	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.4	0:2	0:0				
+62	chute	chute	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+64	insuffisance	insuffisance	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+22	reconstruite.Le	reconstruite.Le	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+29	sous-traitant	sous-traitant	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+32	expertise	expertise	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+41	défaut	défaut	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+33	technique	technique	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+68	ensemble	ensemble	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+13	fissuration	fissuration	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+3	trois	trois	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+38	kEuros	kEuros	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+30	partie	partie	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+57	amorce	amorce	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+42	conception	conception	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+23	montant des dommages	monter du dommage	1	0	0	3.16992500144231	4	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.333333333333333	5	0.25	0.000115129154648748	1	0.2	0:1	0:0	24	25	24	
+25	dommages	dommage	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+43	aérogéneratrices	aérogéneratrices	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+59	mât	mât	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+49	tire-fonds	tire-fond	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+28	mai	mai	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+5	autres	autre	1	0	2	0	4	N/A	N/A	2	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+27	proximité	proximité	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+44	matériau	matériau	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+65	liaison	liaison	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+52	goujons de fixation	goujon de fixation	1	0	0	3.16992500144231	4	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	2.5	0.5	0	1	0.2	0:1	0:0	53	50	53	
+61	nacelle	nacelle	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+36	ferme	ferme	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+47	mensuel	mensuel	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+20	mer	mer	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+17	constructeur	constructeur	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+19	Wimereux	Wimereux	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+34	état	état	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+26	mi	mi	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+24	montant	monter	1	0	0	0	2	4	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+46	resserrage	resserrage	1	0	0	0	2	4	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+70	Chute	chute	1	0	1	0	1	4	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+8	parc	parc	1	0	0	0	2	4	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+56	phénomène	phénomène	1	0	1	0	1	4	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+2	trois autres éoliennes du parc	trois autre éolienne du parc	1	0	0	4.64385618977472	5.16992500144231	4	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.2	5	0.166666666666667	0.000115129154648748	1	0.2	0:1	0:0	4	3	7	
+39	presse	presse	1	0	1	0	1	4	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+9	nuit	nuit	1	0	1	0	1	4	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+10	modèle	modèle	1	0	1	0	1	4	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+18	moyeu	moyeu	1	0	0	0	2	4	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+7	éoliennes	éolienne	1	0	0	0	2	4	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+4	autres éoliennes du parc	autre éolienne du parc	1	0	0	4	4.64385618977472	4	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.25	1.66666666666667	0.4	0.000115129154648748	1	0.2	0:1	0:0	6	5	7	
+6	éoliennes du parc	éolienne du parc	1	0	0	3.16992500144231	4	4	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	5	0.5	0.000115129154648748	1	0.2	0:1	0:0	7	8	7	
+53	goujons	goujon	1	0	0	0	2	4	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				

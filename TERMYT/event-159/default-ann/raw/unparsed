@@ -1,0 +1,300 @@
+if: inspection des installations
+pos: NOM des NOM
+lf: inspection du installation
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( inspection<=H> des<=P> installations<=M> )
+islands: 0
+
+
+-----------------
+
+if: pâle conduisant à une montée
+pos: ADJ VER:ppre à DET:ART NOM
+lf: pâle conduire à un montée
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: parafoudre
+pos: NOM
+lf: parafoudre
+is a term candidate: 1
+
+-----------------
+
+if: type
+pos: NOM
+lf: type
+is a term candidate: 1
+
+-----------------
+
+if: 15h30 une éolienne
+pos: NAM DET:ART NOM
+lf: 15h30 un éolienne
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( 15h30<=H> une<=D> éolienne<=M> )
+islands: 0
+
+
+-----------------
+
+if: dérive fonctionnelle
+pos: NOM ADJ
+lf: dérive fonctionnel
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( dérive<=H> fonctionnelle<=M> )
+islands: 0
+
+
+-----------------
+
+if: installation au poste de livraison
+pos: NOM au NOM de NOM
+lf: installation au poste de livraison
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: système parafoudre
+pos: NOM NOM
+lf: système parafoudre
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( système<=H> parafoudre<=M> )
+islands: 0
+
+
+-----------------
+
+if: foudre
+pos: NOM
+lf: foudre
+is a term candidate: 1
+
+-----------------
+
+if: périmètre de sécurité
+pos: NOM de NOM
+lf: périmètre de sécurité
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( périmètre<=H> de<=P> sécurité<=M> )
+islands: 0
+
+
+-----------------
+
+if: arc électrique
+pos: NOM ADJ
+lf: arc électrique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( arc<=H> électrique<=M> )
+islands: 0
+
+
+-----------------
+
+if: tête
+pos: NOM
+lf: tête
+is a term candidate: 1
+
+-----------------
+
+if: m de longueur
+pos: NOM de NOM
+lf: m de longueur
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( m<=H> de<=P> longueur<=M> )
+islands: 0
+
+
+-----------------
+
+if: défaut de balisage
+pos: NOM de NOM
+lf: défaut de balisage
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( défaut<=H> de<=P> balisage<=M> )
+islands: 0
+
+
+-----------------
+
+if: orage
+pos: NOM
+lf: orage
+is a term candidate: 1
+
+-----------------
+
+if: société
+pos: NOM
+lf: société
+is a term candidate: 1
+
+-----------------
+
+if: Eolienne
+pos: NOM
+lf: Eolienne
+is a term candidate: 1
+
+-----------------
+
+if: municipalité
+pos: NOM
+lf: municipalité
+is a term candidate: 1
+
+-----------------
+
+if: incursion
+pos: NOM
+lf: incursion
+is a term candidate: 1
+
+-----------------
+
+if: installations du réseau électrique
+pos: NOM du NOM ADJ
+lf: installation du réseau électrique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( installations<=H> du<=P> ( réseau<=H> électrique<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: exploitant
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+
+if: incident
+pos: NOM
+lf: incident
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: téléphone
+pos: NOM
+lf: téléphone
+is a term candidate: 1
+
+-----------------
+
+if: boîtier basse
+pos: NOM ADJ
+lf: boîtier bas
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( boîtier<=H> basse<=M> )
+islands: 0
+
+
+-----------------
+
+if: fabricant de l' éolienne indique
+pos: NOM de DET:ART NOM ADJ
+lf: fabricant de le éolienne indique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( fabricant<=H> de<=P> l'<=D> ( éolienne<=H> indique<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: intensité de 94 kA
+pos: NOM de NUM NOM
+lf: intensité de 94 ka
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: services de l' électricité
+pos: NOM de DET:ART NOM
+lf: service de le électricité
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( services<=H> de<=P> l'<=D> électricité<=M> )
+islands: 0
+
+
+-----------------
+
+if: aviation civile
+pos: NOM ADJ
+lf: aviation civil
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( aviation<=H> civile<=M> )
+islands: 0
+
+
+-----------------
+
+if: charge
+pos: NOM
+lf: charge
+is a term candidate: 1
+
+-----------------
+
+if: informés.L'impact
+pos: NOM
+lf: informés.L'impact
+is a term candidate: 1
+
+-----------------
+
+if: pression de l' air intérieur
+pos: NOM de DET:ART NOM ADJ
+lf: pression de le air intérieur
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( pression<=H> de<=P> l'<=D> ( air<=H> intérieur<=M> )<=M> )
+islands: 0
+
+
+-----------------
+

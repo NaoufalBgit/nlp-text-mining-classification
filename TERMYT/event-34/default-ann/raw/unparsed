@@ -1,0 +1,404 @@
+if: espèce
+pos: NOM
+lf: espèce
+is a term candidate: 1
+
+-----------------
+
+if: Milan royal
+pos: NAM ADJ
+lf: Milan royal
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: période de migration post nuptiale
+pos: NOM de NOM NOM ADJ
+lf: période de migration post nuptial
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: individu
+pos: NOM
+lf: individu
+is a term candidate: 1
+
+-----------------
+
+if: m
+pos: NOM
+lf: m
+is a term candidate: 1
+
+-----------------
+
+if: fin du mois
+pos: NOM du NOM
+lf: fin du mois|moi
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( fin<=H> du<=P> mois<=M> )
+islands: 0
+
+
+-----------------
+
+if: restes
+pos: NOM
+lf: reste
+is a term candidate: 1
+
+-----------------
+
+if: milan royal
+pos: NOM ADJ
+lf: milan royal
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( milan<=H> royal<=M> )
+islands: 0
+
+
+-----------------
+
+if: site
+pos: NOM
+lf: site
+is a term candidate: 1
+
+-----------------
+
+if: bridage
+pos: NOM
+lf: bridage
+is a term candidate: 1
+
+-----------------
+
+if: sol
+pos: NOM
+lf: sol
+is a term candidate: 1
+
+-----------------
+
+if: suivi environnemental
+pos: NOM ADJ
+lf: suivi environnemental
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( suivi<=H> environnemental<=M> )
+islands: 0
+
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: fauche
+pos: NOM
+lf: fauche
+is a term candidate: 1
+
+-----------------
+
+if: bureau
+pos: NOM
+lf: bureau
+is a term candidate: 1
+
+-----------------
+
+if: ensemble des agriculteurs
+pos: NOM des NOM
+lf: ensemble du agriculteur
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( ensemble<=H> des<=P> agriculteurs<=M> )
+islands: 0
+
+
+-----------------
+
+if: urgence
+pos: NOM
+lf: urgence
+is a term candidate: 1
+
+-----------------
+
+if: suivi
+pos: NOM
+lf: suivi
+is a term candidate: 1
+
+-----------------
+
+if: bridage agricole fonctionnel
+pos: NOM ADJ ADJ
+lf: bridage agricole fonctionnel
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: exploitants
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+
+if: période de migration post
+pos: NOM de NOM NOM
+lf: période de migration post
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: fait
+pos: NOM
+lf: fait
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: certitude à une collision
+pos: NOM à DET:ART NOM
+lf: certitude à un collision
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( certitude<=H> à<=P> une<=D> collision<=M> )
+islands: 0
+
+
+-----------------
+
+if: cadavre de rapace
+pos: NOM de NOM
+lf: cadavre de rapace
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( cadavre<=H> de<=P> rapace<=M> )
+islands: 0
+
+
+-----------------
+
+if: urgence :rappel
+pos: NOM ADJ
+lf: urgence :rappel
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( urgence<=H> :rappel<=M> )
+islands: 0
+
+
+-----------------
+
+if: charognage
+pos: NOM
+lf: charognage
+is a term candidate: 1
+
+-----------------
+
+if: travail agricole.Il
+pos: NOM ADJ
+lf: travail agricole.Il
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( travail<=H> agricole.Il<=M> )
+islands: 0
+
+
+-----------------
+
+if: mesures
+pos: NOM
+lf: mesure
+is a term candidate: 1
+
+-----------------
+
+if: passage
+pos: NOM
+lf: passage
+is a term candidate: 1
+
+-----------------
+
+if: parcelle
+pos: NOM
+lf: parcelle
+is a term candidate: 1
+
+-----------------
+
+if: prévention de comportements à risque de l' espèce
+pos: NOM de NOM à NOM de DET:ART NOM
+lf: prévention de comportement à risque de le espèce
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: jours
+pos: NOM
+lf: jour
+is a term candidate: 1
+
+-----------------
+
+if: cours
+pos: NOM
+lf: cours|cour
+is a term candidate: 1
+
+-----------------
+
+if: mesure de régulation
+pos: NOM de NOM
+lf: mesure de régulation
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( mesure<=H> de<=P> régulation<=M> )
+islands: 0
+
+
+-----------------
+
+if: études
+pos: NOM
+lf: étude
+is a term candidate: 1
+
+-----------------
+
+if: importante activité de l' espèce
+pos: ADJ NOM de DET:ART NOM
+lf: important activité de le espèce
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: mesure de précaution
+pos: NOM de NOM
+lf: mesure de précaution
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( mesure<=H> de<=P> précaution<=M> )
+islands: 0
+
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: bridage agricole
+pos: NOM ADJ
+lf: bridage agricole
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( bridage<=H> agricole<=M> )
+islands: 0
+
+
+-----------------
+
+if: braconné.Lors du passage
+pos: NOM du NOM
+lf: braconné.Lors du passage
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( braconné.Lors<=H> du<=P> passage<=M> )
+islands: 0
+
+
+-----------------
+
+if: cadavre de l' espèce
+pos: NOM de DET:ART NOM
+lf: cadavre de le espèce
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( cadavre<=H> de<=P> l'<=D> espèce<=M> )
+islands: 0
+
+
+-----------------
+
+if: parc éolien début octobre
+pos: NOM ADJ NOM NOM
+lf: parc éolien début octobre
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: objet
+pos: NOM
+lf: objet
+is a term candidate: 1
+
+-----------------
+
+if: travaux agricoles
+pos: NOM ADJ
+lf: travail agricole
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( travaux<=H> agricoles<=M> )
+islands: 0
+
+
+-----------------
+

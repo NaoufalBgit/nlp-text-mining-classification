@@ -1,0 +1,316 @@
+if: indemnités
+pos: NOM
+lf: indemnité
+is a term candidate: 1
+
+-----------------
+
+if: pâtures
+pos: NOM
+lf: pâture
+is a term candidate: 1
+
+-----------------
+
+if: champs
+pos: NOM
+lf: champ
+is a term candidate: 1
+
+-----------------
+
+if: exploitations
+pos: NOM
+lf: exploitation
+is a term candidate: 1
+
+-----------------
+
+if: étincelles
+pos: NOM
+lf: étincelle
+is a term candidate: 1
+
+-----------------
+
+if: feu
+pos: NOM
+lf: feu
+is a term candidate: 1
+
+-----------------
+
+if: actions
+pos: NOM
+lf: action
+is a term candidate: 1
+
+-----------------
+
+if: expert foncier
+pos: NOM ADJ
+lf: expert foncier
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( expert<=H> foncier<=M> )
+islands: 0
+
+
+-----------------
+
+if: société
+pos: NOM
+lf: société
+is a term candidate: 1
+
+-----------------
+
+if: raison de la projection
+pos: NOM de DET:ART NOM
+lf: raison de le projection
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( raison<=H> de<=P> la<=D> projection<=M> )
+islands: 0
+
+
+-----------------
+
+if: déchets de fibre
+pos: NOM de NOM
+lf: déchet de fibre
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( déchets<=H> de<=P> fibre<=M> )
+islands: 0
+
+
+-----------------
+
+if: consigne
+pos: NOM
+lf: consigne
+is a term candidate: 1
+
+-----------------
+
+if: société spécialisée.400 m² de végétation
+pos: NOM ADJ NOM de NOM
+lf: société spécialisée.400 m² de végétation
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: pompiers
+pos: NOM
+lf: pompier
+is a term candidate: 1
+
+-----------------
+
+if: autres éoliennes du parc
+pos: ADJ NOM du NOM
+lf: autre éolienne du parc
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: étude
+pos: NOM
+lf: étude
+is a term candidate: 1
+
+-----------------
+
+if: sécurité de 100 m
+pos: NOM de NUM NOM
+lf: sécurité de 100 m
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: important panache de fumée
+pos: ADJ NOM de NOM
+lf: important panache de fumée
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: cultures
+pos: NOM
+lf: culture
+is a term candidate: 1
+
+-----------------
+
+if: exploitant
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+
+if: rotor
+pos: NOM
+lf: rotor
+is a term candidate: 1
+
+-----------------
+
+if: arrêté municipal
+pos: NOM ADJ
+lf: arrêté municipal
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( arrêté<=H> municipal<=M> )
+islands: 0
+
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: risques
+pos: NOM
+lf: risque
+is a term candidate: 1
+
+-----------------
+
+if: nuit
+pos: NOM
+lf: nuit
+is a term candidate: 1
+
+-----------------
+
+if: impacts environnementaux
+pos: NOM ADJ
+lf: impact environnemental
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( impacts<=H> environnementaux<=M> )
+islands: 0
+
+
+-----------------
+
+if: 13h30
+pos: NAM
+lf: 13h30
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: pales
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: Feu
+pos: NOM
+lf: feu
+is a term candidate: 1
+
+-----------------
+
+if: bureau
+pos: NOM
+lf: bureau
+is a term candidate: 1
+
+-----------------
+
+if: rondes
+pos: NOM
+lf: ronde
+is a term candidate: 1
+
+-----------------
+
+if: interdiction à l' accès du parc
+pos: NOM à DET:ART NOM du NOM
+lf: interdiction à le accès du parc
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: parc
+pos: NOM
+lf: parc
+is a term candidate: 1
+
+-----------------
+
+if: expert vétérinaire
+pos: ADJ NOM
+lf: expert vétérinaire
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( expert<=M> vétérinaire<=H> )
+islands: 0
+
+
+-----------------
+
+if: départ de feu
+pos: NOM de NOM
+lf: départ de feu
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( départ<=H> de<=P> feu<=M> )
+islands: 0
+
+
+-----------------
+
+if: semaine
+pos: NOM
+lf: semaine
+is a term candidate: 1
+
+-----------------
+

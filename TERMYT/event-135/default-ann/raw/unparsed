@@ -1,0 +1,294 @@
+if: périmètre de sécurité de 350 m
+pos: NOM de NOM de NUM NOM
+lf: périmètre de sécurité de 350 m
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: 17h30
+pos: NAM
+lf: 17h30
+is a term candidate: 1
+
+-----------------
+
+if: sol
+pos: NOM
+lf: sol
+is a term candidate: 1
+
+-----------------
+
+if: distance
+pos: NOM
+lf: distance
+is a term candidate: 1
+
+-----------------
+
+if: dispersion de la fibre de verre présente
+pos: NOM de DET:ART NOM de NOM ADJ
+lf: dispersion de le fibre de verre présent
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: parc éolien le long du RHÔNE
+pos: NOM ADJ DET:ART NOM du NAM
+lf: parc éolien le long du Rhône
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: criticité
+pos: NOM
+lf: criticité
+is a term candidate: 1
+
+-----------------
+
+if: jours
+pos: NOM
+lf: jour
+is a term candidate: 1
+
+-----------------
+
+if: pale.Le morceau de pale au sol
+pos: ADJ NOM de NOM au NOM
+lf: pale.Le morceau de pale au sol
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: gardiennage
+pos: NOM
+lf: gardiennage
+is a term candidate: 1
+
+-----------------
+
+if: défaillance à l' extrémité
+pos: NOM à DET:ART NOM
+lf: défaillance à le extrémité
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( défaillance<=H> à<=P> l'<=D> extrémité<=M> )
+islands: 0
+
+
+-----------------
+
+if: balisage
+pos: NOM
+lf: balisage
+is a term candidate: 1
+
+-----------------
+
+if: détection de balourd
+pos: NOM de NOM
+lf: détection de balourd
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( détection<=H> de<=P> balourd<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: opérateur à distance
+pos: NOM à NOM
+lf: opérateur à distance
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( opérateur<=H> à<=P> distance<=M> )
+islands: 0
+
+
+-----------------
+
+if: pale
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: riverain
+pos: NOM
+lf: riverain
+is a term candidate: 1
+
+-----------------
+
+if: verticale
+pos: NOM
+lf: vertical
+is a term candidate: 1
+
+-----------------
+
+if: accès
+pos: NOM
+lf: accès
+is a term candidate: 1
+
+-----------------
+
+if: Chute de l' extrémité
+pos: NOM de DET:ART NOM
+lf: chute de le extrémité
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Chute<=H> de<=P> l'<=D> extrémité<=M> )
+islands: 0
+
+
+-----------------
+
+if: morceau de pale
+pos: NOM de NOM
+lf: morceau de pale
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( morceau<=H> de<=P> pale<=M> )
+islands: 0
+
+
+-----------------
+
+if: drone
+pos: NOM
+lf: drone
+is a term candidate: 1
+
+-----------------
+
+if: m
+pos: NOM
+lf: m
+is a term candidate: 1
+
+-----------------
+
+if: arrêt
+pos: NOM
+lf: arrêt
+is a term candidate: 1
+
+-----------------
+
+if: casse
+pos: NOM
+lf: casse
+is a term candidate: 1
+
+-----------------
+
+if: inspection
+pos: NOM
+lf: inspection
+is a term candidate: 1
+
+-----------------
+
+if: gestionnaire
+pos: NOM
+lf: gestionnaire
+is a term candidate: 1
+
+-----------------
+
+if: dernière inspection visuelle
+pos: ADJ NOM ADJ
+lf: dernier inspection visuel
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: dégâts
+pos: NOM
+lf: dégât
+is a term candidate: 1
+
+-----------------
+
+if: contrôle
+pos: NOM
+lf: contrôle
+is a term candidate: 1
+
+-----------------
+
+if: parc
+pos: NOM
+lf: parc
+is a term candidate: 1
+
+-----------------
+
+if: rotation
+pos: NOM
+lf: rotation
+is a term candidate: 1
+
+-----------------
+
+if: système
+pos: NOM
+lf: système
+is a term candidate: 1
+
+-----------------
+
+if: accès au chemin de halage
+pos: NOM au NOM de NOM
+lf: accès au chemin de halage
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: chute de l' extrémité
+pos: NOM de DET:ART NOM
+lf: chute de le extrémité
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( chute<=H> de<=P> l'<=D> extrémité<=M> )
+islands: 0
+
+
+-----------------
+

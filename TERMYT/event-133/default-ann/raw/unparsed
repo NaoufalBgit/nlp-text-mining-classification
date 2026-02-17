@@ -1,0 +1,160 @@
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: pompiers
+pos: NOM
+lf: pompier
+is a term candidate: 1
+
+-----------------
+
+if: sol
+pos: NOM
+lf: sol
+is a term candidate: 1
+
+-----------------
+
+if: secours
+pos: NOM
+lf: secours
+is a term candidate: 1
+
+-----------------
+
+if: mise
+pos: NOM
+lf: mise
+is a term candidate: 1
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: parc
+pos: NOM
+lf: parc
+is a term candidate: 1
+
+-----------------
+
+if: hub
+pos: NOM
+lf: hub
+is a term candidate: 1
+
+-----------------
+
+if: défaillance du système de freinage
+pos: NOM du NOM de NOM
+lf: défaillance du système de freinage
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: vitesse de rotation excessive ayant conduit au bris de pales
+pos: NOM de NOM ADJ ayant VER:pper au NOM de NOM
+lf: vitesse de rotation excessif avoir conduire au bris de pale
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: vitesse du rotor
+pos: NOM du NOM
+lf: vitesse du rotor
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( vitesse<=H> du<=P> rotor<=M> )
+islands: 0
+
+
+-----------------
+
+if: bruit inhabituel provenant de la nacelle
+pos: NOM ADJ VER:ppre de DET:ART NOM
+lf: bruit inhabituel provenir de le nacelle
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: aérogénérateurs de 750 kW
+pos: NOM de NUM NOM
+lf: aérogénérateur de 750 kW
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: exploitant
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+
+if: pales
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: arrêt
+pos: NOM
+lf: arrêt
+is a term candidate: 1
+
+-----------------
+
+if: origine
+pos: NOM
+lf: origine
+is a term candidate: 1
+
+-----------------
+
+if: vent
+pos: NOM
+lf: vent
+is a term candidate: 1
+
+-----------------
+
+if: incident
+pos: NOM
+lf: incident
+is a term candidate: 1
+
+-----------------
+
+if: sécurité
+pos: NOM
+lf: sécurité
+is a term candidate: 1
+
+-----------------
+
+if: éoliennes
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+

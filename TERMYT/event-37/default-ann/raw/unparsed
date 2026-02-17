@@ -1,0 +1,222 @@
+if: études
+pos: NOM
+lf: étude
+is a term candidate: 1
+
+-----------------
+
+if: m
+pos: NOM
+lf: m
+is a term candidate: 1
+
+-----------------
+
+if: fonctionnement du système de détection automatisé prévu courant avril
+pos: NOM du NOM de NOM VER:pper VER:pper VER:ppre NOM
+lf: fonctionnement du système de détection automatiser prévoir courir avril
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: danger
+pos: NOM
+lf: danger
+is a term candidate: 1
+
+-----------------
+
+if: biosurveillance
+pos: NOM
+lf: biosurveillance
+is a term candidate: 1
+
+-----------------
+
+if: collision
+pos: NOM
+lf: collision
+is a term candidate: 1
+
+-----------------
+
+if: ensemble du parc
+pos: NOM du NOM
+lf: ensemble du parc
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( ensemble<=H> du<=P> parc<=M> )
+islands: 0
+
+
+-----------------
+
+if: système de détection
+pos: NOM de NOM
+lf: système de détection
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( système<=H> de<=P> détection<=M> )
+islands: 0
+
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: migration de l' espèce.L'exploitant
+pos: NOM de DET:ART NOM
+lf: migration de le espèce.L'exploitant
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( migration<=H> de<=P> l'<=D> espèce.L'exploitant<=M> )
+islands: 0
+
+
+-----------------
+
+if: Milan Royal
+pos: NAM NAM
+lf: Milan Royal
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Milan<=H> Royal<=M> )
+islands: 0
+
+
+-----------------
+
+if: protection de la cigogne-noire
+pos: NOM de DET:ART NOM
+lf: protection de le cigogne-noir|noire
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( protection<=H> de<=P> la<=D> cigogne-noire<=M> )
+islands: 0
+
+
+-----------------
+
+if: sol
+pos: NOM
+lf: sol
+is a term candidate: 1
+
+-----------------
+
+if: espèce
+pos: NOM
+lf: espèce
+is a term candidate: 1
+
+-----------------
+
+if: programme de biosurveillance
+pos: NOM de NOM
+lf: programme de biosurveillance
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( programme<=H> de<=P> biosurveillance<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: protection
+pos: NOM
+lf: protection
+is a term candidate: 1
+
+-----------------
+
+if: Choc
+pos: NOM
+lf: choc
+is a term candidate: 1
+
+-----------------
+
+if: bureau
+pos: NOM
+lf: bureau
+is a term candidate: 1
+
+-----------------
+
+if: arbre de décision
+pos: NOM de NOM
+lf: arbre de décision
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( arbre<=H> de<=P> décision<=M> )
+islands: 0
+
+
+-----------------
+
+if: arrêt des machines
+pos: NOM des NOM
+lf: arrêt du machine
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( arrêt<=H> des<=P> machines<=M> )
+islands: 0
+
+
+-----------------
+
+if: milan
+pos: NOM
+lf: milan
+is a term candidate: 1
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: espèces
+pos: NOM
+lf: espèce
+is a term candidate: 1
+
+-----------------
+
+if: observateurs
+pos: NOM
+lf: observateur
+is a term candidate: 1
+
+-----------------
+

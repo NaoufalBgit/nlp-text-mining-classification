@@ -1,0 +1,28 @@
+# ID	Inflected form	Lemmatised form	Frequency	CValue	CValue1	CValuePlus	CValuePlus1	CValueStar	CValueStarH	CValueStarM	CValueStarR	CValueWCard	CValueWCardPlus	D	DDW	Freq	idf	ilnc	ilncFreq	iLong	IM	iTer	LLR	nbdoc4tc	NormFreq	tf	tf-idf	Head	Modifier	MainHead
+0	impact de foudre	impact de foudre	2	3.16992500144231	4	3.16992500144231	4	1	N/A	N/A	0.830074998557687	0	0	1	0	2	0:0	0	0	0.666666666666667	1	0.5	0.000112060551454184	1	1	0:2	0:0	1	2	1	
+3	pale de 2 m de longueur	pale de 2 m de longueur	1	2.58496250072116	2.8073549220576	2.58496250072116	2.8073549220576	N/A	N/A	N/A	0.222392421336448	0	0	1	0	1	0:0	0	0	0.166666666666667	1	0.142857142857143	6.93134680530211e-06	1	0.5	0:1	0:0	4	5	4	
+20	parc éolien	parc éolien	2	2	3.16992500144231	2	3.16992500144231	1	N/A	N/A	1.16992500144231	0	0	1	0	2	0:0	0	0	1	1	0.666666666666667	0.000112060551454184	1	1	0:2	0:0	21	22	21	
+24	éolienne à la suite	éolienne à le suite	1	2	2.32192809488736	2	2.32192809488736	N/A	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	2	0.2	0.000115129154648748	1	0.5	0:1	0:0	25	26	25	
+10	Chute de pale	chute de pale	1	1.58496250072116	2	1.58496250072116	2	1	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	1	0.25	1.38627436101989	1	0.5	0:1	0:0	11	4	11	
+13	inspection complète	inspection complet	1	1	1.58496250072116	1	1.58496250072116	1	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	2	0.333333333333333	0.000115129154648748	1	0.5	0:1	0:0	14	15	14	
+22	éolien	éolien	2	0	0	0	4	N/A	N/A	0	N/A	0	4	1	0	2	0:0	0	0	2	N/A	1	N/A	1	1	0:2	0:0				
+4	pale	pale	2	0	1	0	3	1	1	1	N/A	1	3	1	0	2	0:0	1	1	2	N/A	2	N/A	1	1	0:2	0:0				
+1	impact	impact	2	0	0	0	4	1	0	N/A	N/A	0	4	1	0	2	0:0	1	2	2	N/A	2	N/A	1	1	0:2	0:0				
+21	parc	parc	2	0	0	0	4	1	0	N/A	N/A	0	4	1	0	2	0:0	1	2	2	N/A	2	N/A	1	1	0:2	0:0				
+2	foudre	foudre	2	0	0	0	4	1	N/A	0	N/A	0	4	1	0	2	0:0	0	0	2	N/A	1	N/A	1	1	0:2	0:0				
+23	constatations	constatation	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+9	longueur	longueur	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+25	éolienne	éolienne	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.5	0:1	0:0				
+19	sol	sol	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+27	mesure	mesure	1	0	1	0	1	1	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+8	m	m	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.5	0:1	0:0				
+5	2 m de longueur	2 m de longueur	1	0	0	4	4.64385618977472	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.25	2	0.2	0.000115129154648748	1	0.5	0:1	0:0	7	6	8	
+7	m de longueur	m de longueur	1	0	0	3.16992500144231	4	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	2	0.5	0.000115129154648748	1	0.5	0:1	0:0	8	9	8	
+26	suite	suite	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+16	exploitant	exploitant	1	0	1	0	1	1	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+17	arrêt	arrêt	1	0	1	0	1	1	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+15	complète	complet	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+11	Chute	chute	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.5	0:1	0:0				
+14	inspection	inspection	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.5	0:1	0:0				
+18	drone	drone	1	0	1	0	1	1	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				
+6	2	2	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.5	0:1	0:0				

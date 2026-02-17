@@ -1,0 +1,81 @@
+# ID	Inflected form	Lemmatised form	Frequency	CValue	CValue1	CValuePlus	CValuePlus1	CValueStar	CValueStarH	CValueStarM	CValueStarR	CValueWCard	CValueWCardPlus	D	DDW	Freq	idf	ilnc	ilncFreq	iLong	IM	iTer	LLR	nbdoc4tc	NormFreq	tf	tf-idf	Head	Modifier	MainHead
+0	supervision à distance	supervision à distance	2	3.16992500144231	4	3.16992500144231	4	2	N/A	N/A	0.830074998557687	0	0	1	0	2	0:0	0	0	0.666666666666667	1	0.5	0.000112060551454184	1	0.666666666666667	0:2	0:0	1	2	1	
+62	place des caméras de vidéosurveillance	place du caméra de vidéosurveillance	1	2.32192809488736	2.58496250072116	2.32192809488736	2.58496250072116	N/A	N/A	N/A	0.263034405833794	0	0	1	0	1	0:0	0	0	0.2	3	0.166666666666667	0.000115129154648748	1	0.333333333333333	0:1	0:0	63	66	11	
+3	parc éolien	parc éolien	2	2	3.16992500144231	2	3.16992500144231	2	N/A	N/A	1.16992500144231	0	0	1	0	2	0:0	0	0	1	1	0.666666666666667	0.000112060551454184	1	0.666666666666667	0:2	0:0	4	5	4	
+75	plainte à la gendarmerie	plainte à le gendarmerie	1	2	2.32192809488736	2	2.32192809488736	N/A	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	3	0.2	0.000115129154648748	1	0.333333333333333	0:1	0:0	76	77	76	
+38	systèmes de détection avifaune	système de détection avifaune	1	2	2.32192809488736	2	2.32192809488736	2	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	3	0.2	0.000115129154648748	1	0.333333333333333	0:1	0:0	39	42	40	
+67	caméras à déclenchement automatique	caméra à déclenchement automatique	1	2	2.32192809488736	2	2.32192809488736	2	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	3	0.2	0.000115129154648748	1	0.333333333333333	0:1	0:0	68	71	65	
+58	exploitation.L'origine de l' événement	exploitation.L'origine de le événement	1	2	2.32192809488736	2	2.32192809488736	1	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	3	0.2	0.000115129154648748	1	0.333333333333333	0:1	0:0	59	60	59	
+55	éoliennes à l' arrêt	éolienne à le arrêt	1	2	2.32192809488736	2	2.32192809488736	1	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	0.5	0.2	0.000115129154648748	1	0.333333333333333	0:1	0:0	56	57	56	
+48	acte de malveillance.L'exploitant	acte de malveillance.L'exploitant	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	3	0.25	0.000115129154648748	1	0.333333333333333	0:1	0:0	49	50	49	
+7	intérieur du poste	intérieur du poste	1	1.58496250072116	2	1.58496250072116	2	1	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	1	0.25	1.38627436101989	1	0.333333333333333	0:1	0:0	8	9	8	
+16	équipements de communication	équipement de communication	1	1.58496250072116	2	1.58496250072116	2	1	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	1	0.25	0.000115129154648748	1	0.333333333333333	0:1	0:0	17	15	17	
+45	solution de remplacement	solution de remplacement	1	1.58496250072116	2	1.58496250072116	2	1	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	3	0.25	0.000115129154648748	1	0.333333333333333	0:1	0:0	46	47	46	
+29	temps de réparation	temps de réparation	1	1.58496250072116	2	1.58496250072116	2	1	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	3	0.25	0.000115129154648748	1	0.333333333333333	0:1	0:0	30	31	30	
+52	poste de livraison	poste de livraison	1	1.58496250072116	2	1.58496250072116	2	1	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	0.5	0.25	6.93134680530211e-06	1	0.333333333333333	0:1	0:0	9	54	9	
+78	astreinte permanente	astreinte permanent	1	1	1.58496250072116	1	1.58496250072116	N/A	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	3	0.333333333333333	0.000115129154648748	1	0.333333333333333	0:1	0:0	79	80	79	
+12	alerte intrusion	alerte intrusion	1	1	1.58496250072116	1	1.58496250072116	2	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	3	0.333333333333333	0.000115129154648748	1	0.333333333333333	0:1	0:0	14	13	14	
+81	matériel informatique	matériel informatique	1	1	1.58496250072116	1	1.58496250072116	2	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	1.5	0.333333333333333	0.000115129154648748	1	0.333333333333333	0:1	0:0	83	82	83	
+35	dommages matériels	dommage matériel	1	1	1.58496250072116	1	1.58496250072116	2	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	3	0.333333333333333	0.000115129154648748	1	0.333333333333333	0:1	0:0	36	37	36	
+72	maintenance annuelle	maintenance annuel	1	1	1.58496250072116	1	1.58496250072116	2	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	3	0.333333333333333	0.000115129154648748	1	0.333333333333333	0:1	0:0	73	74	73	
+56	éoliennes	éolienne	3	0	2	0	4	N/A	2	N/A	N/A	2	4	1	0	3	0:0	1	1	3	N/A	3	N/A	1	1	0:3	0:0				
+4	parc	parc	3	0	1	0	5	2	1	N/A	N/A	1	5	1	0	3	0:0	1	2	3	N/A	3	N/A	1	1	0:3	0:0				
+9	poste	poste	2	0	2	0	4	2	2	2	N/A	1	3	1	0	2	0:0	1	1	2	N/A	2	N/A	1	0.666666666666667	0:2	0:0				
+87	techniciens	technicien	2	0	2	0	2	2	N/A	N/A	2	0	0	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.666666666666667	0:2	0:0				
+1	supervision	supervision	2	0	0	0	4	2	0	N/A	N/A	0	4	1	0	2	0:0	1	2	2	N/A	2	N/A	1	0.666666666666667	0:2	0:0				
+15	communication	communication	2	0	2	0	4	2	N/A	2	N/A	1	3	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.666666666666667	0:2	0:0				
+11	place	place	2	0	1	0	3	2	1	N/A	N/A	1	3	1	0	2	0:0	1	1	2	N/A	2	N/A	1	0.666666666666667	0:2	0:0				
+2	distance	distance	2	0	1	0	5	2	N/A	1	N/A	0	4	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.666666666666667	0:2	0:0				
+65	caméras	caméra	2	0	1	0	3	1	1	1	N/A	1	3	1	0	2	0:0	1	1	2	N/A	2	N/A	1	0.666666666666667	0:2	0:0				
+5	éolien	éolien	2	0	0	0	4	1	N/A	0	N/A	0	4	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.666666666666667	0:2	0:0				
+57	arrêt	arrêt	2	0	1	0	3	1	N/A	1	N/A	1	3	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.666666666666667	0:2	0:0				
+24	partie	partie	2	0	1	0	3	1	1	N/A	N/A	1	3	1	0	2	0:0	1	1	2	N/A	2	N/A	1	0.666666666666667	0:2	0:0				
+17	équipements	équipement	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.333333333333333	0:1	0:0				
+13	alerte	alerte	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+33	exploitant	exploitant	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+20	approvisionnement	approvisionnement	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.333333333333333	0:1	0:0				
+73	maintenance	maintenance	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.333333333333333	0:1	0:0				
+82	matériel	matériel	1	0	1	0	3	N/A	N/A	1	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+50	malveillance.L'exploitant	malveillance.L'exploitant	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+68	caméras à déclenchement	caméra à déclenchement	1	0	0	3.16992500144231	4	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	1.5	0.5	6.93134680530211e-06	1	0.333333333333333	0:1	0:0	65	70	65	
+71	automatique	automatique	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+46	solution	solution	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.333333333333333	0:1	0:0				
+85	minutes	minute	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+76	plainte	plainte	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.333333333333333	0:1	0:0				
+83	informatique	informatique	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.333333333333333	0:1	0:0				
+21	matériel.Une partie des serveurs informatiques	matériel.Une partie du serveur informatique	1	0	0	4.64385618977472	5.16992500144231	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.2	3	0.166666666666667	0.000115129154648748	1	0.333333333333333	0:1	0:0	23	22	24	
+30	temps	temps	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.333333333333333	0:1	0:0				
+77	gendarmerie	gendarmerie	1	0	0	0	2	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+39	systèmes de détection	système de détection	1	0	0	3.16992500144231	4	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	3	0.5	0.000115129154648748	1	0.333333333333333	0:1	0:0	40	41	40	
+25	serveurs informatiques	serveur informatique	1	0	0	2	3.16992500144231	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.5	3	0.333333333333333	0.000115129154648748	1	0.333333333333333	0:1	0:0	26	27	26	
+86	20h30	20h30	1	0	1	0	1	2	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+27	informatiques	informatique	1	0	0	0	2	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+31	réparation	réparation	1	0	0	0	2	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+6	mois	mois|moi	1	0	1	0	1	2	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+37	matériels	matériel	1	0	0	0	2	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+80	permanente	permanent	1	0	0	0	2	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+26	serveurs	serveur	1	0	0	0	2	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.333333333333333	0:1	0:0				
+36	dommages	dommage	1	0	0	0	2	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.333333333333333	0:1	0:0				
+43	incident	incident	1	0	1	0	1	2	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+49	acte	acte	1	0	0	0	2	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.333333333333333	0:1	0:0				
+40	systèmes	système	1	0	0	0	2	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.333333333333333	0:1	0:0				
+51	jours	jour	1	0	1	0	1	2	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+42	avifaune	avifaune	1	0	0	0	2	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+41	détection	détection	1	0	0	0	2	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+59	exploitation.L'origine	exploitation.L'origine	1	0	0	0	2	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.333333333333333	0:1	0:0				
+10	Intrusion	intrusion	1	0	1	0	1	2	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+34	arrivée	arrivée	1	0	1	0	1	2	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+8	intérieur	intérieur	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.333333333333333	0:1	0:0				
+79	astreinte	astreinte	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.333333333333333	0:1	0:0				
+47	remplacement	remplacement	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+63	place des caméras	place du caméra	1	0	0	3.16992500144231	4	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	0.75	0.5	1.38627436101989	1	0.333333333333333	0:1	0:0	11	65	11	
+23	partie des serveurs informatiques	partie du serveur informatique	1	0	0	4	4.64385618977472	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.25	1.5	0.4	0.000115129154648748	1	0.333333333333333	0:1	0:0	24	25	24	
+60	événement	événement	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+70	déclenchement	déclenchement	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+84	pertes	perte	1	0	1	0	1	1	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+14	intrusion	intrusion	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.333333333333333	0:1	0:0				
+22	matériel.Une	matériel.Une	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+32	équipe	équipe	1	0	1	0	1	1	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+54	livraison	livraison	1	0	1	0	3	1	N/A	1	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+74	annuelle	annuel	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+66	vidéosurveillance	vidéosurveillance	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				

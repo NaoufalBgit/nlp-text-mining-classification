@@ -1,0 +1,140 @@
+if: tempête
+pos: NOM
+lf: tempête
+is a term candidate: 1
+
+-----------------
+
+if: moyeu
+pos: NOM
+lf: moyeu
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: vent
+pos: NOM
+lf: vent
+is a term candidate: 1
+
+-----------------
+
+if: m de hauteur
+pos: NOM de NOM
+lf: m de hauteur
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( m<=H> de<=P> hauteur<=M> )
+islands: 0
+
+
+-----------------
+
+if: kW
+pos: NOM
+lf: kW
+is a term candidate: 1
+
+-----------------
+
+if: m du pied du mat
+pos: NOM du NOM du NOM
+lf: m du pied du mat
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: manchons des pales
+pos: NOM des NOM
+lf: manchon du pale
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( manchons<=H> des<=P> pales<=M> )
+islands: 0
+
+
+-----------------
+
+if: pale
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: exploitant
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+
+if: cas
+pos: NOM
+lf: cas
+is a term candidate: 1
+
+-----------------
+
+if: puissance unitaire
+pos: NOM ADJ
+lf: puissance unitaire
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( puissance<=H> unitaire<=M> )
+islands: 0
+
+
+-----------------
+
+if: vents
+pos: NOM
+lf: vent
+is a term candidate: 1
+
+-----------------
+
+if: sol
+pos: NOM
+lf: sol
+is a term candidate: 1
+
+-----------------
+
+if: secours
+pos: NOM
+lf: secours
+is a term candidate: 1
+
+-----------------
+
+if: sécurité les 4 éoliennes du parc
+pos: NOM DET:ART NUM NOM du NOM
+lf: sécurité le 4 éolienne du parc
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: périmètre de sécurité de 350 m.L'éolienne
+pos: NOM de NOM de NUM NOM
+lf: périmètre de sécurité de 350 m.L'éolienne
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+

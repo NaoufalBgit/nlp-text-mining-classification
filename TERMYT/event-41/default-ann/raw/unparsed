@@ -1,0 +1,292 @@
+if: éoliennes
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: milan royal
+pos: NOM ADJ
+lf: milan royal
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( milan<=H> royal<=M> )
+islands: 0
+
+
+-----------------
+
+if: avifaune
+pos: NOM
+lf: avifaune
+is a term candidate: 1
+
+-----------------
+
+if: champs
+pos: NOM
+lf: champ
+is a term candidate: 1
+
+-----------------
+
+if: bureau
+pos: NOM
+lf: bureau
+is a term candidate: 1
+
+-----------------
+
+if: cadavre
+pos: NOM
+lf: cadavre
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: lieu
+pos: NOM
+lf: lieu
+is a term candidate: 1
+
+-----------------
+
+if: Choc
+pos: NOM
+lf: choc
+is a term candidate: 1
+
+-----------------
+
+if: risque de choc
+pos: NOM de NOM
+lf: risque de choc
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( risque<=H> de<=P> choc<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne.Le suivi annuel
+pos: NOM VER:pper ADJ
+lf: éolienne.Le suivre annuel
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: individu
+pos: NOM
+lf: individu
+is a term candidate: 1
+
+-----------------
+
+if: m
+pos: NOM
+lf: m
+is a term candidate: 1
+
+-----------------
+
+if: milans
+pos: NOM
+lf: milan
+is a term candidate: 1
+
+-----------------
+
+if: secteur
+pos: NOM
+lf: secteur
+is a term candidate: 1
+
+-----------------
+
+if: grand nombre de rapaces
+pos: ADJ NOM de NOM
+lf: grand nombre de rapace
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: contexte
+pos: NOM
+lf: contexte
+is a term candidate: 1
+
+-----------------
+
+if: collision directe
+pos: NOM ADJ
+lf: collision direct
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( collision<=H> directe<=M> )
+islands: 0
+
+
+-----------------
+
+if: autres rapaces
+pos: ADJ NOM
+lf: autre rapace
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( autres<=M> rapaces<=H> )
+islands: 0
+
+
+-----------------
+
+if: importante de milans
+pos: ADJ de NOM
+lf: important de milan
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: suivi de la mortalité aviaire
+pos: NOM de DET:ART NOM ADJ
+lf: suivi de le mortalité aviaire
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( suivi<=H> de<=P> la<=D> ( mortalité<=H> aviaire<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: sol
+pos: NOM
+lf: sol
+is a term candidate: 1
+
+-----------------
+
+if: études
+pos: NOM
+lf: étude
+is a term candidate: 1
+
+-----------------
+
+if: cours de fauche
+pos: NOM de NOM
+lf: cours|cour de fauche
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( cours<=H> de<=P> fauche<=M> )
+islands: 0
+
+
+-----------------
+
+if: activité
+pos: NOM
+lf: activité
+is a term candidate: 1
+
+-----------------
+
+if: parcelles adjacentes
+pos: NOM ADJ
+lf: parcelle adjacent
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parcelles<=H> adjacentes<=M> )
+islands: 0
+
+
+-----------------
+
+if: fauches de foin
+pos: NOM de NOM
+lf: fauche de foin
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( fauches<=H> de<=P> foin<=M> )
+islands: 0
+
+
+-----------------
+
+if: jours
+pos: NOM
+lf: jour
+is a term candidate: 1
+
+-----------------
+
+if: comportement des milans royaux
+pos: NOM des NOM ADJ
+lf: comportement du milan royal
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( comportement<=H> des<=P> ( milans<=H> royaux<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: blessures apparentes
+pos: NOM ADJ
+lf: blessure apparent
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( blessures<=H> apparentes<=M> )
+islands: 0
+
+
+-----------------
+
+if: espèce
+pos: NOM
+lf: espèce
+is a term candidate: 1
+
+-----------------
+
+if: présence
+pos: NOM
+lf: présence
+is a term candidate: 1
+
+-----------------
+

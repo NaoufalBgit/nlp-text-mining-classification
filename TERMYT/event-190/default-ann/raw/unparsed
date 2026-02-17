@@ -1,0 +1,332 @@
+if: accès aux principaux éléments
+pos: NOM aux ADJ NOM
+lf: accès au principal élément
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: éoliennes
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: inadéquation
+pos: NOM
+lf: inadéquation
+is a term candidate: 1
+
+-----------------
+
+if: m
+pos: NOM
+lf: m
+is a term candidate: 1
+
+-----------------
+
+if: survitesse
+pos: NOM
+lf: survitesse
+is a term candidate: 1
+
+-----------------
+
+if: Feu
+pos: NOM
+lf: feu
+is a term candidate: 1
+
+-----------------
+
+if: débris entrainant 2 incendies de végétation
+pos: NOM VER:ppre NUM NOM de NOM
+lf: débris entrainer 2 incendie de végétation
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: points
+pos: NOM
+lf: point
+is a term candidate: 1
+
+-----------------
+
+if: état
+pos: NOM
+lf: état
+is a term candidate: 1
+
+-----------------
+
+if: éloignement important
+pos: NOM ADJ
+lf: éloignement important
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( éloignement<=H> important<=M> )
+islands: 0
+
+
+-----------------
+
+if: dispositif de sécurité
+pos: NOM de NOM
+lf: dispositif de sécurité
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( dispositif<=H> de<=P> sécurité<=M> )
+islands: 0
+
+
+-----------------
+
+if: forts coups de vent
+pos: ADJ NOM de NOM
+lf: fort coup de vent
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: éoliennes hautes
+pos: NOM ADJ
+lf: éolienne haut
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( éoliennes<=H> hautes<=M> )
+islands: 0
+
+
+-----------------
+
+if: autres appareils du parc
+pos: ADJ NOM du NOM
+lf: autre appareil du parc
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: flammes
+pos: NOM
+lf: flamme
+is a term candidate: 1
+
+-----------------
+
+if: incendie
+pos: NOM
+lf: incendie
+is a term candidate: 1
+
+-----------------
+
+if: site
+pos: NOM
+lf: site
+is a term candidate: 1
+
+-----------------
+
+if: nécessité de procédures
+pos: NOM de NOM
+lf: nécessité de procédure
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( nécessité<=H> de<=P> procédures<=M> )
+islands: 0
+
+
+-----------------
+
+if: périmètre de sécurité
+pos: NOM de NOM
+lf: périmètre de sécurité
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( périmètre<=H> de<=P> sécurité<=M> )
+islands: 0
+
+
+-----------------
+
+if: ARIA 29385).Les pompiers
+pos: NOM ADJ ADJ
+lf: aria 29385).Les pompier
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: arrêt.Selon
+pos: NOM
+lf: arrêt.Selon
+is a term candidate: 1
+
+-----------------
+
+if: dysfonctionnement des freins hydrauliques automatiques
+pos: NOM des NOM ADJ ADJ
+lf: dysfonctionnement du frein hydraulique automatique
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: moyens urbains
+pos: NOM ADJ
+lf: moyen urbain
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( moyens<=H> urbains<=M> )
+islands: 0
+
+
+-----------------
+
+if: jour
+pos: NOM
+lf: jour
+is a term candidate: 1
+
+-----------------
+
+if: installations
+pos: NOM
+lf: installation
+is a term candidate: 1
+
+-----------------
+
+if: eau
+pos: NOM
+lf: eau
+is a term candidate: 1
+
+-----------------
+
+if: éoliennes supplémentaires
+pos: NOM ADJ
+lf: éolienne supplémentaire
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( éoliennes<=H> supplémentaires<=M> )
+islands: 0
+
+
+-----------------
+
+if: type
+pos: NOM
+lf: type
+is a term candidate: 1
+
+-----------------
+
+if: pompiers
+pos: NOM
+lf: pompier
+is a term candidate: 1
+
+-----------------
+
+if: emballement
+pos: NOM
+lf: emballement
+is a term candidate: 1
+
+-----------------
+
+if: hauteur
+pos: NOM
+lf: hauteur
+is a term candidate: 1
+
+-----------------
+
+if: consignes opérationnelles
+pos: NOM ADJ
+lf: consigne opérationnel
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( consignes<=H> opérationnelles<=M> )
+islands: 0
+
+
+-----------------
+
+if: techniciens de maintenance
+pos: NOM de NOM
+lf: technicien de maintenance
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( techniciens<=H> de<=P> maintenance<=M> )
+islands: 0
+
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: une
+pos: NOM
+lf: un
+is a term candidate: 1
+
+-----------------
+
+if: m²
+pos: NOM
+lf: m²
+is a term candidate: 1
+
+-----------------
+
+if: feu
+pos: NOM
+lf: feu
+is a term candidate: 1
+
+-----------------
+
+if: projection de pales à la suite
+pos: NOM de NOM à DET:ART NOM
+lf: projection de pale à le suite
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: 8km
+pos: NAM
+lf: 8km
+is a term candidate: 1
+
+-----------------
+

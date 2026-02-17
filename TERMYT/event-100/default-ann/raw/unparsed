@@ -1,0 +1,243 @@
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: sol
+pos: NOM
+lf: sol
+is a term candidate: 1
+
+-----------------
+
+if: aérogénérateurs
+pos: NOM
+lf: aérogénérateur
+is a term candidate: 1
+
+-----------------
+
+if: visites
+pos: NOM
+lf: visite
+is a term candidate: 1
+
+-----------------
+
+if: nord
+pos: NOM
+lf: nord
+is a term candidate: 1
+
+-----------------
+
+if: m
+pos: NOM
+lf: m
+is a term candidate: 1
+
+-----------------
+
+if: bureau
+pos: NOM
+lf: bureau
+is a term candidate: 1
+
+-----------------
+
+if: faucon crécerellette
+pos: NOM ADJ
+lf: faucon crécerellette
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( faucon<=H> crécerellette<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne.A
+pos: NOM
+lf: éolienne.A
+is a term candidate: 1
+
+-----------------
+
+if: exploitant du parc éolien
+pos: NOM du NOM ADJ
+lf: exploitant du parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( exploitant<=H> du<=P> ( parc<=H> éolien<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: études
+pos: NOM
+lf: étude
+is a term candidate: 1
+
+-----------------
+
+if: période post-nuptiale
+pos: NOM ADJ
+lf: période post-nuptial
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( période<=H> post-nuptiale<=M> )
+islands: 0
+
+
+-----------------
+
+if: aire de répartition habituelle
+pos: NOM de NOM ADJ
+lf: aire de répartition habituel
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( aire<=H> de<=P> ( répartition<=H> habituelle<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: Choc
+pos: NOM
+lf: choc
+is a term candidate: 1
+
+-----------------
+
+if: migration
+pos: NOM
+lf: migration
+is a term candidate: 1
+
+-----------------
+
+if: espèce
+pos: NOM
+lf: espèce
+is a term candidate: 1
+
+-----------------
+
+if: suivi de la mortalité aviaire
+pos: NOM de DET:ART NOM ADJ
+lf: suivi de le mortalité aviaire
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( suivi<=H> de<=P> la<=D> ( mortalité<=H> aviaire<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: faucon
+pos: NOM
+lf: faucon
+is a term candidate: 1
+
+-----------------
+
+if: mortalité
+pos: NOM
+lf: mortalité
+is a term candidate: 1
+
+-----------------
+
+if: sud de la France
+pos: NOM de DET:ART NAM
+lf: sud de le France
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( sud<=H> de<=P> la<=D> France<=M> )
+islands: 0
+
+
+-----------------
+
+if: faucons crécerellettes susceptibles
+pos: NOM ADJ ADJ
+lf: faucon crécerellette susceptible
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: niveau du parc éolien
+pos: NOM du NOM ADJ
+lf: niveau du parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( niveau<=H> du<=P> ( parc<=H> éolien<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: faucons
+pos: NOM
+lf: faucon
+is a term candidate: 1
+
+-----------------
+
+if: période de l' année
+pos: NOM de DET:ART NOM
+lf: période de le année
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( période<=H> de<=P> l'<=D> année<=M> )
+islands: 0
+
+
+-----------------
+
+if: collision directe
+pos: NOM ADJ
+lf: collision direct
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( collision<=H> directe<=M> )
+islands: 0
+
+
+-----------------
+
+if: réduite le risque de collision
+pos: ADJ DET:ART NOM de NOM
+lf: réduit le risque de collision
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+

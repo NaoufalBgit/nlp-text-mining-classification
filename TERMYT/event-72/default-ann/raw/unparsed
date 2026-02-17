@@ -1,0 +1,383 @@
+if: origine du sinistre
+pos: NOM du NOM
+lf: origine du sinistre
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( origine<=H> du<=P> sinistre<=M> )
+islands: 0
+
+
+-----------------
+
+if: Feu
+pos: NOM
+lf: feu
+is a term candidate: 1
+
+-----------------
+
+if: haut du mât
+pos: NOM du NOM
+lf: haut du mât
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( haut<=H> du<=P> mât<=M> )
+islands: 0
+
+
+-----------------
+
+if: feu
+pos: NOM
+lf: feu
+is a term candidate: 1
+
+-----------------
+
+if: sécurité les 17 machines du parc éolien
+pos: NOM DET:ART NUM NOM du NOM ADJ
+lf: sécurité le 17 machine du parc éolien
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: partie des pales
+pos: NOM des NOM
+lf: partie du pale
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( partie<=H> des<=P> pales<=M> )
+islands: 0
+
+
+-----------------
+
+if: sécurité de l' éolienne
+pos: NOM de DET:ART NOM
+lf: sécurité de le éolienne
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( sécurité<=H> de<=P> l'<=D> éolienne<=M> )
+islands: 0
+
+
+-----------------
+
+if: hydrocarbures
+pos: NOM
+lf: hydrocarbure
+is a term candidate: 1
+
+-----------------
+
+if: éléments
+pos: NOM
+lf: élément
+is a term candidate: 1
+
+-----------------
+
+if: défaut des condensateurs du boitier électrique
+pos: NOM des NOM du NOM ADJ
+lf: défaut du condensateur du boitier électrique
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: matérialisation
+pos: NOM
+lf: matérialisation
+is a term candidate: 1
+
+-----------------
+
+if: secours
+pos: NOM
+lf: secours
+is a term candidate: 1
+
+-----------------
+
+if: nacelle d
+pos: NOM ADJ
+lf: nacelle d
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( nacelle<=H> d<=M> )
+islands: 0
+
+
+-----------------
+
+if: dégâts
+pos: NOM
+lf: dégât
+is a term candidate: 1
+
+-----------------
+
+if: hypothèse
+pos: NOM
+lf: hypothèse
+is a term candidate: 1
+
+-----------------
+
+if: nature
+pos: NOM
+lf: nature
+is a term candidate: 1
+
+-----------------
+
+if: analyse de la pollution des sols
+pos: NOM de DET:ART NOM des NOM
+lf: analyse de le pollution du sol
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: circulation
+pos: NOM
+lf: circulation
+is a term candidate: 1
+
+-----------------
+
+if: impact de foudre
+pos: NOM de NOM
+lf: impact de foudre
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( impact<=H> de<=P> foudre<=M> )
+islands: 0
+
+
+-----------------
+
+if: lendemain
+pos: NOM
+lf: lendemain
+is a term candidate: 1
+
+-----------------
+
+if: fin de la combustion de la nacelle
+pos: NOM de DET:ART NOM de DET:ART NOM
+lf: fin de le combustion de le nacelle
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: stabilité mécanique
+pos: NOM ADJ
+lf: stabilité mécanique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( stabilité<=H> mécanique<=M> )
+islands: 0
+
+
+-----------------
+
+if: coulures
+pos: NOM
+lf: coulure
+is a term candidate: 1
+
+-----------------
+
+if: incendie
+pos: NOM
+lf: incendie
+is a term candidate: 1
+
+-----------------
+
+if: inspection des installations
+pos: NOM des NOM
+lf: inspection du installation
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( inspection<=H> des<=P> installations<=M> )
+islands: 0
+
+
+-----------------
+
+if: lieux
+pos: NOM
+lf: lieu
+is a term candidate: 1
+
+-----------------
+
+if: sol
+pos: NOM
+lf: sol
+is a term candidate: 1
+
+-----------------
+
+if: pales
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: N154
+pos: NOM
+lf: N154
+is a term candidate: 1
+
+-----------------
+
+if: urgence
+pos: NOM
+lf: urgence
+is a term candidate: 1
+
+-----------------
+
+if: exploitant
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+
+if: démontage des éléments
+pos: NOM des NOM
+lf: démontage du élément
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( démontage<=H> des<=P> éléments<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: surveillance de l' environnement
+pos: NOM de DET:ART NOM
+lf: surveillance de le environnement
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( surveillance<=H> de<=P> l'<=D> environnement<=M> )
+islands: 0
+
+
+-----------------
+
+if: périmètre de sécurité de 300 m
+pos: NOM de NOM de NUM NOM
+lf: périmètre de sécurité de 300 m
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: rotor
+pos: NOM
+lf: rotor
+is a term candidate: 1
+
+-----------------
+
+if: mât
+pos: NOM
+lf: mât
+is a term candidate: 1
+
+-----------------
+
+if: rotor de l' éolienne
+pos: NOM de DET:ART NOM
+lf: rotor de le éolienne
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( rotor<=H> de<=P> l'<=D> éolienne<=M> )
+islands: 0
+
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: évacuations des déchets.L'éolienne
+pos: NOM des NOM
+lf: évacuation du déchets.L'éolienne
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( évacuations<=H> des<=P> déchets.L'éolienne<=M> )
+islands: 0
+
+
+-----------------
+
+if: piste
+pos: NOM
+lf: piste
+is a term candidate: 1
+
+-----------------
+
+if: arrêté préfectoral
+pos: NOM ADJ
+lf: arrêté préfectoral
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( arrêté<=H> préfectoral<=M> )
+islands: 0
+
+
+-----------------
+
+if: 19h30
+pos: NAM
+lf: 19h30
+is a term candidate: 1
+
+-----------------
+
+if: nacelle
+pos: NOM
+lf: nacelle
+is a term candidate: 1
+
+-----------------
+

@@ -1,0 +1,82 @@
+if: pylônes
+pos: NOM
+lf: pylône
+is a term candidate: 1
+
+-----------------
+
+if: éléments
+pos: NOM
+lf: élément
+is a term candidate: 1
+
+-----------------
+
+if: Accident
+pos: NOM
+lf: accident
+is a term candidate: 1
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: enquête
+pos: NOM
+lf: enquête
+is a term candidate: 1
+
+-----------------
+
+if: éoliennes
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: docker intérimaire
+pos: NOM ADJ
+lf: docker intérimaire
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( docker<=H> intérimaire<=M> )
+islands: 0
+
+
+-----------------
+
+if: magistrat
+pos: NOM
+lf: magistrat
+is a term candidate: 1
+
+-----------------
+
+if: levage
+pos: NOM
+lf: levage
+is a term candidate: 1
+
+-----------------
+
+if: police
+pos: NOM
+lf: police
+is a term candidate: 1
+
+-----------------
+
+if: port
+pos: NOM
+lf: port
+is a term candidate: 1
+
+-----------------
+

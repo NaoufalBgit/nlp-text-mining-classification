@@ -1,0 +1,232 @@
+if: accouplements
+pos: NOM
+lf: accouplement
+is a term candidate: 1
+
+-----------------
+
+if: bureau
+pos: NOM
+lf: bureau
+is a term candidate: 1
+
+-----------------
+
+if: année
+pos: NOM
+lf: année
+is a term candidate: 1
+
+-----------------
+
+if: exploitation du parc
+pos: NOM du NOM
+lf: exploitation du parc
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( exploitation<=H> du<=P> parc<=M> )
+islands: 0
+
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: préparation au transit automnal.Le bridage
+pos: NOM au NOM ADJ NOM
+lf: préparation au transit automnal.Le bridage
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: paramétrages du plan de régulation
+pos: NOM du NOM de NOM
+lf: paramétrage du plan de régulation
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: études
+pos: NOM
+lf: étude
+is a term candidate: 1
+
+-----------------
+
+if: émancipation des jeunes
+pos: NOM des NOM
+lf: émancipation du jeune
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( émancipation<=H> des<=P> jeunes<=M> )
+islands: 0
+
+
+-----------------
+
+if: période de forte activité des chiroptères
+pos: NOM de ADJ NOM des NOM
+lf: période de fort activité du chiroptères
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: plan de régulation des éoliennes
+pos: NOM de NOM des NOM
+lf: plan de régulation du éolienne
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: mortalité des chiroptères
+pos: NOM des NOM
+lf: mortalité du chiroptères
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( mortalité<=H> des<=P> chiroptères<=M> )
+islands: 0
+
+
+-----------------
+
+if: cadavres de chiroptère
+pos: NOM de NOM
+lf: cadavre de chiroptère
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( cadavres<=H> de<=P> chiroptère<=M> )
+islands: 0
+
+
+-----------------
+
+if: suivi environnemental de la première année
+pos: NOM ADJ de DET:ART NUM NOM
+lf: suivi environnemental de le premier année
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: exploitation
+pos: NOM
+lf: exploitation
+is a term candidate: 1
+
+-----------------
+
+if: années suivantes
+pos: NOM ADJ
+lf: année suivant
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( années<=H> suivantes<=M> )
+islands: 0
+
+
+-----------------
+
+if: noctule commune
+pos: NOM ADJ
+lf: noctule commun
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( noctule<=H> commune<=M> )
+islands: 0
+
+
+-----------------
+
+if: suivi de mortalité des chiroptères
+pos: NOM de NOM des NOM
+lf: suivi de mortalité du chiroptères
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: place.Le mois
+pos: ADJ NOM
+lf: place.Le mois|moi
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( place.Le<=M> mois<=H> )
+islands: 0
+
+
+-----------------
+
+if: août
+pos: NOM
+lf: août
+is a term candidate: 1
+
+-----------------
+
+if: partie des mois connus
+pos: NOM des NOM ADJ
+lf: partie du mois|moi connu
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( partie<=H> des<=P> ( mois<=H> connus<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: fin
+pos: NOM
+lf: fin
+is a term candidate: 1
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: espèce
+pos: NOM
+lf: espèce
+is a term candidate: 1
+
+-----------------
+
+if: exploitant
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+

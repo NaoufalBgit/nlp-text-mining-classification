@@ -1,0 +1,142 @@
+if: éolienne située 70 m
+pos: NOM VER:pper NUM NOM
+lf: éolienne situer 70 m
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: fin de journée
+pos: NOM de NOM
+lf: fin de journée
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( fin<=H> de<=P> journée<=M> )
+islands: 0
+
+
+-----------------
+
+if: exploitant
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+
+if: chasseur traversant un parc
+pos: NOM VER:ppre DET:ART NOM
+lf: chasseur traverser un parc
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( chasseur<=H> ( traversant<=H> un<=D> parc<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: pièce métallique
+pos: NOM ADJ
+lf: pièce métallique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( pièce<=H> métallique<=M> )
+islands: 0
+
+
+-----------------
+
+if: gendarmerie
+pos: NOM
+lf: gendarmerie
+is a term candidate: 1
+
+-----------------
+
+if: ensemble des charnières du parc
+pos: NOM des NOM du NOM
+lf: ensemble du charnière du parc
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: cm de diamètre
+pos: NOM de NOM
+lf: cm de diamètre
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( cm<=H> de<=P> diamètre<=M> )
+islands: 0
+
+
+-----------------
+
+if: aérogénérateurs
+pos: NOM
+lf: aérogénérateur
+is a term candidate: 1
+
+-----------------
+
+if: défaillance de la charnière de la trappe
+pos: NOM de DET:ART NOM de DET:ART NOM
+lf: défaillance de le charnière de le trappe
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: matinée
+pos: NOM
+lf: matinée
+is a term candidate: 1
+
+-----------------
+
+if: Chute de 70 m de trappe
+pos: NOM de NUM NOM de NOM
+lf: chute de 70 m de trappe
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: voisin
+pos: NOM
+lf: voisin
+is a term candidate: 1
+
+-----------------
+
+if: arrêt
+pos: NOM
+lf: arrêt
+is a term candidate: 1
+
+-----------------
+
+if: trappe de visite de 50 cm de diamètre tombée de la nacelle
+pos: NOM de NOM de NUM NOM de NOM VER:pper de DET:ART NOM
+lf: trappe de visite de 50 cm de diamètre tomber de le nacelle
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+

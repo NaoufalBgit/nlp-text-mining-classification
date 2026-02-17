@@ -1,0 +1,214 @@
+if: études
+pos: NOM
+lf: étude
+is a term candidate: 1
+
+-----------------
+
+if: bureau
+pos: NOM
+lf: bureau
+is a term candidate: 1
+
+-----------------
+
+if: intérieur de l' éolienne
+pos: NOM de DET:ART NOM
+lf: intérieur de le éolienne
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( intérieur<=H> de<=P> l'<=D> éolienne<=M> )
+islands: 0
+
+
+-----------------
+
+if: Fuite
+pos: NOM
+lf: fuite
+is a term candidate: 1
+
+-----------------
+
+if: suite de la réception
+pos: NOM de DET:ART NOM
+lf: suite de le réception
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( suite<=H> de<=P> la<=D> réception<=M> )
+islands: 0
+
+
+-----------------
+
+if: mât de l' éolienne
+pos: NOM de DET:ART NOM
+lf: mât de le éolienne
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( mât<=H> de<=P> l'<=D> éolienne<=M> )
+islands: 0
+
+
+-----------------
+
+if: parcelles voisines
+pos: NOM ADJ
+lf: parcelle voisin
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parcelles<=H> voisines<=M> )
+islands: 0
+
+
+-----------------
+
+if: circuit
+pos: NOM
+lf: circuit
+is a term candidate: 1
+
+-----------------
+
+if: kit absorbant
+pos: NOM ADJ
+lf: kit absorbant
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( kit<=H> absorbant<=M> )
+islands: 0
+
+
+-----------------
+
+if: nacelle
+pos: NOM
+lf: nacelle
+is a term candidate: 1
+
+-----------------
+
+if: chemin
+pos: NOM
+lf: chemin
+is a term candidate: 1
+
+-----------------
+
+if: éventuelle pollution de sol.La cause de l' événement
+pos: ADJ NOM de NOM NOM de DET:ART NOM
+lf: éventuel pollution de sol.La cause de le événement
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: huiles
+pos: NOM
+lf: huile
+is a term candidate: 1
+
+-----------------
+
+if: traces
+pos: NOM
+lf: trace
+is a term candidate: 1
+
+-----------------
+
+if: plateforme
+pos: NOM
+lf: plateforme
+is a term candidate: 1
+
+-----------------
+
+if: rupture
+pos: NOM
+lf: rupture
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: huile
+pos: NOM
+lf: huile
+is a term candidate: 1
+
+-----------------
+
+if: sertissage
+pos: NOM
+lf: sertissage
+is a term candidate: 1
+
+-----------------
+
+if: équipe de maintenance
+pos: NOM de NOM
+lf: équipe de maintenance
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( équipe<=H> de<=P> maintenance<=M> )
+islands: 0
+
+
+-----------------
+
+if: partie de l' huile
+pos: NOM de DET:ART NOM
+lf: partie de le huile
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( partie<=H> de<=P> l'<=D> huile<=M> )
+islands: 0
+
+
+-----------------
+
+if: alarme
+pos: NOM
+lf: alarme
+is a term candidate: 1
+
+-----------------
+
+if: opérateur
+pos: NOM
+lf: opérateur
+is a term candidate: 1
+
+-----------------
+
+if: nettoyage à l' intérieur de l' éolienne
+pos: NOM à DET:ART NOM de DET:ART NOM
+lf: nettoyage à le intérieur de le éolienne
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: prélèvements
+pos: NOM
+lf: prélèvement
+is a term candidate: 1
+
+-----------------
+

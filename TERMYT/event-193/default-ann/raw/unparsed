@@ -1,0 +1,118 @@
+if: site de production
+pos: NOM de NOM
+lf: site de production
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( site<=H> de<=P> production<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: t
+pos: NOM
+lf: t
+is a term candidate: 1
+
+-----------------
+
+if: morceaux
+pos: NOM
+lf: morceau
+is a term candidate: 1
+
+-----------------
+
+if: éoliennes
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: chute de pales
+pos: NOM de NOM
+lf: chute de pale
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( chute<=H> de<=P> pales<=M> )
+islands: 0
+
+
+-----------------
+
+if: grande surface
+pos: ADJ NOM
+lf: grand surface
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( grande<=M> surface<=H> )
+islands: 0
+
+
+-----------------
+
+if: sens de la longueur
+pos: NOM de DET:ART NOM
+lf: sens|sen de le longueur
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( sens<=H> de<=P> la<=D> longueur<=M> )
+islands: 0
+
+
+-----------------
+
+if: remplacement des 2 premières pales tombées 10 jours
+pos: NOM des NUM NUM NOM VER:pper NUM NOM
+lf: remplacement du 2 premier pale tomber 10 jour
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: m
+pos: NOM
+lf: m
+is a term candidate: 1
+
+-----------------
+
+if: sol
+pos: NOM
+lf: sol
+is a term candidate: 1
+
+-----------------
+
+if: société propriétaire
+pos: NOM ADJ
+lf: société propriétaire
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( société<=H> propriétaire<=M> )
+islands: 0
+
+
+-----------------
+
+if: électricité
+pos: NOM
+lf: électricité
+is a term candidate: 1
+
+-----------------
+

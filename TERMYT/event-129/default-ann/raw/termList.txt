@@ -1,0 +1,104 @@
+# ID	Inflected form	Lemmatised form	Frequency	CValue	CValue1	CValuePlus	CValuePlus1	CValueStar	CValueStarH	CValueStarM	CValueStarR	CValueWCard	CValueWCardPlus	D	DDW	Freq	idf	ilnc	ilncFreq	iLong	IM	iTer	LLR	nbdoc4tc	NormFreq	tf	tf-idf	Head	Modifier	MainHead
+83	autres éoliennes du parc	autre éolienne du parc	2	4	4.64385618977472	4	4.64385618977472	2	N/A	N/A	0.643856189774725	0	0	1	0	2	0:0	0	0	0.5	1	0.4	0.863026217255342	1	0.5	0:2	0:0	84	75	16	
+113	défaut de fabrication de la pièce	défaut de fabrication de le pièce	1	2.58496250072116	2.8073549220576	2.58496250072116	2.8073549220576	2	N/A	N/A	0.222392421336448	0	0	1	0	1	0:0	0	0	0.166666666666667	1.33333333333333	0.142857142857143	1.38627436101989	1	0.25	0:1	0:0	114	51	3	
+67	autres arbres lents du même parc	autre arbre lent du même parc	1	2.58496250072116	2.8073549220576	2.58496250072116	2.8073549220576	2	N/A	N/A	0.222392421336448	0	0	1	0	1	0:0	0	0	0.166666666666667	4	0.142857142857143	0.000115129154648748	1	0.25	0:1	0:0	68	73	46	
+32	services du ministère du développement durable	service du ministère du développement durable	1	2.58496250072116	2.8073549220576	2.58496250072116	2.8073549220576	2	N/A	N/A	0.222392421336448	0	0	1	0	1	0:0	0	0	0.166666666666667	4	0.142857142857143	0.000115129154648748	1	0.25	0:1	0:0	33	36	34	
+53	défaillance de l' arbre lent	défaillance de le arbre lent	1	2.32192809488736	2.58496250072116	2.32192809488736	2.58496250072116	2	N/A	N/A	0.263034405833794	0	0	1	0	1	0:0	0	0	0.2	4	0.166666666666667	0.000115129154648748	1	0.25	0:1	0:0	54	55	54	
+24	type inclusion de laitier	type inclusion de laitier	1	2	2.32192809488736	2	2.32192809488736	2	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	4	0.2	0.000115129154648748	1	0.25	0:1	0:0	25	28	2	
+1	type de défaut	type de défaut	1	1.58496250072116	2	1.58496250072116	2	2	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	0.666666666666667	0.25	0.863026217255342	1	0.25	0:1	0:0	2	3	2	
+108	agents de maintenance	agent de maintenance	1	1.58496250072116	2	1.58496250072116	2	2	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	4	0.25	0.000115129154648748	1	0.25	0:1	0:0	109	110	109	
+43	autres arbres lents	autre arbre lent	1	1.58496250072116	2	1.58496250072116	2	2	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	2	0.25	0	1	0.25	0:1	0:0	44	47	46	
+100	suite des contrôles	suite du contrôle	1	1.58496250072116	2	1.58496250072116	2	2	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	2	0.25	0.000115129154648748	1	0.25	0:1	0:0	101	20	101	
+50	pièce de fonderie	pièce de fonderie	1	1.58496250072116	2	1.58496250072116	2	2	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	1.33333333333333	0.25	6.93134680530211e-06	1	0.25	0:1	0:0	51	52	51	
+64	processus de moulage	processus de moulage	1	1.58496250072116	2	1.58496250072116	2	2	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	4	0.25	0.000115129154648748	1	0.25	0:1	0:0	65	66	65	
+21	perte de communication	perte de communication	1	1.58496250072116	2	1.58496250072116	2	2	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	4	0.25	0.000115129154648748	1	0.25	0:1	0:0	22	23	22	
+104	découple du réseau	découple du réseau	1	1.58496250072116	2	1.58496250072116	2	2	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	4	0.25	0.000115129154648748	1	0.25	0:1	0:0	105	106	105	
+40	programme de contrôle	programme de contrôle	1	1.58496250072116	2	1.58496250072116	2	2	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	4	0.25	0.000115129154648748	1	0.25	0:1	0:0	41	42	41	
+4	Chute des pales	chute du pale	1	1.58496250072116	2	1.58496250072116	2	2	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	2	0.25	0.000115129154648748	1	0.25	0:1	0:0	5	6	5	
+97	défaut métallurgique	défaut métallurgique	1	1	1.58496250072116	1	1.58496250072116	2	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	1.33333333333333	0.333333333333333	4.05454274736608e-06	1	0.25	0:1	0:0	3	99	3	
+88	même niveau	même niveau	1	1	1.58496250072116	1	1.58496250072116	2	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	1.33333333333333	0.333333333333333	0	1	0.25	0:1	0:0	90	18	90	
+60	transformateur électrique	transformateur électrique	1	1	1.58496250072116	1	1.58496250072116	2	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	4	0.333333333333333	0.000115129154648748	1	0.25	0:1	0:0	61	62	61	
+75	parc	parc	4	0	2.66666666666667	0	5.33333333333333	3	3	1	N/A	2.66666666666667	5.33333333333333	1	0	4	0:0	1	1	4	N/A	4	N/A	1	1	0:4	0:0				
+45	autres	autre	4	0	2.66666666666667	0	5.33333333333333	2	N/A	0	N/A	2.66666666666667	5.33333333333333	1	0	4	0:0	0	0	4	N/A	2	N/A	1	1	0:4	0:0				
+49	éolienne	éolienne	4	0	4	0	4	2	N/A	N/A	4	0	0	1	0	4	0:0	0	0	4	N/A	2	N/A	1	1	0:4	0:0				
+8	rotor	rotor	4	0	4	0	4	2	N/A	N/A	4	0	0	1	0	4	0:0	0	0	4	N/A	2	N/A	1	1	0:4	0:0				
+51	pièce	pièce	3	0	2	0	4	2	2	2	N/A	2	4	1	0	3	0:0	1	1	3	N/A	3	N/A	1	0.75	0:3	0:0				
+3	défaut	défaut	3	0	2	0	4	2	1	2	N/A	2	4	1	0	3	0:0	2	2	3	N/A	4.5	N/A	1	0.75	0:3	0:0				
+16	éoliennes	éolienne	3	0	1.5	0	4.5	2	1	2	N/A	1.5	4.5	1	0	3	0:0	1	2	3	N/A	3	N/A	1	0.75	0:3	0:0				
+18	même	même	3	0	2	0	4	2	N/A	0	N/A	2	4	1	0	3	0:0	0	0	3	N/A	1.5	N/A	1	0.75	0:3	0:0				
+84	autres éoliennes	autre éolienne	2	0	0	4	6.33985000288463	2	0	N/A	N/A	0	4	1	0	2	0:0	1	2	1	0.666666666666667	1.33333333333333	0.5924496127065	1	0.5	0:2	0:0	16	45	16	
+47	lents	lent	2	0	1	0	3	2	N/A	0	N/A	1	3	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.5	0:2	0:0				
+20	contrôles	contrôle	2	0	1	0	3	2	N/A	1	N/A	1	3	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.5	0:2	0:0				
+2	type	type	2	0	1	0	3	2	0	N/A	N/A	1	3	1	0	2	0:0	2	2	2	N/A	3	N/A	1	0.5	0:2	0:0				
+46	arbres	arbre	2	0	1	0	3	2	0	N/A	N/A	1	3	1	0	2	0:0	2	2	2	N/A	3	N/A	1	0.5	0:2	0:0				
+33	services du ministère	service du ministère	1	0	0	3.16992500144231	4	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	4	0.5	0.000115129154648748	1	0.25	0:1	0:0	34	35	34	
+106	réseau	réseau	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+19	modèle	modèle	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+56	arbre	arbre	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+52	fonderie	fonderie	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+17	même modèle	même modèle	1	0	0	2	3.16992500144231	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.5	1.33333333333333	0.333333333333333	0	1	0.25	0:1	0:0	19	18	19	
+99	métallurgique	métallurgique	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+31	zone	zone	1	0	1	0	1	2	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+0	sol	sol	1	0	1	0	1	2	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+7	France	France	1	0	1	0	1	2	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+6	pales	pale	1	0	1	0	3	2	N/A	1	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+55	arbre lent	arbre lent	1	0	0	2	3.16992500144231	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.5	4	0.333333333333333	0.000115129154648748	1	0.25	0:1	0:0	56	57	56	
+65	processus	processus	1	0	0	0	2	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+90	niveau	niveau	1	0	0	0	2	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+25	type inclusion	type inclusion	1	0	0	2	3.16992500144231	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.5	2	0.666666666666667	6.93134680530211e-06	1	0.25	0:1	0:0	2	27	2	
+54	défaillance	défaillance	1	0	0	0	2	3	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+59	place	place	1	0	1	0	1	3	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+114	défaut de fabrication	défaut de fabrication	1	0	0	3.16992500144231	4	3	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	1.33333333333333	0.5	4.05454274736608e-06	1	0.25	0:1	0:0	3	116	3	
+22	perte	perte	1	0	0	0	2	3	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+38	durable	durable	1	0	0	0	2	3	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+62	électrique	électrique	1	0	0	0	2	3	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+116	fabrication	fabrication	1	0	0	0	2	3	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+37	développement	développement	1	0	0	0	2	3	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+39	pied	pied	1	0	1	0	1	2	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+5	Chute	chute	1	0	0	0	2	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+41	programme	programme	1	0	0	0	2	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+119	m²	m²	1	0	1	0	1	2	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+28	laitier	laitier	1	0	0	0	2	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+36	développement durable	développement durable	1	0	0	2	3.16992500144231	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.5	4	0.333333333333333	0.000115129154648748	1	0.25	0:1	0:0	37	38	37	
+79	centre	centre	1	0	0	0	2	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+70	arbres lents	arbre lent	1	0	0	2	3.16992500144231	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.5	1	0.666666666666667	0.523238143714547	1	0.25	0:1	0:0	46	47	46	
+93	huile	huile	1	0	1	0	1	2	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+101	suite	suite	1	0	0	0	2	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+77	centre de supervision à distance	centre de supervision à distance	1	0	0	4.64385618977472	5.16992500144231	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.2	4	0.333333333333333	0.000115129154648748	1	0.25	0:1	0:0	78	81	79	
+92	non-conformité	non-conformité	1	0	1	0	1	2	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+109	agents	agent	1	0	0	0	2	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+27	inclusion	inclusion	1	0	0	0	2	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+110	maintenance	maintenance	1	0	0	0	2	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+35	ministère	ministère	1	0	0	0	2	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+61	transformateur	transformateur	1	0	0	0	2	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+29	rétention	rétention	1	0	1	0	1	2	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+112	22h30	22h30	1	0	1	0	1	2	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+111	jonction	jonction	1	0	1	0	1	2	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+63	nacelle	nacelle	1	0	1	0	1	2	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+10	accidenté.Au total 54 éoliennes	accidenté.Au total 54 éolienne	1	0	0	4	4.64385618977472	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.25	1.33333333333333	0.4	1.90951250473444	1	0.25	0:1	0:0	11	16	13	
+95	évidence	évidence	1	0	1	0	1	2	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+13	accidenté.Au	accidenté.Au	1	0	0	0	2	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+15	54	54	1	0	0	0	2	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+107	rupture	rupture	1	0	2	0	2	2	N/A	N/A	2	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+30	origine	origine	1	0	1	0	1	2	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+11	accidenté.Au total 54	accidenté.Au total 54	1	0	0	3.16992500144231	4	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	4	0.5	0.000115129154648748	1	0.25	0:1	0:0	12	15	13	
+94	arrêt	arrêt	1	0	1	0	1	2	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+68	autres arbres lents	autre arbre lent	1	0	0	3.16992500144231	4	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	1	0.5	0	1	0.25	0:1	0:0	70	45	46	
+12	accidenté.Au total	accidenté.Au total	1	0	0	2	3.16992500144231	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.5	4	0.666666666666667	0.000115129154648748	1	0.25	0:1	0:0	13	14	13	
+78	centre de supervision	centre de supervision	1	0	0	3.16992500144231	4	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	4	0.5	0.000115129154648748	1	0.25	0:1	0:0	79	80	79	
+103	débris	débris	1	0	1	0	1	2	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+58	fatigue	fatigue	1	0	1	0	1	2	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+23	communication	communication	1	0	0	0	2	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+118	ramassés.Selon	ramassés.Selon	1	0	1	0	1	2	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+73	même parc	même parc	1	0	0	2	3.16992500144231	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.5	0.333333333333333	0.333333333333333	1.90952250478444	1	0.25	0:1	0:0	75	18	75	
+80	supervision	supervision	1	0	0	0	2	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+44	autres arbres	autre arbre	1	0	0	2	3.16992500144231	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.5	0.5	0.666666666666667	1.11568775642105	1	0.25	0:1	0:0	46	45	46	
+105	découple	découple	1	0	0	0	2	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+81	distance	distance	1	0	0	0	2	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+91	lendemain	lendemain	1	0	1	0	1	2	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+34	services	service	1	0	0	0	2	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.25	0:1	0:0				
+14	total	total	1	0	0	0	2	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+57	lent	lent	1	0	0	0	2	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+66	moulage	moulage	1	0	0	0	2	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+48	acier	acier	1	0	1	0	1	2	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				
+42	contrôle	contrôle	1	0	0	0	2	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.25	0:1	0:0				

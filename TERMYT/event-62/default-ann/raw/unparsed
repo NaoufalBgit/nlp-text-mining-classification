@@ -1,0 +1,677 @@
+if: modèles
+pos: NOM
+lf: modèle
+is a term candidate: 1
+
+-----------------
+
+if: aspects risques
+pos: NOM NOM
+lf: aspect risque
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( aspects<=H> risques<=M> )
+islands: 0
+
+
+-----------------
+
+if: dévissage
+pos: NOM
+lf: dévissage
+is a term candidate: 1
+
+-----------------
+
+if: dispositif
+pos: NOM
+lf: dispositif
+is a term candidate: 1
+
+-----------------
+
+if: outillage spécifique
+pos: NOM ADJ
+lf: outillage spécifique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( outillage<=H> spécifique<=M> )
+islands: 0
+
+
+-----------------
+
+if: vanne
+pos: NOM
+lf: vanne
+is a term candidate: 1
+
+-----------------
+
+if: accumulateur
+pos: NOM
+lf: accumulateur
+is a term candidate: 1
+
+-----------------
+
+if: accident
+pos: NOM
+lf: accident
+is a term candidate: 1
+
+-----------------
+
+if: formation de l' intervenant
+pos: NOM de DET:ART NOM
+lf: formation de le intervenant
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( formation<=H> de<=P> l'<=D> intervenant<=M> )
+islands: 0
+
+
+-----------------
+
+if: visserie de la vanne une petite perforation
+pos: NOM de DET:ART NOM DET:ART ADJ NOM
+lf: visserie de le vanne un petit perforation
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: nacelle
+pos: NOM
+lf: nacelle
+is a term candidate: 1
+
+-----------------
+
+if: perforation de la visserie
+pos: NOM de DET:ART NOM
+lf: perforation de le visserie
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( perforation<=H> de<=P> la<=D> visserie<=M> )
+islands: 0
+
+
+-----------------
+
+if: formation des techniciens
+pos: NOM des NOM
+lf: formation du technicien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( formation<=H> des<=P> techniciens<=M> )
+islands: 0
+
+
+-----------------
+
+if: existence
+pos: NOM
+lf: existence
+is a term candidate: 1
+
+-----------------
+
+if: intervention
+pos: NOM
+lf: intervention
+is a term candidate: 1
+
+-----------------
+
+if: modification des accumulateurs
+pos: NOM des NOM
+lf: modification du accumulateur
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( modification<=H> des<=P> accumulateurs<=M> )
+islands: 0
+
+
+-----------------
+
+if: équipements
+pos: NOM
+lf: équipement
+is a term candidate: 1
+
+-----------------
+
+if: isolement de l' accumulateur
+pos: NOM de DET:ART NOM
+lf: isolement de le accumulateur
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( isolement<=H> de<=P> l'<=D> accumulateur<=M> )
+islands: 0
+
+
+-----------------
+
+if: heure
+pos: NOM
+lf: heure
+is a term candidate: 1
+
+-----------------
+
+if: partie amovible
+pos: NOM ADJ
+lf: partie amovible
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( partie<=H> amovible<=M> )
+islands: 0
+
+
+-----------------
+
+if: inhalation du gaz
+pos: NOM du NOM
+lf: inhalation du gaz
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( inhalation<=H> du<=P> gaz<=M> )
+islands: 0
+
+
+-----------------
+
+if: décollement de l' oesophage
+pos: NOM de DET:ART NOM
+lf: décollement de le œsophage
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( décollement<=H> de<=P> l'<=D> oesophage<=M> )
+islands: 0
+
+
+-----------------
+
+if: gaz
+pos: NOM
+lf: gaz
+is a term candidate: 1
+
+-----------------
+
+if: expertise.Le
+pos: NOM
+lf: expertise.Le
+is a term candidate: 1
+
+-----------------
+
+if: constats suivants
+pos: NOM ADJ
+lf: constat suivant
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( constats<=H> suivants<=M> )
+islands: 0
+
+
+-----------------
+
+if: défaillances organisationnelles
+pos: NOM ADJ
+lf: défaillance organisationnel
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( défaillances<=H> organisationnelles<=M> )
+islands: 0
+
+
+-----------------
+
+if: procédures opérationnelles
+pos: NOM ADJ
+lf: procédure opérationnel
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( procédures<=H> opérationnelles<=M> )
+islands: 0
+
+
+-----------------
+
+if: tours
+pos: NOM
+lf: tour
+is a term candidate: 1
+
+-----------------
+
+if: atelier
+pos: NOM
+lf: atelier
+is a term candidate: 1
+
+-----------------
+
+if: demi
+pos: NOM
+lf: demi
+is a term candidate: 1
+
+-----------------
+
+if: projection
+pos: NOM
+lf: projection
+is a term candidate: 1
+
+-----------------
+
+if: huile reliée au circuit hydraulique des pâles
+pos: NOM VER:pper au NOM ADJ des ADJ
+lf: huile relier au circuit hydraulique du pâle
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: technicien de maintenance
+pos: NOM de NOM
+lf: technicien de maintenance
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( technicien<=H> de<=P> maintenance<=M> )
+islands: 0
+
+
+-----------------
+
+if: signal
+pos: NOM
+lf: signal
+is a term candidate: 1
+
+-----------------
+
+if: oeuvre
+pos: NOM
+lf: œuvre
+is a term candidate: 1
+
+-----------------
+
+if: opération
+pos: NOM
+lf: opération
+is a term candidate: 1
+
+-----------------
+
+if: Incident
+pos: NOM
+lf: incident
+is a term candidate: 1
+
+-----------------
+
+if: pression
+pos: NOM
+lf: pression
+is a term candidate: 1
+
+-----------------
+
+if: opération de remplissage du compartiment azote
+pos: NOM de NOM du NOM NOM
+lf: opération de remplissage du compartiment azote
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: scellé
+pos: NOM
+lf: scellé
+is a term candidate: 1
+
+-----------------
+
+if: opération de maintenance
+pos: NOM de NOM
+lf: opération de maintenance
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( opération<=H> de<=P> maintenance<=M> )
+islands: 0
+
+
+-----------------
+
+if: hub
+pos: NOM
+lf: hub
+is a term candidate: 1
+
+-----------------
+
+if: alerte
+pos: NOM
+lf: alerte
+is a term candidate: 1
+
+-----------------
+
+if: conscience des risques associés aux interventions
+pos: NOM des NOM VER:pper aux NOM
+lf: conscience du risque associer au intervention
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: cylindre de 10 l comportant deux compartiments
+pos: NOM de NUM NOM VER:ppre NUM NOM
+lf: cylindre de 10 l comporter deux compartiment
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: bar de pression
+pos: NOM de NOM
+lf: bar de pression
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( bar<=H> de<=P> pression<=M> )
+islands: 0
+
+
+-----------------
+
+if: dépressurisation brutale
+pos: NOM ADJ
+lf: dépressurisation brutal
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( dépressurisation<=H> brutale<=M> )
+islands: 0
+
+
+-----------------
+
+if: accumulateur de gaz
+pos: NOM de NOM
+lf: accumulateur de gaz
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( accumulateur<=H> de<=P> gaz<=M> )
+islands: 0
+
+
+-----------------
+
+if: éventuelle projection.L'analyse de l' exploitant
+pos: ADJ NOM de DET:ART NOM
+lf: éventuel projection.L'analyse de le exploitant
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: collègue
+pos: NOM
+lf: collègue
+is a term candidate: 1
+
+-----------------
+
+if: local technique
+pos: ADJ NOM
+lf: local technique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( local<=M> technique<=H> )
+islands: 0
+
+
+-----------------
+
+if: azote
+pos: NOM
+lf: azote
+is a term candidate: 1
+
+-----------------
+
+if: dévissage total
+pos: NOM ADJ
+lf: dévissage total
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( dévissage<=H> total<=M> )
+islands: 0
+
+
+-----------------
+
+if: signification
+pos: NOM
+lf: signification
+is a term candidate: 1
+
+-----------------
+
+if: procédure
+pos: NOM
+lf: procédure
+is a term candidate: 1
+
+-----------------
+
+if: équipement
+pos: NOM
+lf: équipement
+is a term candidate: 1
+
+-----------------
+
+if: raccord de l' accumulateur
+pos: NOM de DET:ART NOM
+lf: raccord de le accumulateur
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( raccord<=H> de<=P> l'<=D> accumulateur<=M> )
+islands: 0
+
+
+-----------------
+
+if: un
+pos: NOM
+lf: un
+is a term candidate: 1
+
+-----------------
+
+if: expertise
+pos: NOM
+lf: expertise
+is a term candidate: 1
+
+-----------------
+
+if: isolement
+pos: NOM
+lf: isolement
+is a term candidate: 1
+
+-----------------
+
+if: embout de l' outillage
+pos: NOM de DET:ART NOM
+lf: embout de le outillage
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( embout<=H> de<=P> l'<=D> outillage<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: nez
+pos: NOM
+lf: nez
+is a term candidate: 1
+
+-----------------
+
+if: formation de glace liée à l' échappement du gaz
+pos: NOM de NOM VER:pper à DET:ART NOM du NOM
+lf: formation de glace lier à le échappement du gaz
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: constat de dégradation du matériel
+pos: NOM de NOM du ADJ
+lf: constat de dégradation du matériel
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: procédures de maintenance
+pos: NOM de NOM
+lf: procédure de maintenance
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( procédures<=H> de<=P> maintenance<=M> )
+islands: 0
+
+
+-----------------
+
+if: vanne intégrée
+pos: NOM ADJ
+lf: vanne intégré
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( vanne<=H> intégrée<=M> )
+islands: 0
+
+
+-----------------
+
+if: parade de conception
+pos: NOM de NOM
+lf: parade de conception
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parade<=H> de<=P> conception<=M> )
+islands: 0
+
+
+-----------------
+
+if: opérateur
+pos: NOM
+lf: opérateur
+is a term candidate: 1
+
+-----------------
+
+if: dents
+pos: NOM
+lf: dent
+is a term candidate: 1
+
+-----------------
+
+if: partie de la vanne au visage de l' opérateur
+pos: NOM de DET:ART NOM au NOM de DET:ART NOM
+lf: partie de le vanne au visage de le opérateur
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: gendarmerie
+pos: NOM
+lf: gendarmerie
+is a term candidate: 1
+
+-----------------
+
+if: tâche
+pos: NOM
+lf: tâche
+is a term candidate: 1
+
+-----------------
+
+if: opérations de remplissage des accumulateurs
+pos: NOM de NOM des NOM
+lf: opération de remplissage du accumulateur
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: causes
+pos: NOM
+lf: cause
+is a term candidate: 1
+
+-----------------
+
+if: appoint
+pos: NOM
+lf: appoint
+is a term candidate: 1
+
+-----------------
+

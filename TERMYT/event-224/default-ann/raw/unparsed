@@ -1,0 +1,129 @@
+if: Pale
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: m
+pos: NOM
+lf: m
+is a term candidate: 1
+
+-----------------
+
+if: bureaux
+pos: NOM
+lf: bureau
+is a term candidate: 1
+
+-----------------
+
+if: agent de maintenance local
+pos: NOM de NOM ADJ
+lf: agent de maintenance local
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( agent<=H> de<=P> ( maintenance<=H> local<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: maire
+pos: NOM
+lf: maire
+is a term candidate: 1
+
+-----------------
+
+if: riverain
+pos: NOM
+lf: riverain
+is a term candidate: 1
+
+-----------------
+
+if: Montpellier
+pos: NAM
+lf: Montpellier
+is a term candidate: 1
+
+-----------------
+
+if: débris long
+pos: NOM ADJ
+lf: débris long
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( débris<=H> long<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne brisée Une pale
+pos: NOM VER:pper DET:ART NOM
+lf: éolienne briser un pale
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: fin de matinée
+pos: NOM de NOM
+lf: fin de matinée
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( fin<=H> de<=P> matinée<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: champ à 200 m du mât
+pos: NOM à NUM NOM du NOM
+lf: champ à 200 m du mât
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: site
+pos: NOM
+lf: site
+is a term candidate: 1
+
+-----------------
+
+if: aérogénérateur
+pos: NOM
+lf: aérogénérateur
+is a term candidate: 1
+
+-----------------
+
+if: exploitant du parc éolien
+pos: NOM du NOM ADJ
+lf: exploitant du parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( exploitant<=H> du<=P> ( parc<=H> éolien<=M> )<=M> )
+islands: 0
+
+
+-----------------
+

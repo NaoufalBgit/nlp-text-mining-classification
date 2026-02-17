@@ -1,0 +1,110 @@
+if: sol quatre cadavres
+pos: NOM NUM NOM
+lf: sol quatre cadavre
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: bureau
+pos: NOM
+lf: bureau
+is a term candidate: 1
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: études
+pos: NOM
+lf: étude
+is a term candidate: 1
+
+-----------------
+
+if: Choc
+pos: NOM
+lf: choc
+is a term candidate: 1
+
+-----------------
+
+if: éoliennes
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: espèce menacée au niveau régional
+pos: NOM VER:pper au NOM ADJ
+lf: espèce menacer au niveau régional
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: suivi de la mortalité aviaire
+pos: NOM de DET:ART NOM ADJ
+lf: suivi de le mortalité aviaire
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( suivi<=H> de<=P> la<=D> ( mortalité<=H> aviaire<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: migration de l' espèce
+pos: NOM de DET:ART NOM
+lf: migration de le espèce
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( migration<=H> de<=P> l'<=D> espèce<=M> )
+islands: 0
+
+
+-----------------
+
+if: m de distance de deux éoliennes
+pos: NOM de NOM de NUM NOM
+lf: m de distance de deux éolienne
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: hirondelles de fenêtre
+pos: NOM de NOM
+lf: hirondelle de fenêtre
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( hirondelles<=H> de<=P> fenêtre<=M> )
+islands: 0
+
+
+-----------------
+
+if: collisions
+pos: NOM
+lf: collision
+is a term candidate: 1
+
+-----------------
+

@@ -1,0 +1,256 @@
+if: site
+pos: NOM
+lf: site
+is a term candidate: 1
+
+-----------------
+
+if: région
+pos: NOM
+lf: région
+is a term candidate: 1
+
+-----------------
+
+if: alerte intrusion
+pos: ADJ NOM
+lf: alerte intrusion
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( alerte<=M> intrusion<=H> )
+islands: 0
+
+
+-----------------
+
+if: perte de communication
+pos: NOM de NOM
+lf: perte de communication
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( perte<=H> de<=P> communication<=M> )
+islands: 0
+
+
+-----------------
+
+if: pertes
+pos: NOM
+lf: perte
+is a term candidate: 1
+
+-----------------
+
+if: arrêt
+pos: NOM
+lf: arrêt
+is a term candidate: 1
+
+-----------------
+
+if: partie
+pos: NOM
+lf: partie
+is a term candidate: 1
+
+-----------------
+
+if: intrusion
+pos: NOM
+lf: intrusion
+is a term candidate: 1
+
+-----------------
+
+if: éoliennes
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: dommages matériels
+pos: NOM ADJ
+lf: dommage matériel
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( dommages<=H> matériels<=M> )
+islands: 0
+
+
+-----------------
+
+if: accès au local serveur
+pos: NOM au ADJ NOM
+lf: accès au local serveur
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: partie des serveurs informatiques
+pos: NOM des NOM ADJ
+lf: partie du serveur informatique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( partie<=H> des<=P> ( serveurs<=H> informatiques<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: place à l' intérieur du poste
+pos: NOM à DET:ART NOM du NOM
+lf: place à le intérieur du poste
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: dernières
+pos: NOM
+lf: dernier
+is a term candidate: 1
+
+-----------------
+
+if: 20h30
+pos: NAM
+lf: 20h30
+is a term candidate: 1
+
+-----------------
+
+if: caméra de surveillance
+pos: NOM de NOM
+lf: caméra de surveillance
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( caméra<=H> de<=P> surveillance<=M> )
+islands: 0
+
+
+-----------------
+
+if: caméras à déclenchement automatique
+pos: NOM à NOM ADJ
+lf: caméra à déclenchement automatique
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: ARIA 59926).L'exploitant
+pos: NOM ADJ
+lf: aria 59926).L'exploitant
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( ARIA<=H> 59926).L'exploitant<=M> )
+islands: 0
+
+
+-----------------
+
+if: supervision à distance des éoliennes
+pos: NOM à NOM des NOM
+lf: supervision à distance du éolienne
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: remplacement de la supervision
+pos: NOM de DET:ART NOM
+lf: remplacement de le supervision
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( remplacement<=H> de<=P> la<=D> supervision<=M> )
+islands: 0
+
+
+-----------------
+
+if: exploitation de 40 000 .Une effraction
+pos: NOM de NUM NUM ADJ NOM
+lf: exploitation de 40 000 .Une effraction
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: lendemain
+pos: NOM
+lf: lendemain
+is a term candidate: 1
+
+-----------------
+
+if: Intrusion
+pos: NOM
+lf: intrusion
+is a term candidate: 1
+
+-----------------
+
+if: matériel informatique
+pos: ADJ NOM
+lf: matériel informatique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( matériel<=M> informatique<=H> )
+islands: 0
+
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: techniciens
+pos: NOM
+lf: technicien
+is a term candidate: 1
+
+-----------------
+
+if: poste de livraison
+pos: NOM de NOM
+lf: poste de livraison
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( poste<=H> de<=P> livraison<=M> )
+islands: 0
+
+
+-----------------
+

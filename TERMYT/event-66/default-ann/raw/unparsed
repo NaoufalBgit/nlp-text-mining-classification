@@ -1,0 +1,162 @@
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: Choc
+pos: NOM
+lf: choc
+is a term candidate: 1
+
+-----------------
+
+if: secondes
+pos: NOM
+lf: seconde|second
+is a term candidate: 1
+
+-----------------
+
+if: Milan Royal
+pos: NAM NAM
+lf: Milan Royal
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Milan<=H> Royal<=M> )
+islands: 0
+
+
+-----------------
+
+if: service.L'éolienne
+pos: NOM
+lf: service.L'éolienne
+is a term candidate: 1
+
+-----------------
+
+if: bout.D'après
+pos: NOM
+lf: bout.D'après
+is a term candidate: 1
+
+-----------------
+
+if: système
+pos: NOM
+lf: système
+is a term candidate: 1
+
+-----------------
+
+if: rapace
+pos: NOM
+lf: rapace
+is a term candidate: 1
+
+-----------------
+
+if: système de détection avifaune
+pos: NOM de NOM NOM
+lf: système de détection avifaune
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: haut-parleurs
+pos: NOM
+lf: haut-parleur
+is a term candidate: 1
+
+-----------------
+
+if: détection
+pos: NOM
+lf: détection
+is a term candidate: 1
+
+-----------------
+
+if: effarouchement sonore
+pos: NOM ADJ
+lf: effarouchement sonore
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( effarouchement<=H> sonore<=M> )
+islands: 0
+
+
+-----------------
+
+if: arrêt
+pos: NOM
+lf: arrêt
+is a term candidate: 1
+
+-----------------
+
+if: réparation du système
+pos: NOM du NOM
+lf: réparation du système
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( réparation<=H> du<=P> système<=M> )
+islands: 0
+
+
+-----------------
+
+if: période diurne
+pos: NOM ADJ
+lf: période diurne
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( période<=H> diurne<=M> )
+islands: 0
+
+
+-----------------
+
+if: collision
+pos: NOM
+lf: collision
+is a term candidate: 1
+
+-----------------
+
+if: oiseau
+pos: NOM
+lf: oiseau
+is a term candidate: 1
+
+-----------------
+
+if: espèce
+pos: NOM
+lf: espèce
+is a term candidate: 1
+
+-----------------
+
+if: pale
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: 9h27
+pos: NAM
+lf: 9h27
+is a term candidate: 1
+
+-----------------
+

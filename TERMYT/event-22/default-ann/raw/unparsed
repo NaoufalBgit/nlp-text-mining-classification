@@ -1,0 +1,315 @@
+if: système du parc éolien
+pos: NOM du NOM ADJ
+lf: système du parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( système<=H> du<=P> ( parc<=H> éolien<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: fort brouillard
+pos: ADJ NOM
+lf: fort brouillard
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( fort<=M> brouillard<=H> )
+islands: 0
+
+
+-----------------
+
+if: Choc
+pos: NOM
+lf: choc
+is a term candidate: 1
+
+-----------------
+
+if: pale
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: cadavre de milan noir
+pos: NOM de NOM ADJ
+lf: cadavre de milan noir
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( cadavre<=H> de<=P> ( milan<=H> noir<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: bureau
+pos: NOM
+lf: bureau
+is a term candidate: 1
+
+-----------------
+
+if: plans
+pos: NOM
+lf: plan
+is a term candidate: 1
+
+-----------------
+
+if: rapace.Les tests automatiques
+pos: ADJ NOM ADJ
+lf: rapace.Les test automatique
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: bonne prise
+pos: ADJ NOM
+lf: bon prise
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( bonne<=M> prise<=H> )
+islands: 0
+
+
+-----------------
+
+if: compte des ordres
+pos: NOM des NOM
+lf: compte du ordre
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( compte<=H> des<=P> ordres<=M> )
+islands: 0
+
+
+-----------------
+
+if: pied
+pos: NOM
+lf: pied
+is a term candidate: 1
+
+-----------------
+
+if: arrêt
+pos: NOM
+lf: arrêt
+is a term candidate: 1
+
+-----------------
+
+if: espèce
+pos: NOM
+lf: espèce
+is a term candidate: 1
+
+-----------------
+
+if: collision directe
+pos: NOM ADJ
+lf: collision direct
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( collision<=H> directe<=M> )
+islands: 0
+
+
+-----------------
+
+if: autres caméras
+pos: ADJ NOM
+lf: autre caméra
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( autres<=M> caméras<=H> )
+islands: 0
+
+
+-----------------
+
+if: séquence de la collision
+pos: NOM de DET:ART NOM
+lf: séquence de le collision
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( séquence<=H> de<=P> la<=D> collision<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: éolienne à l' origine de la collision
+pos: NOM à DET:ART NOM de DET:ART NOM
+lf: éolienne à le origine de le collision
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: milan noir
+pos: NOM ADJ
+lf: milan noir
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( milan<=H> noir<=M> )
+islands: 0
+
+
+-----------------
+
+if: mise
+pos: NOM
+lf: mise
+is a term candidate: 1
+
+-----------------
+
+if: éolienne.Lors de l' analyse des vidéos
+pos: NOM de DET:ART NOM des NOM
+lf: éolienne.Lors de le analyse du vidéo
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: suivi de la mortalité aviaire
+pos: NOM de DET:ART NOM ADJ
+lf: suivi de le mortalité aviaire
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( suivi<=H> de<=P> la<=D> ( mortalité<=H> aviaire<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: procédure de surveillance du système de détection avifaune
+pos: NOM de NOM du NOM de NOM NOM
+lf: procédure de surveillance du système de détection avifaune
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: défaut
+pos: NOM
+lf: défaut
+is a term candidate: 1
+
+-----------------
+
+if: oiseau
+pos: NOM
+lf: oiseau
+is a term candidate: 1
+
+-----------------
+
+if: dysfonctionnement
+pos: NOM
+lf: dysfonctionnement
+is a term candidate: 1
+
+-----------------
+
+if: redémarrage envoyés aux éoliennes
+pos: NOM VER:pper aux NOM
+lf: redémarrage envoyer au éolienne
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( redémarrage<=H> ( envoyés<=H> aux<=P> éoliennes<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: dysfonctionnement du PC.Le bureau
+pos: NOM du NAM NOM
+lf: dysfonctionnement du PC.Le bureau
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: lancements des ordres
+pos: NOM des NOM
+lf: lancement du ordre
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( lancements<=H> des<=P> ordres<=M> )
+islands: 0
+
+
+-----------------
+
+if: service de deux caméras
+pos: NOM de NUM NOM
+lf: service de deux caméra
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: sol
+pos: NOM
+lf: sol
+is a term candidate: 1
+
+-----------------
+
+if: études
+pos: NOM
+lf: étude
+is a term candidate: 1
+
+-----------------
+
+if: caméras
+pos: NOM
+lf: caméra
+is a term candidate: 1
+
+-----------------
+

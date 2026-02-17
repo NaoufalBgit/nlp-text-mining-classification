@@ -1,0 +1,341 @@
+if: pourvu de rétention
+pos: ADJ de NOM
+lf: pourvu de rétention
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: inspection des installations
+pos: NOM des NOM
+lf: inspection du installation
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( inspection<=H> des<=P> installations<=M> )
+islands: 0
+
+
+-----------------
+
+if: huile
+pos: NOM
+lf: huile
+is a term candidate: 1
+
+-----------------
+
+if: fragilité
+pos: NOM
+lf: fragilité
+is a term candidate: 1
+
+-----------------
+
+if: sécurité à la suite de la détection de la fuite
+pos: NOM à DET:ART NOM de DET:ART NOM de DET:ART NOM
+lf: sécurité à le suite de le détection de le fuite
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: boîte de vitesse.La fuite
+pos: NOM de NOM NOM
+lf: boîte de vitesse.La fuite
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: turbine
+pos: NOM
+lf: turbine
+is a term candidate: 1
+
+-----------------
+
+if: pied de la tour
+pos: NOM de DET:ART NOM
+lf: pied de le tour
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( pied<=H> de<=P> la<=D> tour<=M> )
+islands: 0
+
+
+-----------------
+
+if: exploitant
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+
+if: fond de la nacelle
+pos: NOM de DET:ART NOM
+lf: fond de le nacelle
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( fond<=H> de<=P> la<=D> nacelle<=M> )
+islands: 0
+
+
+-----------------
+
+if: refroidissement de la boite de vitesse
+pos: NOM de DET:ART NOM de NOM
+lf: refroidissement de le boite de vitesse
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: mise
+pos: NOM
+lf: mise
+is a term candidate: 1
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: hauteur
+pos: NOM
+lf: hauteur
+is a term candidate: 1
+
+-----------------
+
+if: réparation
+pos: NOM
+lf: réparation
+is a term candidate: 1
+
+-----------------
+
+if: exploitant à :changer les flexibles similaires
+pos: NOM à NAM DET:ART ADJ ADJ
+lf: exploitant à :changer le flexible similaire
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: rupture
+pos: NOM
+lf: rupture
+is a term candidate: 1
+
+-----------------
+
+if: remise à niveau
+pos: NOM à NOM
+lf: remise à niveau
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( remise<=H> à<=P> niveau<=M> )
+islands: 0
+
+
+-----------------
+
+if: quantité
+pos: NOM
+lf: quantité
+is a term candidate: 1
+
+-----------------
+
+if: sols
+pos: NOM
+lf: sol
+is a term candidate: 1
+
+-----------------
+
+if: boite de vitesse
+pos: NOM de NOM
+lf: boite de vitesse
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( boite<=H> de<=P> vitesse<=M> )
+islands: 0
+
+
+-----------------
+
+if: l
+pos: NOM
+lf: l
+is a term candidate: 1
+
+-----------------
+
+if: Fuite
+pos: NOM
+lf: fuite
+is a term candidate: 1
+
+-----------------
+
+if: nacelle
+pos: NOM
+lf: nacelle
+is a term candidate: 1
+
+-----------------
+
+if: huile hydraulique
+pos: NOM ADJ
+lf: huile hydraulique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( huile<=H> hydraulique<=M> )
+islands: 0
+
+
+-----------------
+
+if: flexible de lubrification hydraulique
+pos: ADJ de NOM ADJ
+lf: flexible de lubrification hydraulique
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: flexible.L'exploitant
+pos: NOM
+lf: flexible.L'exploitant
+is a term candidate: 1
+
+-----------------
+
+if: société indépendante
+pos: NOM ADJ
+lf: société indépendant
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( société<=H> indépendante<=M> )
+islands: 0
+
+
+-----------------
+
+if: ensemble du parc
+pos: NOM du NOM
+lf: ensemble du parc
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( ensemble<=H> du<=P> parc<=M> )
+islands: 0
+
+
+-----------------
+
+if: place des absorbants
+pos: NOM des ADJ
+lf: place du absorbant
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: travail
+pos: NOM
+lf: travail
+is a term candidate: 1
+
+-----------------
+
+if: machine
+pos: NOM
+lf: machine
+is a term candidate: 1
+
+-----------------
+
+if: structure même
+pos: NOM ADJ
+lf: structure même
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( structure<=H> même<=M> )
+islands: 0
+
+
+-----------------
+
+if: société
+pos: NOM
+lf: société
+is a term candidate: 1
+
+-----------------
+
+if: fuite
+pos: NOM
+lf: fuite
+is a term candidate: 1
+
+-----------------
+
+if: long du mât
+pos: NOM du NOM
+lf: long du mât
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( long<=H> du<=P> mât<=M> )
+islands: 0
+
+
+-----------------
+
+if: système de rétention des écoulements accidentels
+pos: NOM de NOM des NOM ADJ
+lf: système de rétention du écoulement accidentel
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: ensemble des flexibles hydrauliques de la machine
+pos: NOM des ADJ NOM de DET:ART NOM
+lf: ensemble du flexible hydraulique de le machine
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+

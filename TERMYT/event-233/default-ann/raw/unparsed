@@ -1,0 +1,279 @@
+if: individus
+pos: NOM
+lf: individu
+is a term candidate: 1
+
+-----------------
+
+if: périmètre
+pos: NOM
+lf: périmètre
+is a term candidate: 1
+
+-----------------
+
+if: cas de mortalité
+pos: NOM de NOM
+lf: cas de mortalité
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( cas<=H> de<=P> mortalité<=M> )
+islands: 0
+
+
+-----------------
+
+if: coucher au lever du soleil
+pos: NOM au NOM du NOM
+lf: coucher au lever du soleil
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: bureau
+pos: NOM
+lf: bureau
+is a term candidate: 1
+
+-----------------
+
+if: parc
+pos: NOM
+lf: parc
+is a term candidate: 1
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: un
+pos: NOM
+lf: un
+is a term candidate: 1
+
+-----------------
+
+if: éoliennes
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: période migratoire
+pos: NOM ADJ
+lf: période migratoire
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( période<=H> migratoire<=M> )
+islands: 0
+
+
+-----------------
+
+if: Découverte de cadavres de chiroptère
+pos: NOM de NOM de NOM
+lf: découverte de cadavre de chiroptère
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: année suivante
+pos: NOM ADJ
+lf: année suivant
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( année<=H> suivante<=M> )
+islands: 0
+
+
+-----------------
+
+if: présence anecdotique
+pos: NOM ADJ
+lf: présence anecdotique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( présence<=H> anecdotique<=M> )
+islands: 0
+
+
+-----------------
+
+if: efficacité
+pos: NOM
+lf: efficacité
+is a term candidate: 1
+
+-----------------
+
+if: pipistrelles communes
+pos: NOM ADJ
+lf: pipistrelle commun
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( pipistrelles<=H> communes<=M> )
+islands: 0
+
+
+-----------------
+
+if: études
+pos: NOM
+lf: étude
+is a term candidate: 1
+
+-----------------
+
+if: mois.À
+pos: NOM
+lf: mois.À
+is a term candidate: 1
+
+-----------------
+
+if: ensemble des éoliennes du parc
+pos: NOM des NOM du NOM
+lf: ensemble du éolienne du parc
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: jeunes chauve-souris
+pos: ADJ NOM
+lf: jeune chauve-souris
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( jeunes<=M> chauve-souris<=H> )
+islands: 0
+
+
+-----------------
+
+if: sol
+pos: NOM
+lf: sol
+is a term candidate: 1
+
+-----------------
+
+if: site
+pos: NOM
+lf: site
+is a term candidate: 1
+
+-----------------
+
+if: espèce
+pos: NOM
+lf: espèce
+is a term candidate: 1
+
+-----------------
+
+if: suivi environnemental
+pos: NOM ADJ
+lf: suivi environnemental
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( suivi<=H> environnemental<=M> )
+islands: 0
+
+
+-----------------
+
+if: barotraumatisme
+pos: NOM
+lf: barotraumatisme
+is a term candidate: 1
+
+-----------------
+
+if: période allant du 1er avril au 31 octobre
+pos: NOM VER:ppre du NUM NOM au NUM NOM
+lf: période aller du 1er avril au 31 octobre
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: inspection des installations
+pos: NOM des NOM
+lf: inspection du installation
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( inspection<=H> des<=P> installations<=M> )
+islands: 0
+
+
+-----------------
+
+if: bridage
+pos: NOM
+lf: bridage
+is a term candidate: 1
+
+-----------------
+
+if: collision
+pos: NOM
+lf: collision
+is a term candidate: 1
+
+-----------------
+
+if: avril au 30 septembre
+pos: NOM au NUM NOM
+lf: avril au 30 septembre
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: m
+pos: NOM
+lf: m
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+

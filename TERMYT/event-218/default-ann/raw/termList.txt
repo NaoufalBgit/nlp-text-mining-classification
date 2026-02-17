@@ -1,0 +1,36 @@
+# ID	Inflected form	Lemmatised form	Frequency	CValue	CValue1	CValuePlus	CValuePlus1	CValueStar	CValueStarH	CValueStarM	CValueStarR	CValueWCard	CValueWCardPlus	D	DDW	Freq	idf	ilnc	ilncFreq	iLong	IM	iTer	LLR	nbdoc4tc	NormFreq	tf	tf-idf	Head	Modifier	MainHead
+8	treillis de 30 m de haut	treillis de 30 m de haut	1	2.58496250072116	2.8073549220576	2.58496250072116	2.8073549220576	N/A	N/A	N/A	0.222392421336448	0	0	1	0	1	0:0	0	0	0.166666666666667	1	0.142857142857143	0.000115129154648748	1	1	0:1	0:0	9	10	9	
+17	réparations au moment des faits	réparation au moment du fait	1	2.32192809488736	2.58496250072116	2.32192809488736	2.58496250072116	N/A	N/A	N/A	0.263034405833794	0	0	1	0	1	0:0	0	0	0.2	1	0.166666666666667	0.000115129154648748	1	1	0:1	0:0	18	21	19	
+26	aérogénérateur de 200 kW	aérogénérateur de 200 kW	1	2	2.32192809488736	2	2.32192809488736	N/A	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	1	0.2	0.000115129154648748	1	1	0:1	0:0	27	28	27	
+23	effondrement de la tour	effondrement de le tour	1	2	2.32192809488736	2	2.32192809488736	N/A	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	1	0.2	0.000115129154648748	1	1	0:1	0:0	24	25	24	
+3	7h30 la chute	7h30 le chute	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	1	0.25	0.000115129154648748	1	1	0:1	0:0	4	5	4	
+0	rafales de vent	rafale de vent	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	1	0.25	0.000115129154648748	1	1	0:1	0:0	1	2	1	
+25	tour	tour	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	1	0:1	0:0				
+18	réparations au moment	réparation au moment	1	0	0	3.16992500144231	4	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	1	0.5	0.000115129154648748	1	1	0:1	0:0	19	20	19	
+16	nuit	nuit	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	1	0:1	0:0				
+31	public	public	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	1	0:1	0:0				
+4	7h30	7h30	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	1	0:1	0:0				
+2	vent	vent	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	1	0:1	0:0				
+34	site	site	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	1	0:1	0:0				
+7	France	France	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	1	0:1	0:0				
+1	rafales	rafale	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	1	0:1	0:0				
+24	effondrement	effondrement	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	1	0:1	0:0				
+29	200	200	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	1	0:1	0:0				
+20	moment	moment	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	1	0:1	0:0				
+14	haut	haut	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	1	0:1	0:0				
+15	type	type	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	1	0:1	0:0				
+10	30 m de haut	30 m de haut	1	0	0	4	4.64385618977472	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.25	1	0.2	0.000115129154648748	1	1	0:1	0:0	12	11	13	
+9	treillis	treillis	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	1	0:1	0:0				
+21	faits	fait	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	1	0:1	0:0				
+27	aérogénérateur	aérogénérateur	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	1	0:1	0:0				
+11	30	30	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	1	0:1	0:0				
+30	kW	kW	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	1	0:1	0:0				
+6	arrêt	arrêt	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	1	0:1	0:0				
+33	éolienne	éolienne	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	1	0:1	0:0				
+5	chute	chute	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	1	0:1	0:0				
+13	m	m	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	1	0:1	0:0				
+32	installations	installation	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	1	0:1	0:0				
+22	Chute	chute	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	1	0:1	0:0				
+19	réparations	réparation	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	1	0:1	0:0				
+12	m de haut	m de haut	1	0	0	3.16992500144231	4	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	1	0.5	0.000115129154648748	1	1	0:1	0:0	13	14	13	
+28	200 kW	200 kW	1	0	0	2	3.16992500144231	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.5	1	0.333333333333333	0.000115129154648748	1	1	0:1	0:0	30	29	30	

@@ -1,0 +1,458 @@
+if: barrière passive
+pos: NOM ADJ
+lf: barrière passif
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( barrière<=H> passive<=M> )
+islands: 0
+
+
+-----------------
+
+if: risque de pollution des nappes
+pos: NOM de NOM des NOM
+lf: risque de pollution du nappe
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: lixiviats accumulés au point bas
+pos: NOM VER:pper au NOM ADJ
+lf: lixiviats accumuler au point bas
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: argile constituant la barrière de sécurité passive
+pos: NOM VER:ppre DET:ART NOM de NOM ADJ
+lf: argile constituer le barrière de sécurité passif
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: digue
+pos: NOM
+lf: digue
+is a term candidate: 1
+
+-----------------
+
+if: argile
+pos: NOM
+lf: argile
+is a term candidate: 1
+
+-----------------
+
+if: alvéole
+pos: NOM
+lf: alvéole
+is a term candidate: 1
+
+-----------------
+
+if: déchirure de 30 cm
+pos: NOM de NUM NOM
+lf: déchirure de 30 cm
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: terrain naturel
+pos: NOM ADJ
+lf: terrain naturel
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( terrain<=H> naturel<=M> )
+islands: 0
+
+
+-----------------
+
+if: ouverture de la géomembrane
+pos: NOM de DET:ART NOM
+lf: ouverture de le géomembrane
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( ouverture<=H> de<=P> la<=D> géomembrane<=M> )
+islands: 0
+
+
+-----------------
+
+if: talus de déchets à l' endroit probable
+pos: NOM de NOM à DET:ART NOM ADJ
+lf: talus de déchet à le endroit probable
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: bureau de contrôle indépendant
+pos: NOM de NOM ADJ
+lf: bureau de contrôle indépendant
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( bureau<=H> de<=P> ( contrôle<=H> indépendant<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: Fuite de lixiviats
+pos: NOM de NOM
+lf: fuite de lixiviats
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Fuite<=H> de<=P> lixiviats<=M> )
+islands: 0
+
+
+-----------------
+
+if: géotextile
+pos: NOM
+lf: géotextile
+is a term candidate: 1
+
+-----------------
+
+if: mètres
+pos: NOM
+lf: mètre
+is a term candidate: 1
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: pompage
+pos: NOM
+lf: pompage
+is a term candidate: 1
+
+-----------------
+
+if: exploitation
+pos: NOM
+lf: exploitation
+is a term candidate: 1
+
+-----------------
+
+if: qualité des réparations
+pos: NOM des NOM
+lf: qualité du réparation
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( qualité<=H> des<=P> réparations<=M> )
+islands: 0
+
+
+-----------------
+
+if: déchirure
+pos: NOM
+lf: déchirure
+is a term candidate: 1
+
+-----------------
+
+if: fuite
+pos: NOM
+lf: fuite
+is a term candidate: 1
+
+-----------------
+
+if: extrusion
+pos: NOM
+lf: extrusion
+is a term candidate: 1
+
+-----------------
+
+if: niveau du point bas.Etant
+pos: NOM du NOM ADJ
+lf: niveau du point bas.Etant
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( niveau<=H> du<=P> ( point<=H> bas.Etant<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: géomembrane
+pos: NOM
+lf: géomembrane
+is a term candidate: 1
+
+-----------------
+
+if: PEHD
+pos: NAM
+lf: PEHD
+is a term candidate: 1
+
+-----------------
+
+if: soudure
+pos: NOM
+lf: soudure
+is a term candidate: 1
+
+-----------------
+
+if: perméabilité
+pos: NOM
+lf: perméabilité
+is a term candidate: 1
+
+-----------------
+
+if: cours
+pos: NOM
+lf: cours|cour
+is a term candidate: 1
+
+-----------------
+
+if: couche
+pos: NOM
+lf: couche
+is a term candidate: 1
+
+-----------------
+
+if: installation de stockage de déchets
+pos: NOM de NOM de NOM
+lf: installation de stockage de déchet
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: barrière
+pos: NOM
+lf: barrière
+is a term candidate: 1
+
+-----------------
+
+if: doutes.La
+pos: NOM
+lf: doutes.La
+is a term candidate: 1
+
+-----------------
+
+if: capacité
+pos: NOM
+lf: capacité
+is a term candidate: 1
+
+-----------------
+
+if: vérifications
+pos: NOM
+lf: vérification
+is a term candidate: 1
+
+-----------------
+
+if: fonction
+pos: NOM
+lf: fonction
+is a term candidate: 1
+
+-----------------
+
+if: géomembrane de la digue séparant une alvéole
+pos: NOM de DET:ART NOM VER:ppre DET:ART NOM
+lf: géomembrane de le digue séparer un alvéole
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: perforation de la géomembrane
+pos: NOM de DET:ART NOM
+lf: perforation de le géomembrane
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( perforation<=H> de<=P> la<=D> géomembrane<=M> )
+islands: 0
+
+
+-----------------
+
+if: précision
+pos: NOM
+lf: précision
+is a term candidate: 1
+
+-----------------
+
+if: lixiviats
+pos: NOM
+lf: lixiviats
+is a term candidate: 1
+
+-----------------
+
+if: barrière de sécurité passive
+pos: NOM de NOM ADJ
+lf: barrière de sécurité passif
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( barrière<=H> de<=P> ( sécurité<=H> passive<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: fuite de lixiviats
+pos: NOM de NOM
+lf: fuite de lixiviats
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( fuite<=H> de<=P> lixiviats<=M> )
+islands: 0
+
+
+-----------------
+
+if: absence de récidive de la fuite
+pos: NOM de NOM de DET:ART NOM
+lf: absence de récidive de le fuite
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: objet
+pos: NOM
+lf: objet
+is a term candidate: 1
+
+-----------------
+
+if: cause
+pos: NOM
+lf: cause
+is a term candidate: 1
+
+-----------------
+
+if: aménagement
+pos: NOM
+lf: aménagement
+is a term candidate: 1
+
+-----------------
+
+if: jours suivants
+pos: NOM ADJ
+lf: jour suivant
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( jours<=H> suivants<=M> )
+islands: 0
+
+
+-----------------
+
+if: arrêté préfectoral
+pos: NOM ADJ
+lf: arrêté préfectoral
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( arrêté<=H> préfectoral<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: semaine
+pos: NOM
+lf: semaine
+is a term candidate: 1
+
+-----------------
+
+if: jour
+pos: NOM
+lf: jour
+is a term candidate: 1
+
+-----------------
+
+if: épaisseur
+pos: NOM
+lf: épaisseur
+is a term candidate: 1
+
+-----------------
+
+if: contact prolongé des lixiviats
+pos: NOM VER:pper des NOM
+lf: contact prolonger du lixiviats
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: installation de stockage des déchets
+pos: NOM de NOM des NOM
+lf: installation de stockage du déchet
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: site
+pos: NOM
+lf: site
+is a term candidate: 1
+
+-----------------
+

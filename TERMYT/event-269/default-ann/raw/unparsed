@@ -1,0 +1,127 @@
+if: moelle épinière
+pos: NOM ADJ
+lf: moelle épinière
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( moelle<=H> épinière<=M> )
+islands: 0
+
+
+-----------------
+
+if: hôpital à Nantes
+pos: NOM à NAM
+lf: hôpital à Nantes
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( hôpital<=H> à<=P> Nantes<=M> )
+islands: 0
+
+
+-----------------
+
+if: chute de 3 m à l' intérieur de la nacelle
+pos: NOM de NUM NOM à DET:ART NOM de DET:ART NOM
+lf: chute de 3 m à le intérieur de le nacelle
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: équipe du GRIMP
+pos: NOM du NOM
+lf: équipe du GRIMP
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( équipe<=H> du<=P> GRIMP<=M> )
+islands: 0
+
+
+-----------------
+
+if: technicien
+pos: NOM
+lf: technicien
+is a term candidate: 1
+
+-----------------
+
+if: m du sol
+pos: NOM du NOM
+lf: m du sol
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( m<=H> du<=P> sol<=M> )
+islands: 0
+
+
+-----------------
+
+if: Chute
+pos: NOM
+lf: chute
+is a term candidate: 1
+
+-----------------
+
+if: employé chargé de la maintenance
+pos: NOM VER:pper de DET:ART NOM
+lf: employé charger de le maintenance
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: employé
+pos: NOM
+lf: employé
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: fracture
+pos: NOM
+lf: fracture
+is a term candidate: 1
+
+-----------------
+
+if: dos
+pos: NOM
+lf: dos
+is a term candidate: 1
+
+-----------------
+
+if: nacelle
+pos: NOM
+lf: nacelle
+is a term candidate: 1
+
+-----------------
+
+if: extérieur de l' éolienne
+pos: NOM de DET:ART NOM
+lf: extérieur de le éolienne
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( extérieur<=H> de<=P> l'<=D> éolienne<=M> )
+islands: 0
+
+
+-----------------
+

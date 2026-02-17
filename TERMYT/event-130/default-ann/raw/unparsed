@@ -1,0 +1,354 @@
+if: place.Au moment du départ de feu
+pos: NOM NOM du NOM de NOM
+lf: place.Au moment du départ de feu
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: mois
+pos: NOM
+lf: mois|moi
+is a term candidate: 1
+
+-----------------
+
+if: pompiers
+pos: NOM
+lf: pompier
+is a term candidate: 1
+
+-----------------
+
+if: huile de boîte de vitesse
+pos: NOM de NOM de NOM
+lf: huile de boîte de vitesse
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: sol
+pos: NOM
+lf: sol
+is a term candidate: 1
+
+-----------------
+
+if: machines
+pos: NOM
+lf: machine
+is a term candidate: 1
+
+-----------------
+
+if: service
+pos: NOM
+lf: service
+is a term candidate: 1
+
+-----------------
+
+if: nacelle
+pos: NOM
+lf: nacelle
+is a term candidate: 1
+
+-----------------
+
+if: étude de pollution des sols
+pos: NOM de NOM des NOM
+lf: étude de pollution du sol
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: feu
+pos: NOM
+lf: feu
+is a term candidate: 1
+
+-----------------
+
+if: possibilité
+pos: NOM
+lf: possibilité
+is a term candidate: 1
+
+-----------------
+
+if: malveillance
+pos: NOM
+lf: malveillance
+is a term candidate: 1
+
+-----------------
+
+if: détecteurs de fumées
+pos: NOM de NOM
+lf: détecteur de fumée
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( détecteurs<=H> de<=P> fumées<=M> )
+islands: 0
+
+
+-----------------
+
+if: l
+pos: NOM
+lf: l
+is a term candidate: 1
+
+-----------------
+
+if: milieux périlleux
+pos: NOM ADJ
+lf: milieu périlleux
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( milieux<=H> périlleux<=M> )
+islands: 0
+
+
+-----------------
+
+if: intervention
+pos: NOM
+lf: intervention
+is a term candidate: 1
+
+-----------------
+
+if: pales
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: puissance de l' éolienne
+pos: NOM de DET:ART NOM
+lf: puissance de le éolienne
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( puissance<=H> de<=P> l'<=D> éolienne<=M> )
+islands: 0
+
+
+-----------------
+
+if: sinistre
+pos: NOM
+lf: sinistre
+is a term candidate: 1
+
+-----------------
+
+if: aérogénérateurs du parc
+pos: NOM du NOM
+lf: aérogénérateur du parc
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( aérogénérateurs<=H> du<=P> parc<=M> )
+islands: 0
+
+
+-----------------
+
+if: autre menace
+pos: ADJ NOM
+lf: autre menace
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( autre<=M> menace<=H> )
+islands: 0
+
+
+-----------------
+
+if: maires des communes voisines
+pos: NOM des NOM ADJ
+lf: maire du commune voisin
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( maires<=H> des<=P> ( communes<=H> voisines<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne Des usagers de la N4
+pos: NOM PRP:det NOM de DET:ART NOM
+lf: éolienne du usager de le N4
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: incendie
+pos: NOM
+lf: incendie
+is a term candidate: 1
+
+-----------------
+
+if: m/s
+pos: NOM
+lf: m/s
+is a term candidate: 1
+
+-----------------
+
+if: gendarmerie
+pos: NOM
+lf: gendarmerie
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: défaillance électrique
+pos: NOM ADJ
+lf: défaillance électrique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( défaillance<=H> électrique<=M> )
+islands: 0
+
+
+-----------------
+
+if: éoliennes
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: puissance nominale
+pos: NOM ADJ
+lf: puissance nominal
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( puissance<=H> nominale<=M> )
+islands: 0
+
+
+-----------------
+
+if: parc
+pos: NOM
+lf: parc
+is a term candidate: 1
+
+-----------------
+
+if: presse
+pos: NOM
+lf: presse
+is a term candidate: 1
+
+-----------------
+
+if: importante fumée
+pos: ADJ NOM
+lf: important fumée
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( importante<=M> fumée<=H> )
+islands: 0
+
+
+-----------------
+
+if: 15h30 un feu
+pos: NAM DET:ART NOM
+lf: 15h30 un feu
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( 15h30<=H> un<=D> feu<=M> )
+islands: 0
+
+
+-----------------
+
+if: société chargée de la maintenance
+pos: NOM VER:pper de DET:ART NOM
+lf: société charger de le maintenance
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: suite de l' accident
+pos: NOM de DET:ART NOM
+lf: suite de le accident
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( suite<=H> de<=P> l'<=D> accident<=M> )
+islands: 0
+
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: périmètre de sécurité de 150 m
+pos: NOM de NOM de NUM NOM
+lf: périmètre de sécurité de 150 m
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: vent
+pos: NOM
+lf: vent
+is a term candidate: 1
+
+-----------------
+
+if: Feu
+pos: NOM
+lf: feu
+is a term candidate: 1
+
+-----------------
+
+if: exploitant
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+

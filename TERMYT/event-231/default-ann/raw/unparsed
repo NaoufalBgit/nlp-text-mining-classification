@@ -1,0 +1,207 @@
+if: parc
+pos: NOM
+lf: parc
+is a term candidate: 1
+
+-----------------
+
+if: barotraumatisme
+pos: NOM
+lf: barotraumatisme
+is a term candidate: 1
+
+-----------------
+
+if: études
+pos: NOM
+lf: étude
+is a term candidate: 1
+
+-----------------
+
+if: bureau
+pos: NOM
+lf: bureau
+is a term candidate: 1
+
+-----------------
+
+if: même période
+pos: ADJ NOM
+lf: même période
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( même<=M> période<=H> )
+islands: 0
+
+
+-----------------
+
+if: noctule commune
+pos: NOM ADJ
+lf: noctule commun
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( noctule<=H> commune<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: activité importante de l' espèce
+pos: NOM ADJ de DET:ART NOM
+lf: activité important de le espèce
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: espèce
+pos: NOM
+lf: espèce
+is a term candidate: 1
+
+-----------------
+
+if: cadavre de chiroptère
+pos: NOM de NOM
+lf: cadavre de chiroptère
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( cadavre<=H> de<=P> chiroptère<=M> )
+islands: 0
+
+
+-----------------
+
+if: chiroptères
+pos: NOM
+lf: chiroptères
+is a term candidate: 1
+
+-----------------
+
+if: suivi environnemental
+pos: NOM ADJ
+lf: suivi environnemental
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( suivi<=H> environnemental<=M> )
+islands: 0
+
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: bridage des éoliennes
+pos: NOM des NOM
+lf: bridage du éolienne
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( bridage<=H> des<=P> éoliennes<=M> )
+islands: 0
+
+
+-----------------
+
+if: facteur explicatif
+pos: NOM ADJ
+lf: facteur explicatif
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( facteur<=H> explicatif<=M> )
+islands: 0
+
+
+-----------------
+
+if: chaleur des derniers jours
+pos: NOM des ADJ NOM
+lf: chaleur du dernier jour
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: période de migration
+pos: NOM de NOM
+lf: période de migration
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( période<=H> de<=P> migration<=M> )
+islands: 0
+
+
+-----------------
+
+if: m
+pos: NOM
+lf: m
+is a term candidate: 1
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: ARIA
+pos: NOM
+lf: aria
+is a term candidate: 1
+
+-----------------
+
+if: sol
+pos: NOM
+lf: sol
+is a term candidate: 1
+
+-----------------
+
+if: mois.Une mortalité importante de pipistrelles communes
+pos: ADJ NOM ADJ de NOM ADJ
+lf: mois.Une mortalité important de pipistrelle commun
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: chauve-souris
+pos: NOM
+lf: chauve-souris
+is a term candidate: 1
+
+-----------------
+

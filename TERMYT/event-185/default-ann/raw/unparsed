@@ -1,0 +1,239 @@
+if: réseau électrique
+pos: NOM ADJ
+lf: réseau électrique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( réseau<=H> électrique<=M> )
+islands: 0
+
+
+-----------------
+
+if: flammes
+pos: NOM
+lf: flamme
+is a term candidate: 1
+
+-----------------
+
+if: prévention
+pos: NOM
+lf: prévention
+is a term candidate: 1
+
+-----------------
+
+if: nacelle
+pos: NOM
+lf: nacelle
+is a term candidate: 1
+
+-----------------
+
+if: 18h45
+pos: NAM
+lf: 18h45
+is a term candidate: 1
+
+-----------------
+
+if: propagation du sinistre à la végétation
+pos: NOM du NOM à DET:ART NOM
+lf: propagation du sinistre à le végétation
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: dysfonctionnement électrique
+pos: NOM ADJ
+lf: dysfonctionnement électrique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( dysfonctionnement<=H> électrique<=M> )
+islands: 0
+
+
+-----------------
+
+if: origine de l' incendie
+pos: NOM de DET:ART NOM
+lf: origine de le incendie
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( origine<=H> de<=P> l'<=D> incendie<=M> )
+islands: 0
+
+
+-----------------
+
+if: exploitant découple à distance
+pos: ADJ NOM à NOM
+lf: exploitant découple à distance
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: ramassés.Selon
+pos: NOM
+lf: ramassés.Selon
+is a term candidate: 1
+
+-----------------
+
+if: partie basse
+pos: NOM ADJ
+lf: partie bas
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( partie<=H> basse<=M> )
+islands: 0
+
+
+-----------------
+
+if: surveillance
+pos: NOM
+lf: surveillance
+is a term candidate: 1
+
+-----------------
+
+if: nacelle de l' aérogénérateur
+pos: NOM de DET:ART NOM
+lf: nacelle de le aérogénérateur
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( nacelle<=H> de<=P> l'<=D> aérogénérateur<=M> )
+islands: 0
+
+
+-----------------
+
+if: débris
+pos: NOM
+lf: débris
+is a term candidate: 1
+
+-----------------
+
+if: incendie
+pos: NOM
+lf: incendie
+is a term candidate: 1
+
+-----------------
+
+if: végétation
+pos: NOM
+lf: végétation
+is a term candidate: 1
+
+-----------------
+
+if: éolienne Un feu
+pos: ADJ DET:ART NOM
+lf: éolien un feu
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: éléments de l' éolienne
+pos: NOM de DET:ART NOM
+lf: élément de le éolienne
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( éléments<=H> de<=P> l'<=D> éolienne<=M> )
+islands: 0
+
+
+-----------------
+
+if: lances
+pos: NOM
+lf: lance
+is a term candidate: 1
+
+-----------------
+
+if: éolienne de 70 m de haut
+pos: NOM de NUM NOM de NOM
+lf: éolienne de 70 m de haut
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: minutes
+pos: NOM
+lf: minute
+is a term candidate: 1
+
+-----------------
+
+if: feu
+pos: NOM
+lf: feu
+is a term candidate: 1
+
+-----------------
+
+if: aérogénérateur
+pos: NOM
+lf: aérogénérateur
+is a term candidate: 1
+
+-----------------
+
+if: accès à la zone
+pos: NOM à DET:ART NOM
+lf: accès à le zone
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( accès<=H> à<=P> la<=D> zone<=M> )
+islands: 0
+
+
+-----------------
+
+if: pompiers
+pos: NOM
+lf: pompier
+is a term candidate: 1
+
+-----------------
+
+if: Incendie
+pos: NOM
+lf: incendie
+is a term candidate: 1
+
+-----------------
+
+if: sol
+pos: NOM
+lf: sol
+is a term candidate: 1
+
+-----------------
+
+if: 50m²
+pos: NAM
+lf: 50m²
+is a term candidate: 1
+
+-----------------
+

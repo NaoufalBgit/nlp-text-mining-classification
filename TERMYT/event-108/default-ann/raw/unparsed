@@ -1,0 +1,326 @@
+if: secours
+pos: NOM
+lf: secours
+is a term candidate: 1
+
+-----------------
+
+if: pied
+pos: NOM
+lf: pied
+is a term candidate: 1
+
+-----------------
+
+if: aérosols
+pos: NOM
+lf: aérosol
+is a term candidate: 1
+
+-----------------
+
+if: dégradation du conteneur.L'exploitant
+pos: NOM du NOM
+lf: dégradation du conteneur.L'exploitant
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( dégradation<=H> du<=P> conteneur.L'exploitant<=M> )
+islands: 0
+
+
+-----------------
+
+if: déchets
+pos: NOM
+lf: déchet
+is a term candidate: 1
+
+-----------------
+
+if: emplacement des prochains conteneurs
+pos: NOM des ADJ NOM
+lf: emplacement du prochain conteneur
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: société
+pos: NOM
+lf: société
+is a term candidate: 1
+
+-----------------
+
+if: additifs synthétiques
+pos: NOM ADJ
+lf: additif synthétique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( additifs<=H> synthétiques<=M> )
+islands: 0
+
+
+-----------------
+
+if: éoliennes
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: boutons
+pos: NOM
+lf: bouton
+is a term candidate: 1
+
+-----------------
+
+if: inspection des installations
+pos: NOM des NOM
+lf: inspection du installation
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( inspection<=H> des<=P> installations<=M> )
+islands: 0
+
+
+-----------------
+
+if: analyses de sol
+pos: NOM de NOM
+lf: analyse de sol
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( analyses<=H> de<=P> sol<=M> )
+islands: 0
+
+
+-----------------
+
+if: lieu
+pos: NOM
+lf: lieu
+is a term candidate: 1
+
+-----------------
+
+if: urgence du poste de livraison électrique
+pos: NOM du NOM de NOM ADJ
+lf: urgence du poste de livraison électrique
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: matières
+pos: NOM
+lf: matière
+is a term candidate: 1
+
+-----------------
+
+if: visite
+pos: NOM
+lf: visite
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: réparations.Un acte de malveillance
+pos: ADJ NOM de NOM
+lf: réparations.Un acte de malveillance
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: éventuelles pollutions.Lors
+pos: ADJ NOM
+lf: éventuel pollutions.Lors
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( éventuelles<=M> pollutions.Lors<=H> )
+islands: 0
+
+
+-----------------
+
+if: nouveau conteneur
+pos: ADJ NOM
+lf: nouveau conteneur
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( nouveau<=M> conteneur<=H> )
+islands: 0
+
+
+-----------------
+
+if: zone
+pos: NOM
+lf: zone
+is a term candidate: 1
+
+-----------------
+
+if: réflexion
+pos: NOM
+lf: réflexion
+is a term candidate: 1
+
+-----------------
+
+if: graisses
+pos: NOM
+lf: graisse
+is a term candidate: 1
+
+-----------------
+
+if: origine du départ de feu
+pos: NOM du NOM de NOM
+lf: origine du départ de feu
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: arrêt
+pos: NOM
+lf: arrêt
+is a term candidate: 1
+
+-----------------
+
+if: périmètre
+pos: NOM
+lf: périmètre
+is a term candidate: 1
+
+-----------------
+
+if: exploitant
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+
+if: production
+pos: NOM
+lf: production
+is a term candidate: 1
+
+-----------------
+
+if: huiles
+pos: NOM
+lf: huile
+is a term candidate: 1
+
+-----------------
+
+if: électricité
+pos: NOM
+lf: électricité
+is a term candidate: 1
+
+-----------------
+
+if: charge de l' exploitation
+pos: NOM de DET:ART NOM
+lf: charge de le exploitation
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( charge<=H> de<=P> l'<=D> exploitation<=M> )
+islands: 0
+
+
+-----------------
+
+if: techniciens
+pos: NOM
+lf: technicien
+is a term candidate: 1
+
+-----------------
+
+if: feu
+pos: NOM
+lf: feu
+is a term candidate: 1
+
+-----------------
+
+if: équipements électriques
+pos: NOM ADJ
+lf: équipement électrique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( équipements<=H> électriques<=M> )
+islands: 0
+
+
+-----------------
+
+if: conteneur de déchets
+pos: NOM de NOM
+lf: conteneur de déchet
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( conteneur<=H> de<=P> déchets<=M> )
+islands: 0
+
+
+-----------------
+
+if: promeneurs
+pos: NOM
+lf: promeneur
+is a term candidate: 1
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: Incendie de déchets au pied
+pos: NOM de NOM au NOM
+lf: incendie de déchet au pied
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+

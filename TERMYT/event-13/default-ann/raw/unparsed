@@ -1,0 +1,621 @@
+if: réparations préventives
+pos: NOM ADJ
+lf: réparation préventif
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( réparations<=H> préventives<=M> )
+islands: 0
+
+
+-----------------
+
+if: mois
+pos: NOM
+lf: mois|moi
+is a term candidate: 1
+
+-----------------
+
+if: inspections annuelles
+pos: NOM ADJ
+lf: inspection annuel
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( inspections<=H> annuelles<=M> )
+islands: 0
+
+
+-----------------
+
+if: vent
+pos: NOM
+lf: vent
+is a term candidate: 1
+
+-----------------
+
+if: reprise du fonctionnement du parc
+pos: NOM du NOM du NOM
+lf: reprise du fonctionnement du parc
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: fissuration importante
+pos: NOM ADJ
+lf: fissuration important
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( fissuration<=H> importante<=M> )
+islands: 0
+
+
+-----------------
+
+if: vibrations
+pos: NOM
+lf: vibration
+is a term candidate: 1
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: exploitation du parc
+pos: NOM du NOM
+lf: exploitation du parc
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( exploitation<=H> du<=P> parc<=M> )
+islands: 0
+
+
+-----------------
+
+if: exploitant
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+
+if: suite de vents violents
+pos: NOM de NOM ADJ
+lf: suite de vent violent
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( suite<=H> de<=P> ( vents<=H> violents<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: éléments
+pos: NOM
+lf: élément
+is a term candidate: 1
+
+-----------------
+
+if: dégradation
+pos: NOM
+lf: dégradation
+is a term candidate: 1
+
+-----------------
+
+if: pied de machine
+pos: NOM de NOM
+lf: pied de machine
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( pied<=H> de<=P> machine<=M> )
+islands: 0
+
+
+-----------------
+
+if: chute
+pos: NOM
+lf: chute
+is a term candidate: 1
+
+-----------------
+
+if: drone
+pos: NOM
+lf: drone
+is a term candidate: 1
+
+-----------------
+
+if: débris de revêtement de la pâle
+pos: NOM de NOM de DET:ART ADJ
+lf: débris de revêtement de le pâle
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: dégradation de la pâle
+pos: NOM de DET:ART ADJ
+lf: dégradation de le pâle
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: ondulations
+pos: NOM
+lf: ondulation
+is a term candidate: 1
+
+-----------------
+
+if: parc
+pos: NOM
+lf: parc
+is a term candidate: 1
+
+-----------------
+
+if: incident
+pos: NOM
+lf: incident
+is a term candidate: 1
+
+-----------------
+
+if: intrados
+pos: NOM
+lf: intrados
+is a term candidate: 1
+
+-----------------
+
+if: coques
+pos: NOM
+lf: coque
+is a term candidate: 1
+
+-----------------
+
+if: champ
+pos: NOM
+lf: champ
+is a term candidate: 1
+
+-----------------
+
+if: partie de la pâle
+pos: NOM de DET:ART ADJ
+lf: partie de le pâle
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: niveau des renforts du chemin de longeron de la face de la pâle
+pos: NOM des NOM du NOM de NOM de DET:ART NOM de DET:ART ADJ
+lf: niveau du renfort du chemin de longeron de le face de le pâle
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: périmètre de sécurité
+pos: NOM de NOM
+lf: périmètre de sécurité
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( périmètre<=H> de<=P> sécurité<=M> )
+islands: 0
+
+
+-----------------
+
+if: analyse.L'exploitant
+pos: NOM
+lf: analyse.L'exploitant
+is a term candidate: 1
+
+-----------------
+
+if: jumelles
+pos: NOM
+lf: jumelle
+is a term candidate: 1
+
+-----------------
+
+if: méthode
+pos: NOM
+lf: méthode
+is a term candidate: 1
+
+-----------------
+
+if: regroupement des débris
+pos: NOM des NOM
+lf: regroupement du débris
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( regroupement<=H> des<=P> débris<=M> )
+islands: 0
+
+
+-----------------
+
+if: qualité
+pos: NOM
+lf: qualité
+is a term candidate: 1
+
+-----------------
+
+if: inspection des installations
+pos: NOM des NOM
+lf: inspection du installation
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( inspection<=H> des<=P> installations<=M> )
+islands: 0
+
+
+-----------------
+
+if: pression
+pos: NOM
+lf: pression
+is a term candidate: 1
+
+-----------------
+
+if: extérieur de la pâle
+pos: NOM de DET:ART ADJ
+lf: extérieur de le pâle
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: abords de l' éolienne
+pos: NOM de DET:ART NOM
+lf: abord de le éolienne
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( abords<=H> de<=P> l'<=D> éolienne<=M> )
+islands: 0
+
+
+-----------------
+
+if: absence de maintenance préventive
+pos: NOM de NOM ADJ
+lf: absence de maintenance préventif
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( absence<=H> de<=P> ( maintenance<=H> préventive<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: riverains
+pos: NOM
+lf: riverain
+is a term candidate: 1
+
+-----------------
+
+if: faiblesse structurelle liée à la méthode de fabrication
+pos: NOM ADJ VER:pper à DET:ART NOM de NOM
+lf: faiblesse structurel lier à le méthode de fabrication
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: demi-coques
+pos: NOM
+lf: demi-coque
+is a term candidate: 1
+
+-----------------
+
+if: fibres unidirectionnelles
+pos: NOM ADJ
+lf: fibre unidirectionnel
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( fibres<=H> unidirectionnelles<=M> )
+islands: 0
+
+
+-----------------
+
+if: phase de fabrication
+pos: NOM de NOM
+lf: phase de fabrication
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( phase<=H> de<=P> fabrication<=M> )
+islands: 0
+
+
+-----------------
+
+if: aide de l' agriculteur du champ
+pos: NOM de DET:ART NOM du NOM
+lf: aide de le agriculteur du champ
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: ancienne génération.Le
+pos: ADJ NOM
+lf: ancien génération.Le
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( ancienne<=M> génération.Le<=H> )
+islands: 0
+
+
+-----------------
+
+if: évidence
+pos: NOM
+lf: évidence
+is a term candidate: 1
+
+-----------------
+
+if: mise
+pos: NOM
+lf: mise
+is a term candidate: 1
+
+-----------------
+
+if: défaut
+pos: NOM
+lf: défaut
+is a term candidate: 1
+
+-----------------
+
+if: inspections
+pos: NOM
+lf: inspection
+is a term candidate: 1
+
+-----------------
+
+if: oeuvre des recommandations issues
+pos: NOM des NOM ADJ
+lf: œuvre du recommandation issu
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( oeuvre<=H> des<=P> ( recommandations<=H> issues<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: anomalie
+pos: NOM
+lf: anomalie
+is a term candidate: 1
+
+-----------------
+
+if: expert
+pos: NOM
+lf: expert
+is a term candidate: 1
+
+-----------------
+
+if: vue
+pos: NOM
+lf: vue
+is a term candidate: 1
+
+-----------------
+
+if: renforts
+pos: NOM
+lf: renfort
+is a term candidate: 1
+
+-----------------
+
+if: mécanisme de rupture
+pos: NOM de NOM
+lf: mécanisme de rupture
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( mécanisme<=H> de<=P> rupture<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: analyse des causes de l' événement
+pos: NOM des NOM de DET:ART NOM
+lf: analyse du cause de le événement
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: longerons
+pos: NOM
+lf: longeron
+is a term candidate: 1
+
+-----------------
+
+if: suppression du risque de chute
+pos: NOM du NOM de NOM
+lf: suppression du risque de chute
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: longerons centraux
+pos: NOM ADJ
+lf: longeron central
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( longerons<=H> centraux<=M> )
+islands: 0
+
+
+-----------------
+
+if: long de la pâle
+pos: NOM de DET:ART ADJ
+lf: long de le pâle
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: inspection de proximité des pâles
+pos: NOM de NOM des ADJ
+lf: inspection de proximité du pâle
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: rupture.L'exploitant
+pos: NOM
+lf: rupture.L'exploitant
+is a term candidate: 1
+
+-----------------
+
+if: jumelles au profit
+pos: NOM au NOM
+lf: jumelle au profit
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( jumelles<=H> au<=P> profit<=M> )
+islands: 0
+
+
+-----------------
+
+if: Casse
+pos: NOM
+lf: casse
+is a term candidate: 1
+
+-----------------
+
+if: inspection des pâles
+pos: NOM des ADJ
+lf: inspection du pâle
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: intervention de techniciens
+pos: NOM de NOM
+lf: intervention de technicien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( intervention<=H> de<=P> techniciens<=M> )
+islands: 0
+
+
+-----------------
+
+if: analyse des causes profondes
+pos: NOM des NOM ADJ
+lf: analyse du cause profond
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( analyse<=H> des<=P> ( causes<=H> profondes<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: alarme de vibrations
+pos: NOM de NOM
+lf: alarme de vibration
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( alarme<=H> de<=P> vibrations<=M> )
+islands: 0
+
+
+-----------------
+
+if: moitié
+pos: NOM
+lf: moitié
+is a term candidate: 1
+
+-----------------
+
+if: rupture
+pos: NOM
+lf: rupture
+is a term candidate: 1
+
+-----------------
+

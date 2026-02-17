@@ -1,0 +1,124 @@
+if: pompiers
+pos: NOM
+lf: pompier
+is a term candidate: 1
+
+-----------------
+
+if: origine du départ de feu
+pos: NOM du NOM de NOM
+lf: origine du départ de feu
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: technicien
+pos: NOM
+lf: technicien
+is a term candidate: 1
+
+-----------------
+
+if: extinction complète
+pos: NOM ADJ
+lf: extinction complet
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( extinction<=H> complète<=M> )
+islands: 0
+
+
+-----------------
+
+if: niveau du rotor
+pos: NOM du NOM
+lf: niveau du rotor
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( niveau<=H> du<=P> rotor<=M> )
+islands: 0
+
+
+-----------------
+
+if: Feu
+pos: NOM
+lf: feu
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: partie haute
+pos: NOM ADJ
+lf: partie haut
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( partie<=H> haute<=M> )
+islands: 0
+
+
+-----------------
+
+if: seul les 70 m de l' échelle intérieure
+pos: ADJ DET:ART NUM NOM de DET:ART NOM ADJ
+lf: seul le 70 m de le échelle intérieur
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: feu
+pos: NOM
+lf: feu
+is a term candidate: 1
+
+-----------------
+
+if: fumées
+pos: NOM
+lf: fumée
+is a term candidate: 1
+
+-----------------
+
+if: incendie
+pos: NOM
+lf: incendie
+is a term candidate: 1
+
+-----------------
+
+if: arrivée des pompiers
+pos: NOM des NOM
+lf: arrivée du pompier
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( arrivée<=H> des<=P> pompiers<=M> )
+islands: 0
+
+
+-----------------
+
+if: ventilation.Une défaillance électrique
+pos: ADJ NOM ADJ
+lf: ventilation.Une défaillance électrique
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+

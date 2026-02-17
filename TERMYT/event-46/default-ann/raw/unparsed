@@ -1,0 +1,263 @@
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: pale
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: collision
+pos: NOM
+lf: collision
+is a term candidate: 1
+
+-----------------
+
+if: déplacement du bétail
+pos: NOM du NOM
+lf: déplacement du bétail
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( déplacement<=H> du<=P> bétail<=M> )
+islands: 0
+
+
+-----------------
+
+if: suivi
+pos: NOM
+lf: suivi
+is a term candidate: 1
+
+-----------------
+
+if: jours
+pos: NOM
+lf: jour
+is a term candidate: 1
+
+-----------------
+
+if: découverte
+pos: NOM
+lf: découverte
+is a term candidate: 1
+
+-----------------
+
+if: population
+pos: NOM
+lf: population
+is a term candidate: 1
+
+-----------------
+
+if: période de reproduction
+pos: NOM de NOM
+lf: période de reproduction
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( période<=H> de<=P> reproduction<=M> )
+islands: 0
+
+
+-----------------
+
+if: oiseau
+pos: NOM
+lf: oiseau
+is a term candidate: 1
+
+-----------------
+
+if: m
+pos: NOM
+lf: m
+is a term candidate: 1
+
+-----------------
+
+if: arrêt
+pos: NOM
+lf: arrêt
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: fin février
+pos: ADJ NOM
+lf: fin février
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( fin<=M> février<=H> )
+islands: 0
+
+
+-----------------
+
+if: mortalités
+pos: NOM
+lf: mortalité
+is a term candidate: 1
+
+-----------------
+
+if: parc
+pos: NOM
+lf: parc
+is a term candidate: 1
+
+-----------------
+
+if: forte activité de rapaces
+pos: ADJ NOM de NOM
+lf: fort activité de rapace
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: Choc
+pos: NOM
+lf: choc
+is a term candidate: 1
+
+-----------------
+
+if: parc.L'exploitant
+pos: NOM
+lf: parc.L'exploitant
+is a term candidate: 1
+
+-----------------
+
+if: éolienne Un éleveur
+pos: ADJ DET:ART NOM
+lf: éolien un éleveur
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: progressivement.Deux charniers
+pos: ADJ NOM
+lf: progressivement.Deux charnier
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( progressivement.Deux<=M> charniers<=H> )
+islands: 0
+
+
+-----------------
+
+if: cadavre
+pos: NOM
+lf: cadavre
+is a term candidate: 1
+
+-----------------
+
+if: abords du parc
+pos: NOM du NOM
+lf: abord du parc
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( abords<=H> du<=P> parc<=M> )
+islands: 0
+
+
+-----------------
+
+if: autres zones de pâturage
+pos: ADJ NOM de NOM
+lf: autre zone de pâturage
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: détection potentielle de placettes illégales
+pos: NOM ADJ de NOM ADJ
+lf: détection potentiel de placette illégal
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: vautour fauve
+pos: NOM ADJ
+lf: vautour fauve
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( vautour<=H> fauve<=M> )
+islands: 0
+
+
+-----------------
+
+if: période de couvaison/incubation
+pos: NOM de NOM
+lf: période de couvaison/incubation
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( période<=H> de<=P> couvaison/incubation<=M> )
+islands: 0
+
+
+-----------------
+
+if: ensemble du parc éolien
+pos: NOM du NOM ADJ
+lf: ensemble du parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( ensemble<=H> du<=P> ( parc<=H> éolien<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: semaine
+pos: NOM
+lf: semaine
+is a term candidate: 1
+
+-----------------
+

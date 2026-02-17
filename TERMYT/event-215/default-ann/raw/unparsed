@@ -1,0 +1,225 @@
+if: espèce
+pos: NOM
+lf: espèce
+is a term candidate: 1
+
+-----------------
+
+if: convention
+pos: NOM
+lf: convention
+is a term candidate: 1
+
+-----------------
+
+if: pale
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: exploitant
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+
+if: association de protection des oiseaux
+pos: NOM de NOM des NOM
+lf: association de protection du oiseau
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: attractivité du site
+pos: NOM du NOM
+lf: attractivité du site
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( attractivité<=H> du<=P> site<=M> )
+islands: 0
+
+
+-----------------
+
+if: cadavre
+pos: NOM
+lf: cadavre
+is a term candidate: 1
+
+-----------------
+
+if: friche
+pos: NOM
+lf: friche
+is a term candidate: 1
+
+-----------------
+
+if: transformation
+pos: NOM
+lf: transformation
+is a term candidate: 1
+
+-----------------
+
+if: faucon crécerellette
+pos: NOM ADJ
+lf: faucon crécerellette
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( faucon<=H> crécerellette<=M> )
+islands: 0
+
+
+-----------------
+
+if: cultures
+pos: NOM
+lf: culture
+is a term candidate: 1
+
+-----------------
+
+if: suivi de la mortalité aviaire
+pos: NOM de DET:ART NOM ADJ
+lf: suivi de le mortalité aviaire
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( suivi<=H> de<=P> la<=D> ( mortalité<=H> aviaire<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: collision directe
+pos: NOM ADJ
+lf: collision direct
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( collision<=H> directe<=M> )
+islands: 0
+
+
+-----------------
+
+if: chasse à hauteur des pales
+pos: NOM à NOM des NOM
+lf: chasse à hauteur du pale
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: faucon
+pos: NOM
+lf: faucon
+is a term candidate: 1
+
+-----------------
+
+if: autopsie
+pos: NOM
+lf: autopsie
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: pied
+pos: NOM
+lf: pied
+is a term candidate: 1
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: agriculteurs
+pos: NOM
+lf: agriculteur
+is a term candidate: 1
+
+-----------------
+
+if: Choc
+pos: NOM
+lf: choc
+is a term candidate: 1
+
+-----------------
+
+if: sol
+pos: NOM
+lf: sol
+is a term candidate: 1
+
+-----------------
+
+if: achat des parcelles du parc
+pos: NOM des NOM du NOM
+lf: achat du parcelle du parc
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: friches
+pos: NOM
+lf: friche
+is a term candidate: 1
+
+-----------------
+
+if: question
+pos: NOM
+lf: question
+is a term candidate: 1
+
+-----------------
+
+if: parcelle
+pos: NOM
+lf: parcelle
+is a term candidate: 1
+
+-----------------
+
+if: éolienne.Le terrain
+pos: ADJ NOM
+lf: éolienne.Le terrain
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( éolienne.Le<=M> terrain<=H> )
+islands: 0
+
+
+-----------------
+

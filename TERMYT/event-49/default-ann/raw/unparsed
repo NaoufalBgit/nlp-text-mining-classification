@@ -1,0 +1,367 @@
+if: arrêt à la suite de la découverte de 2 cadavres de Milan royal
+pos: NOM à DET:ART NOM de DET:ART NOM de NUM NOM de NAM ADJ
+lf: arrêt à le suite de le découverte de 2 cadavre de Milan royal
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: espèce
+pos: NOM
+lf: espèce
+is a term candidate: 1
+
+-----------------
+
+if: collisions de milans royaux
+pos: NOM de NOM ADJ
+lf: collision de milan royal
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( collisions<=H> de<=P> ( milans<=H> royaux<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: période migratoire
+pos: NOM ADJ
+lf: période migratoire
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( période<=H> migratoire<=M> )
+islands: 0
+
+
+-----------------
+
+if: Arrêt
+pos: NOM
+lf: arrêt
+is a term candidate: 1
+
+-----------------
+
+if: rapaces
+pos: NOM
+lf: rapace
+is a term candidate: 1
+
+-----------------
+
+if: étude
+pos: NOM
+lf: étude
+is a term candidate: 1
+
+-----------------
+
+if: pied de 2 éoliennes
+pos: NOM de NUM NOM
+lf: pied de 2 éolienne
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: suivi environnemental
+pos: NOM ADJ
+lf: suivi environnemental
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( suivi<=H> environnemental<=M> )
+islands: 0
+
+
+-----------------
+
+if: occupation de l' espace du milan royal
+pos: NOM de DET:ART NOM du NOM ADJ
+lf: occupation de le espace du milan royal
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: exploitant
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+
+if: efficacité des points précédents
+pos: NOM des NOM ADJ
+lf: efficacité du point précédent
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( efficacité<=H> des<=P> ( points<=H> précédents<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: fin de la période migratoire
+pos: NOM de DET:ART NOM ADJ
+lf: fin de le période migratoire
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( fin<=H> de<=P> la<=D> ( période<=H> migratoire<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: suivi environnemental spécifique
+pos: NOM ADJ ADJ
+lf: suivi environnemental spécifique
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: bureau
+pos: NOM
+lf: bureau
+is a term candidate: 1
+
+-----------------
+
+if: période diurne
+pos: NOM ADJ
+lf: période diurne
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( période<=H> diurne<=M> )
+islands: 0
+
+
+-----------------
+
+if: urgence
+pos: NOM
+lf: urgence
+is a term candidate: 1
+
+-----------------
+
+if: travaux agricoles
+pos: NOM ADJ
+lf: travail agricole
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( travaux<=H> agricoles<=M> )
+islands: 0
+
+
+-----------------
+
+if: réalisation
+pos: NOM
+lf: réalisation
+is a term candidate: 1
+
+-----------------
+
+if: fin mai
+pos: ADJ NOM
+lf: fin mai
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( fin<=M> mai<=H> )
+islands: 0
+
+
+-----------------
+
+if: mois
+pos: NOM
+lf: mois|moi
+is a term candidate: 1
+
+-----------------
+
+if: collision
+pos: NOM
+lf: collision
+is a term candidate: 1
+
+-----------------
+
+if: étude comportementale
+pos: NOM ADJ
+lf: étude comportemental
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( étude<=H> comportementale<=M> )
+islands: 0
+
+
+-----------------
+
+if: fonctionnement des éoliennes
+pos: NOM des NOM
+lf: fonctionnement du éolienne
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( fonctionnement<=H> des<=P> éoliennes<=M> )
+islands: 0
+
+
+-----------------
+
+if: arrêté préfectoral de mesures
+pos: NOM ADJ de NOM
+lf: arrêté préfectoral de mesure
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: période de migration.Le parc
+pos: NOM de NOM NOM
+lf: période de migration.Le parc
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: mise
+pos: NOM
+lf: mise
+is a term candidate: 1
+
+-----------------
+
+if: inspection des installations
+pos: NOM des NOM
+lf: inspection du installation
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( inspection<=H> des<=P> installations<=M> )
+islands: 0
+
+
+-----------------
+
+if: collisions
+pos: NOM
+lf: collision
+is a term candidate: 1
+
+-----------------
+
+if: périodes de chasse
+pos: NOM de NOM
+lf: période de chasse
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( périodes<=H> de<=P> chasse<=M> )
+islands: 0
+
+
+-----------------
+
+if: :brider
+pos: NAM
+lf: :brider
+is a term candidate: 1
+
+-----------------
+
+if: cadre du suivi environnemental
+pos: NOM du NOM ADJ
+lf: cadre du suivi environnemental
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( cadre<=H> du<=P> ( suivi<=H> environnemental<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: éoliennes
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: oiseaux
+pos: NOM
+lf: oiseau
+is a term candidate: 1
+
+-----------------
+
+if: rapace diurne
+pos: NOM ADJ
+lf: rapace diurne
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( rapace<=H> diurne<=M> )
+islands: 0
+
+
+-----------------
+
+if: place de solutions
+pos: NOM de NOM
+lf: place de solution
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( place<=H> de<=P> solutions<=M> )
+islands: 0
+
+
+-----------------
+
+if: constat
+pos: NOM
+lf: constat
+is a term candidate: 1
+
+-----------------
+
+if: éoliennes à la suite de décès
+pos: NOM à DET:ART NOM de NOM
+lf: éolienne à le suite de décès
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+

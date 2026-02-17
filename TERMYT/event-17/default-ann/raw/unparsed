@@ -1,0 +1,521 @@
+if: vie de l' éolienne.L'origine des fissurations
+pos: NOM de DET:ART NOM des NOM
+lf: vie de le éolienne.L'origine du fissuration
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: introduction des billes
+pos: NOM des NOM
+lf: introduction du bille
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( introduction<=H> des<=P> billes<=M> )
+islands: 0
+
+
+-----------------
+
+if: renfort stabilisatrice
+pos: NOM ADJ
+lf: renfort stabilisateur
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( renfort<=H> stabilisatrice<=M> )
+islands: 0
+
+
+-----------------
+
+if: bague extérieure
+pos: NOM ADJ
+lf: bague extérieur
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( bague<=H> extérieure<=M> )
+islands: 0
+
+
+-----------------
+
+if: exploitant
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+
+if: suite
+pos: NOM
+lf: suite
+is a term candidate: 1
+
+-----------------
+
+if: pièce
+pos: NOM
+lf: pièce
+is a term candidate: 1
+
+-----------------
+
+if: fabrication de la pièce
+pos: NOM de DET:ART NOM
+lf: fabrication de le pièce
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( fabrication<=H> de<=P> la<=D> pièce<=M> )
+islands: 0
+
+
+-----------------
+
+if: mm
+pos: NOM
+lf: mm
+is a term candidate: 1
+
+-----------------
+
+if: contrôles
+pos: NOM
+lf: contrôle
+is a term candidate: 1
+
+-----------------
+
+if: face au vent
+pos: NOM au NOM
+lf: face au vent
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( face<=H> au<=P> vent<=M> )
+islands: 0
+
+
+-----------------
+
+if: plaques
+pos: NOM
+lf: plaque
+is a term candidate: 1
+
+-----------------
+
+if: partie
+pos: NOM
+lf: partie
+is a term candidate: 1
+
+-----------------
+
+if: niveau des goupilles coniques
+pos: NOM des NOM ADJ
+lf: niveau du goupille conique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( niveau<=H> des<=P> ( goupilles<=H> coniques<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: contrainte
+pos: NOM
+lf: contrainte
+is a term candidate: 1
+
+-----------------
+
+if: constructeur
+pos: NOM
+lf: constructeur
+is a term candidate: 1
+
+-----------------
+
+if: ensemble des éoliennes des 3 parcs
+pos: NOM des NOM des NUM NOM
+lf: ensemble du éolienne du 3 parc
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: trous de remplissage
+pos: NOM de NOM
+lf: trou de remplissage
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( trous<=H> de<=P> remplissage<=M> )
+islands: 0
+
+
+-----------------
+
+if: fissure
+pos: NOM
+lf: fissure
+is a term candidate: 1
+
+-----------------
+
+if: France
+pos: NAM
+lf: France
+is a term candidate: 1
+
+-----------------
+
+if: rotor
+pos: NOM
+lf: rotor
+is a term candidate: 1
+
+-----------------
+
+if: bague extérieure de roulement de pale
+pos: NOM ADJ de NOM de NOM
+lf: bague extérieur de roulement de pale
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: même plaque de renfort stabilisatrice
+pos: ADJ NOM de NOM ADJ
+lf: même plaque de renfort stabilisateur
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: défaut
+pos: NOM
+lf: défaut
+is a term candidate: 1
+
+-----------------
+
+if: section transversale
+pos: NOM ADJ
+lf: section transversal
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( section<=H> transversale<=M> )
+islands: 0
+
+
+-----------------
+
+if: trous
+pos: NOM
+lf: trou
+is a term candidate: 1
+
+-----------------
+
+if: trous de remplissage du roulement
+pos: NOM de NOM du NOM
+lf: trou de remplissage du roulement
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: parcs éoliens comprenant 43 éoliennes
+pos: NOM ADJ VER:ppre NUM NOM
+lf: parc éolien comprendre 43 éolienne
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: section transversale).Pour
+pos: NOM ADJ
+lf: section transversale).Pour
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( section<=H> transversale).Pour<=M> )
+islands: 0
+
+
+-----------------
+
+if: Fissurations
+pos: NOM
+lf: fissuration
+is a term candidate: 1
+
+-----------------
+
+if: base
+pos: NOM
+lf: base
+is a term candidate: 1
+
+-----------------
+
+if: production
+pos: NOM
+lf: production
+is a term candidate: 1
+
+-----------------
+
+if: roulements de pales
+pos: NOM de NOM
+lf: roulement de pale
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( roulements<=H> de<=P> pales<=M> )
+islands: 0
+
+
+-----------------
+
+if: fissures
+pos: NOM
+lf: fissure
+is a term candidate: 1
+
+-----------------
+
+if: zone
+pos: NOM
+lf: zone
+is a term candidate: 1
+
+-----------------
+
+if: roulements
+pos: NOM
+lf: roulement
+is a term candidate: 1
+
+-----------------
+
+if: épaisseur de la fissuration
+pos: NOM de DET:ART NOM
+lf: épaisseur de le fissuration
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( épaisseur<=H> de<=P> la<=D> fissuration<=M> )
+islands: 0
+
+
+-----------------
+
+if: ensemble
+pos: NOM
+lf: ensemble
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: roulements neufs
+pos: NOM ADJ
+lf: roulement neuf
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( roulements<=H> neufs<=M> )
+islands: 0
+
+
+-----------------
+
+if: contraintes
+pos: NOM
+lf: contrainte
+is a term candidate: 1
+
+-----------------
+
+if: fissuration
+pos: NOM
+lf: fissuration
+is a term candidate: 1
+
+-----------------
+
+if: alésage
+pos: NOM
+lf: alésage
+is a term candidate: 1
+
+-----------------
+
+if: fatigue de la bague
+pos: NOM de DET:ART NOM
+lf: fatigue de le bague
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( fatigue<=H> de<=P> la<=D> bague<=M> )
+islands: 0
+
+
+-----------------
+
+if: rotation de la pale
+pos: NOM de DET:ART NOM
+lf: rotation de le pale
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( rotation<=H> de<=P> la<=D> pale<=M> )
+islands: 0
+
+
+-----------------
+
+if: assemblage des billes de roulement
+pos: NOM des NOM de NOM
+lf: assemblage du bille de roulement
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: couple de serrage des goujons
+pos: NOM de NOM des NOM
+lf: couple de serrage du goujon
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: moyeu
+pos: NOM
+lf: moyeu
+is a term candidate: 1
+
+-----------------
+
+if: parc éolien de même technologie
+pos: NOM ADJ de ADJ NOM
+lf: parc éolien de même technologie
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: semaines
+pos: NOM
+lf: semaine
+is a term candidate: 1
+
+-----------------
+
+if: goujons des bagues
+pos: NOM des NOM
+lf: goujon du bague
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( goujons<=H> des<=P> bagues<=M> )
+islands: 0
+
+
+-----------------
+
+if: réparation définitive
+pos: NOM ADJ
+lf: réparation définitif
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( réparation<=H> définitive<=M> )
+islands: 0
+
+
+-----------------
+
+if: goupilles coniques
+pos: NOM ADJ
+lf: goupille conique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( goupilles<=H> coniques<=M> )
+islands: 0
+
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: amorçage propice
+pos: NOM ADJ
+lf: amorçage propice
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( amorçage<=H> propice<=M> )
+islands: 0
+
+
+-----------------
+
+if: éoliennes
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: roulements de pale
+pos: NOM de NOM
+lf: roulement de pale
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( roulements<=H> de<=P> pale<=M> )
+islands: 0
+
+
+-----------------
+
+if: évidence 6 fissurations
+pos: NOM NUM NOM
+lf: évidence 6 fissuration
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+

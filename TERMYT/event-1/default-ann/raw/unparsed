@@ -1,0 +1,642 @@
+if: caractéristiques du joint associées à une faiblesse locale
+pos: NOM du NOM VER:pper à DET:ART NOM ADJ
+lf: caractéristique du joint associer à un faiblesse local
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: exploitant
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+
+if: cours du redémarrage de la machine
+pos: NOM du NOM de DET:ART NOM
+lf: cours|cour du redémarrage de le machine
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: analyse
+pos: NOM
+lf: analyse
+is a term candidate: 1
+
+-----------------
+
+if: dégagement de fumée
+pos: NOM de NOM
+lf: dégagement de fumée
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( dégagement<=H> de<=P> fumée<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne reste à l' arrêt
+pos: ADJ NOM à DET:ART NOM
+lf: éolien reste à le arrêt
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: minutes
+pos: NOM
+lf: minute
+is a term candidate: 1
+
+-----------------
+
+if: défaut lié au détecteur de fumées
+pos: NOM VER:pper au NOM de NOM
+lf: défaut lier au détecteur de fumée
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: échauffement des pièces de protection
+pos: NOM des NOM de NOM
+lf: échauffement du pièce de protection
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: pertes
+pos: NOM
+lf: perte
+is a term candidate: 1
+
+-----------------
+
+if: opérateurs
+pos: NOM
+lf: opérateur
+is a term candidate: 1
+
+-----------------
+
+if: réparations
+pos: NOM
+lf: réparation
+is a term candidate: 1
+
+-----------------
+
+if: m² de végétation au pied de l' éolienne
+pos: NOM de NOM au NOM de DET:ART NOM
+lf: m² de végétation au pied de le éolienne
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: génératrice de l' éolienne
+pos: NOM de DET:ART NOM
+lf: génératrice de le éolienne
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( génératrice<=H> de<=P> l'<=D> éolienne<=M> )
+islands: 0
+
+
+-----------------
+
+if: nacelle
+pos: NOM
+lf: nacelle
+is a term candidate: 1
+
+-----------------
+
+if: constaté.Les résidus
+pos: ADJ NOM
+lf: constaté.Les résidu
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( constaté.Les<=M> résidus<=H> )
+islands: 0
+
+
+-----------------
+
+if: exploitation.Le dégagement de fumées
+pos: NOM NOM de NOM
+lf: exploitation.Le dégagement de fumée
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: ensemble des pales
+pos: NOM des NOM
+lf: ensemble du pale
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( ensemble<=H> des<=P> pales<=M> )
+islands: 0
+
+
+-----------------
+
+if: dommage
+pos: NOM
+lf: dommage
+is a term candidate: 1
+
+-----------------
+
+if: caoutchouc
+pos: NOM
+lf: caoutchouc
+is a term candidate: 1
+
+-----------------
+
+if: intervention
+pos: NOM
+lf: intervention
+is a term candidate: 1
+
+-----------------
+
+if: mise à l' arrêt de la machine
+pos: NOM à DET:ART NOM de DET:ART NOM
+lf: mise à le arrêt de le machine
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: carters
+pos: NOM
+lf: carter
+is a term candidate: 1
+
+-----------------
+
+if: semaines
+pos: NOM
+lf: semaine
+is a term candidate: 1
+
+-----------------
+
+if: autre machine.La
+pos: ADJ NOM
+lf: autre machine.La
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( autre<=M> machine.La<=H> )
+islands: 0
+
+
+-----------------
+
+if: air
+pos: NOM
+lf: air
+is a term candidate: 1
+
+-----------------
+
+if: performances
+pos: NOM
+lf: performance
+is a term candidate: 1
+
+-----------------
+
+if: carénages
+pos: NOM
+lf: carénage
+is a term candidate: 1
+
+-----------------
+
+if: traitement des alarmes
+pos: NOM des NOM
+lf: traitement du alarme
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( traitement<=H> des<=P> alarmes<=M> )
+islands: 0
+
+
+-----------------
+
+if: carcasse
+pos: NOM
+lf: carcasse
+is a term candidate: 1
+
+-----------------
+
+if: centre de contrôle
+pos: NOM de NOM
+lf: centre de contrôle
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( centre<=H> de<=P> contrôle<=M> )
+islands: 0
+
+
+-----------------
+
+if: dégagement de fumées
+pos: NOM de NOM
+lf: dégagement de fumée
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( dégagement<=H> de<=P> fumées<=M> )
+islands: 0
+
+
+-----------------
+
+if: joints silicones
+pos: NOM NOM
+lf: joint silicone
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( joints<=H> silicones<=M> )
+islands: 0
+
+
+-----------------
+
+if: jour
+pos: NOM
+lf: jour
+is a term candidate: 1
+
+-----------------
+
+if: dégâts
+pos: NOM
+lf: dégât
+is a term candidate: 1
+
+-----------------
+
+if: échauffement du carénage de protection
+pos: NOM du NOM de NOM
+lf: échauffement du carénage de protection
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: réseau HT
+pos: NOM NAM
+lf: réseau HT
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( réseau<=H> HT<=M> )
+islands: 0
+
+
+-----------------
+
+if: défaut électrique
+pos: NOM ADJ
+lf: défaut électrique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( défaut<=H> électrique<=M> )
+islands: 0
+
+
+-----------------
+
+if: isolation de la génératrice
+pos: NOM de DET:ART NOM
+lf: isolation de le génératrice
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( isolation<=H> de<=P> la<=D> génératrice<=M> )
+islands: 0
+
+
+-----------------
+
+if: flux
+pos: NOM
+lf: flux
+is a term candidate: 1
+
+-----------------
+
+if: jours suivants
+pos: NOM ADJ
+lf: jour suivant
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( jours<=H> suivants<=M> )
+islands: 0
+
+
+-----------------
+
+if: machines
+pos: NOM
+lf: machine
+is a term candidate: 1
+
+-----------------
+
+if: fumée
+pos: NOM
+lf: fumée
+is a term candidate: 1
+
+-----------------
+
+if: alarme de priorité supérieure
+pos: NOM de NOM ADJ
+lf: alarme de priorité supérieur
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( alarme<=H> de<=P> ( priorité<=H> supérieure<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: performances du joint
+pos: NOM du NOM
+lf: performance du joint
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( performances<=H> du<=P> joint<=M> )
+islands: 0
+
+
+-----------------
+
+if: isolement de la génératrice
+pos: NOM de DET:ART NOM
+lf: isolement de le génératrice
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( isolement<=H> de<=P> la<=D> génératrice<=M> )
+islands: 0
+
+
+-----------------
+
+if: enroulements du stator
+pos: NOM du NOM
+lf: enroulement du stator
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( enroulements<=H> du<=P> stator<=M> )
+islands: 0
+
+
+-----------------
+
+if: détecteur de fumée de l' éolienne
+pos: NOM de NOM de DET:ART NOM
+lf: détecteur de fumée de le éolienne
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: départs de feu de broussailles au sol
+pos: NOM de NOM de NOM au NOM
+lf: départ de feu de broussaille au sol
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: gestionnaire du réseau électrique
+pos: NOM du NOM ADJ
+lf: gestionnaire du réseau électrique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( gestionnaire<=H> du<=P> ( réseau<=H> électrique<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: combustion du joint.De
+pos: NOM du NOM
+lf: combustion du joint.De
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( combustion<=H> du<=P> joint.De<=M> )
+islands: 0
+
+
+-----------------
+
+if: combustion localisée au niveau du joint caoutchouc
+pos: NOM VER:pper au NOM du NOM NOM
+lf: combustion localiser au niveau du joint caoutchouc
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: Dégagement de fumée
+pos: NOM de NOM
+lf: dégagement de fumée
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Dégagement<=H> de<=P> fumée<=M> )
+islands: 0
+
+
+-----------------
+
+if: combustion tombés au sol
+pos: NOM VER:pper au NOM
+lf: combustion tomber au sol
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( combustion<=H> ( tombés<=H> au<=P> sol<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: défaut
+pos: NOM
+lf: défaut
+is a term candidate: 1
+
+-----------------
+
+if: pied de l' éolienne
+pos: NOM de DET:ART NOM
+lf: pied de le éolienne
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( pied<=H> de<=P> l'<=D> éolienne<=M> )
+islands: 0
+
+
+-----------------
+
+if: joints
+pos: NOM
+lf: joint
+is a term candidate: 1
+
+-----------------
+
+if: débris
+pos: NOM
+lf: débris
+is a term candidate: 1
+
+-----------------
+
+if: pompiers
+pos: NOM
+lf: pompier
+is a term candidate: 1
+
+-----------------
+
+if: plexiglas
+pos: NOM
+lf: plexiglas
+is a term candidate: 1
+
+-----------------
+
+if: techniciens
+pos: NOM
+lf: technicien
+is a term candidate: 1
+
+-----------------
+
+if: dégâts internes
+pos: NOM ADJ
+lf: dégât interne
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( dégâts<=H> internes<=M> )
+islands: 0
+
+
+-----------------
+
+if: défaut de terre
+pos: NOM de NOM
+lf: défaut de terre
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( défaut<=H> de<=P> terre<=M> )
+islands: 0
+
+
+-----------------
+
+if: génératrice
+pos: NOM
+lf: génératrice
+is a term candidate: 1
+
+-----------------
+
+if: ensemble du parc
+pos: NOM du NOM
+lf: ensemble du parc
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( ensemble<=H> du<=P> parc<=M> )
+islands: 0
+
+
+-----------------
+
+if: suies présentes
+pos: NOM ADJ
+lf: suie présent
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( suies<=H> présentes<=M> )
+islands: 0
+
+
+-----------------
+

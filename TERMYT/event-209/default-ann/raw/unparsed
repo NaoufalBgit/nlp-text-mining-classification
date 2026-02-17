@@ -1,0 +1,157 @@
+if: bout de pale
+pos: NOM de NOM
+lf: bout de pale
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( bout<=H> de<=P> pale<=M> )
+islands: 0
+
+
+-----------------
+
+if: un
+pos: NOM
+lf: un
+is a term candidate: 1
+
+-----------------
+
+if: aérofreins
+pos: NOM
+lf: aérofrein
+is a term candidate: 1
+
+-----------------
+
+if: Chute
+pos: NOM
+lf: chute
+is a term candidate: 1
+
+-----------------
+
+if: filière de recyclage
+pos: NOM de NOM
+lf: filière de recyclage
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( filière<=H> de<=P> recyclage<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: m du pied de l' éolienne
+pos: NOM du NOM de DET:ART NOM
+lf: m du pied de le éolienne
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: cause
+pos: NOM
+lf: cause
+is a term candidate: 1
+
+-----------------
+
+if: arrêt
+pos: NOM
+lf: arrêt
+is a term candidate: 1
+
+-----------------
+
+if: 19h30
+pos: NAM
+lf: 19h30
+is a term candidate: 1
+
+-----------------
+
+if: périmètre de sécurité de 20 m
+pos: NOM de NOM de NUM NOM
+lf: périmètre de sécurité de 20 m
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: rotor de l' éolienne
+pos: NOM de DET:ART NOM
+lf: rotor de le éolienne
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( rotor<=H> de<=P> l'<=D> éolienne<=M> )
+islands: 0
+
+
+-----------------
+
+if: urgence
+pos: NOM
+lf: urgence
+is a term candidate: 1
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: exploitant
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+
+if: débris ramassés
+pos: NOM ADJ
+lf: débris ramassé
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( débris<=H> ramassés<=M> )
+islands: 0
+
+
+-----------------
+
+if: pales de l' éolienne
+pos: NOM de DET:ART NOM
+lf: pale de le éolienne
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( pales<=H> de<=P> l'<=D> éolienne<=M> )
+islands: 0
+
+
+-----------------
+
+if: ensemble des éoliennes du parc
+pos: NOM des NOM du NOM
+lf: ensemble du éolienne du parc
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+

@@ -1,0 +1,165 @@
+if: cadavre de linotte mélodieuse
+pos: NOM de NOM ADJ
+lf: cadavre de linotte mélodieux
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( cadavre<=H> de<=P> ( linotte<=H> mélodieuse<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: chasse
+pos: NOM
+lf: chasse
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: constat
+pos: NOM
+lf: constat
+is a term candidate: 1
+
+-----------------
+
+if: m
+pos: NOM
+lf: m
+is a term candidate: 1
+
+-----------------
+
+if: espèce
+pos: NOM
+lf: espèce
+is a term candidate: 1
+
+-----------------
+
+if: études
+pos: NOM
+lf: étude
+is a term candidate: 1
+
+-----------------
+
+if: système détection
+pos: NOM NOM
+lf: système détection
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( système<=H> détection<=M> )
+islands: 0
+
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: sol
+pos: NOM
+lf: sol
+is a term candidate: 1
+
+-----------------
+
+if: parc
+pos: NOM
+lf: parc
+is a term candidate: 1
+
+-----------------
+
+if: espèce vulnérable
+pos: NOM ADJ
+lf: espèce vulnérable
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( espèce<=H> vulnérable<=M> )
+islands: 0
+
+
+-----------------
+
+if: ans
+pos: NOM
+lf: an
+is a term candidate: 1
+
+-----------------
+
+if: adulte
+pos: NOM
+lf: adulte
+is a term candidate: 1
+
+-----------------
+
+if: linotte mélodieuse
+pos: NOM ADJ
+lf: linotte mélodieux
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( linotte<=H> mélodieuse<=M> )
+islands: 0
+
+
+-----------------
+
+if: étude de suivi environnemental
+pos: NOM de NOM ADJ
+lf: étude de suivi environnemental
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( étude<=H> de<=P> ( suivi<=H> environnemental<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: bureau
+pos: NOM
+lf: bureau
+is a term candidate: 1
+
+-----------------
+
+if: cadavre
+pos: NOM
+lf: cadavre
+is a term candidate: 1
+
+-----------------
+
+if: état de 2 cas de mortalité
+pos: NOM de NUM NOM de NOM
+lf: état de 2 cas de mortalité
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+

@@ -1,0 +1,462 @@
+if: société
+pos: NOM
+lf: société
+is a term candidate: 1
+
+-----------------
+
+if: mesures
+pos: NOM
+lf: mesure
+is a term candidate: 1
+
+-----------------
+
+if: Incendie
+pos: NOM
+lf: incendie
+is a term candidate: 1
+
+-----------------
+
+if: systèmes de surveillance du fonctionnement de l' éolienne
+pos: NOM de NOM du NOM de DET:ART NOM
+lf: système de surveillance du fonctionnement de le éolienne
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: fonctionnement
+pos: NOM
+lf: fonctionnement
+is a term candidate: 1
+
+-----------------
+
+if: conditions météorologiques
+pos: NOM ADJ
+lf: condition météorologique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( conditions<=H> météorologiques<=M> )
+islands: 0
+
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: information
+pos: NOM
+lf: information
+is a term candidate: 1
+
+-----------------
+
+if: huiles
+pos: NOM
+lf: huile
+is a term candidate: 1
+
+-----------------
+
+if: éléments
+pos: NOM
+lf: élément
+is a term candidate: 1
+
+-----------------
+
+if: route départementale
+pos: NOM ADJ
+lf: route départemental
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( route<=H> départementale<=M> )
+islands: 0
+
+
+-----------------
+
+if: mât
+pos: NOM
+lf: mât
+is a term candidate: 1
+
+-----------------
+
+if: nacelle
+pos: NOM
+lf: nacelle
+is a term candidate: 1
+
+-----------------
+
+if: incident.Des coulures
+pos: ADJ NOM
+lf: incident.Des coulure
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( incident.Des<=M> coulures<=H> )
+islands: 0
+
+
+-----------------
+
+if: débris
+pos: NOM
+lf: débris
+is a term candidate: 1
+
+-----------------
+
+if: exploitant
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+
+if: périmètre de sécurité
+pos: NOM de NOM
+lf: périmètre de sécurité
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( périmètre<=H> de<=P> sécurité<=M> )
+islands: 0
+
+
+-----------------
+
+if: analyse des sols
+pos: NOM des NOM
+lf: analyse du sol
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( analyse<=H> des<=P> sols<=M> )
+islands: 0
+
+
+-----------------
+
+if: 9h42
+pos: NAM
+lf: 9h42
+is a term candidate: 1
+
+-----------------
+
+if: incendie
+pos: NOM
+lf: incendie
+is a term candidate: 1
+
+-----------------
+
+if: éventuel impact
+pos: ADJ NOM
+lf: éventuel impact
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( éventuel<=M> impact<=H> )
+islands: 0
+
+
+-----------------
+
+if: distance
+pos: NOM
+lf: distance
+is a term candidate: 1
+
+-----------------
+
+if: exploitation
+pos: NOM
+lf: exploitation
+is a term candidate: 1
+
+-----------------
+
+if: prévoir.A
+pos: NOM
+lf: prévoir.A
+is a term candidate: 1
+
+-----------------
+
+if: pertes
+pos: NOM
+lf: perte
+is a term candidate: 1
+
+-----------------
+
+if: disjoncteur
+pos: NOM
+lf: disjoncteur
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: surveillance permanente à distance
+pos: NOM ADJ à NOM
+lf: surveillance permanent à distance
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: communication
+pos: NOM
+lf: communication
+is a term candidate: 1
+
+-----------------
+
+if: pollution du sol
+pos: NOM du NOM
+lf: pollution du sol
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( pollution<=H> du<=P> sol<=M> )
+islands: 0
+
+
+-----------------
+
+if: lendemain
+pos: NOM
+lf: lendemain
+is a term candidate: 1
+
+-----------------
+
+if: riverain alerte
+pos: ADJ NOM
+lf: riverain alerte
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( riverain<=M> alerte<=H> )
+islands: 0
+
+
+-----------------
+
+if: circulation
+pos: NOM
+lf: circulation
+is a term candidate: 1
+
+-----------------
+
+if: 9h40
+pos: NAM
+lf: 9h40
+is a term candidate: 1
+
+-----------------
+
+if: sécurité
+pos: NOM
+lf: sécurité
+is a term candidate: 1
+
+-----------------
+
+if: origine de l' incendie
+pos: NOM de DET:ART NOM
+lf: origine de le incendie
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( origine<=H> de<=P> l'<=D> incendie<=M> )
+islands: 0
+
+
+-----------------
+
+if: sécurité du site
+pos: NOM du NOM
+lf: sécurité du site
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( sécurité<=H> du<=P> site<=M> )
+islands: 0
+
+
+-----------------
+
+if: mise
+pos: NOM
+lf: mise
+is a term candidate: 1
+
+-----------------
+
+if: place des panneaux
+pos: NOM des NOM
+lf: place du panneau
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( place<=H> des<=P> panneaux<=M> )
+islands: 0
+
+
+-----------------
+
+if: éléments susceptibles
+pos: NOM ADJ
+lf: élément susceptible
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( éléments<=H> susceptibles<=M> )
+islands: 0
+
+
+-----------------
+
+if: partie supérieure
+pos: NOM ADJ
+lf: partie supérieur
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( partie<=H> supérieure<=M> )
+islands: 0
+
+
+-----------------
+
+if: risque de chute
+pos: NOM de NOM
+lf: risque de chute
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( risque<=H> de<=P> chute<=M> )
+islands: 0
+
+
+-----------------
+
+if: site de l' inspection des installations classées 3 jours
+pos: NOM de DET:ART NOM des NOM VER:pper NUM NOM
+lf: site de le inspection du installation classer 3 jour
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: caméra du site
+pos: NOM du NOM
+lf: caméra du site
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( caméra<=H> du<=P> site<=M> )
+islands: 0
+
+
+-----------------
+
+if: caméra
+pos: NOM
+lf: caméra
+is a term candidate: 1
+
+-----------------
+
+if: rotor
+pos: NOM
+lf: rotor
+is a term candidate: 1
+
+-----------------
+
+if: feu
+pos: NOM
+lf: feu
+is a term candidate: 1
+
+-----------------
+
+if: filière de traitement
+pos: NOM de NOM
+lf: filière de traitement
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( filière<=H> de<=P> traitement<=M> )
+islands: 0
+
+
+-----------------
+
+if: semaines
+pos: NOM
+lf: semaine
+is a term candidate: 1
+
+-----------------
+
+if: pompiers
+pos: NOM
+lf: pompier
+is a term candidate: 1
+
+-----------------
+
+if: oeuvre
+pos: NOM
+lf: œuvre
+is a term candidate: 1
+
+-----------------
+
+if: visite
+pos: NOM
+lf: visite
+is a term candidate: 1
+
+-----------------
+
+if: autres éoliennes
+pos: ADJ NOM
+lf: autre éolienne
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( autres<=M> éoliennes<=H> )
+islands: 0
+
+
+-----------------
+

@@ -1,0 +1,202 @@
+if: ARIA
+pos: NOM
+lf: aria
+is a term candidate: 1
+
+-----------------
+
+if: constructeur
+pos: NOM
+lf: constructeur
+is a term candidate: 1
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: chute
+pos: NOM
+lf: chute
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: autres éoliennes du parc
+pos: ADJ NOM du NOM
+lf: autre éolienne du parc
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: effondrements
+pos: NOM
+lf: effondrement
+is a term candidate: 1
+
+-----------------
+
+if: perturbations
+pos: NOM
+lf: perturbation
+is a term candidate: 1
+
+-----------------
+
+if: caractère générique
+pos: NOM ADJ
+lf: caractère générique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( caractère<=H> générique<=M> )
+islands: 0
+
+
+-----------------
+
+if: nouvel effondrement
+pos: ADJ NOM
+lf: nouveau effondrement
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( nouvel<=M> effondrement<=H> )
+islands: 0
+
+
+-----------------
+
+if: éolienne du même constructeur
+pos: NOM du ADJ NOM
+lf: éolienne du même constructeur
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: cas différentes
+pos: NOM ADJ
+lf: cas différent
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( cas<=H> différentes<=M> )
+islands: 0
+
+
+-----------------
+
+if: début de l' année
+pos: NOM de DET:ART NOM
+lf: début de le année
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( début<=H> de<=P> l'<=D> année<=M> )
+islands: 0
+
+
+-----------------
+
+if: électricité.Il
+pos: NOM
+lf: électricité.Il
+is a term candidate: 1
+
+-----------------
+
+if: cours
+pos: NOM
+lf: cours|cour
+is a term candidate: 1
+
+-----------------
+
+if: pays
+pos: NOM
+lf: pays
+is a term candidate: 1
+
+-----------------
+
+if: Effondrement
+pos: NOM
+lf: effondrement
+is a term candidate: 1
+
+-----------------
+
+if: périmètre de sécurité
+pos: NOM de NOM
+lf: périmètre de sécurité
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( périmètre<=H> de<=P> sécurité<=M> )
+islands: 0
+
+
+-----------------
+
+if: mât
+pos: NOM
+lf: mât
+is a term candidate: 1
+
+-----------------
+
+if: sol
+pos: NOM
+lf: sol
+is a term candidate: 1
+
+-----------------
+
+if: pales
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: février
+pos: NOM
+lf: février
+is a term candidate: 1
+
+-----------------
+
+if: mai
+pos: NOM
+lf: mai
+is a term candidate: 1
+
+-----------------
+
+if: investigations
+pos: NOM
+lf: investigation
+is a term candidate: 1
+
+-----------------
+

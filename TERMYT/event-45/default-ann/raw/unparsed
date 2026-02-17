@@ -1,0 +1,186 @@
+if: employés
+pos: NOM
+lf: employé
+is a term candidate: 1
+
+-----------------
+
+if: arrêt total
+pos: NOM ADJ
+lf: arrêt total
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( arrêt<=H> total<=M> )
+islands: 0
+
+
+-----------------
+
+if: câble
+pos: NOM
+lf: câble
+is a term candidate: 1
+
+-----------------
+
+if: perte de communication
+pos: NOM de NOM
+lf: perte de communication
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( perte<=H> de<=P> communication<=M> )
+islands: 0
+
+
+-----------------
+
+if: surveillance
+pos: NOM
+lf: surveillance
+is a term candidate: 1
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: mode
+pos: NOM
+lf: mode
+is a term candidate: 1
+
+-----------------
+
+if: fonctionnement nocturne
+pos: NOM ADJ
+lf: fonctionnement nocturne
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( fonctionnement<=H> nocturne<=M> )
+islands: 0
+
+
+-----------------
+
+if: lendemain
+pos: NOM
+lf: lendemain
+is a term candidate: 1
+
+-----------------
+
+if: systèmes de détection aviaire
+pos: NOM de NOM ADJ
+lf: système de détection aviaire
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( systèmes<=H> de<=P> ( détection<=H> aviaire<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: boite à clefs
+pos: NOM à NOM
+lf: boite à clef
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( boite<=H> à<=P> clefs<=M> )
+islands: 0
+
+
+-----------------
+
+if: éoliennes
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: antenne.L'exploitant
+pos: NOM
+lf: antenne.L'exploitant
+is a term candidate: 1
+
+-----------------
+
+if: vol
+pos: NOM
+lf: vol
+is a term candidate: 1
+
+-----------------
+
+if: personnes responsables
+pos: NOM ADJ
+lf: personne responsable
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( personnes<=H> responsables<=M> )
+islands: 0
+
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: disparition des PC de commandes
+pos: NOM des ABR de NOM
+lf: disparition du PC de commande
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: machines
+pos: NOM
+lf: machine
+is a term candidate: 1
+
+-----------------
+
+if: poste de livraison du parc
+pos: NOM de NOM du NOM
+lf: poste de livraison du parc
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: anti-intrusion
+pos: NOM
+lf: anti-intrusion
+is a term candidate: 1
+
+-----------------
+
+if: équipes
+pos: NOM
+lf: équipe
+is a term candidate: 1
+
+-----------------
+

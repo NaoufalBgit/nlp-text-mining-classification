@@ -1,0 +1,86 @@
+if: entreprise de fabrication de pâles
+pos: NOM de NOM de ADJ
+lf: entreprise de fabrication de pâle
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: Feu
+pos: NOM
+lf: feu
+is a term candidate: 1
+
+-----------------
+
+if: bâtiment de 1 200 m²
+pos: NOM de NUM NUM NOM
+lf: bâtiment de 1 200 m²
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: moules de fabrication
+pos: NOM de NOM
+lf: moule de fabrication
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( moules<=H> de<=P> fabrication<=M> )
+islands: 0
+
+
+-----------------
+
+if: pompiers
+pos: NOM
+lf: pompier
+is a term candidate: 1
+
+-----------------
+
+if: entreprise de fabrication de pales
+pos: NOM de NOM de NOM
+lf: entreprise de fabrication de pale
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: éoliennes
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: outils
+pos: NOM
+lf: outil
+is a term candidate: 1
+
+-----------------
+
+if: résines présents
+pos: NOM ADJ
+lf: résine présent
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( résines<=H> présents<=M> )
+islands: 0
+
+
+-----------------
+
+if: incendie
+pos: NOM
+lf: incendie
+is a term candidate: 1
+
+-----------------
+

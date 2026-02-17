@@ -1,0 +1,320 @@
+if: ensemble des éoliennes
+pos: NOM des NOM
+lf: ensemble du éolienne
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( ensemble<=H> des<=P> éoliennes<=M> )
+islands: 0
+
+
+-----------------
+
+if: convertisseur électrique
+pos: NOM ADJ
+lf: convertisseur électrique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( convertisseur<=H> électrique<=M> )
+islands: 0
+
+
+-----------------
+
+if: origine du départ de feu.L'intervention rapide
+pos: NOM du NOM de NOM ADJ
+lf: origine du départ de feu.L'intervention rapide
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: intérieur
+pos: NOM
+lf: intérieur
+is a term candidate: 1
+
+-----------------
+
+if: 14h30
+pos: NAM
+lf: 14h30
+is a term candidate: 1
+
+-----------------
+
+if: limitation de puissance
+pos: NOM de NOM
+lf: limitation de puissance
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( limitation<=H> de<=P> puissance<=M> )
+islands: 0
+
+
+-----------------
+
+if: pompiers
+pos: NOM
+lf: pompier
+is a term candidate: 1
+
+-----------------
+
+if: usage.Un court-circuit
+pos: ADJ NOM
+lf: usage.Un court-circuit
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( usage.Un<=M> court-circuit<=H> )
+islands: 0
+
+
+-----------------
+
+if: redémarrage à la suite
+pos: NOM à DET:ART NOM
+lf: redémarrage à le suite
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( redémarrage<=H> à<=P> la<=D> suite<=M> )
+islands: 0
+
+
+-----------------
+
+if: type de défaut
+pos: NOM de NOM
+lf: type de défaut
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( type<=H> de<=P> défaut<=M> )
+islands: 0
+
+
+-----------------
+
+if: dégâts à l' armoire électrique
+pos: NOM à DET:ART NOM ADJ
+lf: dégât à le armoire électrique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( dégâts<=H> à<=P> l'<=D> ( armoire<=H> électrique<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: méthodes
+pos: NOM
+lf: méthode
+is a term candidate: 1
+
+-----------------
+
+if: opérateurs
+pos: NOM
+lf: opérateur
+is a term candidate: 1
+
+-----------------
+
+if: dégagement de fumée
+pos: NOM de NOM
+lf: dégagement de fumée
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( dégagement<=H> de<=P> fumée<=M> )
+islands: 0
+
+
+-----------------
+
+if: équipe de maintenance
+pos: NOM de NOM
+lf: équipe de maintenance
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( équipe<=H> de<=P> maintenance<=M> )
+islands: 0
+
+
+-----------------
+
+if: armoire
+pos: NOM
+lf: armoire
+is a term candidate: 1
+
+-----------------
+
+if: boîtier électrique
+pos: NOM ADJ
+lf: boîtier électrique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( boîtier<=H> électrique<=M> )
+islands: 0
+
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: opération de maintenance
+pos: NOM de NOM
+lf: opération de maintenance
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( opération<=H> de<=P> maintenance<=M> )
+islands: 0
+
+
+-----------------
+
+if: feu à l' aide
+pos: NOM à DET:ART NOM
+lf: feu à le aide
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( feu<=H> à<=P> l'<=D> aide<=M> )
+islands: 0
+
+
+-----------------
+
+if: extincteur
+pos: NOM
+lf: extincteur
+is a term candidate: 1
+
+-----------------
+
+if: composant
+pos: NOM
+lf: composant
+is a term candidate: 1
+
+-----------------
+
+if: vérifications
+pos: NOM
+lf: vérification
+is a term candidate: 1
+
+-----------------
+
+if: opérations de maintenance
+pos: NOM de NOM
+lf: opération de maintenance
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( opérations<=H> de<=P> maintenance<=M> )
+islands: 0
+
+
+-----------------
+
+if: équipement défectueux
+pos: NOM ADJ
+lf: équipement défectueux
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( équipement<=H> défectueux<=M> )
+islands: 0
+
+
+-----------------
+
+if: machine
+pos: NOM
+lf: machine
+is a term candidate: 1
+
+-----------------
+
+if: Dégagement de fumée
+pos: NOM de NOM
+lf: dégagement de fumée
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Dégagement<=H> de<=P> fumée<=M> )
+islands: 0
+
+
+-----------------
+
+if: cause
+pos: NOM
+lf: cause
+is a term candidate: 1
+
+-----------------
+
+if: limitation
+pos: NOM
+lf: limitation
+is a term candidate: 1
+
+-----------------
+
+if: réapparition
+pos: NOM
+lf: réapparition
+is a term candidate: 1
+
+-----------------
+
+if: tension
+pos: NOM
+lf: tension
+is a term candidate: 1
+
+-----------------
+
+if: fois
+pos: NOM
+lf: fois
+is a term candidate: 1
+
+-----------------
+

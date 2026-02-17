@@ -1,0 +1,265 @@
+if: mise à l' arrêt de l' ensemble du parc éolien
+pos: NOM à DET:ART NOM de DET:ART NOM du NOM ADJ
+lf: mise à le arrêt de le ensemble du parc éolien
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: extension du parc
+pos: NOM du NOM
+lf: extension du parc
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( extension<=H> du<=P> parc<=M> )
+islands: 0
+
+
+-----------------
+
+if: une des nacelles
+pos: NOM des NOM
+lf: un du nacelle
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( une<=H> des<=P> nacelles<=M> )
+islands: 0
+
+
+-----------------
+
+if: site
+pos: NOM
+lf: site
+is a term candidate: 1
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: dégâts
+pos: NOM
+lf: dégât
+is a term candidate: 1
+
+-----------------
+
+if: mâts
+pos: NOM
+lf: mât
+is a term candidate: 1
+
+-----------------
+
+if: feu
+pos: NOM
+lf: feu
+is a term candidate: 1
+
+-----------------
+
+if: hydrocarbures
+pos: NOM
+lf: hydrocarbure
+is a term candidate: 1
+
+-----------------
+
+if: chasseurs
+pos: NOM
+lf: chasseur
+is a term candidate: 1
+
+-----------------
+
+if: aérogénérateurs
+pos: NOM
+lf: aérogénérateur
+is a term candidate: 1
+
+-----------------
+
+if: 
+pos: NAM
+lf: 
+is a term candidate: 1
+
+-----------------
+
+if: éoliennes
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: Malveillance
+pos: NOM
+lf: malveillance
+is a term candidate: 1
+
+-----------------
+
+if: saboteurs
+pos: NOM
+lf: saboteur
+is a term candidate: 1
+
+-----------------
+
+if: ans
+pos: NOM
+lf: an
+is a term candidate: 1
+
+-----------------
+
+if: flammes
+pos: NOM
+lf: flamme
+is a term candidate: 1
+
+-----------------
+
+if: origine criminelle
+pos: NOM ADJ
+lf: origine criminel
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( origine<=H> criminelle<=M> )
+islands: 0
+
+
+-----------------
+
+if: effraction
+pos: NOM
+lf: effraction
+is a term candidate: 1
+
+-----------------
+
+if: tôle de protection de la nacelle à 50 m
+pos: NOM de NOM de DET:ART NOM à NUM NOM
+lf: tôle de protection de le nacelle à 50 m
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: alerte
+pos: NOM
+lf: alerte
+is a term candidate: 1
+
+-----------------
+
+if: détecteurs de présence
+pos: NOM de NOM
+lf: détecteur de présence
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( détecteurs<=H> de<=P> présence<=M> )
+islands: 0
+
+
+-----------------
+
+if: Suite à l' accident
+pos: NOM à DET:ART NOM
+lf: suite à le accident
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Suite<=H> à<=P> l'<=D> accident<=M> )
+islands: 0
+
+
+-----------------
+
+if: explosion de bouteille de gaz
+pos: NOM de NOM de NOM
+lf: explosion de bouteille de gaz
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: pneus
+pos: NOM
+lf: pneu
+is a term candidate: 1
+
+-----------------
+
+if: travaux
+pos: NOM
+lf: travail
+is a term candidate: 1
+
+-----------------
+
+if: millions
+pos: NOM
+lf: million
+is a term candidate: 1
+
+-----------------
+
+if: minuit
+pos: NOM
+lf: minuit
+is a term candidate: 1
+
+-----------------
+
+if: système de contrôle automatique
+pos: NOM de NOM ADJ
+lf: système de contrôle automatique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( système<=H> de<=P> ( contrôle<=H> automatique<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: bouteilles de gaz
+pos: NOM de NOM
+lf: bouteille de gaz
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( bouteilles<=H> de<=P> gaz<=M> )
+islands: 0
+
+
+-----------------
+
+if: incendie
+pos: NOM
+lf: incendie
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+

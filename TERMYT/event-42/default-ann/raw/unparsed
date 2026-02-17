@@ -1,0 +1,407 @@
+if: Chute du carénage
+pos: NOM du NOM
+lf: chute du carénage
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Chute<=H> du<=P> carénage<=M> )
+islands: 0
+
+
+-----------------
+
+if: vinyle
+pos: NOM
+lf: vinyle
+is a term candidate: 1
+
+-----------------
+
+if: parcelle
+pos: NOM
+lf: parcelle
+is a term candidate: 1
+
+-----------------
+
+if: matin
+pos: NOM
+lf: matin
+is a term candidate: 1
+
+-----------------
+
+if: accès à la zone
+pos: NOM à DET:ART NOM
+lf: accès à le zone
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( accès<=H> à<=P> la<=D> zone<=M> )
+islands: 0
+
+
+-----------------
+
+if: chute du carénage
+pos: NOM du NOM
+lf: chute du carénage
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( chute<=H> du<=P> carénage<=M> )
+islands: 0
+
+
+-----------------
+
+if: dizaines
+pos: NOM
+lf: dizaine
+is a term candidate: 1
+
+-----------------
+
+if: arrêt.L'exploitant
+pos: NOM
+lf: arrêt.L'exploitant
+is a term candidate: 1
+
+-----------------
+
+if: tête
+pos: NOM
+lf: tête
+is a term candidate: 1
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: lundi
+pos: NOM
+lf: lundi
+is a term candidate: 1
+
+-----------------
+
+if: plan
+pos: NOM
+lf: plan
+is a term candidate: 1
+
+-----------------
+
+if: pièce
+pos: NOM
+lf: pièce
+is a term candidate: 1
+
+-----------------
+
+if: ensemble du parc éolien
+pos: NOM du NOM ADJ
+lf: ensemble du parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( ensemble<=H> du<=P> ( parc<=H> éolien<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: rondelles vinyles.L'exploitant
+pos: NOM ADJ
+lf: rondelle vinyles.L'exploitant
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( rondelles<=H> vinyles.L'exploitant<=M> )
+islands: 0
+
+
+-----------------
+
+if: contraintes
+pos: NOM
+lf: contrainte
+is a term candidate: 1
+
+-----------------
+
+if: matériaux composites
+pos: NOM ADJ
+lf: matériaux|matériau composite
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( matériaux<=H> composites<=M> )
+islands: 0
+
+
+-----------------
+
+if: exploitant agricole
+pos: NOM ADJ
+lf: exploitant agricole
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( exploitant<=H> agricole<=M> )
+islands: 0
+
+
+-----------------
+
+if: contrôle des carénages des autres aérogénérateurs du parc
+pos: NOM des NOM des ADJ NOM du NOM
+lf: contrôle du carénage du autre aérogénérateur du parc
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: alarme " arrêt automatique
+pos: NOM PUN:cit NOM ADJ
+lf: alarme " arrêt automatique
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: mesure 2 m de diamètre
+pos: NOM NUM NOM de NOM
+lf: mesure 2 m de diamètre
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: carénage accidenté
+pos: NOM ADJ
+lf: carénage accidenté
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( carénage<=H> accidenté<=M> )
+islands: 0
+
+
+-----------------
+
+if: fibre de verre
+pos: NOM de NOM
+lf: fibre de verre
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( fibre<=H> de<=P> verre<=M> )
+islands: 0
+
+
+-----------------
+
+if: rondelles
+pos: NOM
+lf: rondelle
+is a term candidate: 1
+
+-----------------
+
+if: agents de maintenance
+pos: NOM de NOM
+lf: agent de maintenance
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( agents<=H> de<=P> maintenance<=M> )
+islands: 0
+
+
+-----------------
+
+if: fin
+pos: NOM
+lf: fin
+is a term candidate: 1
+
+-----------------
+
+if: vérification des boulonnages de fixation du carénage
+pos: NOM des NOM de NOM du NOM
+lf: vérification du boulonnage de fixation du carénage
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: carénage de la pointe de la nacelle
+pos: NOM de DET:ART NOM de DET:ART NOM
+lf: carénage de le pointe de le nacelle
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: rondelles métalliques
+pos: NOM ADJ
+lf: rondelle métallique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( rondelles<=H> métalliques<=M> )
+islands: 0
+
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: défaut
+pos: NOM
+lf: défaut
+is a term candidate: 1
+
+-----------------
+
+if: éolienne tombe au sol
+pos: ADJ NOM au NOM
+lf: éolien tombe au sol
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: procédure
+pos: NOM
+lf: procédure
+is a term candidate: 1
+
+-----------------
+
+if: une
+pos: NOM
+lf: un
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: armoire électrique
+pos: NOM ADJ
+lf: armoire électrique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( armoire<=H> électrique<=M> )
+islands: 0
+
+
+-----------------
+
+if: inspection hebdomadaire
+pos: NOM ADJ
+lf: inspection hebdomadaire
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( inspection<=H> hebdomadaire<=M> )
+islands: 0
+
+
+-----------------
+
+if: 17h30
+pos: NAM
+lf: 17h30
+is a term candidate: 1
+
+-----------------
+
+if: après-midi
+pos: NOM
+lf: après-midi
+is a term candidate: 1
+
+-----------------
+
+if: montage des turbines
+pos: NOM des NOM
+lf: montage du turbine
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( montage<=H> des<=P> turbines<=M> )
+islands: 0
+
+
+-----------------
+
+if: boulon
+pos: NOM
+lf: boulon
+is a term candidate: 1
+
+-----------------
+
+if: exploitation du parc éolien
+pos: NOM du NOM ADJ
+lf: exploitation du parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( exploitation<=H> du<=P> ( parc<=H> éolien<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: assemblage
+pos: NOM
+lf: assemblage
+is a term candidate: 1
+
+-----------------
+
+if: boulonnages
+pos: NOM
+lf: boulonnage
+is a term candidate: 1
+
+-----------------
+
+if: efforts
+pos: NOM
+lf: effort
+is a term candidate: 1
+
+-----------------
+

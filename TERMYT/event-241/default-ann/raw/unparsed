@@ -1,0 +1,120 @@
+if: constatations
+pos: NOM
+lf: constatation
+is a term candidate: 1
+
+-----------------
+
+if: pale de 2 m de longueur
+pos: NOM de NUM NOM de NOM
+lf: pale de 2 m de longueur
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: mesure
+pos: NOM
+lf: mesure
+is a term candidate: 1
+
+-----------------
+
+if: arrêt
+pos: NOM
+lf: arrêt
+is a term candidate: 1
+
+-----------------
+
+if: conditions météorologiques précédent l' événement
+pos: NOM ADJ ADJ DET:ART NOM
+lf: condition météorologique précédent le événement
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: impact de foudre
+pos: NOM de NOM
+lf: impact de foudre
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( impact<=H> de<=P> foudre<=M> )
+islands: 0
+
+
+-----------------
+
+if: drone
+pos: NOM
+lf: drone
+is a term candidate: 1
+
+-----------------
+
+if: exploitant
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+
+if: inspection complète
+pos: NOM ADJ
+lf: inspection complet
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( inspection<=H> complète<=M> )
+islands: 0
+
+
+-----------------
+
+if: sol
+pos: NOM
+lf: sol
+is a term candidate: 1
+
+-----------------
+
+if: éolienne à la suite
+pos: NOM à DET:ART NOM
+lf: éolienne à le suite
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( éolienne<=H> à<=P> la<=D> suite<=M> )
+islands: 0
+
+
+-----------------
+
+if: Chute de pale
+pos: NOM de NOM
+lf: chute de pale
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Chute<=H> de<=P> pale<=M> )
+islands: 0
+
+
+-----------------
+

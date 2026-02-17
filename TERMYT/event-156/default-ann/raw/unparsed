@@ -1,0 +1,356 @@
+if: service
+pos: NOM
+lf: service
+is a term candidate: 1
+
+-----------------
+
+if: phases
+pos: NOM
+lf: phase
+is a term candidate: 1
+
+-----------------
+
+if: défaut
+pos: NOM
+lf: défaut
+is a term candidate: 1
+
+-----------------
+
+if: incendie.L'éolienne
+pos: NOM
+lf: incendie.L'éolienne
+is a term candidate: 1
+
+-----------------
+
+if: l
+pos: NOM
+lf: l
+is a term candidate: 1
+
+-----------------
+
+if: câbles de puissance
+pos: NOM de NOM
+lf: câble de puissance
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( câbles<=H> de<=P> puissance<=M> )
+islands: 0
+
+
+-----------------
+
+if: Feu
+pos: NOM
+lf: feu
+is a term candidate: 1
+
+-----------------
+
+if: présence de flammes
+pos: NOM de NOM
+lf: présence de flamme
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( présence<=H> de<=P> flammes<=M> )
+islands: 0
+
+
+-----------------
+
+if: arrêt
+pos: NOM
+lf: arrêt
+is a term candidate: 1
+
+-----------------
+
+if: charge nominale
+pos: NOM ADJ
+lf: charge nominal
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( charge<=H> nominale<=M> )
+islands: 0
+
+
+-----------------
+
+if: fumée
+pos: NOM
+lf: fumée
+is a term candidate: 1
+
+-----------------
+
+if: eau
+pos: NOM
+lf: eau
+is a term candidate: 1
+
+-----------------
+
+if: k
+pos: NOM
+lf: k
+is a term candidate: 1
+
+-----------------
+
+if: mise
+pos: NOM
+lf: mise
+is a term candidate: 1
+
+-----------------
+
+if: nettoyage
+pos: NOM
+lf: nettoyage
+is a term candidate: 1
+
+-----------------
+
+if: pompiers
+pos: NOM
+lf: pompier
+is a term candidate: 1
+
+-----------------
+
+if: isolation au niveau des connexions des conducteurs de puissance
+pos: NOM au NOM des NOM des NOM de NOM
+lf: isolation au niveau du connexion du conducteur de puissance
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: qualité de l' isolation
+pos: NOM de DET:ART NOM
+lf: qualité de le isolation
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( qualité<=H> de<=P> l'<=D> isolation<=M> )
+islands: 0
+
+
+-----------------
+
+if: 6h25 un feu
+pos: NAM DET:ART NOM
+lf: 6h25 un feu
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( 6h25<=H> un<=D> feu<=M> )
+islands: 0
+
+
+-----------------
+
+if: câble
+pos: NOM
+lf: câble
+is a term candidate: 1
+
+-----------------
+
+if: employés
+pos: NOM
+lf: employé
+is a term candidate: 1
+
+-----------------
+
+if: origine du sinistre
+pos: NOM du NOM
+lf: origine du sinistre
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( origine<=H> du<=P> sinistre<=M> )
+islands: 0
+
+
+-----------------
+
+if: cause des fumées
+pos: NOM des NOM
+lf: cause du fumée
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( cause<=H> des<=P> fumées<=M> )
+islands: 0
+
+
+-----------------
+
+if: mesures thermiques
+pos: NOM ADJ
+lf: mesure thermique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( mesures<=H> thermiques<=M> )
+islands: 0
+
+
+-----------------
+
+if: haut de la tour
+pos: NOM de DET:ART NOM
+lf: haut de le tour
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( haut<=H> de<=P> la<=D> tour<=M> )
+islands: 0
+
+
+-----------------
+
+if: arc électrique
+pos: NOM ADJ
+lf: arc électrique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( arc<=H> électrique<=M> )
+islands: 0
+
+
+-----------------
+
+if: dissipation
+pos: NOM
+lf: dissipation
+is a term candidate: 1
+
+-----------------
+
+if: exploitant
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+
+if: source de l' incendie
+pos: NOM de DET:ART NOM
+lf: source de le incendie
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( source<=H> de<=P> l'<=D> incendie<=M> )
+islands: 0
+
+
+-----------------
+
+if: jonction
+pos: NOM
+lf: jonction
+is a term candidate: 1
+
+-----------------
+
+if: cause
+pos: NOM
+lf: cause
+is a term candidate: 1
+
+-----------------
+
+if: pompés.Un défaut
+pos: ADJ NOM
+lf: pompés.Un défaut
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( pompés.Un<=M> défaut<=H> )
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: phase de test
+pos: NOM de NOM
+lf: phase de test
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( phase<=H> de<=P> test<=M> )
+islands: 0
+
+
+-----------------
+
+if: derniers
+pos: NOM
+lf: dernier
+is a term candidate: 1
+
+-----------------
+
+if: place à 7h30
+pos: NOM à NAM
+lf: place à 7h30
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( place<=H> à<=P> 7h30<=M> )
+islands: 0
+
+
+-----------------
+
+if: 9h20
+pos: NAM
+lf: 9h20
+is a term candidate: 1
+
+-----------------
+
+if: exploitation
+pos: NOM
+lf: exploitation
+is a term candidate: 1
+
+-----------------
+
+if: feu.Les dommages matériels
+pos: ADJ NOM ADJ
+lf: feu.Les dommage matériel
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: alarme du détecteur de fumée
+pos: NOM du NOM de NOM
+lf: alarme du détecteur de fumée
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+

@@ -1,0 +1,352 @@
+if: système de détection automatique.Cette mortalité
+pos: NOM de NOM ADJ NOM
+lf: système de détection automatique.Cette mortalité
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: temps réel
+pos: NOM ADJ
+lf: temps réel
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( temps<=H> réel<=M> )
+islands: 0
+
+
+-----------------
+
+if: pied
+pos: NOM
+lf: pied
+is a term candidate: 1
+
+-----------------
+
+if: remise
+pos: NOM
+lf: remise
+is a term candidate: 1
+
+-----------------
+
+if: urgence du bridage fixe
+pos: NOM du NOM ADJ
+lf: urgence du bridage fixe
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( urgence<=H> du<=P> ( bridage<=H> fixe<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: année suivante
+pos: NOM ADJ
+lf: année suivant
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( année<=H> suivante<=M> )
+islands: 0
+
+
+-----------------
+
+if: activité chiroptérologique
+pos: NOM ADJ
+lf: activité chiroptérologique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( activité<=H> chiroptérologique<=M> )
+islands: 0
+
+
+-----------------
+
+if: sol
+pos: NOM
+lf: sol
+is a term candidate: 1
+
+-----------------
+
+if: suivi environnemental
+pos: NOM ADJ
+lf: suivi environnemental
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( suivi<=H> environnemental<=M> )
+islands: 0
+
+
+-----------------
+
+if: suite du constat
+pos: NOM du NOM
+lf: suite du constat
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( suite<=H> du<=P> constat<=M> )
+islands: 0
+
+
+-----------------
+
+if: études
+pos: NOM
+lf: étude
+is a term candidate: 1
+
+-----------------
+
+if: effectif 6 jours
+pos: NOM NUM NOM
+lf: effectif 6 jour
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: expérimentation
+pos: NOM
+lf: expérimentation
+is a term candidate: 1
+
+-----------------
+
+if: lieu
+pos: NOM
+lf: lieu
+is a term candidate: 1
+
+-----------------
+
+if: système de bridage dynamique
+pos: NOM de NOM ADJ
+lf: système de bridage dynamique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( système<=H> de<=P> ( bridage<=H> dynamique<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: éoliennes
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: nouvelles mortalités
+pos: ADJ NOM
+lf: nouveau mortalité
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( nouvelles<=M> mortalités<=H> )
+islands: 0
+
+
+-----------------
+
+if: chauve-souris
+pos: NOM
+lf: chauve-souris
+is a term candidate: 1
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: bureau
+pos: NOM
+lf: bureau
+is a term candidate: 1
+
+-----------------
+
+if: machines du parc éolien
+pos: NOM du NOM ADJ
+lf: machine du parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( machines<=H> du<=P> ( parc<=H> éolien<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: dysfonctionnement du système
+pos: NOM du NOM
+lf: dysfonctionnement du système
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( dysfonctionnement<=H> du<=P> système<=M> )
+islands: 0
+
+
+-----------------
+
+if: mortalité des chiroptères
+pos: NOM des NOM
+lf: mortalité du chiroptères
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( mortalité<=H> des<=P> chiroptères<=M> )
+islands: 0
+
+
+-----------------
+
+if: parc
+pos: NOM
+lf: parc
+is a term candidate: 1
+
+-----------------
+
+if: cours
+pos: NOM
+lf: cours|cour
+is a term candidate: 1
+
+-----------------
+
+if: espèce
+pos: NOM
+lf: espèce
+is a term candidate: 1
+
+-----------------
+
+if: barotraumatismes
+pos: NOM
+lf: barotraumatisme
+is a term candidate: 1
+
+-----------------
+
+if: cadre du suivi environnemental
+pos: NOM du NOM ADJ
+lf: cadre du suivi environnemental
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( cadre<=H> du<=P> ( suivi<=H> environnemental<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: Découverte de cadavres de chiroptère
+pos: NOM de NOM de NOM
+lf: découverte de cadavre de chiroptère
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: pipistrelles de Kuhl
+pos: NOM de NAM
+lf: pipistrelle de Kuhl
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( pipistrelles<=H> de<=P> Kuhl<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: année précédente
+pos: NOM ADJ
+lf: année précédent
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( année<=H> précédente<=M> )
+islands: 0
+
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: bridage fixe
+pos: NOM ADJ
+lf: bridage fixe
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( bridage<=H> fixe<=M> )
+islands: 0
+
+
+-----------------
+
+if: m de deux mâts
+pos: NOM de NUM NOM
+lf: m de deux mât
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: inspection des installations
+pos: NOM des NOM
+lf: inspection du installation
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( inspection<=H> des<=P> installations<=M> )
+islands: 0
+
+
+-----------------
+
+if: mi-juillet
+pos: NOM
+lf: mi-juillet
+is a term candidate: 1
+
+-----------------
+

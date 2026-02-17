@@ -1,0 +1,379 @@
+if: technicien
+pos: NOM
+lf: technicien
+is a term candidate: 1
+
+-----------------
+
+if: nouveau filtre hydraulique
+pos: ADJ NOM ADJ
+lf: nouveau filtre hydraulique
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: bâche étanche
+pos: NOM ADJ
+lf: bâche étanche
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( bâche<=H> étanche<=M> )
+islands: 0
+
+
+-----------------
+
+if: circuit du multiplicateur de vitesse
+pos: NOM du NOM de NOM
+lf: circuit du multiplicateur de vitesse
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: oeuvre
+pos: NOM
+lf: œuvre
+is a term candidate: 1
+
+-----------------
+
+if: effet du vent
+pos: NOM du NOM
+lf: effet du vent
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( effet<=H> du<=P> vent<=M> )
+islands: 0
+
+
+-----------------
+
+if: aérogénérateur
+pos: NOM
+lf: aérogénérateur
+is a term candidate: 1
+
+-----------------
+
+if: contrôle des prochaines récoltes
+pos: NOM des ADJ NOM
+lf: contrôle du prochain récolte
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: retraitement
+pos: NOM
+lf: retraitement
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: Fuite
+pos: NOM
+lf: fuite
+is a term candidate: 1
+
+-----------------
+
+if: nacelle
+pos: NOM
+lf: nacelle
+is a term candidate: 1
+
+-----------------
+
+if: partie des cultures
+pos: NOM des NOM
+lf: partie du culture
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( partie<=H> des<=P> cultures<=M> )
+islands: 0
+
+
+-----------------
+
+if: technicien de maintenance
+pos: NOM de NOM
+lf: technicien de maintenance
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( technicien<=H> de<=P> maintenance<=M> )
+islands: 0
+
+
+-----------------
+
+if: exploitant du parc éolien
+pos: NOM du NOM ADJ
+lf: exploitant du parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( exploitant<=H> du<=P> ( parc<=H> éolien<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: opération
+pos: NOM
+lf: opération
+is a term candidate: 1
+
+-----------------
+
+if: activité de maintenance annuelle préventive
+pos: NOM de NOM ADJ ADJ
+lf: activité de maintenance annuel préventif
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: terres
+pos: NOM
+lf: terre
+is a term candidate: 1
+
+-----------------
+
+if: prestataire
+pos: NOM
+lf: prestataire
+is a term candidate: 1
+
+-----------------
+
+if: qualité du travail
+pos: NOM du NOM
+lf: qualité du travail
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( qualité<=H> du<=P> travail<=M> )
+islands: 0
+
+
+-----------------
+
+if: huiles
+pos: NOM
+lf: huile
+is a term candidate: 1
+
+-----------------
+
+if: site
+pos: NOM
+lf: site
+is a term candidate: 1
+
+-----------------
+
+if: second technicien
+pos: NOM ADJ
+lf: second technicien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( second<=H> technicien<=M> )
+islands: 0
+
+
+-----------------
+
+if: veille de l' événement
+pos: NOM de DET:ART NOM
+lf: veille de le événement
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( veille<=H> de<=P> l'<=D> événement<=M> )
+islands: 0
+
+
+-----------------
+
+if: dizaine de cm
+pos: NOM de NOM
+lf: dizaine de cm
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( dizaine<=H> de<=P> cm<=M> )
+islands: 0
+
+
+-----------------
+
+if: superviseur du prestataire
+pos: NOM du NOM
+lf: superviseur du prestataire
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( superviseur<=H> du<=P> prestataire<=M> )
+islands: 0
+
+
+-----------------
+
+if: terre végétale
+pos: NOM ADJ
+lf: terre végétal
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( terre<=H> végétale<=M> )
+islands: 0
+
+
+-----------------
+
+if: charge de l' opération
+pos: NOM de DET:ART NOM
+lf: charge de le opération
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( charge<=H> de<=P> l'<=D> opération<=M> )
+islands: 0
+
+
+-----------------
+
+if: midi
+pos: NOM
+lf: midi
+is a term candidate: 1
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: m²
+pos: NOM
+lf: m²
+is a term candidate: 1
+
+-----------------
+
+if: huile hydraulique
+pos: NOM ADJ
+lf: huile hydraulique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( huile<=H> hydraulique<=M> )
+islands: 0
+
+
+-----------------
+
+if: terrains cultivés adjacents
+pos: NOM VER:pper ADJ
+lf: terrain cultiver adjacent
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: origine
+pos: NOM
+lf: origine
+is a term candidate: 1
+
+-----------------
+
+if: l
+pos: NOM
+lf: l
+is a term candidate: 1
+
+-----------------
+
+if: reprise de l' activité agricole
+pos: NOM de DET:ART NOM ADJ
+lf: reprise de le activité agricole
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( reprise<=H> de<=P> l'<=D> ( activité<=H> agricole<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: formation des techniciens
+pos: NOM des NOM
+lf: formation du technicien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( formation<=H> des<=P> techniciens<=M> )
+islands: 0
+
+
+-----------------
+
+if: mauvaise réalisation
+pos: ADJ NOM
+lf: mauvais réalisation
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( mauvaise<=M> réalisation<=H> )
+islands: 0
+
+
+-----------------
+
+if: zone impactée au pied de l' éolienne
+pos: NOM VER:pper au NOM de DET:ART NOM
+lf: zone impacter au pied de le éolienne
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: fuite
+pos: NOM
+lf: fuite
+is a term candidate: 1
+
+-----------------
+
+if: contrôle
+pos: NOM
+lf: contrôle
+is a term candidate: 1
+
+-----------------
+

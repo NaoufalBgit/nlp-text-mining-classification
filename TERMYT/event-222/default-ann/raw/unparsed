@@ -1,0 +1,169 @@
+if: bimoteur de tourisme
+pos: NOM de NOM
+lf: bimoteur de tourisme
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( bimoteur<=H> de<=P> tourisme<=M> )
+islands: 0
+
+
+-----------------
+
+if: entreprise
+pos: NOM
+lf: entreprise
+is a term candidate: 1
+
+-----------------
+
+if: pale
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: incident aux autorités de l' aviation civile
+pos: NOM aux NOM de DET:ART NOM ADJ
+lf: incident au autorité de le aviation civil
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: blessé
+pos: NOM
+lf: blessé
+is a term candidate: 1
+
+-----------------
+
+if: expertise.Les mauvaises conditions météos
+pos: NOM ADJ NOM NOM
+lf: expertise.Les mauvais condition météo
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: conditions de vol difficile
+pos: NOM de NOM ADJ
+lf: condition de vol difficile
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( conditions<=H> de<=P> ( vol<=H> difficile<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: maintenance
+pos: NOM
+lf: maintenance
+is a term candidate: 1
+
+-----------------
+
+if: après-midi
+pos: NOM
+lf: après-midi
+is a term candidate: 1
+
+-----------------
+
+if: pilote
+pos: NOM
+lf: pilote
+is a term candidate: 1
+
+-----------------
+
+if: préfecture
+pos: NOM
+lf: préfecture
+is a term candidate: 1
+
+-----------------
+
+if: gendarmes
+pos: NOM
+lf: gendarme
+is a term candidate: 1
+
+-----------------
+
+if: altitude
+pos: NOM
+lf: altitude
+is a term candidate: 1
+
+-----------------
+
+if: bimoteur de tourisme léger
+pos: NOM de NOM ADJ
+lf: bimoteur de tourisme léger
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( bimoteur<=H> de<=P> ( tourisme<=H> léger<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: aile
+pos: NOM
+lf: aile
+is a term candidate: 1
+
+-----------------
+
+if: appareil
+pos: NOM
+lf: appareil
+is a term candidate: 1
+
+-----------------
+
+if: entrées maritimes
+pos: NOM ADJ
+lf: entrée maritime
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( entrées<=H> maritimes<=M> )
+islands: 0
+
+
+-----------------
+
+if: Eolienne
+pos: NOM
+lf: Eolienne
+is a term candidate: 1
+
+-----------------
+
+if: aéroport de Brest-Guivapas
+pos: NOM de NAM
+lf: aéroport de Brest-Guivapas
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( aéroport<=H> de<=P> Brest-Guivapas<=M> )
+islands: 0
+
+
+-----------------
+

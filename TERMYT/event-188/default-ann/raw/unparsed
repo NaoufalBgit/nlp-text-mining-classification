@@ -1,0 +1,95 @@
+if: surveillance
+pos: NOM
+lf: surveillance
+is a term candidate: 1
+
+-----------------
+
+if: chemins menant à l' éolienne
+pos: NOM VER:ppre à DET:ART NOM
+lf: chemin mener à le éolienne
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( chemins<=H> ( menant<=H> à<=P> l'<=D> éolienne<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: foyer
+pos: NOM
+lf: foyer
+is a term candidate: 1
+
+-----------------
+
+if: moteur
+pos: NOM
+lf: moteur
+is a term candidate: 1
+
+-----------------
+
+if: circulation
+pos: NOM
+lf: circulation
+is a term candidate: 1
+
+-----------------
+
+if: 13h30
+pos: NAM
+lf: 13h30
+is a term candidate: 1
+
+-----------------
+
+if: Feu
+pos: NOM
+lf: feu
+is a term candidate: 1
+
+-----------------
+
+if: derniers
+pos: NOM
+lf: dernier
+is a term candidate: 1
+
+-----------------
+
+if: éolienne Un feu
+pos: ADJ DET:ART NOM
+lf: éolien un feu
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: nacelle
+pos: NOM
+lf: nacelle
+is a term candidate: 1
+
+-----------------
+
+if: éolienne situé à 90 m de hauteur
+pos: NOM VER:pper à NUM NOM de NOM
+lf: éolienne situer à 90 m de hauteur
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: grande échelle des pompiers
+pos: ADJ NOM des NOM
+lf: grand échelle du pompier
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+

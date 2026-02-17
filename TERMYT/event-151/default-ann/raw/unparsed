@@ -1,0 +1,214 @@
+if: ouverture de l' aérofrein
+pos: NOM de DET:ART NOM
+lf: ouverture de le aérofrein
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( ouverture<=H> de<=P> l'<=D> aérofrein<=M> )
+islands: 0
+
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne chute au sol
+pos: ADJ NOM au NOM
+lf: éolien chute au sol
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: carbone
+pos: NOM
+lf: carbone
+is a term candidate: 1
+
+-----------------
+
+if: défaut
+pos: NOM
+lf: défaut
+is a term candidate: 1
+
+-----------------
+
+if: aérofrein
+pos: NOM
+lf: aérofrein
+is a term candidate: 1
+
+-----------------
+
+if: bout de pale
+pos: NOM de NOM
+lf: bout de pale
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( bout<=H> de<=P> pale<=M> )
+islands: 0
+
+
+-----------------
+
+if: chute.Un accident similaire
+pos: ADJ NOM ADJ
+lf: chute.Un accident similaire
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: électronique de puissance
+pos: NOM de NOM
+lf: électronique de puissance
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( électronique<=H> de<=P> puissance<=M> )
+islands: 0
+
+
+-----------------
+
+if: aérogénérateur
+pos: NOM
+lf: aérogénérateur
+is a term candidate: 1
+
+-----------------
+
+if: 11h30
+pos: NAM
+lf: 11h30
+is a term candidate: 1
+
+-----------------
+
+if: équipe technique
+pos: NOM ADJ
+lf: équipe technique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( équipe<=H> technique<=M> )
+islands: 0
+
+
+-----------------
+
+if: site
+pos: NOM
+lf: site
+is a term candidate: 1
+
+-----------------
+
+if: axe de fixation
+pos: NOM de NOM
+lf: axe de fixation
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( axe<=H> de<=P> fixation<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: sollicitation du freinage aérodynamique
+pos: NOM du NOM ADJ
+lf: sollicitation du freinage aérodynamique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( sollicitation<=H> du<=P> ( freinage<=H> aérodynamique<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: parc 2 ans
+pos: NOM NUM NOM
+lf: parc 2 an
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: débris ramassés.À la suite
+pos: NOM ADJ DET:ART NOM
+lf: débris ramassés.À le suite
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: pale
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: zone
+pos: NOM
+lf: zone
+is a term candidate: 1
+
+-----------------
+
+if: ARIA
+pos: NOM
+lf: aria
+is a term candidate: 1
+
+-----------------
+
+if: Chute de l' aérofrein
+pos: NOM de DET:ART NOM
+lf: chute de le aérofrein
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Chute<=H> de<=P> l'<=D> aérofrein<=M> )
+islands: 0
+
+
+-----------------
+
+if: arrêt automatique
+pos: NOM ADJ
+lf: arrêt automatique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( arrêt<=H> automatique<=M> )
+islands: 0
+
+
+-----------------
+

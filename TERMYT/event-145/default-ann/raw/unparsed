@@ -1,0 +1,292 @@
+if: lendemain de la découverte
+pos: NOM de DET:ART NOM
+lf: lendemain de le découverte
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( lendemain<=H> de<=P> la<=D> découverte<=M> )
+islands: 0
+
+
+-----------------
+
+if: suivi de la mortalité aviaire
+pos: NOM de DET:ART NOM ADJ
+lf: suivi de le mortalité aviaire
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( suivi<=H> de<=P> la<=D> ( mortalité<=H> aviaire<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: études.Les conditions météorologiques
+pos: ADJ NOM ADJ
+lf: études.Les condition météorologique
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: événement
+pos: NOM
+lf: événement
+is a term candidate: 1
+
+-----------------
+
+if: suite
+pos: NOM
+lf: suite
+is a term candidate: 1
+
+-----------------
+
+if: animal
+pos: NOM
+lf: animal
+is a term candidate: 1
+
+-----------------
+
+if: exploitant
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+
+if: vent
+pos: NOM
+lf: vent
+is a term candidate: 1
+
+-----------------
+
+if: système de bridage dynamique
+pos: NOM de NOM ADJ
+lf: système de bridage dynamique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( système<=H> de<=P> ( bridage<=H> dynamique<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: sol
+pos: NOM
+lf: sol
+is a term candidate: 1
+
+-----------------
+
+if: pied
+pos: NOM
+lf: pied
+is a term candidate: 1
+
+-----------------
+
+if: collision
+pos: NOM
+lf: collision
+is a term candidate: 1
+
+-----------------
+
+if: milan royal
+pos: NOM ADJ
+lf: milan royal
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( milan<=H> royal<=M> )
+islands: 0
+
+
+-----------------
+
+if: pale de l' éolienne.A
+pos: NOM de DET:ART NOM
+lf: pale de le éolienne.A
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( pale<=H> de<=P> l'<=D> éolienne.A<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: matin
+pos: NOM
+lf: matin
+is a term candidate: 1
+
+-----------------
+
+if: fortes pluies
+pos: ADJ NOM
+lf: fort pluie
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( fortes<=M> pluies<=H> )
+islands: 0
+
+
+-----------------
+
+if: année suivante
+pos: NOM ADJ
+lf: année suivant
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( année<=H> suivante<=M> )
+islands: 0
+
+
+-----------------
+
+if: études
+pos: NOM
+lf: étude
+is a term candidate: 1
+
+-----------------
+
+if: collision directe
+pos: NOM ADJ
+lf: collision direct
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( collision<=H> directe<=M> )
+islands: 0
+
+
+-----------------
+
+if: expertise du bureau
+pos: NOM du NOM
+lf: expertise du bureau
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( expertise<=H> du<=P> bureau<=M> )
+islands: 0
+
+
+-----------------
+
+if: espèce
+pos: NOM
+lf: espèce
+is a term candidate: 1
+
+-----------------
+
+if: visibilité
+pos: NOM
+lf: visibilité
+is a term candidate: 1
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: milans royaux
+pos: NOM ADJ
+lf: milan royal
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( milans<=H> royaux<=M> )
+islands: 0
+
+
+-----------------
+
+if: éoliennes du lever du soleil
+pos: NOM du NOM du NOM
+lf: éolienne du lever du soleil
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: éoliennes situées de part
+pos: NOM VER:pper de NOM
+lf: éolienne situer de part
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: orages
+pos: NOM
+lf: orage
+is a term candidate: 1
+
+-----------------
+
+if: couloir de migration du rapace
+pos: NOM de NOM du NOM
+lf: couloir de migration du rapace
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: lever du soleil
+pos: NOM du NOM
+lf: lever du soleil
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( lever<=H> du<=P> soleil<=M> )
+islands: 0
+
+
+-----------------
+
+if: bureau
+pos: NOM
+lf: bureau
+is a term candidate: 1
+
+-----------------
+
+if: Choc
+pos: NOM
+lf: choc
+is a term candidate: 1
+
+-----------------
+

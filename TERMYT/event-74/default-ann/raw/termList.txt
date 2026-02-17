@@ -1,0 +1,105 @@
+# ID	Inflected form	Lemmatised form	Frequency	CValue	CValue1	CValuePlus	CValuePlus1	CValueStar	CValueStarH	CValueStarM	CValueStarR	CValueWCard	CValueWCardPlus	D	DDW	Freq	idf	ilnc	ilncFreq	iLong	IM	iTer	LLR	nbdoc4tc	NormFreq	tf	tf-idf	Head	Modifier	MainHead
+39	barrière de sécurité passive	barrière de sécurité passif	3	4	4.64385618977472	8	9.28771237954945	1	N/A	0.643856189774725	N/A	2	4	1	0	3	0:0	0	0	0.75	1	0.6	6.93136347185612e-06	1	0.6	0:3	0:0	40	41	40	
+93	absence de récidive de la fuite	absence de récidive de le fuite	1	2.58496250072116	2.8073549220576	2.58496250072116	2.8073549220576	2	N/A	N/A	0.222392421336448	0	0	1	0	1	0:0	0	0	0.166666666666667	1.66666666666667	0.142857142857143	1.38627436101989	1	0.2	0:1	0:0	94	92	95	
+2	lixiviats accumulés au point bas	lixiviats accumuler au point bas	1	2.32192809488736	2.58496250072116	2.32192809488736	2.58496250072116	4	N/A	N/A	0.263034405833794	0	0	1	0	1	0:0	0	0	0.2	5	0.166666666666667	0.000115129154648748	1	0.2	0:1	0:0	3	8	0	
+28	installation de stockage de déchets	installation de stockage de déchet	1	2.32192809488736	2.58496250072116	2.32192809488736	2.58496250072116	4	N/A	N/A	0.263034405833794	0	0	1	0	1	0:0	0	0	0.2	0.833333333333333	0.166666666666667	0.523238143714547	1	0.2	0:1	0:0	21	24	22	
+20	installation de stockage des déchets	installation de stockage du déchet	1	2.32192809488736	2.58496250072116	2.32192809488736	2.58496250072116	4	N/A	N/A	0.263034405833794	0	0	1	0	1	0:0	0	0	0.2	0.833333333333333	0.166666666666667	0.523238143714547	1	0.2	0:1	0:0	21	24	22	
+59	risque de pollution des nappes	risque de pollution du nappe	1	2.32192809488736	2.58496250072116	2.32192809488736	2.58496250072116	1	N/A	N/A	0.263034405833794	0	0	1	0	1	0:0	0	0	0.2	5	0.166666666666667	0.000115129154648748	1	0.2	0:1	0:0	60	63	61	
+99	perforation de la géomembrane	perforation de le géomembrane	1	2	2.32192809488736	2	2.32192809488736	N/A	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	1	0.2	0.523238143714547	1	0.2	0:1	0:0	100	68	100	
+9	contact prolongé des lixiviats	contact prolonger du lixiviats	1	2	2.32192809488736	2	2.32192809488736	4	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	1	0.2	0.339788073540795	1	0.2	0:1	0:0	10	0	11	
+14	niveau du point bas.Etant	niveau du point bas.Etant	1	2	2.32192809488736	2	2.32192809488736	4	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	1.66666666666667	0.2	0.000115129154648748	1	0.2	0:1	0:0	15	16	15	
+45	bureau de contrôle indépendant	bureau de contrôle indépendant	1	2	2.32192809488736	2	2.32192809488736	4	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	5	0.2	0.000115129154648748	1	0.2	0:1	0:0	46	47	46	
+109	ouverture de la géomembrane	ouverture de le géomembrane	1	2	2.32192809488736	2	2.32192809488736	4	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	1	0.2	0.523238143714547	1	0.2	0:1	0:0	110	68	110	
+114	déchirure de 30 cm	déchirure de 30 cm	1	2	2.32192809488736	2	2.32192809488736	2	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	2.5	0.2	0.000115129154648748	1	0.2	0:1	0:0	50	116	50	
+21	installation de stockage	installation de stockage	2	1.58496250072116	2	4.75488750216347	6	4	0	N/A	N/A	1	3	1	0	2	0:0	2	2	0.666666666666667	2.5	1.5	1.09859895531206e-05	1	0.4	0:2	0:0	22	23	22	
+88	qualité des réparations	qualité du réparation	1	1.58496250072116	2	1.58496250072116	2	4	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	5	0.25	0.000115129154648748	1	0.2	0:1	0:0	89	90	89	
+106	fuite de lixiviats	fuite de lixiviats	1	1.58496250072116	2	1.58496250072116	2	4	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	0.333333333333333	0.25	0.069221469041953	1	0.2	0:1	0:0	92	0	92	
+122	Fuite de lixiviats	fuite de lixiviats	1	1.58496250072116	2	1.58496250072116	2	4	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	1	0.25	0.339788073540795	1	0.2	0:1	0:0	123	0	123	
+56	arrêté préfectoral	arrêté préfectoral	1	1	1.58496250072116	1	1.58496250072116	4	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	5	0.333333333333333	0.000115129154648748	1	0.2	0:1	0:0	57	58	57	
+78	barrière passive	barrière passif	1	1	1.58496250072116	1	1.58496250072116	4	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	0.25	0.333333333333333	4.87568436979542	1	0.2	0:1	0:0	40	43	40	
+84	jours suivants	jour suivant	1	1	1.58496250072116	1	1.58496250072116	2	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	5	0.333333333333333	0.000115129154648748	1	0.2	0:1	0:0	85	86	85	
+75	terrain naturel	terrain naturel	1	1	1.58496250072116	1	1.58496250072116	2	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	5	0.333333333333333	0.000115129154648748	1	0.2	0:1	0:0	76	77	76	
+41	sécurité passive	sécurité passif	3	0.5	0.792481250360578	5.5	8.71729375396636	2	N/A	-1.16992500144231	N/A	0.5	5.5	1	0	3	0:0	0	0	1.5	1.25	1	0.454016674672595	1	0.6	0:3	0:0	42	43	42	
+40	barrière	barrière	5	0	3	0	7	4	-1	N/A	N/A	3	7	1	0	5	0:0	3	6	5	N/A	10	N/A	1	1	0:5	0:0				
+0	lixiviats	lixiviats	5	0	4	0	6	4	4	2	N/A	4	6	1	0	5	0:0	1	1	5	N/A	5	N/A	1	1	0:5	0:0				
+72	alvéole	alvéole	5	0	4	0	6	4	N/A	4	N/A	4	6	1	0	5	0:0	0	0	5	N/A	2.5	N/A	1	1	0:5	0:0				
+68	géomembrane	géomembrane	4	0	4	0	6	4	4	3	N/A	3	5	1	0	4	0:0	1	1	4	N/A	4	N/A	1	0.8	0:4	0:0				
+43	passive	passif	4	0	2	0	6	4	N/A	-2	N/A	2	6	1	0	4	0:0	0	0	4	N/A	2	N/A	1	0.8	0:4	0:0				
+24	déchets	déchet	3	0	2	0	4	1	N/A	0	N/A	2	4	1	0	3	0:0	0	0	3	N/A	1.5	N/A	1	0.6	0:3	0:0				
+92	fuite	fuite	3	0	2	0	4	2	2	2	N/A	2	4	1	0	3	0:0	1	1	3	N/A	3	N/A	1	0.6	0:3	0:0				
+42	sécurité	sécurité	3	0	0.5	0	5.5	2	-2	N/A	N/A	0.5	5.5	1	0	3	0:0	2	5	3	N/A	4.5	N/A	1	0.6	0:3	0:0				
+65	cours	cours|cour	3	0	3	0	3	2	N/A	N/A	3	0	0	1	0	3	0:0	0	0	3	N/A	1.5	N/A	1	0.6	0:3	0:0				
+27	argile	argile	2	0	1	0	3	N/A	1	N/A	N/A	1	3	1	0	2	0:0	1	1	2	N/A	2	N/A	1	0.4	0:2	0:0				
+69	digue	digue	2	0	1	0	3	4	N/A	1	N/A	1	3	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.4	0:2	0:0				
+1	couche	couche	2	0	2	0	2	4	N/A	N/A	2	0	0	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.4	0:2	0:0				
+7	point	point	2	0	1	0	3	1	1	1	N/A	1	3	1	0	2	0:0	1	1	2	N/A	2	N/A	1	0.4	0:2	0:0				
+121	aménagement	aménagement	2	0	2	0	2	1	N/A	N/A	2	0	0	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.4	0:2	0:0				
+50	déchirure	déchirure	2	0	1	0	3	1	1	N/A	N/A	1	3	1	0	2	0:0	1	1	2	N/A	2	N/A	1	0.4	0:2	0:0				
+22	installation	installation	2	0	0.5	0	3.5	2	-1	N/A	N/A	0.5	3.5	1	0	2	0:0	2	3	2	N/A	3	N/A	1	0.4	0:2	0:0				
+23	stockage	stockage	2	0	0.5	0	3.5	2	N/A	-1	N/A	0.5	3.5	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.4	0:2	0:0				
+37	constituant la barrière de sécurité passive	constituer le barrière de sécurité passif	1	0	0	5.16992500144231	5.61470984411521	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.166666666666667	1.66666666666667	0.142857142857143	0.000115129154648748	1	0.2	0:1	0:0	38	39	38	
+112	semaine	semaine	1	0	1	0	1	4	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+130	endroit	endroit	1	0	0	0	2	4	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+12	prolongé	prolonger	1	0	0	0	2	4	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+119	extrusion	extrusion	1	0	1	0	1	4	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+6	accumulés	accumuler	1	0	0	0	2	4	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+44	perméabilité	perméabilité	1	0	1	0	1	4	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+96	récidive	récidive	1	0	0	0	2	4	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+63	nappes	nappe	1	0	0	0	2	4	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+34	PEHD	PEHD	1	0	1	0	1	4	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+90	réparations	réparation	1	0	0	0	2	4	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+10	contact prolongé	contact prolonger	1	0	0	2	3.16992500144231	4	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.5	5	0.666666666666667	0.000115129154648748	1	0.2	0:1	0:0	11	12	11	
+62	pollution	pollution	1	0	0	0	2	4	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+100	perforation	perforation	1	0	0	0	2	4	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+86	suivants	suivant	1	0	0	0	2	4	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+95	absence	absence	1	0	0	0	2	4	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+5	accumulés au point	accumuler au point	1	0	0	3.16992500144231	4	4	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.333333333333333	2.5	0.25	1.38627436101989	1	0.2	0:1	0:0	6	7	6	
+105	cause	cause	1	0	1	0	1	4	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+47	contrôle indépendant	contrôle indépendant	1	0	0	2	3.16992500144231	4	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.5	5	0.333333333333333	0.000115129154648748	1	0.2	0:1	0:0	48	49	48	
+133	fonction	fonction	1	0	1	0	1	4	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+76	terrain	terrain	1	0	0	0	2	4	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+123	Fuite	fuite	1	0	0	0	2	4	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+61	risque	risque	1	0	0	0	2	4	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+16	point bas.Etant	point bas.Etant	1	0	0	2	3.16992500144231	4	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.5	2.5	0.333333333333333	6.93134680530211e-06	1	0.2	0:1	0:0	7	18	7	
+67	géomembrane de la digue	géomembrane de le digue	1	0	0	4	4.64385618977472	4	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.25	0.5	0.4	4.05454274736608e-06	1	0.2	0:1	0:0	68	69	68	
+73	site	site	1	0	1	0	1	4	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+127	talus	talus	1	0	0	0	2	4	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+18	bas.Etant	bas.Etant	1	0	0	0	2	4	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+71	séparant	séparer	1	0	0	0	2	4	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+8	bas	bas	1	0	0	0	2	4	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+132	objet	objet	1	0	1	0	1	4	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+110	ouverture	ouverture	1	0	0	0	2	4	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+26	précision	précision	1	0	1	0	1	4	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+131	probable	probable	1	0	0	0	2	4	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+102	vérifications	vérification	1	0	1	0	1	4	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+117	30	30	1	0	0	0	2	4	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+103	capacité	capacité	1	0	1	0	1	4	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+74	jour	jour	1	0	1	0	1	4	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+19	soudure	soudure	1	0	1	0	1	4	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+120	éolienne	éolienne	1	0	1	0	1	4	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+57	arrêté	arrêté	1	0	0	0	2	4	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+89	qualité	qualité	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+77	naturel	naturel	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+118	cm	cm	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+85	jours	jour	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+70	séparant une alvéole	séparer un alvéole	1	0	0	3.16992500144231	4	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.333333333333333	1	0.25	0.000115129154648748	1	0.2	0:1	0:0	71	72	71	
+49	indépendant	indépendant	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+60	risque de pollution	risque de pollution	1	0	0	3.16992500144231	4	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	5	0.5	0.000115129154648748	1	0.2	0:1	0:0	61	62	61	
+58	préfectoral	préfectoral	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+129	endroit probable	endroit probable	1	0	0	2	3.16992500144231	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.5	5	0.333333333333333	0.000115129154648748	1	0.2	0:1	0:0	130	131	130	
+83	mètres	mètre	1	0	1	0	1	2	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+38	constituant	constituer	1	0	0	0	2	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+46	bureau	bureau	1	0	0	0	2	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+81	pompage	pompage	1	0	1	0	1	2	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+3	lixiviats accumulés au point	lixiviats accumuler au point	1	0	0	4	4.64385618977472	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.25	1	0.4	2.87671655764548e-06	1	0.2	0:1	0:0	0	5	0	
+94	absence de récidive	absence de récidive	1	0	0	3.16992500144231	4	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	5	0.5	0.000115129154648748	1	0.2	0:1	0:0	95	96	95	
+33	exploitation	exploitation	1	0	2	0	2	2	N/A	N/A	2	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+113	géotextile	géotextile	1	0	1	0	1	2	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+48	contrôle	contrôle	1	0	0	0	2	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+15	niveau	niveau	1	0	2	0	4	2	2	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+104	place	place	1	0	1	0	1	2	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+11	contact	contact	1	0	0	0	2	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+126	talus de déchets	talus de déchet	1	0	0	3.16992500144231	4	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	1.66666666666667	0.5	0	1	0.2	0:1	0:0	127	24	127	
+25	épaisseur	épaisseur	1	0	1	0	1	2	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+116	30 cm	30 cm	1	0	0	2	3.16992500144231	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.5	5	0.333333333333333	0.000115129154648748	1	0.2	0:1	0:0	118	117	118	
+64	doutes.La	doutes.La	1	0	1	0	1	2	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				

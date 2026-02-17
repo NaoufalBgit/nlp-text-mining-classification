@@ -1,0 +1,218 @@
+if: tourterelle
+pos: NOM
+lf: tourterelle
+is a term candidate: 1
+
+-----------------
+
+if: suivi environnemental
+pos: NOM ADJ
+lf: suivi environnemental
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( suivi<=H> environnemental<=M> )
+islands: 0
+
+
+-----------------
+
+if: parc
+pos: NOM
+lf: parc
+is a term candidate: 1
+
+-----------------
+
+if: habitats proches
+pos: NOM ADJ
+lf: habitat proche
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( habitats<=H> proches<=M> )
+islands: 0
+
+
+-----------------
+
+if: individu
+pos: NOM
+lf: individu
+is a term candidate: 1
+
+-----------------
+
+if: espèce nicheuse
+pos: NOM ADJ
+lf: espèce nicheur
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( espèce<=H> nicheuse<=M> )
+islands: 0
+
+
+-----------------
+
+if: collision
+pos: NOM
+lf: collision
+is a term candidate: 1
+
+-----------------
+
+if: rachis des plumes de la Tourterelle
+pos: NOM des NOM de DET:ART NOM
+lf: rachis du plume de le tourterelle
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: sol
+pos: NOM
+lf: sol
+is a term candidate: 1
+
+-----------------
+
+if: migration
+pos: NOM
+lf: migration
+is a term candidate: 1
+
+-----------------
+
+if: période de découverte du cadavre
+pos: NOM de NOM du NOM
+lf: période de découverte du cadavre
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: pale
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: bureau
+pos: NOM
+lf: bureau
+is a term candidate: 1
+
+-----------------
+
+if: site
+pos: NOM
+lf: site
+is a term candidate: 1
+
+-----------------
+
+if: rapace
+pos: NOM
+lf: rapace
+is a term candidate: 1
+
+-----------------
+
+if: différents suivis
+pos: ADJ NOM
+lf: différent suivi
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( différents<=M> suivis<=H> )
+islands: 0
+
+
+-----------------
+
+if: m
+pos: NOM
+lf: m
+is a term candidate: 1
+
+-----------------
+
+if: études
+pos: NOM
+lf: étude
+is a term candidate: 1
+
+-----------------
+
+if: oiseau
+pos: NOM
+lf: oiseau
+is a term candidate: 1
+
+-----------------
+
+if: plumes
+pos: NOM
+lf: plume
+is a term candidate: 1
+
+-----------------
+
+if: Tourterelle des bois
+pos: NOM des NOM
+lf: tourterelle du bois
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Tourterelle<=H> des<=P> bois<=M> )
+islands: 0
+
+
+-----------------
+
+if: individu nicheur proche
+pos: NOM ADJ ADJ
+lf: individu nicheur proche
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: espèce
+pos: NOM
+lf: espèce
+is a term candidate: 1
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: Choc
+pos: NOM
+lf: choc
+is a term candidate: 1
+
+-----------------
+

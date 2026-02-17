@@ -1,0 +1,30 @@
+# ID	Inflected form	Lemmatised form	Frequency	CValue	CValue1	CValuePlus	CValuePlus1	CValueStar	CValueStarH	CValueStarM	CValueStarR	CValueWCard	CValueWCardPlus	D	DDW	Freq	idf	ilnc	ilncFreq	iLong	IM	iTer	LLR	nbdoc4tc	NormFreq	tf	tf-idf	Head	Modifier	MainHead
+5	autres générateurs du parc continue	autre générateur du parc continu	1	2.32192809488736	2.58496250072116	2.32192809488736	2.58496250072116	N/A	N/A	N/A	0.263034405833794	0	0	1	0	1	0:0	0	0	0.2	3	0.166666666666667	0.000115129154648748	1	0.333333333333333	0:1	0:0	6	9	8	
+25	arrivée des secours	arrivée du secours	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	3	0.25	0.000115129154648748	1	0.333333333333333	0:1	0:0	26	27	26	
+14	manque de combustible	manque de combustible	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	3	0.25	0.000115129154648748	1	0.333333333333333	0:1	0:0	15	16	15	
+18	réseau de distribution	réseau de distribution	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	3	0.25	0.000115129154648748	1	0.333333333333333	0:1	0:0	19	20	19	
+21	éléments électroniques	élément électronique	1	1	1.58496250072116	1	1.58496250072116	N/A	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	3	0.333333333333333	0.000115129154648748	1	0.333333333333333	0:1	0:0	22	23	22	
+3	éolienne	éolienne	3	0	3	0	3	N/A	N/A	N/A	3	0	0	1	0	3	0:0	0	0	3	N/A	1.5	N/A	1	1	0:3	0:0				
+17	nacelle	nacelle	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+1	incendie	incendie	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+16	combustible	combustible	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+28	matinée	matinée	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+24	vingtaine	vingtaine	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+12	électricité	électricité	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+26	arrivée	arrivée	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.333333333333333	0:1	0:0				
+8	générateurs	générateur	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.333333333333333	0:1	0:0				
+10	parc	parc	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.333333333333333	0:1	0:0				
+27	secours	secours	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+7	autres	autre	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+9	parc continue	parc continu	1	0	0	2	3.16992500144231	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.5	3	0.333333333333333	0.000115129154648748	1	0.333333333333333	0:1	0:0	10	11	10	
+0	mât	mât	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+11	continue	continu	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+13	flammes	flamme	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+2	Feu	feu	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+20	distribution	distribution	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+4	incidence	incidence	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+6	autres générateurs	autre générateur	1	0	0	2	3.16992500144231	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.5	3	0.666666666666667	0.000115129154648748	1	0.333333333333333	0:1	0:0	8	7	8	
+15	manque	manque	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.333333333333333	0:1	0:0				
+19	réseau	réseau	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.333333333333333	0:1	0:0				
+23	électroniques	électronique	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.333333333333333	0:1	0:0				
+22	éléments	élément	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.333333333333333	0:1	0:0				

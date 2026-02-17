@@ -1,0 +1,312 @@
+if: découverte
+pos: NOM
+lf: découverte
+is a term candidate: 1
+
+-----------------
+
+if: milan royal
+pos: NOM ADJ
+lf: milan royal
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( milan<=H> royal<=M> )
+islands: 0
+
+
+-----------------
+
+if: éoliennes
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: cadavre de milan royal
+pos: NOM de NOM ADJ
+lf: cadavre de milan royal
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( cadavre<=H> de<=P> ( milan<=H> royal<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: aérogénérateurs
+pos: NOM
+lf: aérogénérateur
+is a term candidate: 1
+
+-----------------
+
+if: durée de 12 mois
+pos: NOM de NUM NOM
+lf: durée de 12 mois|moi
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: jours
+pos: NOM
+lf: jour
+is a term candidate: 1
+
+-----------------
+
+if: présence de vent
+pos: NOM de NOM
+lf: présence de vent
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( présence<=H> de<=P> vent<=M> )
+islands: 0
+
+
+-----------------
+
+if: bridage agricole
+pos: NOM ADJ
+lf: bridage agricole
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( bridage<=H> agricole<=M> )
+islands: 0
+
+
+-----------------
+
+if: suite de l' événement
+pos: NOM de DET:ART NOM
+lf: suite de le événement
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( suite<=H> de<=P> l'<=D> événement<=M> )
+islands: 0
+
+
+-----------------
+
+if: exploitation
+pos: NOM
+lf: exploitation
+is a term candidate: 1
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: espèces à gabarit équivalent
+pos: NOM à NOM ADJ
+lf: espèce à gabarit équivalent
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: études
+pos: NOM
+lf: étude
+is a term candidate: 1
+
+-----------------
+
+if: jeune individu
+pos: ADJ NOM
+lf: jeune individu
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( jeune<=M> individu<=H> )
+islands: 0
+
+
+-----------------
+
+if: passages agricoles
+pos: NOM ADJ
+lf: passage agricole
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( passages<=H> agricoles<=M> )
+islands: 0
+
+
+-----------------
+
+if: cycle complet
+pos: NOM ADJ
+lf: cycle complet
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( cycle<=H> complet<=M> )
+islands: 0
+
+
+-----------------
+
+if: dispositif anticollision
+pos: NOM ADJ
+lf: dispositif anticollision
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( dispositif<=H> anticollision<=M> )
+islands: 0
+
+
+-----------------
+
+if: risque de choc
+pos: NOM de NOM
+lf: risque de choc
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( risque<=H> de<=P> choc<=M> )
+islands: 0
+
+
+-----------------
+
+if: exploitant
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+
+if: pied
+pos: NOM
+lf: pied
+is a term candidate: 1
+
+-----------------
+
+if: protection des oiseaux
+pos: NOM des NOM
+lf: protection du oiseau
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( protection<=H> des<=P> oiseaux<=M> )
+islands: 0
+
+
+-----------------
+
+if: collision accidentelle
+pos: NOM ADJ
+lf: collision accidentel
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( collision<=H> accidentelle<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: perte
+pos: NOM
+lf: perte
+is a term candidate: 1
+
+-----------------
+
+if: mort
+pos: NOM
+lf: mort
+is a term candidate: 1
+
+-----------------
+
+if: bureau
+pos: NOM
+lf: bureau
+is a term candidate: 1
+
+-----------------
+
+if: jours suivants
+pos: NOM ADJ
+lf: jour suivant
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( jours<=H> suivants<=M> )
+islands: 0
+
+
+-----------------
+
+if: parc
+pos: NOM
+lf: parc
+is a term candidate: 1
+
+-----------------
+
+if: événement
+pos: NOM
+lf: événement
+is a term candidate: 1
+
+-----------------
+
+if: période postnuptiale
+pos: NOM ADJ
+lf: période postnuptial
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( période<=H> postnuptiale<=M> )
+islands: 0
+
+
+-----------------
+
+if: Choc
+pos: NOM
+lf: choc
+is a term candidate: 1
+
+-----------------
+
+if: collision
+pos: NOM
+lf: collision
+is a term candidate: 1
+
+-----------------
+
+if: aérogénérateur
+pos: NOM
+lf: aérogénérateur
+is a term candidate: 1
+
+-----------------
+

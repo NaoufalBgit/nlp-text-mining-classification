@@ -1,0 +1,264 @@
+if: équipe de maintenance
+pos: NOM de NOM
+lf: équipe de maintenance
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( équipe<=H> de<=P> maintenance<=M> )
+islands: 0
+
+
+-----------------
+
+if: vanne.L'exploitant
+pos: NOM
+lf: vanne.L'exploitant
+is a term candidate: 1
+
+-----------------
+
+if: production
+pos: NOM
+lf: production
+is a term candidate: 1
+
+-----------------
+
+if: nacelle
+pos: NOM
+lf: nacelle
+is a term candidate: 1
+
+-----------------
+
+if: intervention
+pos: NOM
+lf: intervention
+is a term candidate: 1
+
+-----------------
+
+if: huile au centre de maintenance
+pos: NOM au NOM de NOM
+lf: huile au centre de maintenance
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: correctives suivantes :le retrait de la poignée de la vanne de prélèvement
+pos: ADJ NOM ADJ VER:pper de DET:ART NOM de DET:ART NOM de NOM
+lf: correctif suivant :le retraire de le poignée de le vanne de prélèvement
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: huile
+pos: NOM
+lf: huile
+is a term candidate: 1
+
+-----------------
+
+if: équipes de maintenance
+pos: NOM de NOM
+lf: équipe de maintenance
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( équipes<=H> de<=P> maintenance<=M> )
+islands: 0
+
+
+-----------------
+
+if: Fuite
+pos: NOM
+lf: fuite
+is a term candidate: 1
+
+-----------------
+
+if: pollution des sols
+pos: NOM des NOM
+lf: pollution du sol
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( pollution<=H> des<=P> sols<=M> )
+islands: 0
+
+
+-----------------
+
+if: travaux de dépollution
+pos: NOM de NOM
+lf: travail de dépollution
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( travaux<=H> de<=P> dépollution<=M> )
+islands: 0
+
+
+-----------------
+
+if: ouverture involontaire
+pos: NOM ADJ
+lf: ouverture involontaire
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( ouverture<=H> involontaire<=M> )
+islands: 0
+
+
+-----------------
+
+if: objets
+pos: NOM
+lf: objet
+is a term candidate: 1
+
+-----------------
+
+if: manipulation
+pos: NOM
+lf: manipulation
+is a term candidate: 1
+
+-----------------
+
+if: alerte
+pos: NOM
+lf: alerte
+is a term candidate: 1
+
+-----------------
+
+if: société sous-traitante
+pos: NOM ADJ
+lf: société sous-traitant
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( société<=H> sous-traitante<=M> )
+islands: 0
+
+
+-----------------
+
+if: mise à disposition
+pos: NOM à NOM
+lf: mise à disposition
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( mise<=H> à<=P> disposition<=M> )
+islands: 0
+
+
+-----------------
+
+if: heures
+pos: NOM
+lf: heure
+is a term candidate: 1
+
+-----------------
+
+if: parc
+pos: NOM
+lf: parc
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: kit de récupération
+pos: NOM de NOM
+lf: kit de récupération
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( kit<=H> de<=P> récupération<=M> )
+islands: 0
+
+
+-----------------
+
+if: vanne de prélèvement
+pos: NOM de NOM
+lf: vanne de prélèvement
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( vanne<=H> de<=P> prélèvement<=M> )
+islands: 0
+
+
+-----------------
+
+if: vanne
+pos: NOM
+lf: vanne
+is a term candidate: 1
+
+-----------------
+
+if: ferment
+pos: NOM
+lf: ferment
+is a term candidate: 1
+
+-----------------
+
+if: exploitant
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+
+if: long du mât
+pos: NOM du NOM
+lf: long du mât
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( long<=H> du<=P> mât<=M> )
+islands: 0
+
+
+-----------------
+
+if: fuite
+pos: NOM
+lf: fuite
+is a term candidate: 1
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: intervenants
+pos: NOM
+lf: intervenant
+is a term candidate: 1
+
+-----------------
+

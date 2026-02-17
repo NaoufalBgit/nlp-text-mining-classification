@@ -1,0 +1,326 @@
+if: Eolienne
+pos: NOM
+lf: Eolienne
+is a term candidate: 1
+
+-----------------
+
+if: maintenance de l' éolienne
+pos: NOM de DET:ART NOM
+lf: maintenance de le éolienne
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( maintenance<=H> de<=P> l'<=D> éolienne<=M> )
+islands: 0
+
+
+-----------------
+
+if: bas
+pos: NOM
+lf: bas
+is a term candidate: 1
+
+-----------------
+
+if: base
+pos: NOM
+lf: base
+is a term candidate: 1
+
+-----------------
+
+if: expert de la société de fabrication
+pos: NOM de DET:ART NOM de NOM
+lf: expert de le société de fabrication
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: zone au pied de l' éolienne
+pos: NOM au NOM de DET:ART NOM
+lf: zone au pied de le éolienne
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: élu
+pos: NOM
+lf: élu
+is a term candidate: 1
+
+-----------------
+
+if: revêtement de la pale
+pos: NOM de DET:ART NOM
+lf: revêtement de le pale
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( revêtement<=H> de<=P> la<=D> pale<=M> )
+islands: 0
+
+
+-----------------
+
+if: pale
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: épisode orageux
+pos: NOM ADJ
+lf: épisode orageux
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( épisode<=H> orageux<=M> )
+islands: 0
+
+
+-----------------
+
+if: drapeau
+pos: NOM
+lf: drapeau
+is a term candidate: 1
+
+-----------------
+
+if: trace noire
+pos: NOM ADJ
+lf: trace noir
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( trace<=H> noire<=M> )
+islands: 0
+
+
+-----------------
+
+if: aggravation des dégâts
+pos: NOM des NOM
+lf: aggravation du dégât
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( aggravation<=H> des<=P> dégâts<=M> )
+islands: 0
+
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: chute de composants
+pos: NOM de NOM
+lf: chute de composant
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( chute<=H> de<=P> composants<=M> )
+islands: 0
+
+
+-----------------
+
+if: éoliennes
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: risque complémentaire
+pos: NOM ADJ
+lf: risque complémentaire
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( risque<=H> complémentaire<=M> )
+islands: 0
+
+
+-----------------
+
+if: après-midi
+pos: NOM
+lf: après-midi
+is a term candidate: 1
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: risque
+pos: NOM
+lf: risque
+is a term candidate: 1
+
+-----------------
+
+if: foudre
+pos: NOM
+lf: foudre
+is a term candidate: 1
+
+-----------------
+
+if: pales de la machine
+pos: NOM de DET:ART NOM
+lf: pale de le machine
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( pales<=H> de<=P> la<=D> machine<=M> )
+islands: 0
+
+
+-----------------
+
+if: gestionnaire du site
+pos: NOM du NOM
+lf: gestionnaire du site
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( gestionnaire<=H> du<=P> site<=M> )
+islands: 0
+
+
+-----------------
+
+if: cm².Le lendemain matin
+pos: NOM NOM NOM
+lf: cm².Le lendemain matin
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: pales
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: place à 20h37
+pos: NOM à NAM
+lf: place à 20h37
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( place<=H> à<=P> 20h37<=M> )
+islands: 0
+
+
+-----------------
+
+if: équipe technique
+pos: NOM ADJ
+lf: équipe technique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( équipe<=H> technique<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: accident.L'impact de foudre
+pos: NOM de NOM
+lf: accident.L'impact de foudre
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( accident.L'impact<=H> de<=P> foudre<=M> )
+islands: 0
+
+
+-----------------
+
+if: constat
+pos: NOM
+lf: constat
+is a term candidate: 1
+
+-----------------
+
+if: éolienne reste à l' arrêt
+pos: ADJ NOM à DET:ART NOM
+lf: éolien reste à le arrêt
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: distance à 18h30
+pos: NOM à NAM
+lf: distance à 18h30
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( distance<=H> à<=P> 18h30<=M> )
+islands: 0
+
+
+-----------------
+
+if: long du mât
+pos: NOM du NOM
+lf: long du mât
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( long<=H> du<=P> mât<=M> )
+islands: 0
+
+
+-----------------
+
+if: autre inspection
+pos: ADJ NOM
+lf: autre inspection
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( autre<=M> inspection<=H> )
+islands: 0
+
+
+-----------------
+

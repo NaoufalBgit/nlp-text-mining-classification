@@ -1,0 +1,264 @@
+if: autres éoliennes du parc
+pos: ADJ NOM du NOM
+lf: autre éolienne du parc
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: précision de détection
+pos: NOM de NOM
+lf: précision de détection
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( précision<=H> de<=P> détection<=M> )
+islands: 0
+
+
+-----------------
+
+if: vautour fauve
+pos: NOM ADJ
+lf: vautour fauve
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( vautour<=H> fauve<=M> )
+islands: 0
+
+
+-----------------
+
+if: site
+pos: NOM
+lf: site
+is a term candidate: 1
+
+-----------------
+
+if: vérification périodique
+pos: NOM ADJ
+lf: vérification périodique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( vérification<=H> périodique<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: espèce
+pos: NOM
+lf: espèce
+is a term candidate: 1
+
+-----------------
+
+if: pale
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: fond
+pos: NOM
+lf: fond
+is a term candidate: 1
+
+-----------------
+
+if: mouvement des autres éoliennes.A
+pos: NOM des ADJ NOM
+lf: mouvement du autre éoliennes.A
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: oiseau
+pos: NOM
+lf: oiseau
+is a term candidate: 1
+
+-----------------
+
+if: détection des individus
+pos: NOM des NOM
+lf: détection du individu
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( détection<=H> des<=P> individus<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne ayant eu lieu 5 jours
+pos: NOM ayant VER:pper NOM NUM NOM
+lf: éolienne avoir avoir lieu 5 jour
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: choc
+pos: NOM
+lf: choc
+is a term candidate: 1
+
+-----------------
+
+if: mise à jour du logiciel de détection des oiseaux
+pos: NOM à NOM du NOM de NOM des NOM
+lf: mise à jour du logiciel de détection du oiseau
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: collision
+pos: NOM
+lf: collision
+is a term candidate: 1
+
+-----------------
+
+if: objet mouvant
+pos: NOM ADJ
+lf: objet mouvant
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( objet<=H> mouvant<=M> )
+islands: 0
+
+
+-----------------
+
+if: événement
+pos: NOM
+lf: événement
+is a term candidate: 1
+
+-----------------
+
+if: Choc
+pos: NOM
+lf: choc
+is a term candidate: 1
+
+-----------------
+
+if: découverte
+pos: NOM
+lf: découverte
+is a term candidate: 1
+
+-----------------
+
+if: éolienne à la suite de la détection de l' oiseau
+pos: NOM à DET:ART NOM de DET:ART NOM de DET:ART NOM
+lf: éolienne à le suite de le détection de le oiseau
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: système de détection/effarouchement de l' éolienne.Malgré
+pos: NOM de NOM de DET:ART NOM
+lf: système de détection/effarouchement de le éolienne.Malgré
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: analyse des vidéos
+pos: NOM des NOM
+lf: analyse du vidéo
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( analyse<=H> des<=P> vidéos<=M> )
+islands: 0
+
+
+-----------------
+
+if: mauvaise estimation de la distance
+pos: ADJ NOM de DET:ART NOM
+lf: mauvais estimation de le distance
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: suivi de la mortalité aviaire
+pos: NOM de DET:ART NOM ADJ
+lf: suivi de le mortalité aviaire
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( suivi<=H> de<=P> la<=D> ( mortalité<=H> aviaire<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: bureau
+pos: NOM
+lf: bureau
+is a term candidate: 1
+
+-----------------
+
+if: sol
+pos: NOM
+lf: sol
+is a term candidate: 1
+
+-----------------
+
+if: études
+pos: NOM
+lf: étude
+is a term candidate: 1
+
+-----------------
+

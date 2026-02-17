@@ -1,0 +1,765 @@
+if: cisaillement longitudinal
+pos: NOM ADJ
+lf: cisaillement longitudinal
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( cisaillement<=H> longitudinal<=M> )
+islands: 0
+
+
+-----------------
+
+if: délaminage
+pos: NOM
+lf: délaminage
+is a term candidate: 1
+
+-----------------
+
+if: alarme tension basse
+pos: NOM NOM ADJ
+lf: alarme tension bas
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: moteur à la base
+pos: NOM à DET:ART NOM
+lf: moteur à le base
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( moteur<=H> à<=P> la<=D> base<=M> )
+islands: 0
+
+
+-----------------
+
+if: capacité de l' élément batterie
+pos: NOM de DET:ART NOM NOM
+lf: capacité de le élément batterie
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: Rupture du mât
+pos: NOM du NOM
+lf: rupture du mât
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Rupture<=H> du<=P> mât<=M> )
+islands: 0
+
+
+-----------------
+
+if: type
+pos: NOM
+lf: type
+is a term candidate: 1
+
+-----------------
+
+if: procédures de sécurité
+pos: NOM de NOM
+lf: procédure de sécurité
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( procédures<=H> de<=P> sécurité<=M> )
+islands: 0
+
+
+-----------------
+
+if: constructeur
+pos: NOM
+lf: constructeur
+is a term candidate: 1
+
+-----------------
+
+if: France
+pos: NAM
+lf: France
+is a term candidate: 1
+
+-----------------
+
+if: dispositions suivantes
+pos: NOM ADJ
+lf: disposition suivant
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( dispositions<=H> suivantes<=M> )
+islands: 0
+
+
+-----------------
+
+if: charge disponible
+pos: NOM ADJ
+lf: charge disponible
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( charge<=H> disponible<=M> )
+islands: 0
+
+
+-----------------
+
+if: électricité
+pos: NOM
+lf: électricité
+is a term candidate: 1
+
+-----------------
+
+if: rotation des pales à 90°
+pos: NOM des NOM à NAM
+lf: rotation du pale à 90°
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: batteries
+pos: NOM
+lf: batterie
+is a term candidate: 1
+
+-----------------
+
+if: vérificateur
+pos: NOM
+lf: vérificateur
+is a term candidate: 1
+
+-----------------
+
+if: série
+pos: NOM
+lf: série
+is a term candidate: 1
+
+-----------------
+
+if: pale
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: mât de 66 m
+pos: NOM de NUM NOM
+lf: mât de 66 m
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: rotation
+pos: NOM
+lf: rotation
+is a term candidate: 1
+
+-----------------
+
+if: balourd
+pos: NOM
+lf: balourd
+is a term candidate: 1
+
+-----------------
+
+if: débris
+pos: NOM
+lf: débris
+is a term candidate: 1
+
+-----------------
+
+if: appel de puissance
+pos: NOM de NOM
+lf: appel de puissance
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( appel<=H> de<=P> puissance<=M> )
+islands: 0
+
+
+-----------------
+
+if: arrêt
+pos: NOM
+lf: arrêt
+is a term candidate: 1
+
+-----------------
+
+if: durée de vie à 25 °C
+pos: NOM de NOM à NUM NAM
+lf: durée de vie à 25 °C
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: commande de rotation des pales
+pos: NOM de NOM des NOM
+lf: commande de rotation du pale
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: événement
+pos: NOM
+lf: événement
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: drapeau
+pos: NOM
+lf: drapeau
+is a term candidate: 1
+
+-----------------
+
+if: France :vérification annuelle
+pos: NAM NAM ADJ
+lf: France :vérification annuel
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: service
+pos: NOM
+lf: service
+is a term candidate: 1
+
+-----------------
+
+if: remplacement des batteries
+pos: NOM des NOM
+lf: remplacement du batterie
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( remplacement<=H> des<=P> batteries<=M> )
+islands: 0
+
+
+-----------------
+
+if: épaisseur
+pos: NOM
+lf: épaisseur
+is a term candidate: 1
+
+-----------------
+
+if: une
+pos: NOM
+lf: un
+is a term candidate: 1
+
+-----------------
+
+if: contrôles
+pos: NOM
+lf: contrôle
+is a term candidate: 1
+
+-----------------
+
+if: niveau de tension
+pos: NOM de NOM
+lf: niveau de tension
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( niveau<=H> de<=P> tension<=M> )
+islands: 0
+
+
+-----------------
+
+if: °C
+pos: NAM
+lf: °C
+is a term candidate: 1
+
+-----------------
+
+if: durée de vie limite des batteries
+pos: NOM de NOM NOM des NOM
+lf: durée de vie limite du batterie
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: charge
+pos: NOM
+lf: charge
+is a term candidate: 1
+
+-----------------
+
+if: réel
+pos: NOM
+lf: réel
+is a term candidate: 1
+
+-----------------
+
+if: test
+pos: NOM
+lf: test
+is a term candidate: 1
+
+-----------------
+
+if: moteurs
+pos: NOM
+lf: moteur
+is a term candidate: 1
+
+-----------------
+
+if: coupure du réseau public de distribution
+pos: NOM du NOM ADJ de NOM
+lf: coupure du réseau public de distribution
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: unparc éolien comptant 2 éoliennes
+pos: NOM ADJ VER:ppre NUM NOM
+lf: unparc éolien compter 2 éolienne
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: exploitant
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+
+if: perte
+pos: NOM
+lf: perte
+is a term candidate: 1
+
+-----------------
+
+if: ensemble des 21 autres éoliennes de même modèle
+pos: NOM des NUM ADJ NOM de ADJ NOM
+lf: ensemble du 21 autre éolienne de même modèle
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: rotor
+pos: NOM
+lf: rotor
+is a term candidate: 1
+
+-----------------
+
+if: jeux
+pos: NOM
+lf: jeu
+is a term candidate: 1
+
+-----------------
+
+if: retrait de 2 des 18 batteries
+pos: NOM de NUM des NUM NOM
+lf: retrait de 2 du 18 batterie
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: arrêt du générateur
+pos: NOM du NOM
+lf: arrêt du générateur
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( arrêt<=H> du<=P> générateur<=M> )
+islands: 0
+
+
+-----------------
+
+if: urgence
+pos: NOM
+lf: urgence
+is a term candidate: 1
+
+-----------------
+
+if: 13h25
+pos: NAM
+lf: 13h25
+is a term candidate: 1
+
+-----------------
+
+if: seul
+pos: NOM
+lf: seul
+is a term candidate: 1
+
+-----------------
+
+if: puissance nécessaire
+pos: NOM ADJ
+lf: puissance nécessaire
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( puissance<=H> nécessaire<=M> )
+islands: 0
+
+
+-----------------
+
+if: tension aux bornes des jeux de batteries
+pos: NOM aux NOM des NOM de NOM
+lf: tension au borne du jeu de batterie
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: tension à l' aide
+pos: NOM à DET:ART NOM
+lf: tension à le aide
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( tension<=H> à<=P> l'<=D> aide<=M> )
+islands: 0
+
+
+-----------------
+
+if: essais
+pos: NOM
+lf: essai
+is a term candidate: 1
+
+-----------------
+
+if: position de production
+pos: NOM de NOM
+lf: position de production
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( position<=H> de<=P> production<=M> )
+islands: 0
+
+
+-----------------
+
+if: déclenchement
+pos: NOM
+lf: déclenchement
+is a term candidate: 1
+
+-----------------
+
+if: durée de vie constructeur
+pos: NOM de NOM ADJ
+lf: durée de vie constructeur
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( durée<=H> de<=P> ( vie<=H> constructeur<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: survitesse
+pos: NOM
+lf: survitesse
+is a term candidate: 1
+
+-----------------
+
+if: ans
+pos: NOM
+lf: an
+is a term candidate: 1
+
+-----------------
+
+if: activité
+pos: NOM
+lf: activité
+is a term candidate: 1
+
+-----------------
+
+if: température
+pos: NOM
+lf: température
+is a term candidate: 1
+
+-----------------
+
+if: débranchement du jeu
+pos: NOM du NOM
+lf: débranchement du jeu
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( débranchement<=H> du<=P> jeu<=M> )
+islands: 0
+
+
+-----------------
+
+if: seule pale
+pos: ADJ NOM
+lf: seul pale
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( seule<=M> pale<=H> )
+islands: 0
+
+
+-----------------
+
+if: charge théorique
+pos: NOM ADJ
+lf: charge théorique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( charge<=H> théorique<=M> )
+islands: 0
+
+
+-----------------
+
+if: rayon de 300 m. Les pompiers
+pos: NOM de NUM ABR DET:ART NOM
+lf: rayon de 300 m. le pompier
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: jeu de 18 batteries au plomb
+pos: NOM de NUM NOM au NOM
+lf: jeu de 18 batterie au plomb
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: délai
+pos: NOM
+lf: délai
+is a term candidate: 1
+
+-----------------
+
+if: sécurité
+pos: NOM
+lf: sécurité
+is a term candidate: 1
+
+-----------------
+
+if: minutes
+pos: NOM
+lf: minute
+is a term candidate: 1
+
+-----------------
+
+if: rotation de 90°
+pos: NOM de NAM
+lf: rotation de 90°
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( rotation<=H> de<=P> 90°<=M> )
+islands: 0
+
+
+-----------------
+
+if: coffret des batteries
+pos: NOM des NOM
+lf: coffret du batterie
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( coffret<=H> des<=P> batteries<=M> )
+islands: 0
+
+
+-----------------
+
+if: mise
+pos: NOM
+lf: mise
+is a term candidate: 1
+
+-----------------
+
+if: ans à 20 °C
+pos: NOM à NUM NAM
+lf: an à 20 °C
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: alarme
+pos: NOM
+lf: alarme
+is a term candidate: 1
+
+-----------------
+
+if: courant
+pos: NOM
+lf: courant
+is a term candidate: 1
+
+-----------------
+
+if: 14h40
+pos: NAM
+lf: 14h40
+is a term candidate: 1
+
+-----------------
+
+if: jeu
+pos: NOM
+lf: jeu
+is a term candidate: 1
+
+-----------------
+
+if: repli
+pos: NOM
+lf: repli
+is a term candidate: 1
+
+-----------------
+
+if: pales
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: alimentation électrique
+pos: NOM ADJ
+lf: alimentation électrique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( alimentation<=H> électrique<=M> )
+islands: 0
+
+
+-----------------
+
+if: seuil
+pos: NOM
+lf: seuil
+is a term candidate: 1
+
+-----------------
+
+if: vérification annuelle
+pos: NOM ADJ
+lf: vérification annuel
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( vérification<=H> annuelle<=M> )
+islands: 0
+
+
+-----------------
+
+if: plie
+pos: NOM
+lf: plie
+is a term candidate: 1
+
+-----------------
+
+if: :les batteries
+pos: ADJ NOM
+lf: :les batterie
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( :les<=M> batteries<=H> )
+islands: 0
+
+
+-----------------
+

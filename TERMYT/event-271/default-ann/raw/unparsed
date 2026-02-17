@@ -1,0 +1,115 @@
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: éoliennes du parc
+pos: NOM du NOM
+lf: éolienne du parc
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( éoliennes<=H> du<=P> parc<=M> )
+islands: 0
+
+
+-----------------
+
+if: barotraumatismes
+pos: NOM
+lf: barotraumatisme
+is a term candidate: 1
+
+-----------------
+
+if: cadavres de 4 Pipistrelles commune
+pos: NOM de NUM NOM ADJ
+lf: cadavre de 4 pipistrelle commun
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: suivi environnemental
+pos: NOM ADJ
+lf: suivi environnemental
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( suivi<=H> environnemental<=M> )
+islands: 0
+
+
+-----------------
+
+if: suite de la découverte des cadavres
+pos: NOM de DET:ART NOM des NOM
+lf: suite de le découverte du cadavre
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: espèce
+pos: NOM
+lf: espèce
+is a term candidate: 1
+
+-----------------
+
+if: bureau
+pos: NOM
+lf: bureau
+is a term candidate: 1
+
+-----------------
+
+if: cadavres de chiroptère
+pos: NOM de NOM
+lf: cadavre de chiroptère
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( cadavres<=H> de<=P> chiroptère<=M> )
+islands: 0
+
+
+-----------------
+
+if: nouveau bridage
+pos: ADJ NOM
+lf: nouveau bridage
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( nouveau<=M> bridage<=H> )
+islands: 0
+
+
+-----------------
+
+if: pieds de 3 éoliennes
+pos: NOM de NUM NOM
+lf: pied de 3 éolienne
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: étude
+pos: NOM
+lf: étude
+is a term candidate: 1
+
+-----------------
+

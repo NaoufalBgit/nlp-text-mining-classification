@@ -1,0 +1,452 @@
+if: nacelle
+pos: NOM
+lf: nacelle
+is a term candidate: 1
+
+-----------------
+
+if: ensemble des machines
+pos: NOM des NOM
+lf: ensemble du machine
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( ensemble<=H> des<=P> machines<=M> )
+islands: 0
+
+
+-----------------
+
+if: câbles de puissances étant maintenus au châssis de la nacelle à l' aide de support
+pos: NOM de NOM VER:ppre VER:pper au NOM de DET:ART NOM à DET:ART NOM de NOM
+lf: câble de puissance être maintenir au châssis de le nacelle à le aide de support
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: câbles de puissance
+pos: NOM de NOM
+lf: câble de puissance
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( câbles<=H> de<=P> puissance<=M> )
+islands: 0
+
+
+-----------------
+
+if: pompiers
+pos: NOM
+lf: pompier
+is a term candidate: 1
+
+-----------------
+
+if: détérioration
+pos: NOM
+lf: détérioration
+is a term candidate: 1
+
+-----------------
+
+if: poudre
+pos: NOM
+lf: poudre
+is a term candidate: 1
+
+-----------------
+
+if: machine
+pos: NOM
+lf: machine
+is a term candidate: 1
+
+-----------------
+
+if: équipement
+pos: NOM
+lf: équipement
+is a term candidate: 1
+
+-----------------
+
+if: treillis métallique
+pos: NOM ADJ
+lf: treillis métallique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( treillis<=H> métallique<=M> )
+islands: 0
+
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: feu
+pos: NOM
+lf: feu
+is a term candidate: 1
+
+-----------------
+
+if: câbles adjacents
+pos: NOM ADJ
+lf: câble adjacent
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( câbles<=H> adjacents<=M> )
+islands: 0
+
+
+-----------------
+
+if: zone
+pos: NOM
+lf: zone
+is a term candidate: 1
+
+-----------------
+
+if: autres éoliennes du même type
+pos: ADJ NOM du ADJ NOM
+lf: autre éolienne du même type
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: 12h30
+pos: NAM
+lf: 12h30
+is a term candidate: 1
+
+-----------------
+
+if: court-circuit
+pos: NOM
+lf: court-circuit
+is a term candidate: 1
+
+-----------------
+
+if: points stratégiques
+pos: NOM ADJ
+lf: point stratégique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( points<=H> stratégiques<=M> )
+islands: 0
+
+
+-----------------
+
+if: combustion
+pos: NOM
+lf: combustion
+is a term candidate: 1
+
+-----------------
+
+if: pied
+pos: NOM
+lf: pied
+is a term candidate: 1
+
+-----------------
+
+if: contact
+pos: NOM
+lf: contact
+is a term candidate: 1
+
+-----------------
+
+if: expert
+pos: NOM
+lf: expert
+is a term candidate: 1
+
+-----------------
+
+if: propagation
+pos: NOM
+lf: propagation
+is a term candidate: 1
+
+-----------------
+
+if: site
+pos: NOM
+lf: site
+is a term candidate: 1
+
+-----------------
+
+if: chaussettes
+pos: NOM
+lf: chaussette
+is a term candidate: 1
+
+-----------------
+
+if: place des spirales de protection
+pos: NOM des NOM de NOM
+lf: place du spirale de protection
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: détérioration de l' isolant des câbles de puissance
+pos: NOM de DET:ART NOM des NOM de NOM
+lf: détérioration de le isolant du câble de puissance
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: information au fabricant
+pos: NOM au NOM
+lf: information au fabricant
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( information<=H> au<=P> fabricant<=M> )
+islands: 0
+
+
+-----------------
+
+if: exploitant
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+
+if: analyse
+pos: NOM
+lf: analyse
+is a term candidate: 1
+
+-----------------
+
+if: cours
+pos: NOM
+lf: cours|cour
+is a term candidate: 1
+
+-----------------
+
+if: Seules les gaines protectrices
+pos: ADJ DET:ART NOM ADJ
+lf: seul le gaine protecteur
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: flamme
+pos: NOM
+lf: flamme
+is a term candidate: 1
+
+-----------------
+
+if: système
+pos: NOM
+lf: système
+is a term candidate: 1
+
+-----------------
+
+if: assurance
+pos: NOM
+lf: assurance
+is a term candidate: 1
+
+-----------------
+
+if: boules extinctrices
+pos: NOM ADJ
+lf: boule extincteur
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( boules<=H> extinctrices<=M> )
+islands: 0
+
+
+-----------------
+
+if: origine de l' échauffement des câbles.Afin
+pos: NOM de DET:ART NOM des NOM
+lf: origine de le échauffement du câbles.Afin
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: frottement des chaussettes
+pos: NOM des NOM
+lf: frottement du chaussette
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( frottement<=H> des<=P> chaussettes<=M> )
+islands: 0
+
+
+-----------------
+
+if: filière.L'hypothèse
+pos: NOM
+lf: filière.L'hypothèse
+is a term candidate: 1
+
+-----------------
+
+if: sécurité
+pos: NOM
+lf: sécurité
+is a term candidate: 1
+
+-----------------
+
+if: fumée blanche
+pos: NOM ADJ
+lf: fumée blanc
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( fumée<=H> blanche<=M> )
+islands: 0
+
+
+-----------------
+
+if: 13h10
+pos: NAM
+lf: 13h10
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: frottements
+pos: NOM
+lf: frottement
+is a term candidate: 1
+
+-----------------
+
+if: °C
+pos: NAM
+lf: °C
+is a term candidate: 1
+
+-----------------
+
+if: incendie
+pos: NOM
+lf: incendie
+is a term candidate: 1
+
+-----------------
+
+if: température
+pos: NOM
+lf: température
+is a term candidate: 1
+
+-----------------
+
+if: treillis métallique appelé « chaussette
+pos: NOM ADJ VER:pper PUN:cit NOM
+lf: treillis métallique appeler « chaussette
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: usure
+pos: NOM
+lf: usure
+is a term candidate: 1
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: origine
+pos: NOM
+lf: origine
+is a term candidate: 1
+
+-----------------
+
+if: fumée
+pos: NOM
+lf: fumée
+is a term candidate: 1
+
+-----------------
+
+if: point de contact
+pos: NOM de NOM
+lf: point de contact
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( point<=H> de<=P> contact<=M> )
+islands: 0
+
+
+-----------------
+
+if: m de long
+pos: NOM de NOM
+lf: m de long
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( m<=H> de<=P> long<=M> )
+islands: 0
+
+
+-----------------
+

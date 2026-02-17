@@ -1,0 +1,265 @@
+if: matinée
+pos: NOM
+lf: matinée
+is a term candidate: 1
+
+-----------------
+
+if: parc
+pos: NOM
+lf: parc
+is a term candidate: 1
+
+-----------------
+
+if: exploitant
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+
+if: présence de glace
+pos: NOM de NOM
+lf: présence de glace
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( présence<=H> de<=P> glace<=M> )
+islands: 0
+
+
+-----------------
+
+if: défaillance au niveau des systèmes de détection de glace
+pos: NOM au NOM des NOM de NOM de NOM
+lf: défaillance au niveau du système de détection de glace
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: raison de la présence de glace
+pos: NOM de DET:ART NOM de NOM
+lf: raison de le présence de glace
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: conditions météorologiques
+pos: NOM ADJ
+lf: condition météorologique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( conditions<=H> météorologiques<=M> )
+islands: 0
+
+
+-----------------
+
+if: éoliennes
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: distance
+pos: NOM
+lf: distance
+is a term candidate: 1
+
+-----------------
+
+if: lendemain
+pos: NOM
+lf: lendemain
+is a term candidate: 1
+
+-----------------
+
+if: skieurs
+pos: NOM
+lf: skieur
+is a term candidate: 1
+
+-----------------
+
+if: Projection de glace
+pos: NOM de NOM
+lf: projection de glace
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Projection<=H> de<=P> glace<=M> )
+islands: 0
+
+
+-----------------
+
+if: jour
+pos: NOM
+lf: jour
+is a term candidate: 1
+
+-----------------
+
+if: pales.Le parc
+pos: ADJ NOM
+lf: pales.Le parc
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( pales.Le<=M> parc<=H> )
+islands: 0
+
+
+-----------------
+
+if: projection de glace
+pos: NOM de NOM
+lf: projection de glace
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( projection<=H> de<=P> glace<=M> )
+islands: 0
+
+
+-----------------
+
+if: piste de ski de fond passant à proximité de deux éoliennes.La formation de glace
+pos: NOM de NOM de NOM VER:ppre à NOM de NUM NOM NOM de NOM
+lf: piste de ski de fond passer à proximité de deux éoliennes.La formation de glace
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: défaut du logigramme de fonctionnement/communication des capteurs de glace
+pos: NOM du NOM de NOM des NOM de NOM
+lf: défaut du logigramme de fonctionnement/communication du capteur de glace
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: risque de nouvelles projections
+pos: NOM de ADJ NOM
+lf: risque de nouveau projection
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: gérants du domaine skiable
+pos: NOM du NOM ADJ
+lf: gérant du domaine skiable
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( gérants<=H> du<=P> ( domaine<=H> skiable<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: précaution
+pos: NOM
+lf: précaution
+is a term candidate: 1
+
+-----------------
+
+if: températures négatives.L'incident
+pos: NOM ADJ
+lf: température négatives.L'incident
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( températures<=H> négatives.L'incident<=M> )
+islands: 0
+
+
+-----------------
+
+if: automate des éoliennes
+pos: NOM des NOM
+lf: automate du éolienne
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( automate<=H> des<=P> éoliennes<=M> )
+islands: 0
+
+
+-----------------
+
+if: chutes de neige
+pos: NOM de NOM
+lf: chute de neige
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( chutes<=H> de<=P> neige<=M> )
+islands: 0
+
+
+-----------------
+
+if: arrêt
+pos: NOM
+lf: arrêt
+is a term candidate: 1
+
+-----------------
+
+if: phénomène
+pos: NOM
+lf: phénomène
+is a term candidate: 1
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: plateau
+pos: NOM
+lf: plateau
+is a term candidate: 1
+
+-----------------
+
+if: origine du non-arrêt des éoliennes
+pos: NOM du NOM des NOM
+lf: origine du non-arrêt du éolienne
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: jours
+pos: NOM
+lf: jour
+is a term candidate: 1
+
+-----------------
+

@@ -1,0 +1,162 @@
+if: parc
+pos: NOM
+lf: parc
+is a term candidate: 1
+
+-----------------
+
+if: origine du sinistre
+pos: NOM du NOM
+lf: origine du sinistre
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( origine<=H> du<=P> sinistre<=M> )
+islands: 0
+
+
+-----------------
+
+if: une des 9 éoliennes de 2 MW
+pos: NOM des NUM NOM de NUM NOM
+lf: un du 9 éolienne de 2 MW
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: arrêt
+pos: NOM
+lf: arrêt
+is a term candidate: 1
+
+-----------------
+
+if: nacelle
+pos: NOM
+lf: nacelle
+is a term candidate: 1
+
+-----------------
+
+if: exception de l' éolienne
+pos: NOM de DET:ART NOM
+lf: exception de le éolienne
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( exception<=H> de<=P> l'<=D> éolienne<=M> )
+islands: 0
+
+
+-----------------
+
+if: transformateur sec
+pos: NOM ADJ
+lf: transformateur sec
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( transformateur<=H> sec<=M> )
+islands: 0
+
+
+-----------------
+
+if: incendie
+pos: NOM
+lf: incendie
+is a term candidate: 1
+
+-----------------
+
+if: incendie à 23 h. L' exploitant précise
+pos: NOM à NUM ABR DET:ART NOM ADJ
+lf: incendie à 23 h. le exploitant précis
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: système de contrôle automatique
+pos: NOM de NOM ADJ
+lf: système de contrôle automatique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( système<=H> de<=P> ( contrôle<=H> automatique<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: pompiers
+pos: NOM
+lf: pompier
+is a term candidate: 1
+
+-----------------
+
+if: Éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: service 3 ans
+pos: NOM NUM NOM
+lf: service 3 an
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: aérogénérateurs
+pos: NOM
+lf: aérogénérateur
+is a term candidate: 1
+
+-----------------
+
+if: communiqué de presse
+pos: NOM de NOM
+lf: communiqué de presse
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( communiqué<=H> de<=P> presse<=M> )
+islands: 0
+
+
+-----------------
+
+if: autre dommage
+pos: ADJ NOM
+lf: autre dommage
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( autre<=M> dommage<=H> )
+islands: 0
+
+
+-----------------
+
+if: court-circuit
+pos: NOM
+lf: court-circuit
+is a term candidate: 1
+
+-----------------
+
+if: feu
+pos: NOM
+lf: feu
+is a term candidate: 1
+
+-----------------
+

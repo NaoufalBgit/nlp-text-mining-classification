@@ -1,0 +1,108 @@
+if: parc éolien proche appartenant au même exploitant
+pos: NOM ADJ ADJ VER:ppre au ADJ NOM
+lf: parc éolien proche appartenir au même exploitant
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: ARIA
+pos: NOM
+lf: aria
+is a term candidate: 1
+
+-----------------
+
+if: parc composé de 12 aérogénérateurs
+pos: NOM VER:pper de NUM NOM
+lf: parc composer de 12 aérogénérateur
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: acte criminel
+pos: NOM ADJ
+lf: acte criminel
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( acte<=H> criminel<=M> )
+islands: 0
+
+
+-----------------
+
+if: feu
+pos: NOM
+lf: feu
+is a term candidate: 1
+
+-----------------
+
+if: nuit
+pos: NOM
+lf: nuit
+is a term candidate: 1
+
+-----------------
+
+if: juin
+pos: NOM
+lf: juin
+is a term candidate: 1
+
+-----------------
+
+if: endommagées.D'après
+pos: NOM
+lf: endommagées.D'après
+is a term candidate: 1
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: éoliennes
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: Incendies criminels
+pos: NOM ADJ
+lf: incendie criminel
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Incendies<=H> criminels<=M> )
+islands: 0
+
+
+-----------------
+
+if: accident similaire
+pos: NOM ADJ
+lf: accident similaire
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( accident<=H> similaire<=M> )
+islands: 0
+
+
+-----------------
+

@@ -1,0 +1,309 @@
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: site
+pos: NOM
+lf: site
+is a term candidate: 1
+
+-----------------
+
+if: rupture de flexible de la multiplicatrice
+pos: NOM de ADJ de DET:ART ADJ
+lf: rupture de flexible de le multiplicateur
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: coulée
+pos: NOM
+lf: coulée
+is a term candidate: 1
+
+-----------------
+
+if: huile biodégradable
+pos: NOM ADJ
+lf: huile biodégradable
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( huile<=H> biodégradable<=M> )
+islands: 0
+
+
+-----------------
+
+if: visite
+pos: NOM
+lf: visite
+is a term candidate: 1
+
+-----------------
+
+if: entreprise
+pos: NOM
+lf: entreprise
+is a term candidate: 1
+
+-----------------
+
+if: lendemain
+pos: NOM
+lf: lendemain
+is a term candidate: 1
+
+-----------------
+
+if: Fuite
+pos: NOM
+lf: fuite
+is a term candidate: 1
+
+-----------------
+
+if: techniciens
+pos: NOM
+lf: technicien
+is a term candidate: 1
+
+-----------------
+
+if: projections de gouttes au sol
+pos: NOM de NOM au NOM
+lf: projection de goutte au sol
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: l
+pos: NOM
+lf: l
+is a term candidate: 1
+
+-----------------
+
+if: exploitant
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+
+if: plateforme
+pos: NOM
+lf: plateforme
+is a term candidate: 1
+
+-----------------
+
+if: pied de tour
+pos: NOM de NOM
+lf: pied de tour
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( pied<=H> de<=P> tour<=M> )
+islands: 0
+
+
+-----------------
+
+if: travaux de dépollution
+pos: NOM de NOM
+lf: travail de dépollution
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( travaux<=H> de<=P> dépollution<=M> )
+islands: 0
+
+
+-----------------
+
+if: évacuation de la couche superficielle
+pos: NOM de DET:ART NOM ADJ
+lf: évacuation de le couche superficiel
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( évacuation<=H> de<=P> la<=D> ( couche<=H> superficielle<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: évacuation des pierres
+pos: NOM des NOM
+lf: évacuation du pierre
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( évacuation<=H> des<=P> pierres<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: fuite au sol
+pos: NOM au NOM
+lf: fuite au sol
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( fuite<=H> au<=P> sol<=M> )
+islands: 0
+
+
+-----------------
+
+if: flexibles des multiplicatrices des autres éoliennes
+pos: ADJ des ADJ des ADJ NOM
+lf: flexible du multiplicateur du autre éolienne
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: intervention
+pos: NOM
+lf: intervention
+is a term candidate: 1
+
+-----------------
+
+if: nouveaux kits absorbants
+pos: ADJ NOM ADJ
+lf: nouveau kit absorbant
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: installation
+pos: NOM
+lf: installation
+is a term candidate: 1
+
+-----------------
+
+if: mât
+pos: NOM
+lf: mât
+is a term candidate: 1
+
+-----------------
+
+if: nacelle.Le lendemain de l' événement
+pos: ADJ NOM de DET:ART NOM
+lf: nacelle.Le lendemain de le événement
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: huile
+pos: NOM
+lf: huile
+is a term candidate: 1
+
+-----------------
+
+if: nettoyage
+pos: NOM
+lf: nettoyage
+is a term candidate: 1
+
+-----------------
+
+if: fuite
+pos: NOM
+lf: fuite
+is a term candidate: 1
+
+-----------------
+
+if: kit antipollution
+pos: NOM ADJ
+lf: kit antipollution
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( kit<=H> antipollution<=M> )
+islands: 0
+
+
+-----------------
+
+if: kits antipollution
+pos: NOM ADJ
+lf: kit antipollution
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( kits<=H> antipollution<=M> )
+islands: 0
+
+
+-----------------
+
+if: réparation
+pos: NOM
+lf: réparation
+is a term candidate: 1
+
+-----------------
+
+if: fiche de données de sécurité
+pos: NOM de NOM de NOM
+lf: fiche de donnée de sécurité
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: pied de mât
+pos: NOM de NOM
+lf: pied de mât
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( pied<=H> de<=P> mât<=M> )
+islands: 0
+
+
+-----------------
+
+if: absence de nouvelle fuite
+pos: NOM de ADJ NOM
+lf: absence de nouveau fuite
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+

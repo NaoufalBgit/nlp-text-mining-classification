@@ -1,0 +1,426 @@
+if: vautour fauve
+pos: NOM ADJ
+lf: vautour fauve
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( vautour<=H> fauve<=M> )
+islands: 0
+
+
+-----------------
+
+if: migration.L'analyse du cadavre
+pos: NOM du NOM
+lf: migration.L'analyse du cadavre
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( migration.L'analyse<=H> du<=P> cadavre<=M> )
+islands: 0
+
+
+-----------------
+
+if: cours des 2 années précédentes
+pos: NOM des NUM NOM ADJ
+lf: cours|cour du 2 année précédent
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: seule donnée de milan royal
+pos: ADJ NOM de NOM ADJ
+lf: seul donnée de milan royal
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: même façon
+pos: ADJ NOM
+lf: même façon
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( même<=M> façon<=H> )
+islands: 0
+
+
+-----------------
+
+if: faible activité du milan royal
+pos: ADJ NOM du NOM ADJ
+lf: faible activité du milan royal
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: brouillard
+pos: NOM
+lf: brouillard
+is a term candidate: 1
+
+-----------------
+
+if: forêt
+pos: NOM
+lf: forêt
+is a term candidate: 1
+
+-----------------
+
+if: avifaune nuptiale
+pos: NOM ADJ
+lf: avifaune nuptial
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( avifaune<=H> nuptiale<=M> )
+islands: 0
+
+
+-----------------
+
+if: individu immature
+pos: NOM ADJ
+lf: individu immature
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( individu<=H> immature<=M> )
+islands: 0
+
+
+-----------------
+
+if: insectes nécrophages
+pos: NOM ADJ
+lf: insecte nécrophage
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( insectes<=H> nécrophages<=M> )
+islands: 0
+
+
+-----------------
+
+if: cadavre de milan royal
+pos: NOM de NOM ADJ
+lf: cadavre de milan royal
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( cadavre<=H> de<=P> ( milan<=H> royal<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: semaines
+pos: NOM
+lf: semaine
+is a term candidate: 1
+
+-----------------
+
+if: éolienne.Une collision directe
+pos: ADJ NOM ADJ
+lf: éolienne.Une collision direct
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: chair
+pos: NOM
+lf: chair
+is a term candidate: 1
+
+-----------------
+
+if: cadavre
+pos: NOM
+lf: cadavre
+is a term candidate: 1
+
+-----------------
+
+if: phase de transit
+pos: NOM de NOM
+lf: phase de transit
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( phase<=H> de<=P> transit<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: mauvaises conditions
+pos: ADJ NOM
+lf: mauvais condition
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( mauvaises<=M> conditions<=H> )
+islands: 0
+
+
+-----------------
+
+if: éléments
+pos: NOM
+lf: élément
+is a term candidate: 1
+
+-----------------
+
+if: sol à 35 m
+pos: NOM à NUM NOM
+lf: sol à 35 m
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: cours du suivi comportemental
+pos: NOM du NOM ADJ
+lf: cours|cour du suivi comportemental
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( cours<=H> du<=P> ( suivi<=H> comportemental<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: parc
+pos: NOM
+lf: parc
+is a term candidate: 1
+
+-----------------
+
+if: particulier
+pos: NOM
+lf: particulier
+is a term candidate: 1
+
+-----------------
+
+if: origine du décès
+pos: NOM du NOM
+lf: origine du décès
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( origine<=H> du<=P> décès<=M> )
+islands: 0
+
+
+-----------------
+
+if: parc au cours des campagnes de suivi de la mortalité précédentes
+pos: NOM au NOM des NOM de NOM de DET:ART NOM ADJ
+lf: parc au cours|cour du campagne de suivi de le mortalité précédent
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: manque de visibilité
+pos: NOM de NOM
+lf: manque de visibilité
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( manque<=H> de<=P> visibilité<=M> )
+islands: 0
+
+
+-----------------
+
+if: nord-est du parc
+pos: NOM du NOM
+lf: nord-est du parc
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( nord-est<=H> du<=P> parc<=M> )
+islands: 0
+
+
+-----------------
+
+if: espèce
+pos: NOM
+lf: espèce
+is a term candidate: 1
+
+-----------------
+
+if: maintenance
+pos: NOM
+lf: maintenance
+is a term candidate: 1
+
+-----------------
+
+if: altitude
+pos: NOM
+lf: altitude
+is a term candidate: 1
+
+-----------------
+
+if: années civiles
+pos: NOM ADJ
+lf: année civil
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( années<=H> civiles<=M> )
+islands: 0
+
+
+-----------------
+
+if: alentours
+pos: NOM
+lf: alentour
+is a term candidate: 1
+
+-----------------
+
+if: secteur du parc
+pos: NOM du NOM
+lf: secteur du parc
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( secteur<=H> du<=P> parc<=M> )
+islands: 0
+
+
+-----------------
+
+if: putréfaction du cadavre étant avancée
+pos: NOM du NOM VER:ppre NOM
+lf: putréfaction du cadavre être avancée
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: impact
+pos: NOM
+lf: impact
+is a term candidate: 1
+
+-----------------
+
+if: milan
+pos: NOM
+lf: milan
+is a term candidate: 1
+
+-----------------
+
+if: individu
+pos: NOM
+lf: individu
+is a term candidate: 1
+
+-----------------
+
+if: forts vents des derniers temps
+pos: ADJ NOM des ADJ NOM
+lf: fort vent du dernier temps
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: période nuptiale
+pos: NOM ADJ
+lf: période nuptial
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( période<=H> nuptiale<=M> )
+islands: 0
+
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: absence des yeux
+pos: NOM des NOM
+lf: absence du œil
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( absence<=H> des<=P> yeux<=M> )
+islands: 0
+
+
+-----------------
+
+if: suivi comportemental
+pos: NOM ADJ
+lf: suivi comportemental
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( suivi<=H> comportemental<=M> )
+islands: 0
+
+
+-----------------
+
+if: oiseau
+pos: NOM
+lf: oiseau
+is a term candidate: 1
+
+-----------------
+
+if: Choc
+pos: NOM
+lf: choc
+is a term candidate: 1
+
+-----------------
+

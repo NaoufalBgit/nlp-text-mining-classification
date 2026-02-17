@@ -1,0 +1,152 @@
+# ID	Inflected form	Lemmatised form	Frequency	CValue	CValue1	CValuePlus	CValuePlus1	CValueStar	CValueStarH	CValueStarM	CValueStarR	CValueWCard	CValueWCardPlus	D	DDW	Freq	idf	ilnc	ilncFreq	iLong	IM	iTer	LLR	nbdoc4tc	NormFreq	tf	tf-idf	Head	Modifier	MainHead
+7	armoire de commande	armoire de commande	3	3.16992500144231	4	6.33985000288463	8	1	N/A	0.415037499278844	N/A	2	4	1	0	3	0:0	0	0	1	0.96	0.75	0.512139172310554	1	0.375	0:3	0:0	8	9	8	
+39	acquisition des signaux de commande manuelle	acquisition du signal de commande manuel	1	2.58496250072116	2.8073549220576	2.58496250072116	2.8073549220576	N/A	N/A	N/A	0.222392421336448	0	0	1	0	1	0:0	0	0	0.166666666666667	8	0.142857142857143	0.000115129154648748	1	0.125	0:1	0:0	40	43	41	
+5	dépannage de l' armoire de commande	dépannage de le armoire de commande	1	2.58496250072116	2.8073549220576	2.58496250072116	2.8073549220576	4	N/A	N/A	0.222392421336448	0	0	1	0	1	0:0	0	0	0.166666666666667	2.66666666666667	0.142857142857143	0	1	0.125	0:1	0:0	6	7	6	
+102	relais de l' armoire de commande	relais de le armoire de commande	1	2.58496250072116	2.8073549220576	2.58496250072116	2.8073549220576	3	N/A	N/A	0.222392421336448	0	0	1	0	1	0:0	0	0	0.166666666666667	0.533333333333333	0.142857142857143	1.31706289202794	1	0.125	0:1	0:0	22	7	22	
+85	alarme concernant le blocage des freins	alarme concerner le blocage du frein	1	2.58496250072116	2.8073549220576	2.58496250072116	2.8073549220576	3	N/A	N/A	0.222392421336448	0	0	1	0	1	0:0	0	0	0.166666666666667	4	0.142857142857143	0.000115129154648748	1	0.125	0:1	0:0	86	47	87	
+56	périmètre de sécurité de 200 m	périmètre de sécurité de 200 m	1	2.58496250072116	2.8073549220576	2.58496250072116	2.8073549220576	4	N/A	N/A	0.222392421336448	0	0	1	0	1	0:0	0	0	0.166666666666667	8	0.142857142857143	0.000115129154648748	1	0.125	0:1	0:0	57	60	58	
+49	fortes vibrations au niveau du rotor	fort vibration au niveau du rotor	1	2.58496250072116	2.8073549220576	2.58496250072116	2.8073549220576	4	N/A	N/A	0.222392421336448	0	0	1	0	1	0:0	0	0	0.166666666666667	4	0.142857142857143	1.38627436101989	1	0.125	0:1	0:0	50	55	53	
+74	position fixe face au vent	position fixe face au vent	1	2.32192809488736	2.58496250072116	2.32192809488736	2.58496250072116	3	N/A	N/A	0.263034405833794	0	0	1	0	1	0:0	0	0	0.2	8	0.166666666666667	0.000115129154648748	1	0.125	0:1	0:0	75	80	77	
+165	coque de la nacelle son	coque de le nacelle son	1	2.32192809488736	2.58496250072116	2.32192809488736	2.58496250072116	3	N/A	N/A	0.263034405833794	0	0	1	0	1	0:0	0	0	0.2	8	0.166666666666667	0.000115129154648748	1	0.125	0:1	0:0	166	169	167	
+171	relais de l' armoire hydraulique	relais de le armoire hydraulique	1	2.32192809488736	2.58496250072116	2.32192809488736	2.58496250072116	4	N/A	N/A	0.263034405833794	0	0	1	0	1	0:0	0	0	0.2	1.6	0.166666666666667	2.23133301247915e-06	1	0.125	0:1	0:0	22	173	22	
+118	signal de fermeture du contacteur	signal de fermeture du contacteur	1	2.32192809488736	2.58496250072116	2.32192809488736	2.58496250072116	4	N/A	N/A	0.263034405833794	0	0	1	0	1	0:0	0	0	0.2	2	0.166666666666667	1.38627436101989	1	0.125	0:1	0:0	119	10	120	
+21	relais défectueux	relais défectueux	2	2	3.16992500144231	2	3.16992500144231	1	N/A	N/A	1.16992500144231	0	0	1	0	2	0:0	0	0	1	1.6	0.666666666666667	5.10814957057699e-06	1	0.25	0:2	0:0	22	23	22	
+132	fibre de verre issus	fibre de verre issu	1	2	2.32192809488736	2	2.32192809488736	N/A	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	8	0.2	0.000115129154648748	1	0.125	0:1	0:0	133	134	133	
+146	rotor de l' éolienne	rotor de le éolienne	1	2	2.32192809488736	2	2.32192809488736	1	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	0.5	0.2	6.93134680530211e-06	1	0.125	0:1	0:0	55	148	55	
+63	fermeture du contacteur principal	fermeture du contacteur principal	1	2	2.32192809488736	2	2.32192809488736	4	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	4	0.2	6.93134680530211e-06	1	0.125	0:1	0:0	64	65	64	
+123	orientation de la nacelle	orientation de le nacelle	1	2	2.32192809488736	2	2.32192809488736	4	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	0.888888888888889	0.2	0.523238143714547	1	0.125	0:1	0:0	92	93	92	
+24	machines de 120 m	machine de 120 m	1	2	2.32192809488736	2	2.32192809488736	4	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	8	0.2	0.000115129154648748	1	0.125	0:1	0:0	25	26	25	
+36	tension de la génératrice	tension de le génératrice	1	2	2.32192809488736	2	2.32192809488736	4	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	1.33333333333333	0.2	0.000115129154648748	1	0.125	0:1	0:0	37	38	37	
+32	évacuées.L'opération de maintenance	évacuées.L'opération de maintenance	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	2.66666666666667	0.25	0	1	0.125	0:1	0:0	33	34	33	
+68	action de remplacement	action de remplacement	1	1.58496250072116	2	1.58496250072116	2	4	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	8	0.25	0.000115129154648748	1	0.125	0:1	0:0	69	70	69	
+29	macroéléments de plastique	macroélément de plastique	1	1.58496250072116	2	1.58496250072116	2	4	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	8	0.25	0.000115129154648748	1	0.125	0:1	0:0	30	31	30	
+81	système de freinage	système de freinage	1	1.58496250072116	2	1.58496250072116	2	4	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	1.6	0.25	6.93134680530211e-06	1	0.125	0:1	0:0	82	83	82	
+137	société de maintenance	société de maintenance	1	1.58496250072116	2	1.58496250072116	2	3	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	2.66666666666667	0.25	0	1	0.125	0:1	0:0	138	34	138	
+15	couplage du stator	couplage du stator	1	1.58496250072116	2	1.58496250072116	2	1	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	2	0.25	0.000115129154648748	1	0.125	0:1	0:0	16	17	16	
+162	procédure de sécurité	procédure de sécurité	1	1.58496250072116	2	1.58496250072116	2	4	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	2	0.25	0	1	0.125	0:1	0:0	163	59	163	
+182	Feu de moteur	feu de moteur	1	1.58496250072116	2	1.58496250072116	2	4	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	8	0.25	0.000115129154648748	1	0.125	0:1	0:0	183	184	183	
+114	orientation des pales	orientation du pale	1	1.58496250072116	2	1.58496250072116	2	4	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	2.66666666666667	0.25	6.93134680530211e-06	1	0.125	0:1	0:0	92	116	92	
+141	armoire de puissance	armoire de puissance	1	1.58496250072116	2	1.58496250072116	2	4	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	0.8	0.25	0.143337061982632	1	0.125	0:1	0:0	8	143	8	
+18	issues de secours	issue de secours	1	1.58496250072116	2	1.58496250072116	2	4	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	4	0.25	0.000115129154648748	1	0.125	0:1	0:0	19	20	19	
+12	arcs électriques	arc électrique	1	1	1.58496250072116	1	1.58496250072116	3	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	8	0.333333333333333	0.000115129154648748	1	0.125	0:1	0:0	13	14	13	
+152	mouvement intermittent	mouvement intermittent	1	1	1.58496250072116	1	1.58496250072116	1	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	8	0.333333333333333	0.000115129154648748	1	0.125	0:1	0:0	153	154	153	
+0	mode automatique	mode automatique	1	1	1.58496250072116	1	1.58496250072116	1	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	4	0.333333333333333	6.93134680530211e-06	1	0.125	0:1	0:0	1	2	1	
+155	relais identique	relais identique	1	1	1.58496250072116	1	1.58496250072116	1	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	1.6	0.333333333333333	2.23133301247915e-06	1	0.125	0:1	0:0	22	157	22	
+177	puissance totale	puissance total	1	1	1.58496250072116	1	1.58496250072116	4	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	4	0.333333333333333	6.93134680530211e-06	1	0.125	0:1	0:0	143	179	143	
+128	mode manuel	mode manuel	1	1	1.58496250072116	1	1.58496250072116	4	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	4	0.333333333333333	6.93134680530211e-06	1	0.125	0:1	0:0	1	130	1	
+71	éléments structurels	élément structurel	1	1	1.58496250072116	1	1.58496250072116	4	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	8	0.333333333333333	0.000115129154648748	1	0.125	0:1	0:0	72	73	72	
+148	éolienne	éolienne	8	0	7	0	9	3	N/A	7	N/A	7	9	1	0	8	0:0	0	0	8	N/A	4	N/A	1	1	0:8	0:0				
+22	relais	relais	5	0	3.75	0	6.25	3	0	N/A	N/A	3.75	6.25	1	0	5	0:0	4	5	5	N/A	12.5	N/A	1	0.625	0:5	0:0				
+8	armoire	armoire	5	0	3.6	0	6.4	4	-2	N/A	N/A	3.6	6.4	1	0	5	0:0	5	7	5	N/A	15	N/A	1	0.625	0:5	0:0				
+9	commande	commande	4	0	3.5	0	6.5	4	4	0	N/A	2.5	5.5	1	0	4	0:0	1	1	4	N/A	4	N/A	1	0.5	0:4	0:0				
+112	techniciens	technicien	4	0	4	0	4	4	N/A	N/A	4	0	0	1	0	4	0:0	0	0	4	N/A	2	N/A	1	0.5	0:4	0:0				
+82	système	système	4	0	4	0	6	4	4	4	N/A	3	5	1	0	4	0:0	1	1	4	N/A	4	N/A	1	0.5	0:4	0:0				
+34	maintenance	maintenance	3	0	2	0	4	4	N/A	0	N/A	2	4	1	0	3	0:0	0	0	3	N/A	1.5	N/A	1	0.375	0:3	0:0				
+10	contacteur	contacteur	3	0	3	0	5	3	3	3	N/A	2	4	1	0	3	0:0	1	1	3	N/A	3	N/A	1	0.375	0:3	0:0				
+93	nacelle	nacelle	3	0	2	0	4	1	N/A	1	N/A	2	4	1	0	3	0:0	0	0	3	N/A	1.5	N/A	1	0.375	0:3	0:0				
+92	orientation	orientation	3	0	2	0	4	4	1	N/A	N/A	2	4	1	0	3	0:0	2	2	3	N/A	4.5	N/A	1	0.375	0:3	0:0				
+163	procédure	procédure	2	0	1	0	3	N/A	1	N/A	N/A	1	3	1	0	2	0:0	1	1	2	N/A	2	N/A	1	0.25	0:2	0:0				
+110	parc	parc	2	0	2	0	2	N/A	N/A	N/A	2	0	0	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.25	0:2	0:0				
+20	secours	secours	2	0	1	0	3	N/A	N/A	1	N/A	1	3	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.25	0:2	0:0				
+84	carte	carte	2	0	2	0	2	N/A	N/A	N/A	2	0	0	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.25	0:2	0:0				
+54	niveau	niveau	2	0	2	0	4	N/A	N/A	1	N/A	1	3	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.25	0:2	0:0				
+55	rotor	rotor	2	0	1	0	3	1	1	1	N/A	1	3	1	0	2	0:0	1	1	2	N/A	2	N/A	1	0.25	0:2	0:0				
+23	défectueux	défectueux	2	0	0	0	4	3	N/A	0	N/A	0	4	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.25	0:2	0:0				
+1	mode	mode	2	0	1	0	3	3	0	N/A	N/A	1	3	1	0	2	0:0	2	2	2	N/A	3	N/A	1	0.25	0:2	0:0				
+47	freins	frein	2	0	1	0	3	3	N/A	1	N/A	1	3	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.25	0:2	0:0				
+37	tension	tension	2	0	1	0	3	3	1	N/A	N/A	1	3	1	0	2	0:0	1	1	2	N/A	2	N/A	1	0.25	0:2	0:0				
+176	arrêt	arrêt	2	0	2	0	2	3	N/A	N/A	2	0	0	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.25	0:2	0:0				
+64	fermeture	fermeture	2	0	1	0	3	1	1	1	N/A	1	3	1	0	2	0:0	1	1	2	N/A	2	N/A	1	0.25	0:2	0:0				
+28	m	m	2	0	1	0	3	1	0	N/A	N/A	1	3	1	0	2	0:0	2	2	2	N/A	3	N/A	1	0.25	0:2	0:0				
+143	puissance	puissance	2	0	1	0	3	1	1	1	N/A	1	3	1	0	2	0:0	1	1	2	N/A	2	N/A	1	0.25	0:2	0:0				
+59	sécurité	sécurité	2	0	1	0	3	4	N/A	0	N/A	1	3	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.25	0:2	0:0				
+46	feu	feu	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.125	0:1	0:0				
+79	face	face	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.125	0:1	0:0				
+140	service	service	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.125	0:1	0:0				
+30	macroéléments	macroélément	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.125	0:1	0:0				
+173	armoire hydraulique	armoire hydraulique	1	0	0	2	3.16992500144231	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.5	1.6	0.333333333333333	1.54140560791878e-06	1	0.125	0:1	0:0	8	175	8	
+179	totale	total	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.125	0:1	0:0				
+4	sol	sol	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.125	0:1	0:0				
+111	18h50	18h50	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.125	0:1	0:0				
+72	éléments	élément	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.125	0:1	0:0				
+151	suite	suite	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.125	0:1	0:0				
+169	son	son	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.125	0:1	0:0				
+3	incendie	incendie	1	0	1	0	1	4	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.125	0:1	0:0				
+25	machines	machine	1	0	0	0	2	4	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.125	0:1	0:0				
+45	manuelle	manuel	1	0	0	0	2	4	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.125	0:1	0:0				
+6	dépannage	dépannage	1	0	0	0	2	4	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.125	0:1	0:0				
+130	manuel	manuel	1	0	0	0	2	4	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.125	0:1	0:0				
+42	signaux	signal	1	0	0	0	2	4	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.125	0:1	0:0				
+31	plastique	plastique	1	0	0	0	2	4	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.125	0:1	0:0				
+51	fortes vibrations	fort vibration	1	0	0	2	3.16992500144231	4	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.5	8	0.666666666666667	0.000115129154648748	1	0.125	0:1	0:0	53	52	53	
+70	remplacement	remplacement	1	0	0	0	2	4	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.125	0:1	0:0				
+38	génératrice	génératrice	1	0	2	0	4	4	N/A	2	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.125	0:1	0:0				
+161	alimentation	alimentation	1	0	1	0	1	4	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.125	0:1	0:0				
+154	intermittent	intermittent	1	0	0	0	2	4	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.125	0:1	0:0				
+153	mouvement	mouvement	1	0	0	0	2	4	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.125	0:1	0:0				
+89	concernant	concerner	1	0	0	0	2	4	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.125	0:1	0:0				
+69	action	action	1	0	0	0	2	4	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.125	0:1	0:0				
+120	signal	signal	1	0	0	0	2	4	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.125	0:1	0:0				
+87	alarme	alarme	1	0	0	0	2	4	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.125	0:1	0:0				
+40	acquisition des signaux	acquisition du signal	1	0	0	3.16992500144231	4	4	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	8	0.5	0.000115129154648748	1	0.125	0:1	0:0	41	42	41	
+175	hydraulique	hydraulique	1	0	0	0	2	4	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.125	0:1	0:0				
+11	précaution	précaution	1	0	1	0	1	4	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.125	0:1	0:0				
+144	15h45	15h45	1	0	1	0	1	1	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.125	0:1	0:0				
+43	commande manuelle	commande manuel	1	0	0	2	3.16992500144231	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.5	1.6	0.333333333333333	1.82311390038268e-06	1	0.125	0:1	0:0	9	45	9	
+183	Feu	feu	1	0	0	0	2	3	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.125	0:1	0:0				
+50	fortes vibrations au niveau	fort vibration au niveau	1	0	0	4	4.64385618977472	3	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.25	2.66666666666667	0.4	0	1	0.125	0:1	0:0	51	54	53	
+86	alarme concernant le blocage	alarme concerner le blocage	1	0	0	4	4.64385618977472	3	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.25	8	0.4	0.000115129154648748	1	0.125	0:1	0:0	87	88	87	
+52	fortes	fort	1	0	0	0	2	3	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.125	0:1	0:0				
+77	position	position	1	0	0	0	2	3	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.125	0:1	0:0				
+101	remontée	remontée	1	0	1	0	1	3	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.125	0:1	0:0				
+78	fixe	fixe	1	0	0	0	2	3	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.125	0:1	0:0				
+2	automatique	automatique	1	0	0	0	2	3	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.125	0:1	0:0				
+67	principal	principal	1	0	1	0	3	3	N/A	1	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.125	0:1	0:0				
+134	verre issus	verre issu	1	0	0	2	3.16992500144231	3	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.5	8	0.333333333333333	0.000115129154648748	1	0.125	0:1	0:0	135	136	135	
+57	périmètre de sécurité	périmètre de sécurité	1	0	0	3.16992500144231	4	3	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	4	0.5	0	1	0.125	0:1	0:0	58	59	58	
+35	cas	cas	1	0	1	0	1	3	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.125	0:1	0:0				
+167	coque	coque	1	0	0	0	2	3	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.125	0:1	0:0				
+116	pales	pale	1	0	0	0	2	3	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.125	0:1	0:0				
+58	périmètre	périmètre	1	0	0	0	2	3	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.125	0:1	0:0				
+184	moteur	moteur	1	0	0	0	2	3	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.125	0:1	0:0				
+83	freinage	freinage	1	0	0	0	2	3	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.125	0:1	0:0				
+27	120	120	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.125	0:1	0:0				
+113	bruit	bruit	1	0	1	0	1	1	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.125	0:1	0:0				
+97	opération	opération	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.125	0:1	0:0				
+17	stator	stator	1	0	1	0	3	1	N/A	1	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.125	0:1	0:0				
+119	signal de fermeture	signal de fermeture	1	0	0	3.16992500144231	4	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	4	0.5	1.38627436101989	1	0.125	0:1	0:0	120	64	120	
+126	étincelles	étincelle	1	0	1	0	1	1	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.125	0:1	0:0				
+41	acquisition	acquisition	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.125	0:1	0:0				
+166	coque de la nacelle	coque de le nacelle	1	0	0	4	4.64385618977472	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.25	2.66666666666667	0.4	0	1	0.125	0:1	0:0	167	93	167	
+76	position fixe	position fixe	1	0	0	2	3.16992500144231	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.5	8	0.666666666666667	0.000115129154648748	1	0.125	0:1	0:0	77	78	77	
+108	panne	panne	1	0	1	0	1	1	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.125	0:1	0:0				
+117	MW	MW	1	0	1	0	1	1	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.125	0:1	0:0				
+14	électriques	électrique	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.125	0:1	0:0				
+26	120 m	120 m	1	0	0	2	3.16992500144231	4	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.5	4	0.333333333333333	6.93134680530211e-06	1	0.125	0:1	0:0	28	27	28	
+13	arcs	arc	1	0	0	0	2	4	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.125	0:1	0:0				
+65	contacteur principal	contacteur principal	1	0	0	2	3.16992500144231	4	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.5	1	0.333333333333333	6.93134680530211e-06	1	0.125	0:1	0:0	10	67	10	
+157	identique	identique	1	0	0	0	2	4	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.125	0:1	0:0				
+60	200 m	200 m	1	0	0	2	3.16992500144231	4	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.5	4	0.333333333333333	6.93134680530211e-06	1	0.125	0:1	0:0	28	61	28	
+136	issus	issu	1	0	0	0	2	4	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.125	0:1	0:0				
+170	fonctionnement	fonctionnement	1	0	1	0	1	4	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.125	0:1	0:0				
+138	société	société	1	0	0	0	2	4	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.125	0:1	0:0				
+107	convertisseur	convertisseur	1	0	1	0	1	4	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.125	0:1	0:0				
+131	place	place	1	0	1	0	1	4	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.125	0:1	0:0				
+90	blocage	blocage	1	0	0	0	2	4	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.125	0:1	0:0				
+96	opération de maintenance	opération de maintenance	1	0	0	3.16992500144231	4	4	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	2.66666666666667	0.5	0	1	0.125	0:1	0:0	97	34	97	
+88	concernant le blocage	concerner le blocage	1	0	0	3.16992500144231	4	4	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.333333333333333	8	0.25	0.000115129154648748	1	0.125	0:1	0:0	89	90	89	
+80	vent	vent	1	0	0	0	2	4	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.125	0:1	0:0				
+133	fibre	fibre	1	0	0	0	2	4	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.125	0:1	0:0				
+145	vérification	vérification	1	0	1	0	1	4	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.125	0:1	0:0				
+149	réseau	réseau	1	0	1	0	1	4	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.125	0:1	0:0				
+75	position fixe face	position fixe face	1	0	0	3.16992500144231	4	4	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	8	0.5	0.000115129154648748	1	0.125	0:1	0:0	76	79	77	
+73	structurels	structurel	1	0	0	0	2	4	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.125	0:1	0:0				
+53	vibrations	vibration	1	0	0	0	2	4	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.125	0:1	0:0				
+150	intervenants	intervenant	1	0	1	0	1	4	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.125	0:1	0:0				
+135	verre	verre	1	0	0	0	2	4	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.125	0:1	0:0				
+33	évacuées.L'opération	évacuées.L'opération	1	0	0	0	2	4	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.125	0:1	0:0				
+16	couplage	couplage	1	0	1	0	3	4	1	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.125	0:1	0:0				
+95	opération de maintenance au niveau	opération de maintenance au niveau	1	0	0	4.64385618977472	5.16992500144231	4	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.2	2.66666666666667	0.333333333333333	0	1	0.125	0:1	0:0	96	54	97	
+61	200	200	1	0	0	0	2	4	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.125	0:1	0:0				
+185	ouverture/fermeture	ouverture/fermeture	1	0	1	0	1	4	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.125	0:1	0:0				
+19	issues	issue	1	0	0	0	2	4	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.125	0:1	0:0				

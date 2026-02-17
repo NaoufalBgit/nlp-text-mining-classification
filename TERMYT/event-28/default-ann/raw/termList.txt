@@ -1,0 +1,168 @@
+# ID	Inflected form	Lemmatised form	Frequency	CValue	CValue1	CValuePlus	CValuePlus1	CValueStar	CValueStarH	CValueStarM	CValueStarR	CValueWCard	CValueWCardPlus	D	DDW	Freq	idf	ilnc	ilncFreq	iLong	IM	iTer	LLR	nbdoc4tc	NormFreq	tf	tf-idf	Head	Modifier	MainHead
+29	gros débris composés de matériaux composites	gros débris composer de matériaux|matériau composite	1	2.58496250072116	2.8073549220576	2.58496250072116	2.8073549220576	1	N/A	N/A	0.222392421336448	0	0	1	0	1	0:0	0	0	0.166666666666667	5	0.142857142857143	0.000115129154648748	1	0.2	0:1	0:0	30	35	33	
+71	totalité des 54 billes de roulement	totalité du 54 bille de roulement	1	2.58496250072116	2.8073549220576	2.58496250072116	2.8073549220576	1	N/A	N/A	0.222392421336448	0	0	1	0	1	0:0	0	0	0.166666666666667	5	0.142857142857143	0.000115129154648748	1	0.2	0:1	0:0	72	73	72	
+132	libération de la couronne intérieure solidaire	libération de le couronne intérieur solidaire	1	2.58496250072116	2.8073549220576	2.58496250072116	2.8073549220576	1	N/A	N/A	0.222392421336448	0	0	1	0	1	0:0	0	0	0.166666666666667	5	0.142857142857143	0.000115129154648748	1	0.2	0:1	0:0	133	138	134	
+166	intervention des équipes de maintenance	intervention du équipe de maintenance	1	2.32192809488736	2.58496250072116	2.32192809488736	2.58496250072116	1	N/A	N/A	0.263034405833794	0	0	1	0	1	0:0	0	0	0.2	2.5	0.166666666666667	1.38627436101989	1	0.2	0:1	0:0	167	40	168	
+50	rupture de la couronne extérieure	rupture de le couronne extérieur	1	2.32192809488736	2.58496250072116	2.32192809488736	2.58496250072116	1	N/A	N/A	0.263034405833794	0	0	1	0	1	0:0	0	0	0.2	2.5	0.166666666666667	6.93134680530211e-06	1	0.2	0:1	0:0	51	52	51	
+124	alarme de dysfonctionnement du système	alarme de dysfonctionnement du système	1	2.32192809488736	2.58496250072116	2.32192809488736	2.58496250072116	0.584962500721156	N/A	N/A	0.263034405833794	0	0	1	0	1	0:0	0	0	0.2	1.66666666666667	0.166666666666667	0	1	0.2	0:1	0:0	125	3	126	
+17	matin de l' événement	matin de le événement	1	2	2.32192809488736	2	2.32192809488736	N/A	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	5	0.2	0.000115129154648748	1	0.2	0:1	0:0	18	19	18	
+108	inhibition du réarmement automatique	inhibition du réarmement automatique	1	2	2.32192809488736	2	2.32192809488736	N/A	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	5	0.2	0.000115129154648748	1	0.2	0:1	0:0	109	110	109	
+86	observation de 7 jours	observation de 7 jour	1	2	2.32192809488736	2	2.32192809488736	1	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	5	0.2	0.000115129154648748	1	0.2	0:1	0:0	87	88	87	
+11	autres turbines du parc	autre turbine du parc	1	2	2.32192809488736	2	2.32192809488736	1	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	5	0.2	0.000115129154648748	1	0.2	0:1	0:0	12	15	14	
+66	débris de petite taille	débris de petit taille	1	2	2.32192809488736	2	2.32192809488736	1	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	2.5	0.2	6.93134680530211e-06	1	0.2	0:1	0:0	33	68	33	
+142	orientation de la pale	orientation de le pale	1	2	2.32192809488736	2	2.32192809488736	3	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	0.5	0.2	6.93134680530211e-06	1	0.2	0:1	0:0	9	78	9	
+20	orientationL'inspection des éléments mécaniques	orientationL'inspection du élément mécanique	1	2	2.32192809488736	2	2.32192809488736	3	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	2.5	0.2	1.38627436101989	1	0.2	0:1	0:0	21	22	21	
+61	exploitants des parcelles agricoles	exploitant du parcelle agricole	1	2	2.32192809488736	2	2.32192809488736	0.584962500721156	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	5	0.2	0.000115129154648748	1	0.2	0:1	0:0	62	63	62	
+83	éléments du rotor	élément du rotor	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	0.833333333333333	0.25	2.87671655764548e-06	1	0.2	0:1	0:0	23	85	23	
+121	rupture du système	rupture du système	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	0.833333333333333	0.25	0.863026217255342	1	0.2	0:1	0:0	51	3	51	
+113	roulement à bille	roulement à bille	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	1.25	0.25	6.93134680530211e-06	1	0.2	0:1	0:0	77	115	77	
+163	zone de culture	zone de culture	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	1.66666666666667	0.25	0.000115129154648748	1	0.2	0:1	0:0	7	165	7	
+42	risque de chute	risque de chute	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	2.5	0.25	1.38627436101989	1	0.2	0:1	0:0	43	44	43	
+97	protocole de contrôle	protocole de contrôle	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	5	0.25	0.000115129154648748	1	0.2	0:1	0:0	98	99	98	
+103	redémarrage des unités	redémarrage du unité	1	1.58496250072116	2	1.58496250072116	2	1	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	5	0.25	0.000115129154648748	1	0.2	0:1	0:0	104	105	104	
+116	révision intégrale récente	révision intégral récent	1	1.58496250072116	2	1.58496250072116	2	0.584962500721156	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	5	0.25	0.000115129154648748	1	0.2	0:1	0:0	117	120	118	
+8	orientation des pales	orientation du pale	1	1.58496250072116	2	1.58496250072116	2	0.584962500721156	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	0.833333333333333	0.25	6.93134680530211e-06	1	0.2	0:1	0:0	9	6	9	
+56	éléments mécaniques métalliques	élément mécanique métallique	1	1.58496250072116	2	1.58496250072116	2	0.584962500721156	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	2.5	0.25	6.93134680530211e-06	1	0.2	0:1	0:0	22	60	23	
+1	défaillance du système	défaillance du système	1	1.58496250072116	2	1.58496250072116	2	0.584962500721156	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	1.66666666666667	0.25	0	1	0.2	0:1	0:0	2	3	2	
+22	éléments mécaniques	élément mécanique	2	1	1.58496250072116	3	4.75488750216347	0.584962500721156	0.584962500721156	0.584962500721156	N/A	1	3	1	0	2	0:0	1	1	1	1.66666666666667	1.33333333333333	6.93135930590801e-06	1	0.4	0:2	0:0	23	24	23	
+92	chutes possibles	chute possible	1	1	1.58496250072116	1	1.58496250072116	N/A	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	5	0.333333333333333	0.000115129154648748	1	0.2	0:1	0:0	93	94	93	
+80	groupe hydraulique	groupe hydraulique	1	1	1.58496250072116	1	1.58496250072116	N/A	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	5	0.333333333333333	0.000115129154648748	1	0.2	0:1	0:0	81	82	81	
+100	fonctionnement.Le lendemain	fonctionnement.Le lendemain	1	1	1.58496250072116	1	1.58496250072116	3	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	5	0.333333333333333	0.000115129154648748	1	0.2	0:1	0:0	102	101	102	
+39	maintenance complète	maintenance complet	1	1	1.58496250072116	1	1.58496250072116	0.584962500721156	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	2.5	0.333333333333333	6.93134680530211e-06	1	0.2	0:1	0:0	40	41	40	
+171	partie haute	partie haut	1	1	1.58496250072116	1	1.58496250072116	0.584962500721156	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	5	0.333333333333333	0.000115129154648748	1	0.2	0:1	0:0	172	173	172	
+25	usure anormale	usure anormal	1	1	1.58496250072116	1	1.58496250072116	0.584962500721156	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	5	0.333333333333333	0.000115129154648748	1	0.2	0:1	0:0	26	27	26	
+78	pale	pale	5	0	4	0	6	3	N/A	4	N/A	4	6	1	0	5	0:0	0	0	5	N/A	2.5	N/A	1	1	0:5	0:0				
+162	éolienne	éolienne	5	0	4	0	6	3	N/A	4	N/A	4	6	1	0	5	0:0	0	0	5	N/A	2.5	N/A	1	1	0:5	0:0				
+77	roulement	roulement	4	0	3	0	5	3	3	3	N/A	3	5	1	0	4	0:0	1	1	4	N/A	4	N/A	1	0.8	0:4	0:0				
+3	système	système	3	0	2	0	4	N/A	N/A	0	N/A	2	4	1	0	3	0:0	0	0	3	N/A	1.5	N/A	1	0.6	0:3	0:0				
+23	éléments	élément	3	0	1.66666666666667	0	4.33333333333333	0.584962500721156	-1	N/A	N/A	1.66666666666667	4.33333333333333	1	0	3	0:0	3	4	3	N/A	6	N/A	1	0.6	0:3	0:0				
+7	zone	zone	3	0	2	0	4	0.584962500721156	2	N/A	N/A	2	4	1	0	3	0:0	1	1	3	N/A	3	N/A	1	0.6	0:3	0:0				
+6	pales	pale	3	0	2	0	4	0.584962500721156	N/A	2	N/A	2	4	1	0	3	0:0	0	0	3	N/A	1.5	N/A	1	0.6	0:3	0:0				
+44	chute	chute	2	0	1	0	3	1	1	1	N/A	1	3	1	0	2	0:0	1	1	2	N/A	2	N/A	1	0.4	0:2	0:0				
+9	orientation	orientation	2	0	1	0	3	1	0	N/A	N/A	1	3	1	0	2	0:0	2	2	2	N/A	3	N/A	1	0.4	0:2	0:0				
+175	objet	objet	2	0	2	0	2	1	N/A	N/A	2	0	0	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.4	0:2	0:0				
+28	turbine	turbine	2	0	2	0	2	1	N/A	N/A	2	0	0	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.4	0:2	0:0				
+51	rupture	rupture	2	0	1	0	3	1	0	N/A	N/A	1	3	1	0	2	0:0	2	2	2	N/A	3	N/A	1	0.4	0:2	0:0				
+139	mât	mât	2	0	1	0	3	1	N/A	1	N/A	1	3	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.4	0:2	0:0				
+40	maintenance	maintenance	2	0	1	0	3	1	1	1	N/A	1	3	1	0	2	0:0	1	1	2	N/A	2	N/A	1	0.4	0:2	0:0				
+53	couronne	couronne	2	0	1	0	3	1	0	N/A	N/A	1	3	1	0	2	0:0	2	2	2	N/A	3	N/A	1	0.4	0:2	0:0				
+33	débris	débris	2	0	1	0	3	1	0	N/A	N/A	1	3	1	0	2	0:0	2	2	2	N/A	3	N/A	1	0.4	0:2	0:0				
+96	m	m	2	0	1	0	3	3	1	N/A	N/A	1	3	1	0	2	0:0	1	1	2	N/A	2	N/A	1	0.4	0:2	0:0				
+85	rotor	rotor	2	0	1	0	3	0.584962500721156	N/A	1	N/A	1	3	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.4	0:2	0:0				
+107	kW	kW	2	0	1	0	3	0.584962500721156	1	N/A	N/A	1	3	1	0	2	0:0	1	1	2	N/A	2	N/A	1	0.4	0:2	0:0				
+24	mécaniques	mécanique	2	0	0.5	0	3.5	0.584962500721156	N/A	-1	N/A	0.5	3.5	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.4	0:2	0:0				
+130	réparation	réparation	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+181	produite	produire	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+187	panne	panne	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+151	pied du mât	pied du mât	1	0	0	3.16992500144231	4	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.333333333333333	2.5	0.25	0.000115129154648748	1	0.2	0:1	0:0	152	139	152	
+182	650 kW	650 kW	1	0	0	2	3.16992500144231	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.5	2.5	0.333333333333333	0.000115129154648748	1	0.2	0:1	0:0	107	183	107	
+43	risque	risque	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+137	intérieure	intérieur	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+190	période	période	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+129	Chute	chute	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+55	agriculteur	agriculteur	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+165	culture	culture	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+99	contrôle	contrôle	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+12	autres turbines	autre turbine	1	0	0	2	3.16992500144231	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.5	5	0.666666666666667	0.000115129154648748	1	0.2	0:1	0:0	14	13	14	
+98	protocole	protocole	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+127	dysfonctionnement	dysfonctionnement	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+160	suivantes	suivant	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+95	choc	choc	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+31	gros débris	gros débris	1	0	0	2	3.16992500144231	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.5	2.5	0.666666666666667	6.93134680530211e-06	1	0.2	0:1	0:0	33	32	33	
+91	h.L'exploitant	h.L'exploitant	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+126	alarme	alarme	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+178	limitation de la puissance	limitation de le puissance	1	0	0	4	4.64385618977472	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.25	5	0.4	0.000115129154648748	1	0.2	0:1	0:0	179	180	179	
+161	:démantèlement	:démantèlement	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+94	possibles	possible	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+48	site	site	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+110	réarmement automatique	réarmement automatique	1	0	0	2	3.16992500144231	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.5	5	0.333333333333333	0.000115129154648748	1	0.2	0:1	0:0	111	112	111	
+169	équipes	équipe	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+189	dernières	dernier	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+183	650	650	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+15	parc	parc	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+63	parcelles agricoles	parcelle agricole	1	0	0	2	3.16992500144231	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.5	5	0.333333333333333	0.000115129154648748	1	0.2	0:1	0:0	64	65	64	
+155	mesures immédiates suivantes :démantèlement	mesure immédiat suivant :démantèlement	1	0	0	4	4.64385618977472	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.25	5	0.4	0.000115129154648748	1	0.2	0:1	0:0	156	161	158	
+13	autres	autre	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+179	limitation	limitation	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+32	gros	gros	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+41	complète	complet	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+168	intervention	intervention	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+141	entreposage	entreposage	1	0	1	0	1	1	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+60	métalliques	métallique	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+174	arrêt	arrêt	1	0	1	0	1	1	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+152	pied	pied	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+75	billes de roulement	bille de roulement	1	0	0	3.16992500144231	4	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	1.25	0.5	1.38627436101989	1	0.2	0:1	0:0	76	77	76	
+21	orientationL'inspection	orientationL'inspection	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+34	composés	composer	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+134	libération	libération	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+0	réalisation	réalisation	1	0	1	0	1	1	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+167	intervention des équipes	intervention du équipe	1	0	0	3.16992500144231	4	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	5	0.5	0.000115129154648748	1	0.2	0:1	0:0	168	169	168	
+177	limitation de la puissance produite	limitation de le puissance produire	1	0	0	4.64385618977472	5.16992500144231	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.2	5	0.333333333333333	0.000115129154648748	1	0.2	0:1	0:0	178	181	179	
+36	matériaux	matériaux|matériau	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+52	couronne extérieure	couronne extérieur	1	0	0	2	3.16992500144231	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.5	2.5	0.333333333333333	6.93134680530211e-06	1	0.2	0:1	0:0	53	54	53	
+191	alarmes	alarme	1	0	1	0	1	1	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+73	54 billes de roulement	54 bille de roulement	1	0	0	4	4.64385618977472	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.25	5	0.2	0.000115129154648748	1	0.2	0:1	0:0	75	74	76	
+49	série	série	1	0	1	0	1	1	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+133	libération de la couronne intérieure	libération de le couronne intérieur	1	0	0	4.64385618977472	5.16992500144231	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.2	5	0.333333333333333	0.000115129154648748	1	0.2	0:1	0:0	134	135	134	
+148	5	5	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+112	automatique	automatique	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+173	haute	haut	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+74	54	54	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+147	5 m du pied du mât	5 m du pied du mât	1	0	0	5.16992500144231	5.61470984411521	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.166666666666667	5	0.142857142857143	0.000115129154648748	1	0.2	0:1	0:0	149	148	96	
+26	usure	usure	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+159	immédiates	immédiat	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+156	mesures immédiates suivantes	mesure immédiat suivant	1	0	0	3.16992500144231	4	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	5	0.5	0.000115129154648748	1	0.2	0:1	0:0	157	160	158	
+65	agricoles	agricole	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+19	événement	événement	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+115	bille	bille	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+101	fonctionnement.Le	fonctionnement.Le	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+18	matin	matin	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+119	intégrale	intégral	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+35	matériaux composites	matériaux|matériau composite	1	0	0	2	3.16992500144231	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.5	5	0.333333333333333	0.000115129154648748	1	0.2	0:1	0:0	36	37	36	
+69	petite	petit	1	0	0	0	2	1	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+172	partie	partie	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+47	place	place	1	0	1	0	1	1	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+102	lendemain	lendemain	1	0	0	0	2	1	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+27	anormale	anormal	1	0	0	0	2	3	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+125	alarme de dysfonctionnement	alarme de dysfonctionnement	1	0	0	3.16992500144231	4	3	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	5	0.5	0.000115129154648748	1	0.2	0:1	0:0	126	127	126	
+89	7	7	1	0	0	0	2	3	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+149	m du pied du mât	m du pied du mât	1	0	0	4.64385618977472	5.16992500144231	3	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.2	2.5	0.333333333333333	0.000115129154648748	1	0.2	0:1	0:0	96	151	96	
+118	révision	révision	1	0	0	0	2	3	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+46	boulonnerie	boulonnerie	1	0	1	0	1	3	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+104	redémarrage	redémarrage	1	0	0	0	2	3	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+105	unités	unité	1	0	0	0	2	3	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+131	origine	origine	1	0	1	0	1	3	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+64	parcelles	parcelle	1	0	0	0	2	0.584962500721156	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+180	puissance	puissance	1	0	0	0	2	0.584962500721156	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+72	totalité	totalité	1	0	0	0	2	0.584962500721156	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+138	solidaire	solidaire	1	0	0	0	2	0.584962500721156	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+81	groupe	groupe	1	0	0	0	2	0.584962500721156	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+88	7 jours	7 jour	1	0	0	2	3.16992500144231	0.584962500721156	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.5	5	0.333333333333333	0.000115129154648748	1	0.2	0:1	0:0	90	89	90	
+185	apparition	apparition	1	0	1	0	1	0.584962500721156	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+5	septembre	septembre	1	0	1	0	1	0.584962500721156	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+120	récente	récent	1	0	0	0	2	0.584962500721156	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+45	sol	sol	1	0	1	0	1	0.584962500721156	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+79	exploitant	exploitant	1	0	1	0	1	0.584962500721156	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+68	petite taille	petit taille	1	0	0	2	3.16992500144231	0.584962500721156	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.5	5	0.333333333333333	0.000115129154648748	1	0.2	0:1	0:0	70	69	70	
+90	jours	jour	1	0	0	0	2	0.584962500721156	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+76	billes	bille	1	0	0	0	2	0.584962500721156	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+135	couronne intérieure	couronne intérieur	1	0	0	2	3.16992500144231	0.584962500721156	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.5	2.5	0.333333333333333	6.93134680530211e-06	1	0.2	0:1	0:0	53	137	53	
+82	hydraulique	hydraulique	1	0	0	0	2	0.584962500721156	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+158	mesures	mesure	1	0	0	0	2	0.584962500721156	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+16	intervenant	intervenant	1	0	1	0	1	0.584962500721156	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+54	extérieure	extérieur	1	0	0	0	2	0.584962500721156	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+70	taille	taille	1	0	0	0	2	0.584962500721156	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+93	chutes	chute	1	0	0	0	2	0.584962500721156	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+4	expertise	expertise	1	0	1	0	1	0.584962500721156	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+2	défaillance	défaillance	1	0	0	0	2	0.584962500721156	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+37	composites	composite	1	0	0	0	2	0.584962500721156	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+62	exploitants	exploitant	1	0	0	0	2	0.584962500721156	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+109	inhibition	inhibition	1	0	0	0	2	0.584962500721156	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+111	réarmement	réarmement	1	0	0	0	2	0.584962500721156	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+157	mesures immédiates	mesure immédiat	1	0	0	2	3.16992500144231	0.584962500721156	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.5	5	0.666666666666667	0.000115129154648748	1	0.2	0:1	0:0	158	159	158	
+117	révision intégrale	révision intégral	1	0	0	2	3.16992500144231	0.584962500721156	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.5	5	0.666666666666667	0.000115129154648748	1	0.2	0:1	0:0	118	119	118	
+14	turbines	turbine	1	0	0	0	2	0.584962500721156	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+106	dégâts	dégât	1	0	1	0	1	0.584962500721156	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+30	gros débris composés	gros débris composer	1	0	0	3.16992500144231	4	0.584962500721156	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	5	0.5	0.000115129154648748	1	0.2	0:1	0:0	31	34	33	
+87	observation	observation	1	0	0	0	2	0.584962500721156	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+38	fabricant	fabricant	1	0	1	0	1	0.584962500721156	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				

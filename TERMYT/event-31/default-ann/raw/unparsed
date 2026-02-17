@@ -1,0 +1,522 @@
+if: alerte
+pos: NOM
+lf: alerte
+is a term candidate: 1
+
+-----------------
+
+if: éventuelle trace
+pos: ADJ NOM
+lf: éventuel trace
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( éventuelle<=M> trace<=H> )
+islands: 0
+
+
+-----------------
+
+if: études
+pos: NOM
+lf: étude
+is a term candidate: 1
+
+-----------------
+
+if: détection à risques
+pos: NOM à NOM
+lf: détection à risque
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( détection<=H> à<=P> risques<=M> )
+islands: 0
+
+
+-----------------
+
+if: maintenance
+pos: NOM
+lf: maintenance
+is a term candidate: 1
+
+-----------------
+
+if: vautour
+pos: NOM
+lf: vautour
+is a term candidate: 1
+
+-----------------
+
+if: :mise à jour du système
+pos: ADJ à NOM du NOM
+lf: :mise à jour du système
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: caméras permettant l' arrêt des machines
+pos: NOM VER:ppre DET:ART NOM des NOM
+lf: caméra permettre le arrêt du machine
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: installation
+pos: NOM
+lf: installation
+is a term candidate: 1
+
+-----------------
+
+if: prospection aux alentours
+pos: NOM aux NOM
+lf: prospection au alentour
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( prospection<=H> aux<=P> alentours<=M> )
+islands: 0
+
+
+-----------------
+
+if: reste du cadavre
+pos: NOM du NOM
+lf: reste du cadavre
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( reste<=H> du<=P> cadavre<=M> )
+islands: 0
+
+
+-----------------
+
+if: acte de vandalisme
+pos: NOM de NOM
+lf: acte de vandalisme
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( acte<=H> de<=P> vandalisme<=M> )
+islands: 0
+
+
+-----------------
+
+if: espèce
+pos: NOM
+lf: espèce
+is a term candidate: 1
+
+-----------------
+
+if: protection des paysages
+pos: NOM des NOM
+lf: protection du paysage
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( protection<=H> des<=P> paysages<=M> )
+islands: 0
+
+
+-----------------
+
+if: suivi de la mortalité aviaire
+pos: NOM de DET:ART NOM ADJ
+lf: suivi de le mortalité aviaire
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( suivi<=H> de<=P> la<=D> ( mortalité<=H> aviaire<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: choc
+pos: NOM
+lf: choc
+is a term candidate: 1
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: caméras panoramiques
+pos: NOM ADJ
+lf: caméra panoramique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( caméras<=H> panoramiques<=M> )
+islands: 0
+
+
+-----------------
+
+if: nombre
+pos: NOM
+lf: nombre
+is a term candidate: 1
+
+-----------------
+
+if: mât
+pos: NOM
+lf: mât
+is a term candidate: 1
+
+-----------------
+
+if: défaut
+pos: NOM
+lf: défaut
+is a term candidate: 1
+
+-----------------
+
+if: Choc
+pos: NOM
+lf: choc
+is a term candidate: 1
+
+-----------------
+
+if: hauteur
+pos: NOM
+lf: hauteur
+is a term candidate: 1
+
+-----------------
+
+if: système
+pos: NOM
+lf: système
+is a term candidate: 1
+
+-----------------
+
+if: m du pied
+pos: NOM du NOM
+lf: m du pied
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( m<=H> du<=P> pied<=M> )
+islands: 0
+
+
+-----------------
+
+if: absence de radar
+pos: NOM de NOM
+lf: absence de radar
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( absence<=H> de<=P> radar<=M> )
+islands: 0
+
+
+-----------------
+
+if: rapace
+pos: NOM
+lf: rapace
+is a term candidate: 1
+
+-----------------
+
+if: grand rapace
+pos: ADJ NOM
+lf: grand rapace
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( grand<=M> rapace<=H> )
+islands: 0
+
+
+-----------------
+
+if: évidence :des zones
+pos: NOM ADJ NOM
+lf: évidence :des zone
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: exploitant
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+
+if: arrêts/redémarrage du système
+pos: NOM du NOM
+lf: arrêts/redémarrage du système
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( arrêts/redémarrage<=H> du<=P> système<=M> )
+islands: 0
+
+
+-----------------
+
+if: pales
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: bureau
+pos: NOM
+lf: bureau
+is a term candidate: 1
+
+-----------------
+
+if: demande de l' administration
+pos: NOM de DET:ART NOM
+lf: demande de le administration
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( demande<=H> de<=P> l'<=D> administration<=M> )
+islands: 0
+
+
+-----------------
+
+if: sol
+pos: NOM
+lf: sol
+is a term candidate: 1
+
+-----------------
+
+if: drone
+pos: NOM
+lf: drone
+is a term candidate: 1
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: parc.Une nouvelle version du système de détection
+pos: NOM ADJ NOM du NOM de NOM
+lf: parc.Une nouveau version du système de détection
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: analyse approfondie des systèmes de détection
+pos: NOM VER:pper des NOM de NOM
+lf: analyse approfondir du système de détection
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: systèmes de télédétection des oiseaux
+pos: NOM de NOM des NOM
+lf: système de télédétection du oiseau
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: biodiversité
+pos: NOM
+lf: biodiversité
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: procédures internes
+pos: NOM ADJ
+lf: procédure interne
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( procédures<=H> internes<=M> )
+islands: 0
+
+
+-----------------
+
+if: succès
+pos: NOM
+lf: succès
+is a term candidate: 1
+
+-----------------
+
+if: étude
+pos: NOM
+lf: étude
+is a term candidate: 1
+
+-----------------
+
+if: image de la collision
+pos: NOM de DET:ART NOM
+lf: image de le collision
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( image<=H> de<=P> la<=D> collision<=M> )
+islands: 0
+
+
+-----------------
+
+if: raison
+pos: NOM
+lf: raison
+is a term candidate: 1
+
+-----------------
+
+if: tard.Le parc éolien
+pos: ADJ NOM ADJ
+lf: tard.Le parc éolien
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: collision directe
+pos: NOM ADJ
+lf: collision direct
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( collision<=H> directe<=M> )
+islands: 0
+
+
+-----------------
+
+if: éoliennes équipées
+pos: ADJ NOM
+lf: éolien équipée
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( éoliennes<=M> équipées<=H> )
+islands: 0
+
+
+-----------------
+
+if: éoliennes 15 jours
+pos: NOM NUM NOM
+lf: éolienne 15 jour
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: amélioration de la disponibilité des informations
+pos: NOM de DET:ART NOM des NOM
+lf: amélioration de le disponibilité du information
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: révision des protocoles
+pos: NOM des NOM
+lf: révision du protocole
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( révision<=H> des<=P> protocoles<=M> )
+islands: 0
+
+
+-----------------
+
+if: mises à jour
+pos: NOM à NOM
+lf: mise à jour
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( mises<=H> à<=P> jour<=M> )
+islands: 0
+
+
+-----------------
+
+if: radar
+pos: NOM
+lf: radar
+is a term candidate: 1
+
+-----------------
+
+if: collectif
+pos: NOM
+lf: collectif
+is a term candidate: 1
+
+-----------------
+
+if: vautour moine
+pos: NOM NOM
+lf: vautour moine
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( vautour<=H> moine<=M> )
+islands: 0
+
+
+-----------------
+

@@ -1,0 +1,354 @@
+if: aérogénérateurs
+pos: NOM
+lf: aérogénérateur
+is a term candidate: 1
+
+-----------------
+
+if: exploitant
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+
+if: cyberattaque
+pos: NOM
+lf: cyberattaque
+is a term candidate: 1
+
+-----------------
+
+if: satellite
+pos: NOM
+lf: satellite
+is a term candidate: 1
+
+-----------------
+
+if: équipements comportant des semi-conducteurs
+pos: NOM VER:ppre des NOM
+lf: équipement comporter du semi-conducteur
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: pièce de rechange
+pos: NOM de NOM
+lf: pièce de rechange
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( pièce<=H> de<=P> rechange<=M> )
+islands: 0
+
+
+-----------------
+
+if: pilotage
+pos: NOM
+lf: pilotage
+is a term candidate: 1
+
+-----------------
+
+if: commande du matériel de remplacement
+pos: NOM du NOM de NOM
+lf: commande du matériel de remplacement
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: forte demande
+pos: ADJ NOM
+lf: fort demande
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( forte<=M> demande<=H> )
+islands: 0
+
+
+-----------------
+
+if: Éoliennes
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: Ukraine
+pos: NAM
+lf: Ukraine
+is a term candidate: 1
+
+-----------------
+
+if: contexte de tension mondiale
+pos: NOM de NOM ADJ
+lf: contexte de tension mondial
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( contexte<=H> de<=P> ( tension<=H> mondiale<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: système SCADA
+pos: NOM NAM
+lf: système SCADA
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( système<=H> SCADA<=M> )
+islands: 0
+
+
+-----------------
+
+if: place des vérifications visuelles quotidiennes du bon fonctionnement des aérogénérateurs.La perte de communication
+pos: NOM des NOM ADJ ADJ du ADJ NOM des NOM NOM de NOM
+lf: place du vérification visuel quotidien du bon fonctionnement du aérogénérateurs.La perte de communication
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: fourniture
+pos: NOM
+lf: fourniture
+is a term candidate: 1
+
+-----------------
+
+if: panne
+pos: NOM
+lf: panne
+is a term candidate: 1
+
+-----------------
+
+if: connexion satellite
+pos: NOM NOM
+lf: connexion satellite
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( connexion<=H> satellite<=M> )
+islands: 0
+
+
+-----------------
+
+if: contrôle à distance du parc éolien
+pos: NOM à NOM du NOM ADJ
+lf: contrôle à distance du parc éolien
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: énergie électrique
+pos: NOM ADJ
+lf: énergie électrique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( énergie<=H> électrique<=M> )
+islands: 0
+
+
+-----------------
+
+if: utilisation du réseau 4G
+pos: NOM du NOM NAM
+lf: utilisation du réseau 4G
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: sites concernés.Le maintenancier
+pos: NOM ADJ NOM
+lf: site concernés.Le maintenancier
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: perte de surveillance
+pos: NOM de NOM
+lf: perte de surveillance
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( perte<=H> de<=P> surveillance<=M> )
+islands: 0
+
+
+-----------------
+
+if: Europe
+pos: NAM
+lf: Europe
+is a term candidate: 1
+
+-----------------
+
+if: service
+pos: NOM
+lf: service
+is a term candidate: 1
+
+-----------------
+
+if: éoliennes
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: satellite de liaison
+pos: NOM de NOM
+lf: satellite de liaison
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( satellite<=H> de<=P> liaison<=M> )
+islands: 0
+
+
+-----------------
+
+if: Supervisory Control and
+pos: NAM NAM NOM
+lf: Supervisory Control and
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: Acquisition
+pos: NOM
+lf: acquisition
+is a term candidate: 1
+
+-----------------
+
+if: ARIA
+pos: NOM
+lf: aria
+is a term candidate: 1
+
+-----------------
+
+if: solutions techniques temporaires
+pos: NOM ADJ ADJ
+lf: solution technique temporaire
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: mode de sécurité automatique
+pos: NOM de NOM ADJ
+lf: mode de sécurité automatique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( mode<=H> de<=P> ( sécurité<=H> automatique<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: piratage
+pos: NOM
+lf: piratage
+is a term candidate: 1
+
+-----------------
+
+if: raison
+pos: NOM
+lf: raison
+is a term candidate: 1
+
+-----------------
+
+if: difficultés de livraison
+pos: NOM de NOM
+lf: difficulté de livraison
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( difficultés<=H> de<=P> livraison<=M> )
+islands: 0
+
+
+-----------------
+
+if: invasion russe
+pos: NOM ADJ
+lf: invasion russe
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( invasion<=H> russe<=M> )
+islands: 0
+
+
+-----------------
+
+if: unités
+pos: NOM
+lf: unité
+is a term candidate: 1
+
+-----------------
+
+if: routeur défectueux
+pos: NOM ADJ
+lf: routeur défectueux
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( routeur<=H> défectueux<=M> )
+islands: 0
+
+
+-----------------
+
+if: cyberattaque.Le temps
+pos: ADJ NOM
+lf: cyberattaque.Le temps
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( cyberattaque.Le<=M> temps<=H> )
+islands: 0
+
+
+-----------------
+

@@ -1,0 +1,148 @@
+if: attente
+pos: NOM
+lf: attente
+is a term candidate: 1
+
+-----------------
+
+if: périmètre de sécurité
+pos: NOM de NOM
+lf: périmètre de sécurité
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( périmètre<=H> de<=P> sécurité<=M> )
+islands: 0
+
+
+-----------------
+
+if: 10h30
+pos: NAM
+lf: 10h30
+is a term candidate: 1
+
+-----------------
+
+if: remise
+pos: NOM
+lf: remise
+is a term candidate: 1
+
+-----------------
+
+if: fibre du cône de nez
+pos: NOM du NOM de NOM
+lf: fibre du cône de nez
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: partie
+pos: NOM
+lf: partie
+is a term candidate: 1
+
+-----------------
+
+if: arrêt
+pos: NOM
+lf: arrêt
+is a term candidate: 1
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: machines
+pos: NOM
+lf: machine
+is a term candidate: 1
+
+-----------------
+
+if: inspections
+pos: NOM
+lf: inspection
+is a term candidate: 1
+
+-----------------
+
+if: élément
+pos: NOM
+lf: élément
+is a term candidate: 1
+
+-----------------
+
+if: fonctionnement
+pos: NOM
+lf: fonctionnement
+is a term candidate: 1
+
+-----------------
+
+if: cône de nez
+pos: NOM de NOM
+lf: cône de nez
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( cône<=H> de<=P> nez<=M> )
+islands: 0
+
+
+-----------------
+
+if: Chute
+pos: NOM
+lf: chute
+is a term candidate: 1
+
+-----------------
+
+if: éolienne chute
+pos: ADJ NOM
+lf: éolien chute
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( éolienne<=M> chute<=H> )
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: fibre
+pos: NOM
+lf: fibre
+is a term candidate: 1
+
+-----------------
+

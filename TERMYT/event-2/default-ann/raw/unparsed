@@ -1,0 +1,205 @@
+if: huile
+pos: NOM
+lf: huile
+is a term candidate: 1
+
+-----------------
+
+if: benzène
+pos: NOM
+lf: benzène
+is a term candidate: 1
+
+-----------------
+
+if: total
+pos: NOM
+lf: total
+is a term candidate: 1
+
+-----------------
+
+if: remplacement du filtre
+pos: NOM du NOM
+lf: remplacement du filtre
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( remplacement<=H> du<=P> filtre<=M> )
+islands: 0
+
+
+-----------------
+
+if: mois
+pos: NOM
+lf: mois|moi
+is a term candidate: 1
+
+-----------------
+
+if: dérivés
+pos: NOM
+lf: dérivé
+is a term candidate: 1
+
+-----------------
+
+if: maintenance annuelle
+pos: NOM ADJ
+lf: maintenance annuel
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( maintenance<=H> annuelle<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: erreur
+pos: NOM
+lf: erreur
+is a term candidate: 1
+
+-----------------
+
+if: suivi sanitaire
+pos: NOM ADJ
+lf: suivi sanitaire
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( suivi<=H> sanitaire<=M> )
+islands: 0
+
+
+-----------------
+
+if: société de maintenance
+pos: NOM de NOM
+lf: société de maintenance
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( société<=H> de<=P> maintenance<=M> )
+islands: 0
+
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: ditridecyl adipate
+pos: ADJ NOM
+lf: ditridecyl adipate
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( ditridecyl<=M> adipate<=H> )
+islands: 0
+
+
+-----------------
+
+if: filtre
+pos: NOM
+lf: filtre
+is a term candidate: 1
+
+-----------------
+
+if: fuite
+pos: NOM
+lf: fuite
+is a term candidate: 1
+
+-----------------
+
+if: exploitant.La
+pos: NOM
+lf: exploitant.La
+is a term candidate: 1
+
+-----------------
+
+if: prestataire
+pos: NOM
+lf: prestataire
+is a term candidate: 1
+
+-----------------
+
+if: sol
+pos: NOM
+lf: sol
+is a term candidate: 1
+
+-----------------
+
+if: Fuite
+pos: NOM
+lf: fuite
+is a term candidate: 1
+
+-----------------
+
+if: partie intérieure
+pos: NOM ADJ
+lf: partie intérieur
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( partie<=H> intérieure<=M> )
+islands: 0
+
+
+-----------------
+
+if: nacelle
+pos: NOM
+lf: nacelle
+is a term candidate: 1
+
+-----------------
+
+if: mât
+pos: NOM
+lf: mât
+is a term candidate: 1
+
+-----------------
+
+if: mauvaise manipulation de la cloche
+pos: ADJ NOM de DET:ART NOM
+lf: mauvais manipulation de le cloche
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: l de produit
+pos: NOM de NOM
+lf: l de produit
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( l<=H> de<=P> produit<=M> )
+islands: 0
+
+
+-----------------
+

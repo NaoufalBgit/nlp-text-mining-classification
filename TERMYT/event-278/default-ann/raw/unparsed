@@ -1,0 +1,158 @@
+if: éolienne Une défaillance
+pos: ADJ DET:ART NOM
+lf: éolien un défaillance
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: accès
+pos: NOM
+lf: accès
+is a term candidate: 1
+
+-----------------
+
+if: balisage
+pos: NOM
+lf: balisage
+is a term candidate: 1
+
+-----------------
+
+if: partie de l' éolienne
+pos: NOM de DET:ART NOM
+lf: partie de le éolienne
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( partie<=H> de<=P> l'<=D> éolienne<=M> )
+islands: 0
+
+
+-----------------
+
+if: raison
+pos: NOM
+lf: raison
+is a term candidate: 1
+
+-----------------
+
+if: attente du démontage complet
+pos: NOM du NOM ADJ
+lf: attente du démontage complet
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( attente<=H> du<=P> ( démontage<=H> complet<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: risque de déséquilibre susceptible
+pos: NOM de NOM ADJ
+lf: risque de déséquilibre susceptible
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( risque<=H> de<=P> ( déséquilibre<=H> susceptible<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: blocage
+pos: NOM
+lf: blocage
+is a term candidate: 1
+
+-----------------
+
+if: boîte de vitesse
+pos: NOM de NOM
+lf: boîte de vitesse
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( boîte<=H> de<=P> vitesse<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: mécanisme du rotor
+pos: NOM du NOM
+lf: mécanisme du rotor
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( mécanisme<=H> du<=P> rotor<=M> )
+islands: 0
+
+
+-----------------
+
+if: chute
+pos: NOM
+lf: chute
+is a term candidate: 1
+
+-----------------
+
+if: face au vent
+pos: NOM au NOM
+lf: face au vent
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( face<=H> au<=P> vent<=M> )
+islands: 0
+
+
+-----------------
+
+if: mois
+pos: NOM
+lf: mois|moi
+is a term candidate: 1
+
+-----------------
+
+if: machine
+pos: NOM
+lf: machine
+is a term candidate: 1
+
+-----------------
+
+if: Défaut
+pos: NOM
+lf: défaut
+is a term candidate: 1
+
+-----------------
+
+if: rotor
+pos: NOM
+lf: rotor
+is a term candidate: 1
+
+-----------------
+
+if: aérogénérateur
+pos: NOM
+lf: aérogénérateur
+is a term candidate: 1
+
+-----------------
+

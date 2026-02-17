@@ -1,0 +1,295 @@
+if: suite
+pos: NOM
+lf: suite
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: nacelle à 80 m de hauteur
+pos: NOM à NUM NOM de NOM
+lf: nacelle à 80 m de hauteur
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: Incendie
+pos: NOM
+lf: incendie
+is a term candidate: 1
+
+-----------------
+
+if: incendie
+pos: NOM
+lf: incendie
+is a term candidate: 1
+
+-----------------
+
+if: détecté.Quatre éoliennes
+pos: NOM ADJ
+lf: détecté.Quatre éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( détecté.Quatre<=H> éoliennes<=M> )
+islands: 0
+
+
+-----------------
+
+if: extincteurs
+pos: NOM
+lf: extincteur
+is a term candidate: 1
+
+-----------------
+
+if: 19h40
+pos: NAM
+lf: 19h40
+is a term candidate: 1
+
+-----------------
+
+if: flammes visibles
+pos: NOM ADJ
+lf: flamme visible
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( flammes<=H> visibles<=M> )
+islands: 0
+
+
+-----------------
+
+if: entreprise de maintenance du parc
+pos: NOM de NOM du NOM
+lf: entreprise de maintenance du parc
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: arrêt
+pos: NOM
+lf: arrêt
+is a term candidate: 1
+
+-----------------
+
+if: dégagement de fumée
+pos: NOM de NOM
+lf: dégagement de fumée
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( dégagement<=H> de<=P> fumée<=M> )
+islands: 0
+
+
+-----------------
+
+if: point chaud
+pos: NOM ADJ
+lf: point chaud
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( point<=H> chaud<=M> )
+islands: 0
+
+
+-----------------
+
+if: dégagement de fumée noire
+pos: NOM de NOM ADJ
+lf: dégagement de fumée noir
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( dégagement<=H> de<=P> ( fumée<=H> noire<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: ensemble du parc
+pos: NOM du NOM
+lf: ensemble du parc
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( ensemble<=H> du<=P> parc<=M> )
+islands: 0
+
+
+-----------------
+
+if: niveau des câbles de puissance
+pos: NOM des NOM de NOM
+lf: niveau du câble de puissance
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: extérieur
+pos: NOM
+lf: extérieur
+is a term candidate: 1
+
+-----------------
+
+if: arrivée
+pos: NOM
+lf: arrivée
+is a term candidate: 1
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: alarme
+pos: NOM
+lf: alarme
+is a term candidate: 1
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: sécurité de 100 m
+pos: NOM de NUM NOM
+lf: sécurité de 100 m
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: durée indéterminée
+pos: NOM ADJ
+lf: durée indéterminé
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( durée<=H> indéterminée<=M> )
+islands: 0
+
+
+-----------------
+
+if: ouverture de la porte de la machine
+pos: NOM de DET:ART NOM de DET:ART NOM
+lf: ouverture de le porte de le machine
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: secours
+pos: NOM
+lf: secours
+is a term candidate: 1
+
+-----------------
+
+if: site
+pos: NOM
+lf: site
+is a term candidate: 1
+
+-----------------
+
+if: ARI
+pos: NAM
+lf: ARI
+is a term candidate: 1
+
+-----------------
+
+if: niveaux à l' intérieur du mat
+pos: NOM à DET:ART NOM du NOM
+lf: niveau à le intérieur du mat
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: pompiers
+pos: NOM
+lf: pompier
+is a term candidate: 1
+
+-----------------
+
+if: intérieur de la machine
+pos: NOM de DET:ART NOM
+lf: intérieur de le machine
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( intérieur<=H> de<=P> la<=D> machine<=M> )
+islands: 0
+
+
+-----------------
+
+if: techniciens
+pos: NOM
+lf: technicien
+is a term candidate: 1
+
+-----------------
+
+if: caméra thermique
+pos: NOM ADJ
+lf: caméra thermique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( caméra<=H> thermique<=M> )
+islands: 0
+
+
+-----------------
+
+if: reconnaissances au pied de l' éolienne à l' aide
+pos: NOM au NOM de DET:ART NOM à DET:ART NOM
+lf: reconnaissance au pied de le éolienne à le aide
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+

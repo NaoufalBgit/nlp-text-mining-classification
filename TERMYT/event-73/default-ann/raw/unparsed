@@ -1,0 +1,236 @@
+if: point de rupture
+pos: NOM de NOM
+lf: point de rupture
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( point<=H> de<=P> rupture<=M> )
+islands: 0
+
+
+-----------------
+
+if: arrêt de 2 éoliennes
+pos: NOM de NUM NOM
+lf: arrêt de 2 éolienne
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: mise
+pos: NOM
+lf: mise
+is a term candidate: 1
+
+-----------------
+
+if: manque de colle
+pos: NOM de NOM
+lf: manque de colle
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( manque<=H> de<=P> colle<=M> )
+islands: 0
+
+
+-----------------
+
+if: défaut
+pos: NOM
+lf: défaut
+is a term candidate: 1
+
+-----------------
+
+if: éoliennes
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: usines
+pos: NOM
+lf: usine
+is a term candidate: 1
+
+-----------------
+
+if: nacelle élévatrice
+pos: NOM ADJ
+lf: nacelle élévateur
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( nacelle<=H> élévatrice<=M> )
+islands: 0
+
+
+-----------------
+
+if: nombre
+pos: NOM
+lf: nombre
+is a term candidate: 1
+
+-----------------
+
+if: traitement
+pos: NOM
+lf: traitement
+is a term candidate: 1
+
+-----------------
+
+if: intervention
+pos: NOM
+lf: intervention
+is a term candidate: 1
+
+-----------------
+
+if: contrôle
+pos: NOM
+lf: contrôle
+is a term candidate: 1
+
+-----------------
+
+if: origine.Le constructeur
+pos: NOM ADJ
+lf: origine.Le constructeur
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( origine.Le<=H> constructeur<=M> )
+islands: 0
+
+
+-----------------
+
+if: rayon
+pos: NOM
+lf: rayon
+is a term candidate: 1
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: suite de la casse de pales 2 ans
+pos: NOM de DET:ART NOM de NOM NUM NOM
+lf: suite de le casse de pale 2 an
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: différents parcs
+pos: ADJ NOM
+lf: différent parc
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( différents<=M> parcs<=H> )
+islands: 0
+
+
+-----------------
+
+if: même parc
+pos: ADJ NOM
+lf: même parc
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( même<=M> parc<=H> )
+islands: 0
+
+
+-----------------
+
+if: talon de la structure de la pale
+pos: NOM de DET:ART NOM de DET:ART NOM
+lf: talon de le structure de le pale
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: réinjection de colle.Les pales
+pos: NOM de ADJ NOM
+lf: réinjection de colle.Les pale
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: pales
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: constructeur.Ce défaut générique
+pos: ADJ NOM ADJ
+lf: constructeur.Ce défaut générique
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: ans
+pos: NOM
+lf: an
+is a term candidate: 1
+
+-----------------
+
+if: aérogénérateurs
+pos: NOM
+lf: aérogénérateur
+is a term candidate: 1
+
+-----------------
+
+if: arrêt
+pos: NOM
+lf: arrêt
+is a term candidate: 1
+
+-----------------
+
+if: pratiques
+pos: NOM
+lf: pratique
+is a term candidate: 1
+
+-----------------
+
+if: réalisation
+pos: NOM
+lf: réalisation
+is a term candidate: 1
+
+-----------------
+
+if: service
+pos: NOM
+lf: service
+is a term candidate: 1
+
+-----------------
+

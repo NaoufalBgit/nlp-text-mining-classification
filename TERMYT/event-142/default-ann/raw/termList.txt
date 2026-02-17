@@ -1,0 +1,58 @@
+# ID	Inflected form	Lemmatised form	Frequency	CValue	CValue1	CValuePlus	CValuePlus1	CValueStar	CValueStarH	CValueStarM	CValueStarR	CValueWCard	CValueWCardPlus	D	DDW	Freq	idf	ilnc	ilncFreq	iLong	IM	iTer	LLR	nbdoc4tc	NormFreq	tf	tf-idf	Head	Modifier	MainHead
+15	parc éolien	parc éolien	4	3	4.75488750216347	5	7.92481250360578	4	N/A	1.75488750216347	N/A	3	5	1	0	4	0:0	0	0	2	1	1.33333333333333	1.09860062196746e-05	1	0.8	0:4	0:0	16	17	16	
+10	contrôle des machines à distance	contrôle du machine à distance	1	2.32192809488736	2.58496250072116	2.32192809488736	2.58496250072116	4	N/A	N/A	0.263034405833794	0	0	1	0	1	0:0	0	0	0.2	5	0.166666666666667	0.000115129154648748	1	0.2	0:1	0:0	11	14	12	
+59	perte de monitoring des éoliennes	perte de monitoring du éolienne	1	2.32192809488736	2.58496250072116	2.32192809488736	2.58496250072116	2	N/A	N/A	0.263034405833794	0	0	1	0	1	0:0	0	0	0.2	5	0.166666666666667	0.000115129154648748	1	0.2	0:1	0:0	60	63	61	
+34	outils de télégestion du parc	outil de télégestion du parc	1	2.32192809488736	2.58496250072116	2.32192809488736	2.58496250072116	2	N/A	N/A	0.263034405833794	0	0	1	0	1	0:0	0	0	0.2	1	0.166666666666667	2.70330725289783	1	0.2	0:1	0:0	35	16	8	
+54	exploitant du parc éolien	exploitant du parc éolien	1	2	2.32192809488736	2	2.32192809488736	4	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	0.3125	0.2	0.000115129154648748	1	0.2	0:1	0:0	47	15	47	
+22	mode de transmission régulière	mode de transmission régulier	1	2	2.32192809488736	2	2.32192809488736	2	N/A	N/A	0.321928094887362	0	0	1	0	1	0:0	0	0	0.25	2.5	0.2	0.000115129154648748	1	0.2	0:1	0:0	23	24	23	
+30	efficacité des outils	efficacité du outil	1	1.58496250072116	2	1.58496250072116	2	N/A	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	1.66666666666667	0.25	0.523238143714547	1	0.2	0:1	0:0	31	8	31	
+64	informations de monitoring	information de monitoring	1	1.58496250072116	2	1.58496250072116	2	4	N/A	N/A	0.415037499278844	0	0	1	0	1	0:0	0	0	0.333333333333333	2.5	0.25	0	1	0.2	0:1	0:0	65	62	65	
+18	parties prenantes	partie prenant	1	1	1.58496250072116	1	1.58496250072116	4	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	5	0.333333333333333	0.000115129154648748	1	0.2	0:1	0:0	19	20	19	
+40	Panne informatique	panne informatique	1	1	1.58496250072116	1	1.58496250072116	4	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	5	0.333333333333333	0.000115129154648748	1	0.2	0:1	0:0	41	42	41	
+27	cyberattaque.L'enseignement principal	cyberattaque.L'enseignement principal	1	1	1.58496250072116	1	1.58496250072116	4	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	5	0.333333333333333	0.000115129154648748	1	0.2	0:1	0:0	28	29	28	
+48	bon fonctionnement	bon fonctionnement	1	1	1.58496250072116	1	1.58496250072116	2	N/A	N/A	0.584962500721156	0	0	1	0	1	0:0	0	0	0.5	5	0.333333333333333	0.000115129154648748	1	0.2	0:1	0:0	50	49	50	
+16	parc	parc	5	0	3	0	7	4	0	4	N/A	3	7	1	0	5	0:0	2	5	5	N/A	7.5	N/A	1	1	0:5	0:0				
+17	éolien	éolien	4	0	1.5	0	6.5	4	N/A	-1	N/A	1.5	6.5	1	0	4	0:0	0	0	4	N/A	2	N/A	1	0.8	0:4	0:0				
+47	exploitant	exploitant	4	0	3	0	5	4	3	N/A	N/A	3	5	1	0	4	0:0	1	1	4	N/A	4	N/A	1	0.8	0:4	0:0				
+8	outils	outil	3	0	2	0	4	2	2	1	N/A	2	4	1	0	3	0:0	1	1	3	N/A	3	N/A	1	0.6	0:3	0:0				
+9	télégestion	télégestion	2	0	2	0	4	N/A	N/A	1	N/A	1	3	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.4	0:2	0:0				
+62	monitoring	monitoring	2	0	1	0	3	4	N/A	0	N/A	1	3	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.4	0:2	0:0				
+44	place	place	2	0	2	0	2	4	N/A	N/A	2	0	0	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.4	0:2	0:0				
+39	constructeur	constructeur	2	0	2	0	2	4	N/A	N/A	2	0	0	1	0	2	0:0	0	0	2	N/A	1	N/A	1	0.4	0:2	0:0				
+61	perte	perte	1	0	0	0	2	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+5	renforcement de la sécurité	renforcement de le sécurité	1	0	0	4	4.64385618977472	N/A	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.25	5	0.4	0.000115129154648748	1	0.2	0:1	0:0	6	7	6	
+42	informatique	informatique	1	0	0	0	2	N/A	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+2	turbinier	turbinier	1	0	1	0	1	N/A	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+0	charge	charge	1	0	1	0	1	4	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+41	Panne	panne	1	0	0	0	2	4	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+1	mesure	mesure	1	0	1	0	1	4	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+52	11h30	11h30	1	0	1	0	1	4	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+28	cyberattaque.L'enseignement	cyberattaque.L'enseignement	1	0	0	0	2	4	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+4	renforcement de la sécurité des outils	renforcement de le sécurité du outil	1	0	0	5.16992500144231	5.61470984411521	4	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.166666666666667	1.66666666666667	0.285714285714286	0.523238143714547	1	0.2	0:1	0:0	5	8	6	
+65	informations	information	1	0	0	0	2	4	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+21	communication	communication	1	0	1	0	1	4	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+63	éoliennes	éolienne	1	0	0	0	2	4	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+50	fonctionnement	fonctionnement	1	0	0	0	2	4	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+49	bon	bon	1	0	0	0	2	4	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+31	efficacité	efficacité	1	0	0	0	2	4	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+29	principal	principal	1	0	0	0	2	4	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+33	côté	côté	1	0	1	0	1	4	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+20	prenantes	prenant	1	0	0	0	2	4	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+24	transmission régulière	transmission régulier	1	0	0	2	3.16992500144231	4	N/A	0	N/A	0	2	1	0	1	0:0	0	0	0.5	5	0.333333333333333	0.000115129154648748	1	0.2	0:1	0:0	25	26	25	
+23	mode	mode	1	0	1	0	3	4	1	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+7	sécurité	sécurité	1	0	0	0	2	4	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+13	machines	machine	1	0	0	0	2	4	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+25	transmission	transmission	1	0	0	0	2	4	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+19	parties	partie	1	0	0	0	2	4	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+26	régulière	régulier	1	0	0	0	2	4	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+43	surveillance	surveillance	1	0	1	0	1	4	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+51	rétablie.Il	rétablie.Il	1	0	1	0	1	4	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+53	18h30	18h30	1	0	1	0	1	4	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+35	outils de télégestion	outil de télégestion	1	0	0	3.16992500144231	4	4	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	0.555555555555556	0.5	0.863036217305342	1	0.2	0:1	0:0	8	9	8	
+45	maintenance	maintenance	1	0	1	0	1	4	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+12	contrôle	contrôle	1	0	0	0	2	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				
+11	contrôle des machines	contrôle du machine	1	0	0	3.16992500144231	4	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	5	0.5	0.000115129154648748	1	0.2	0:1	0:0	12	13	12	
+60	perte de monitoring	perte de monitoring	1	0	0	3.16992500144231	4	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	0.333333333333333	2.5	0.5	0	1	0.2	0:1	0:0	61	62	61	
+46	causes	cause	1	0	1	0	1	2	N/A	N/A	1	0	0	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+14	distance	distance	1	0	0	0	2	2	N/A	0	N/A	0	2	1	0	1	0:0	0	0	1	N/A	0.5	N/A	1	0.2	0:1	0:0				
+6	renforcement	renforcement	1	0	0	0	2	2	0	N/A	N/A	0	2	1	0	1	0:0	1	1	1	N/A	1	N/A	1	0.2	0:1	0:0				

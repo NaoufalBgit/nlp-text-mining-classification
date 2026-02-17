@@ -1,0 +1,296 @@
+if: études
+pos: NOM
+lf: étude
+is a term candidate: 1
+
+-----------------
+
+if: espèce
+pos: NOM
+lf: espèce
+is a term candidate: 1
+
+-----------------
+
+if: comportement du milan royal
+pos: NOM du NOM ADJ
+lf: comportement du milan royal
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( comportement<=H> du<=P> ( milan<=H> royal<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: chasse
+pos: NOM
+lf: chasse
+is a term candidate: 1
+
+-----------------
+
+if: bureau
+pos: NOM
+lf: bureau
+is a term candidate: 1
+
+-----------------
+
+if: mois
+pos: NOM
+lf: mois|moi
+is a term candidate: 1
+
+-----------------
+
+if: éventuels nids aux alentours du parc
+pos: ADJ NOM aux NOM du NOM
+lf: éventuel nid au alentour du parc
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: mois de juillet
+pos: NOM de NOM
+lf: mois|moi de juillet
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( mois<=H> de<=P> juillet<=M> )
+islands: 0
+
+
+-----------------
+
+if: suivi de la mortalité aviaire
+pos: NOM de DET:ART NOM ADJ
+lf: suivi de le mortalité aviaire
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( suivi<=H> de<=P> la<=D> ( mortalité<=H> aviaire<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: Choc
+pos: NOM
+lf: choc
+is a term candidate: 1
+
+-----------------
+
+if: complément
+pos: NOM
+lf: complément
+is a term candidate: 1
+
+-----------------
+
+if: enjeux locaux
+pos: NOM ADJ
+lf: enjeu local
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( enjeux<=H> locaux<=M> )
+islands: 0
+
+
+-----------------
+
+if: constat
+pos: NOM
+lf: constat
+is a term candidate: 1
+
+-----------------
+
+if: septembre
+pos: NOM
+lf: septembre
+is a term candidate: 1
+
+-----------------
+
+if: collision
+pos: NOM
+lf: collision
+is a term candidate: 1
+
+-----------------
+
+if: pale
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: étude
+pos: NOM
+lf: étude
+is a term candidate: 1
+
+-----------------
+
+if: oiseau
+pos: NOM
+lf: oiseau
+is a term candidate: 1
+
+-----------------
+
+if: Milan royal
+pos: NAM ADJ
+lf: Milan royal
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: août
+pos: NOM
+lf: août
+is a term candidate: 1
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: ans
+pos: NOM
+lf: an
+is a term candidate: 1
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: sol
+pos: NOM
+lf: sol
+is a term candidate: 1
+
+-----------------
+
+if: sein du parc
+pos: NOM du NOM
+lf: sein du parc
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( sein<=H> du<=P> parc<=M> )
+islands: 0
+
+
+-----------------
+
+if: exploitant
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+
+if: suivi de l' activité
+pos: NOM de DET:ART NOM
+lf: suivi de le activité
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( suivi<=H> de<=P> l'<=D> activité<=M> )
+islands: 0
+
+
+-----------------
+
+if: étude spécifique
+pos: NOM ADJ
+lf: étude spécifique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( étude<=H> spécifique<=M> )
+islands: 0
+
+
+-----------------
+
+if: parc.Le suivi environnemental
+pos: NOM VER:pper ADJ
+lf: parc.Le suivre environnemental
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: cas de mortalité
+pos: NOM de NOM
+lf: cas de mortalité
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( cas<=H> de<=P> mortalité<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: :la recherche
+pos: ADJ NOM
+lf: :la recherche
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( :la<=M> recherche<=H> )
+islands: 0
+
+
+-----------------
+
+if: m
+pos: NOM
+lf: m
+is a term candidate: 1
+
+-----------------
+
+if: mesures proportionnées aux impacts réels
+pos: NOM VER:pper aux NOM ADJ
+lf: mesure proportionner au impact réel
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+

@@ -1,0 +1,100 @@
+if: turbine
+pos: NOM
+lf: turbine
+is a term candidate: 1
+
+-----------------
+
+if: droit
+pos: NOM
+lf: droit
+is a term candidate: 1
+
+-----------------
+
+if: débris
+pos: NOM
+lf: débris
+is a term candidate: 1
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: périmètre de sécurité de 500 m
+pos: NOM de NOM de NUM NOM
+lf: périmètre de sécurité de 500 m
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: bateaux
+pos: NOM
+lf: bateau
+is a term candidate: 1
+
+-----------------
+
+if: électricité
+pos: NOM
+lf: électricité
+is a term candidate: 1
+
+-----------------
+
+if: Incendie
+pos: NOM
+lf: incendie
+is a term candidate: 1
+
+-----------------
+
+if: seule turbine
+pos: ADJ NOM
+lf: seul turbine
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( seule<=M> turbine<=H> )
+islands: 0
+
+
+-----------------
+
+if: approvisionnement
+pos: NOM
+lf: approvisionnement
+is a term candidate: 1
+
+-----------------
+
+if: parc éolien offshore constitué de 80 machines
+pos: NOM ADJ ADJ VER:pper de NUM NOM
+lf: parc éolien offshore constituer de 80 machine
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: service
+pos: NOM
+lf: service
+is a term candidate: 1
+
+-----------------
+

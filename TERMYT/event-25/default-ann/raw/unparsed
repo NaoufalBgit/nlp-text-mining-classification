@@ -1,0 +1,269 @@
+if: analyses
+pos: NOM
+lf: analyse
+is a term candidate: 1
+
+-----------------
+
+if: charge de la maintenance
+pos: NOM de DET:ART NOM
+lf: charge de le maintenance
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( charge<=H> de<=P> la<=D> maintenance<=M> )
+islands: 0
+
+
+-----------------
+
+if: Ecoulement
+pos: NOM
+lf: Ecoulement
+is a term candidate: 1
+
+-----------------
+
+if: zones
+pos: NOM
+lf: zone
+is a term candidate: 1
+
+-----------------
+
+if: sols à proximité.La dalle
+pos: NOM à NOM NOM
+lf: sol à proximité.La dalle
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: défaut
+pos: NOM
+lf: défaut
+is a term candidate: 1
+
+-----------------
+
+if: dalle
+pos: NOM
+lf: dalle
+is a term candidate: 1
+
+-----------------
+
+if: enquête
+pos: NOM
+lf: enquête
+is a term candidate: 1
+
+-----------------
+
+if: nacelle
+pos: NOM
+lf: nacelle
+is a term candidate: 1
+
+-----------------
+
+if: lavage haute pression
+pos: NOM ADJ NOM
+lf: lavage haut pression
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: accumulateur de l' éolienne
+pos: NOM de DET:ART NOM
+lf: accumulateur de le éolienne
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( accumulateur<=H> de<=P> l'<=D> éolienne<=M> )
+islands: 0
+
+
+-----------------
+
+if: exploitant du parc
+pos: NOM du NOM
+lf: exploitant du parc
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( exploitant<=H> du<=P> parc<=M> )
+islands: 0
+
+
+-----------------
+
+if: long du mât
+pos: NOM du NOM
+lf: long du mât
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( long<=H> du<=P> mât<=M> )
+islands: 0
+
+
+-----------------
+
+if: hydrocarbures
+pos: NOM
+lf: hydrocarbure
+is a term candidate: 1
+
+-----------------
+
+if: maintenance
+pos: NOM
+lf: maintenance
+is a term candidate: 1
+
+-----------------
+
+if: points de contrôle
+pos: NOM de NOM
+lf: point de contrôle
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( points<=H> de<=P> contrôle<=M> )
+islands: 0
+
+
+-----------------
+
+if: fuite
+pos: NOM
+lf: fuite
+is a term candidate: 1
+
+-----------------
+
+if: l
+pos: NOM
+lf: l
+is a term candidate: 1
+
+-----------------
+
+if: terre
+pos: NOM
+lf: terre
+is a term candidate: 1
+
+-----------------
+
+if: laboratoire
+pos: NOM
+lf: laboratoire
+is a term candidate: 1
+
+-----------------
+
+if: huile hydraulique
+pos: NOM ADJ
+lf: huile hydraulique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( huile<=H> hydraulique<=M> )
+islands: 0
+
+
+-----------------
+
+if: t de terres
+pos: NOM de NOM
+lf: t de terre
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( t<=H> de<=P> terres<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: zone
+pos: NOM
+lf: zone
+is a term candidate: 1
+
+-----------------
+
+if: société
+pos: NOM
+lf: société
+is a term candidate: 1
+
+-----------------
+
+if: traitement biologique
+pos: NOM ADJ
+lf: traitement biologique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( traitement<=H> biologique<=M> )
+islands: 0
+
+
+-----------------
+
+if: massif de fondation
+pos: NOM de NOM
+lf: massif de fondation
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( massif<=H> de<=P> fondation<=M> )
+islands: 0
+
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: graviers.L'origine de la fuite
+pos: NOM de DET:ART NOM
+lf: graviers.L'origine de le fuite
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( graviers.L'origine<=H> de<=P> la<=D> fuite<=M> )
+islands: 0
+
+
+-----------------
+
+if: huile
+pos: NOM
+lf: huile
+is a term candidate: 1
+
+-----------------
+

@@ -1,0 +1,242 @@
+if: exploitant du parc éolien
+pos: NOM du NOM ADJ
+lf: exploitant du parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( exploitant<=H> du<=P> ( parc<=H> éolien<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: outils de télégestion du parc
+pos: NOM de NOM du NOM
+lf: outil de télégestion du parc
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: maintenance
+pos: NOM
+lf: maintenance
+is a term candidate: 1
+
+-----------------
+
+if: charge
+pos: NOM
+lf: charge
+is a term candidate: 1
+
+-----------------
+
+if: surveillance
+pos: NOM
+lf: surveillance
+is a term candidate: 1
+
+-----------------
+
+if: exploitant
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+
+if: 11h30
+pos: NAM
+lf: 11h30
+is a term candidate: 1
+
+-----------------
+
+if: efficacité des outils
+pos: NOM des NOM
+lf: efficacité du outil
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( efficacité<=H> des<=P> outils<=M> )
+islands: 0
+
+
+-----------------
+
+if: renforcement de la sécurité des outils de télégestion
+pos: NOM de DET:ART NOM des NOM de NOM
+lf: renforcement de le sécurité du outil de télégestion
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: causes
+pos: NOM
+lf: cause
+is a term candidate: 1
+
+-----------------
+
+if: communication
+pos: NOM
+lf: communication
+is a term candidate: 1
+
+-----------------
+
+if: cyberattaque.L'enseignement principal
+pos: NOM ADJ
+lf: cyberattaque.L'enseignement principal
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( cyberattaque.L'enseignement<=H> principal<=M> )
+islands: 0
+
+
+-----------------
+
+if: Panne informatique
+pos: NOM ADJ
+lf: panne informatique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Panne<=H> informatique<=M> )
+islands: 0
+
+
+-----------------
+
+if: turbinier
+pos: NOM
+lf: turbinier
+is a term candidate: 1
+
+-----------------
+
+if: contrôle des machines à distance
+pos: NOM des NOM à NOM
+lf: contrôle du machine à distance
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: constructeur
+pos: NOM
+lf: constructeur
+is a term candidate: 1
+
+-----------------
+
+if: 18h30
+pos: NAM
+lf: 18h30
+is a term candidate: 1
+
+-----------------
+
+if: mode de transmission régulière
+pos: NOM de NOM ADJ
+lf: mode de transmission régulier
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( mode<=H> de<=P> ( transmission<=H> régulière<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: mesure
+pos: NOM
+lf: mesure
+is a term candidate: 1
+
+-----------------
+
+if: bon fonctionnement
+pos: ADJ NOM
+lf: bon fonctionnement
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( bon<=M> fonctionnement<=H> )
+islands: 0
+
+
+-----------------
+
+if: rétablie.Il
+pos: NOM
+lf: rétablie.Il
+is a term candidate: 1
+
+-----------------
+
+if: perte de monitoring des éoliennes
+pos: NOM de NOM des NOM
+lf: perte de monitoring du éolienne
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: parties prenantes
+pos: NOM ADJ
+lf: partie prenant
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parties<=H> prenantes<=M> )
+islands: 0
+
+
+-----------------
+
+if: informations de monitoring
+pos: NOM de NOM
+lf: information de monitoring
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( informations<=H> de<=P> monitoring<=M> )
+islands: 0
+
+
+-----------------
+
+if: côté
+pos: NOM
+lf: côté
+is a term candidate: 1
+
+-----------------
+

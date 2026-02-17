@@ -1,0 +1,125 @@
+if: ans
+pos: NOM
+lf: an
+is a term candidate: 1
+
+-----------------
+
+if: machine
+pos: NOM
+lf: machine
+is a term candidate: 1
+
+-----------------
+
+if: accident ayant eu lieu
+pos: NOM ayant VER:pper NOM
+lf: accident avoir avoir lieu
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: Chute
+pos: NOM
+lf: chute
+is a term candidate: 1
+
+-----------------
+
+if: éolienne Une éolienne de 30 m
+pos: ADJ DET:ART NOM de NUM NOM
+lf: éolien un éolienne de 30 m
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: entrée
+pos: NOM
+lf: entrée
+is a term candidate: 1
+
+-----------------
+
+if: rupture
+pos: NOM
+lf: rupture
+is a term candidate: 1
+
+-----------------
+
+if: grille
+pos: NOM
+lf: grille
+is a term candidate: 1
+
+-----------------
+
+if: midi
+pos: NOM
+lf: midi
+is a term candidate: 1
+
+-----------------
+
+if: violentes rafales de vent
+pos: ADJ NOM de NOM
+lf: violent rafale de vent
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: base
+pos: NOM
+lf: base
+is a term candidate: 1
+
+-----------------
+
+if: objet
+pos: NOM
+lf: objet
+is a term candidate: 1
+
+-----------------
+
+if: zone industrielle
+pos: NOM ADJ
+lf: zone industriel
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( zone<=H> industrielle<=M> )
+islands: 0
+
+
+-----------------
+
+if: exploitant
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+
+if: contrôle approfondi 5 mois
+pos: NOM VER:pper NUM NOM
+lf: contrôle approfondir 5 mois|moi
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: victime
+pos: NOM
+lf: victime
+is a term candidate: 1
+
+-----------------
+

@@ -1,0 +1,268 @@
+if: espèce
+pos: NOM
+lf: espèce
+is a term candidate: 1
+
+-----------------
+
+if: causes
+pos: NOM
+lf: cause
+is a term candidate: 1
+
+-----------------
+
+if: vents forts
+pos: NOM ADJ
+lf: vent fort
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( vents<=H> forts<=M> )
+islands: 0
+
+
+-----------------
+
+if: m
+pos: NOM
+lf: m
+is a term candidate: 1
+
+-----------------
+
+if: activité des rapaces
+pos: NOM des NOM
+lf: activité du rapace
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( activité<=H> des<=P> rapaces<=M> )
+islands: 0
+
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: risques de collision
+pos: NOM de NOM
+lf: risque de collision
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( risques<=H> de<=P> collision<=M> )
+islands: 0
+
+
+-----------------
+
+if: suivi de mortalité aviaire
+pos: NOM de NOM ADJ
+lf: suivi de mortalité aviaire
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( suivi<=H> de<=P> ( mortalité<=H> aviaire<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: études
+pos: NOM
+lf: étude
+is a term candidate: 1
+
+-----------------
+
+if: mortalité
+pos: NOM
+lf: mortalité
+is a term candidate: 1
+
+-----------------
+
+if: milan royal
+pos: NOM ADJ
+lf: milan royal
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( milan<=H> royal<=M> )
+islands: 0
+
+
+-----------------
+
+if: collision directe
+pos: NOM ADJ
+lf: collision direct
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( collision<=H> directe<=M> )
+islands: 0
+
+
+-----------------
+
+if: espèces
+pos: NOM
+lf: espèce
+is a term candidate: 1
+
+-----------------
+
+if: mesures proportionnées aux impacts réels
+pos: NOM VER:pper aux NOM ADJ
+lf: mesure proportionner au impact réel
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: type de situation
+pos: NOM de NOM
+lf: type de situation
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( type<=H> de<=P> situation<=M> )
+islands: 0
+
+
+-----------------
+
+if: utilisation du parc éolien
+pos: NOM du NOM ADJ
+lf: utilisation du parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( utilisation<=H> du<=P> ( parc<=H> éolien<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: approche
+pos: NOM
+lf: approche
+is a term candidate: 1
+
+-----------------
+
+if: rapaces
+pos: NOM
+lf: rapace
+is a term candidate: 1
+
+-----------------
+
+if: bureau
+pos: NOM
+lf: bureau
+is a term candidate: 1
+
+-----------------
+
+if: vitesses
+pos: NOM
+lf: vitesse
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: pale
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: Choc
+pos: NOM
+lf: choc
+is a term candidate: 1
+
+-----------------
+
+if: importantes.Le suivi de l' activité des rapaces
+pos: NOM VER:pper de DET:ART NOM des NOM
+lf: importantes.Le suivre de le activité du rapace
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: éolienne.Il
+pos: NOM
+lf: éolienne.Il
+is a term candidate: 1
+
+-----------------
+
+if: modalités
+pos: NOM
+lf: modalité
+is a term candidate: 1
+
+-----------------
+
+if: suivi annuel spécifique
+pos: NOM ADJ ADJ
+lf: suivi annuel spécifique
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: année
+pos: NOM
+lf: année
+is a term candidate: 1
+
+-----------------
+
+if: oiseau
+pos: NOM
+lf: oiseau
+is a term candidate: 1
+
+-----------------
+
+if: Sud-Est
+pos: NOM
+lf: sud-est
+is a term candidate: 1
+
+-----------------
+
+if: sol
+pos: NOM
+lf: sol
+is a term candidate: 1
+
+-----------------
+

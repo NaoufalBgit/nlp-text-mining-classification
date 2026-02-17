@@ -1,0 +1,193 @@
+if: chasseurs
+pos: NOM
+lf: chasseur
+is a term candidate: 1
+
+-----------------
+
+if: cadavre de faucon au sol au pied
+pos: NOM de NOM au NOM au NOM
+lf: cadavre de faucon au sol au pied
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: faucon espagnol
+pos: NOM ADJ
+lf: faucon espagnol
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( faucon<=H> espagnol<=M> )
+islands: 0
+
+
+-----------------
+
+if: ONCFS
+pos: NOM
+lf: ONCFS
+is a term candidate: 1
+
+-----------------
+
+if: Choc
+pos: NOM
+lf: choc
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: office national
+pos: NOM ADJ
+lf: office national
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( office<=H> national<=M> )
+islands: 0
+
+
+-----------------
+
+if: information à une association de protection des oiseaux
+pos: NOM à DET:ART NOM de NOM des NOM
+lf: information à un association de protection du oiseau
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: fédération départementale
+pos: NOM ADJ
+lf: fédération départemental
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( fédération<=H> départementale<=M> )
+islands: 0
+
+
+-----------------
+
+if: double mortalité
+pos: ADJ NOM
+lf: double mortalité
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( double<=M> mortalité<=H> )
+islands: 0
+
+
+-----------------
+
+if: faune sauvage
+pos: NOM ADJ
+lf: faune sauvage
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( faune<=H> sauvage<=M> )
+islands: 0
+
+
+-----------------
+
+if: jours
+pos: NOM
+lf: jour
+is a term candidate: 1
+
+-----------------
+
+if: cadavre
+pos: NOM
+lf: cadavre
+is a term candidate: 1
+
+-----------------
+
+if: autres faucons crécerellettes à proximité de l' éolienne
+pos: ADJ NOM NOM à NOM de DET:ART NOM
+lf: autre faucon crécerellette à proximité de le éolienne
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: faucon crécerellette
+pos: NOM ADJ
+lf: faucon crécerellette
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( faucon<=H> crécerellette<=M> )
+islands: 0
+
+
+-----------------
+
+if: faucon
+pos: NOM
+lf: faucon
+is a term candidate: 1
+
+-----------------
+
+if: fonctionnement de la machine
+pos: NOM de DET:ART NOM
+lf: fonctionnement de le machine
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( fonctionnement<=H> de<=P> la<=D> machine<=M> )
+islands: 0
+
+
+-----------------
+
+if: chasse
+pos: NOM
+lf: chasse
+is a term candidate: 1
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: observations
+pos: NOM
+lf: observation
+is a term candidate: 1
+
+-----------------
+

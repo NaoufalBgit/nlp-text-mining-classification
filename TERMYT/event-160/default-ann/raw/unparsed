@@ -1,0 +1,65 @@
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: éolienne Un élément de 400 g constitutif
+pos: ADJ DET:ART NOM de NUM NOM ADJ
+lf: éolien un élément de 400 g constitutif
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: Chute
+pos: NOM
+lf: chute
+is a term candidate: 1
+
+-----------------
+
+if: intérieur de la parcelle clôturée du parc de 4 aérogénérateurs de 2,5 MW
+pos: NOM de DET:ART NOM VER:pper du NOM de NUM NOM de NUM NOM
+lf: intérieur de le parcelle clôturer du parc de 4 aérogénérateur de 2,5 MW
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: service
+pos: NOM
+lf: service
+is a term candidate: 1
+
+-----------------
+
+if: élément
+pos: NOM
+lf: élément
+is a term candidate: 1
+
+-----------------
+
+if: m du mât
+pos: NOM du NOM
+lf: m du mât
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( m<=H> du<=P> mât<=M> )
+islands: 0
+
+
+-----------------
+
+if: pale
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+

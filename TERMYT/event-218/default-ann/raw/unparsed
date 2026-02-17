@@ -1,0 +1,135 @@
+if: Chute
+pos: NOM
+lf: chute
+is a term candidate: 1
+
+-----------------
+
+if: nuit
+pos: NOM
+lf: nuit
+is a term candidate: 1
+
+-----------------
+
+if: 7h30 la chute
+pos: NAM DET:ART NOM
+lf: 7h30 le chute
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( 7h30<=H> la<=D> chute<=M> )
+islands: 0
+
+
+-----------------
+
+if: type
+pos: NOM
+lf: type
+is a term candidate: 1
+
+-----------------
+
+if: réparations au moment des faits
+pos: NOM au NOM des NOM
+lf: réparation au moment du fait
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: aérogénérateur de 200 kW
+pos: NOM de NUM NOM
+lf: aérogénérateur de 200 kW
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: France
+pos: NAM
+lf: France
+is a term candidate: 1
+
+-----------------
+
+if: éolienne Un promeneur
+pos: ADJ DET:ART NOM
+lf: éolien un promeneur
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: installations
+pos: NOM
+lf: installation
+is a term candidate: 1
+
+-----------------
+
+if: treillis de 30 m de haut
+pos: NOM de NUM NOM de NOM
+lf: treillis de 30 m de haut
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: public
+pos: NOM
+lf: public
+is a term candidate: 1
+
+-----------------
+
+if: rafales de vent
+pos: NOM de NOM
+lf: rafale de vent
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( rafales<=H> de<=P> vent<=M> )
+islands: 0
+
+
+-----------------
+
+if: site
+pos: NOM
+lf: site
+is a term candidate: 1
+
+-----------------
+
+if: arrêt
+pos: NOM
+lf: arrêt
+is a term candidate: 1
+
+-----------------
+
+if: effondrement de la tour
+pos: NOM de DET:ART NOM
+lf: effondrement de le tour
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( effondrement<=H> de<=P> la<=D> tour<=M> )
+islands: 0
+
+
+-----------------
+

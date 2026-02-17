@@ -1,0 +1,283 @@
+if: Choc
+pos: NOM
+lf: choc
+is a term candidate: 1
+
+-----------------
+
+if: études
+pos: NOM
+lf: étude
+is a term candidate: 1
+
+-----------------
+
+if: prestataire du système de détection
+pos: NOM du NOM de NOM
+lf: prestataire du système de détection
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: visibilité
+pos: NOM
+lf: visibilité
+is a term candidate: 1
+
+-----------------
+
+if: parc.Au moment de la collision
+pos: NOM NOM de DET:ART NOM
+lf: parc.Au moment de le collision
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: cas de mortalité
+pos: NOM de NOM
+lf: cas de mortalité
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( cas<=H> de<=P> mortalité<=M> )
+islands: 0
+
+
+-----------------
+
+if: position GPS de l' oiseau
+pos: NOM NOM de DET:ART NOM
+lf: position GPS de le oiseau
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: partie supérieure
+pos: NOM ADJ
+lf: partie supérieur
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( partie<=H> supérieure<=M> )
+islands: 0
+
+
+-----------------
+
+if: vallon
+pos: NOM
+lf: vallon
+is a term candidate: 1
+
+-----------------
+
+if: espèce
+pos: NOM
+lf: espèce
+is a term candidate: 1
+
+-----------------
+
+if: oiseau
+pos: NOM
+lf: oiseau
+is a term candidate: 1
+
+-----------------
+
+if: suivi de la mortalité aviaire
+pos: NOM de DET:ART NOM ADJ
+lf: suivi de le mortalité aviaire
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( suivi<=H> de<=P> la<=D> ( mortalité<=H> aviaire<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: fonctions de traçabilité
+pos: NOM de NOM
+lf: fonction de traçabilité
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( fonctions<=H> de<=P> traçabilité<=M> )
+islands: 0
+
+
+-----------------
+
+if: rotor
+pos: NOM
+lf: rotor
+is a term candidate: 1
+
+-----------------
+
+if: aigle royal
+pos: NOM ADJ
+lf: aigle royal
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( aigle<=H> royal<=M> )
+islands: 0
+
+
+-----------------
+
+if: pied
+pos: NOM
+lf: pied
+is a term candidate: 1
+
+-----------------
+
+if: trajectoire
+pos: NOM
+lf: trajectoire
+is a term candidate: 1
+
+-----------------
+
+if: ascendance à distance du parc
+pos: NOM à NOM du NOM
+lf: ascendance à distance du parc
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: découverte
+pos: NOM
+lf: découverte
+is a term candidate: 1
+
+-----------------
+
+if: composantes
+pos: NOM
+lf: composante
+is a term candidate: 1
+
+-----------------
+
+if: constat
+pos: NOM
+lf: constat
+is a term candidate: 1
+
+-----------------
+
+if: site
+pos: NOM
+lf: site
+is a term candidate: 1
+
+-----------------
+
+if: bureau
+pos: NOM
+lf: bureau
+is a term candidate: 1
+
+-----------------
+
+if: pale
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: ordre
+pos: NOM
+lf: ordre
+is a term candidate: 1
+
+-----------------
+
+if: recherche
+pos: NOM
+lf: recherche
+is a term candidate: 1
+
+-----------------
+
+if: arrêt
+pos: NOM
+lf: arrêt
+is a term candidate: 1
+
+-----------------
+
+if: collision
+pos: NOM
+lf: collision
+is a term candidate: 1
+
+-----------------
+
+if: lieu 6 jours
+pos: NOM NUM NOM
+lf: lieu 6 jour
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: jours
+pos: NOM
+lf: jour
+is a term candidate: 1
+
+-----------------
+
+if: rotor de la machine
+pos: NOM de DET:ART NOM
+lf: rotor de le machine
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( rotor<=H> de<=P> la<=D> machine<=M> )
+islands: 0
+
+
+-----------------
+
+if: images
+pos: NOM
+lf: image
+is a term candidate: 1
+
+-----------------
+

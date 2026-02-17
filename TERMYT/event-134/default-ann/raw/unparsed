@@ -1,0 +1,301 @@
+if: mer
+pos: NOM
+lf: mer
+is a term candidate: 1
+
+-----------------
+
+if: nacelle chute
+pos: NOM NOM
+lf: nacelle chute
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( nacelle<=H> chute<=M> )
+islands: 0
+
+
+-----------------
+
+if: insuffisance de la liaison
+pos: NOM de DET:ART NOM
+lf: insuffisance de le liaison
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( insuffisance<=H> de<=P> la<=D> liaison<=M> )
+islands: 0
+
+
+-----------------
+
+if: phénomène
+pos: NOM
+lf: phénomène
+is a term candidate: 1
+
+-----------------
+
+if: ensemble des pales
+pos: NOM des NOM
+lf: ensemble du pale
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( ensemble<=H> des<=P> pales<=M> )
+islands: 0
+
+
+-----------------
+
+if: goujons de fixation des pales
+pos: NOM de NOM des NOM
+lf: goujon de fixation du pale
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: mât
+pos: NOM
+lf: mât
+is a term candidate: 1
+
+-----------------
+
+if: ferme éolienne
+pos: ADJ NOM
+lf: ferme éolienne
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( ferme<=M> éolienne<=H> )
+islands: 0
+
+
+-----------------
+
+if: proximité
+pos: NOM
+lf: proximité
+is a term candidate: 1
+
+-----------------
+
+if: resserrage mensuel
+pos: NOM ADJ
+lf: resserrage mensuel
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( resserrage<=H> mensuel<=M> )
+islands: 0
+
+
+-----------------
+
+if: kEuros
+pos: NOM
+lf: kEuros
+is a term candidate: 1
+
+-----------------
+
+if: Chute
+pos: NOM
+lf: chute
+is a term candidate: 1
+
+-----------------
+
+if: mai
+pos: NOM
+lf: mai
+is a term candidate: 1
+
+-----------------
+
+if: pales des trois autres éoliennes du parc
+pos: NOM des NUM ADJ NOM du NOM
+lf: pale du trois autre éolienne du parc
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: fissuration pales
+pos: NOM NOM
+lf: fissuration pale
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( fissuration<=H> pales<=M> )
+islands: 0
+
+
+-----------------
+
+if: nuit
+pos: NOM
+lf: nuit
+is a term candidate: 1
+
+-----------------
+
+if: sous-traitant
+pos: NOM
+lf: sous-traitant
+is a term candidate: 1
+
+-----------------
+
+if: pales
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: état
+pos: NOM
+lf: état
+is a term candidate: 1
+
+-----------------
+
+if: tire-fonds de fixation
+pos: NOM de NOM
+lf: tire-fond de fixation
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( tire-fonds<=H> de<=P> fixation<=M> )
+islands: 0
+
+
+-----------------
+
+if: expertise technique
+pos: NOM ADJ
+lf: expertise technique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( expertise<=H> technique<=M> )
+islands: 0
+
+
+-----------------
+
+if: partie
+pos: NOM
+lf: partie
+is a term candidate: 1
+
+-----------------
+
+if: amorce
+pos: NOM
+lf: amorce
+is a term candidate: 1
+
+-----------------
+
+if: mi
+pos: NOM
+lf: mi
+is a term candidate: 1
+
+-----------------
+
+if: aérogéneratrices
+pos: NOM
+lf: aérogéneratrices
+is a term candidate: 1
+
+-----------------
+
+if: pale
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: exploitant
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+
+if: reconstruite.Le montant des dommages
+pos: NOM VER:ppre des NOM
+lf: reconstruite.Le monter du dommage
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: Wimereux
+pos: NAM
+lf: Wimereux
+is a term candidate: 1
+
+-----------------
+
+if: défaut de conception
+pos: NOM de NOM
+lf: défaut de conception
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( défaut<=H> de<=P> conception<=M> )
+islands: 0
+
+
+-----------------
+
+if: constructeur du moyeu
+pos: NOM du NOM
+lf: constructeur du moyeu
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( constructeur<=H> du<=P> moyeu<=M> )
+islands: 0
+
+
+-----------------
+
+if: presse
+pos: NOM
+lf: presse
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: modèle
+pos: NOM
+lf: modèle
+is a term candidate: 1
+
+-----------------
+
+if: matériau
+pos: NOM
+lf: matériau
+is a term candidate: 1
+
+-----------------
+

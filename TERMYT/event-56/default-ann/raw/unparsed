@@ -1,0 +1,463 @@
+if: rétention
+pos: NOM
+lf: rétention
+is a term candidate: 1
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: bidons
+pos: NOM
+lf: bidon
+is a term candidate: 1
+
+-----------------
+
+if: long du mat
+pos: NOM du NOM
+lf: long du mat
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( long<=H> du<=P> mat<=M> )
+islands: 0
+
+
+-----------------
+
+if: pied de mat
+pos: NOM de NOM
+lf: pied de mat
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( pied<=H> de<=P> mat<=M> )
+islands: 0
+
+
+-----------------
+
+if: béton au pied de l' éolienne.Le lendemain
+pos: NOM au NOM de DET:ART ADJ NOM
+lf: béton au pied de le éolienne.Le lendemain
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: fond de la nacelle
+pos: NOM de DET:ART NOM
+lf: fond de le nacelle
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( fond<=H> de<=P> la<=D> nacelle<=M> )
+islands: 0
+
+
+-----------------
+
+if: compartiments étanches
+pos: NOM ADJ
+lf: compartiment étanche
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( compartiments<=H> étanches<=M> )
+islands: 0
+
+
+-----------------
+
+if: remplacement du multiplicateur
+pos: NOM du NOM
+lf: remplacement du multiplicateur
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( remplacement<=H> du<=P> multiplicateur<=M> )
+islands: 0
+
+
+-----------------
+
+if: multiplicateur :230 l
+pos: NOM NUM NOM
+lf: multiplicateur :230 l
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: démontage
+pos: NOM
+lf: démontage
+is a term candidate: 1
+
+-----------------
+
+if: majorité de l' huile
+pos: NOM de DET:ART NOM
+lf: majorité de le huile
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( majorité<=H> de<=P> l'<=D> huile<=M> )
+islands: 0
+
+
+-----------------
+
+if: écoulement supplémentaire
+pos: NOM ADJ
+lf: écoulement supplémentaire
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( écoulement<=H> supplémentaire<=M> )
+islands: 0
+
+
+-----------------
+
+if: socle béton
+pos: NOM NOM
+lf: socle béton
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( socle<=H> béton<=M> )
+islands: 0
+
+
+-----------------
+
+if: socle
+pos: NOM
+lf: socle
+is a term candidate: 1
+
+-----------------
+
+if: intérieur
+pos: NOM
+lf: intérieur
+is a term candidate: 1
+
+-----------------
+
+if: compartiment fuyard
+pos: NOM ADJ
+lf: compartiment fuyard
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( compartiment<=H> fuyard<=M> )
+islands: 0
+
+
+-----------------
+
+if: huile
+pos: NOM
+lf: huile
+is a term candidate: 1
+
+-----------------
+
+if: 19h37
+pos: NAM
+lf: 19h37
+is a term candidate: 1
+
+-----------------
+
+if: pied de la fondation
+pos: NOM de DET:ART NOM
+lf: pied de le fondation
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( pied<=H> de<=P> la<=D> fondation<=M> )
+islands: 0
+
+
+-----------------
+
+if: reste
+pos: NOM
+lf: reste
+is a term candidate: 1
+
+-----------------
+
+if: risque
+pos: NOM
+lf: risque
+is a term candidate: 1
+
+-----------------
+
+if: société
+pos: NOM
+lf: société
+is a term candidate: 1
+
+-----------------
+
+if: partie basse
+pos: NOM ADJ
+lf: partie bas
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( partie<=H> basse<=M> )
+islands: 0
+
+
+-----------------
+
+if: huile mécanique présents
+pos: NOM ADJ ADJ
+lf: huile mécanique présent
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: arrêt à la suite
+pos: NOM à DET:ART NOM
+lf: arrêt à le suite
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( arrêt<=H> à<=P> la<=D> suite<=M> )
+islands: 0
+
+
+-----------------
+
+if: prise
+pos: NOM
+lf: prise
+is a term candidate: 1
+
+-----------------
+
+if: plan
+pos: NOM
+lf: plan
+is a term candidate: 1
+
+-----------------
+
+if: rupture
+pos: NOM
+lf: rupture
+is a term candidate: 1
+
+-----------------
+
+if: extérieur
+pos: NOM
+lf: extérieur
+is a term candidate: 1
+
+-----------------
+
+if: terre végétale entourant le socle du mat
+pos: NOM ADJ VER:ppre DET:ART NOM du NOM
+lf: terre végétal entourer le socle du mat
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: l
+pos: NOM
+lf: l
+is a term candidate: 1
+
+-----------------
+
+if: origine de l' incident
+pos: NOM de DET:ART NOM
+lf: origine de le incident
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( origine<=H> de<=P> l'<=D> incident<=M> )
+islands: 0
+
+
+-----------------
+
+if: nacelle
+pos: NOM
+lf: nacelle
+is a term candidate: 1
+
+-----------------
+
+if: végétation jouxtant la plateforme.L'exploitant
+pos: NOM VER:ppre DET:ART NOM
+lf: végétation jouxter le plateforme.L'exploitant
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( végétation<=H> ( jouxtant<=H> la<=D> plateforme.L'exploitant<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: charge
+pos: NOM
+lf: charge
+is a term candidate: 1
+
+-----------------
+
+if: intervention
+pos: NOM
+lf: intervention
+is a term candidate: 1
+
+-----------------
+
+if: mat
+pos: NOM
+lf: mat
+is a term candidate: 1
+
+-----------------
+
+if: composant tournant du multiplicateur
+pos: NOM VER:ppre du NOM
+lf: composant tourner du multiplicateur
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( composant<=H> ( tournant<=H> du<=P> multiplicateur<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: évacuation
+pos: NOM
+lf: évacuation
+is a term candidate: 1
+
+-----------------
+
+if: atelier
+pos: NOM
+lf: atelier
+is a term candidate: 1
+
+-----------------
+
+if: pollution
+pos: NOM
+lf: pollution
+is a term candidate: 1
+
+-----------------
+
+if: causes de la rupture du composant
+pos: NOM de DET:ART NOM du NOM
+lf: cause de le rupture du composant
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: Fuite
+pos: NOM
+lf: fuite
+is a term candidate: 1
+
+-----------------
+
+if: fuite
+pos: NOM
+lf: fuite
+is a term candidate: 1
+
+-----------------
+
+if: défaillance
+pos: NOM
+lf: défaillance
+is a term candidate: 1
+
+-----------------
+
+if: niveau :du multiplicateur
+pos: NOM ADJ ADJ
+lf: niveau :du multiplicateur
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: multiplicateur
+pos: NOM
+lf: multiplicateur
+is a term candidate: 1
+
+-----------------
+
+if: face extérieure
+pos: NOM ADJ
+lf: face extérieur
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( face<=H> extérieure<=M> )
+islands: 0
+
+
+-----------------
+
+if: exploitant
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+
+if: attente
+pos: NOM
+lf: attente
+is a term candidate: 1
+
+-----------------
+
+if: débordement
+pos: NOM
+lf: débordement
+is a term candidate: 1
+
+-----------------
+

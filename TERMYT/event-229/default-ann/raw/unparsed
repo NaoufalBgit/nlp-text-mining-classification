@@ -1,0 +1,180 @@
+if: origine du décès
+pos: NOM du NOM
+lf: origine du décès
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( origine<=H> du<=P> décès<=M> )
+islands: 0
+
+
+-----------------
+
+if: ailes
+pos: NOM
+lf: aile
+is a term candidate: 1
+
+-----------------
+
+if: circonstances de la collision
+pos: NOM de DET:ART NOM
+lf: circonstance de le collision
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( circonstances<=H> de<=P> la<=D> collision<=M> )
+islands: 0
+
+
+-----------------
+
+if: Choc
+pos: NOM
+lf: choc
+is a term candidate: 1
+
+-----------------
+
+if: espèce
+pos: NOM
+lf: espèce
+is a term candidate: 1
+
+-----------------
+
+if: limite de cultures
+pos: NOM de NOM
+lf: limite de culture
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( limite<=H> de<=P> cultures<=M> )
+islands: 0
+
+
+-----------------
+
+if: étude de suivi du parc
+pos: NOM de NOM du NOM
+lf: étude de suivi du parc
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: collision directe
+pos: NOM ADJ
+lf: collision direct
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( collision<=H> directe<=M> )
+islands: 0
+
+
+-----------------
+
+if: lendemain de la découverte du cadavre
+pos: NOM de DET:ART NOM du NOM
+lf: lendemain de le découverte du cadavre
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: cailloux
+pos: NOM
+lf: caillou
+is a term candidate: 1
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: bureau
+pos: NOM
+lf: bureau
+is a term candidate: 1
+
+-----------------
+
+if: m
+pos: NOM
+lf: m
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: cadavre frais de Milan Royal
+pos: NOM ADJ de NAM NAM
+lf: cadavre frais de Milan Royal
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: système de régulation avifaune automatique
+pos: NOM de NOM NOM ADJ
+lf: système de régulation avifaune automatique
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: vidéos
+pos: NOM
+lf: vidéo
+is a term candidate: 1
+
+-----------------
+
+if: m du bord de la plateforme
+pos: NOM du NOM de DET:ART NOM
+lf: m du bord de le plateforme
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: cultures basses
+pos: NOM ADJ
+lf: culture bas
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( cultures<=H> basses<=M> )
+islands: 0
+
+
+-----------------
+
+if: rapace
+pos: NOM
+lf: rapace
+is a term candidate: 1
+
+-----------------
+

@@ -1,0 +1,1421 @@
+if: rupture
+pos: NOM
+lf: rupture
+is a term candidate: 1
+
+-----------------
+
+if: forte teneur
+pos: ADJ NOM
+lf: fort teneur
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( forte<=M> teneur<=H> )
+islands: 0
+
+
+-----------------
+
+if: enceinte extérieure
+pos: NOM ADJ
+lf: enceinte extérieur
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( enceinte<=H> extérieure<=M> )
+islands: 0
+
+
+-----------------
+
+if: mauvaise connaissance des caractéristiques des matériaux
+pos: ADJ NOM des NOM des NOM
+lf: mauvais connaissance du caractéristique du matériaux|matériau
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: qualité de l' air
+pos: NOM de DET:ART NOM
+lf: qualité de le air
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( qualité<=H> de<=P> l'<=D> air<=M> )
+islands: 0
+
+
+-----------------
+
+if: consommation
+pos: NOM
+lf: consommation
+is a term candidate: 1
+
+-----------------
+
+if: Alabama
+pos: NAM
+lf: Alabama
+is a term candidate: 1
+
+-----------------
+
+if: argile naturelle
+pos: NOM ADJ
+lf: argile naturel
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( argile<=H> naturelle<=M> )
+islands: 0
+
+
+-----------------
+
+if: extérieure provoquant la libération de boues
+pos: ADJ VER:ppre DET:ART NOM de NOM
+lf: extérieur provoquer le libération de boue
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: études de conception au cours des relevages des bassins
+pos: NOM de NOM au NOM des NOM des NOM
+lf: étude de conception au cours|cour du relevage du bassin
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: nouvelle instabilité
+pos: ADJ NOM
+lf: nouveau instabilité
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( nouvelle<=M> instabilité<=H> )
+islands: 0
+
+
+-----------------
+
+if: relevages successifs
+pos: NOM ADJ
+lf: relevage successif
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( relevages<=H> successifs<=M> )
+islands: 0
+
+
+-----------------
+
+if: abandon de la construction
+pos: NOM de DET:ART NOM
+lf: abandon de le construction
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( abandon<=H> de<=P> la<=D> construction<=M> )
+islands: 0
+
+
+-----------------
+
+if: rivières EMORY
+pos: NOM NAM
+lf: rivière EMORY
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( rivières<=H> EMORY<=M> )
+islands: 0
+
+
+-----------------
+
+if: manque
+pos: NOM
+lf: manque
+is a term candidate: 1
+
+-----------------
+
+if: rail
+pos: NOM
+lf: rail
+is a term candidate: 1
+
+-----------------
+
+if: ruine
+pos: NOM
+lf: ruine
+is a term candidate: 1
+
+-----------------
+
+if: rejet direct
+pos: NOM ADJ
+lf: rejet direct
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( rejet<=H> direct<=M> )
+islands: 0
+
+
+-----------------
+
+if: environnement
+pos: NOM
+lf: environnement
+is a term candidate: 1
+
+-----------------
+
+if: ensemble.Des fuites
+pos: ADJ NOM
+lf: ensemble.Des fuite
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( ensemble.Des<=M> fuites<=H> )
+islands: 0
+
+
+-----------------
+
+if: corps de l' enceinte
+pos: NOM de DET:ART NOM
+lf: corps de le enceinte
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( corps<=H> de<=P> l'<=D> enceinte<=M> )
+islands: 0
+
+
+-----------------
+
+if: m
+pos: NOM
+lf: m
+is a term candidate: 1
+
+-----------------
+
+if: dessous du corps de l' enceinte intérieure
+pos: NOM du NOM de DET:ART NOM ADJ
+lf: dessous du corps de le enceinte intérieur
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: Cr
+pos: NAM
+lf: Cr
+is a term candidate: 1
+
+-----------------
+
+if: TENNESSE
+pos: NOM
+lf: TENNESSE
+is a term candidate: 1
+
+-----------------
+
+if: fonctionnement de l' ouvrage
+pos: NOM de DET:ART NOM
+lf: fonctionnement de le ouvrage
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( fonctionnement<=H> de<=P> l'<=D> ouvrage<=M> )
+islands: 0
+
+
+-----------------
+
+if: vague de boue
+pos: NOM de NOM
+lf: vague de boue
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( vague<=H> de<=P> boue<=M> )
+islands: 0
+
+
+-----------------
+
+if: voie de presse à la suite de l' accident
+pos: NOM de NOM à DET:ART NOM de DET:ART NOM
+lf: voie de presse à le suite de le accident
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: sensibilité au fluage
+pos: NOM au NOM
+lf: sensibilité au fluage
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( sensibilité<=H> au<=P> fluage<=M> )
+islands: 0
+
+
+-----------------
+
+if: conclusions
+pos: NOM
+lf: conclusion
+is a term candidate: 1
+
+-----------------
+
+if: lit de la rivière
+pos: NOM de DET:ART NOM
+lf: lit de le rivière
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( lit<=H> de<=P> la<=D> rivière<=M> )
+islands: 0
+
+
+-----------------
+
+if: CLINCH affluents
+pos: NAM ADJ
+lf: CLINCH affluent
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: bassin demeuré intact.Les réseaux
+pos: NOM ADJ ADJ NOM
+lf: bassin demeuré intact.Les réseau
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: inspection annuelle
+pos: NOM ADJ
+lf: inspection annuel
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( inspection<=H> annuelle<=M> )
+islands: 0
+
+
+-----------------
+
+if: expertise
+pos: NOM
+lf: expertise
+is a term candidate: 1
+
+-----------------
+
+if: déformation progressive
+pos: NOM ADJ
+lf: déformation progressif
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( déformation<=H> progressive<=M> )
+islands: 0
+
+
+-----------------
+
+if: faible résistance au cisaillement
+pos: ADJ NOM au NOM
+lf: faible résistance au cisaillement
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: épaisseur atteignant 1,8 m. L' étang SWAN
+pos: NOM VER:ppre NUM ABR DET:ART NOM NAM
+lf: épaisseur atteindre 1,8 m. le étang SWAN
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: piézomètres.En août
+pos: ADJ NOM
+lf: piézomètres.En août
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( piézomètres.En<=M> août<=H> )
+islands: 0
+
+
+-----------------
+
+if: enceintes intérieure
+pos: NOM ADJ
+lf: enceinte intérieur
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( enceintes<=H> intérieure<=M> )
+islands: 0
+
+
+-----------------
+
+if: efficace la mise
+pos: ADJ DET:ART NOM
+lf: efficace le mise
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: argile
+pos: NOM
+lf: argile
+is a term candidate: 1
+
+-----------------
+
+if: Hg
+pos: NAM
+lf: Hg
+is a term candidate: 1
+
+-----------------
+
+if: rétention de boues de cendres volantes de charbon
+pos: NOM de NOM de NOM ADJ de NOM
+lf: rétention de boue de cendre volant de charbon
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: comité
+pos: NOM
+lf: comité
+is a term candidate: 1
+
+-----------------
+
+if: fine couche de boues atypiques localisée à la verticale
+pos: ADJ NOM de NOM ADJ VER:pper à DET:ART NOM
+lf: fin couche de boue atypique localiser à le vertical
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: Pb
+pos: NAM
+lf: Pb
+is a term candidate: 1
+
+-----------------
+
+if: Cu
+pos: NAM
+lf: Cu
+is a term candidate: 1
+
+-----------------
+
+if: bassin de rétention de cendres de charbon
+pos: NOM de NOM de NOM de NOM
+lf: bassin de rétention de cendre de charbon
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: exploitation de la centrale
+pos: NOM de DET:ART ADJ
+lf: exploitation de le central
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: production
+pos: NOM
+lf: production
+is a term candidate: 1
+
+-----------------
+
+if: février
+pos: NOM
+lf: février
+is a term candidate: 1
+
+-----------------
+
+if: dépôt à Arrowhead
+pos: NOM à NAM
+lf: dépôt à Arrowhead
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( dépôt<=H> à<=P> Arrowhead<=M> )
+islands: 0
+
+
+-----------------
+
+if: Ba
+pos: NAM
+lf: Ba
+is a term candidate: 1
+
+-----------------
+
+if: forme liquide
+pos: NOM ADJ
+lf: forme liquide
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( forme<=H> liquide<=M> )
+islands: 0
+
+
+-----------------
+
+if: modalités de dépollution
+pos: NOM de NOM
+lf: modalité de dépollution
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( modalités<=H> de<=P> dépollution<=M> )
+islands: 0
+
+
+-----------------
+
+if: nouvel ouvrage
+pos: ADJ NOM
+lf: nouveau ouvrage
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( nouvel<=M> ouvrage<=H> )
+islands: 0
+
+
+-----------------
+
+if: Rupture
+pos: NOM
+lf: rupture
+is a term candidate: 1
+
+-----------------
+
+if: chenal
+pos: NOM
+lf: chenal
+is a term candidate: 1
+
+-----------------
+
+if: coût total
+pos: NOM ADJ
+lf: coût total
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( coût<=H> total<=M> )
+islands: 0
+
+
+-----------------
+
+if: puits de drainage
+pos: NOM de NOM
+lf: puits de drainage
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( puits<=H> de<=P> drainage<=M> )
+islands: 0
+
+
+-----------------
+
+if: boues
+pos: NOM
+lf: boue
+is a term candidate: 1
+
+-----------------
+
+if: M$
+pos: NOM
+lf: M$
+is a term candidate: 1
+
+-----------------
+
+if: aval
+pos: NOM
+lf: aval
+is a term candidate: 1
+
+-----------------
+
+if: métaux
+pos: NOM
+lf: métal
+is a term candidate: 1
+
+-----------------
+
+if: Tl
+pos: NAM
+lf: Tl
+is a term candidate: 1
+
+-----------------
+
+if: lois locales
+pos: NOM ADJ
+lf: loi local
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( lois<=H> locales<=M> )
+islands: 0
+
+
+-----------------
+
+if: km²
+pos: NOM
+lf: km²
+is a term candidate: 1
+
+-----------------
+
+if: application aux bassins de stockage
+pos: NOM aux NOM de NOM
+lf: application au bassin de stockage
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: eau
+pos: NOM
+lf: eau
+is a term candidate: 1
+
+-----------------
+
+if: drainage complet
+pos: NOM ADJ
+lf: drainage complet
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( drainage<=H> complet<=M> )
+islands: 0
+
+
+-----------------
+
+if: présence
+pos: NOM
+lf: présence
+is a term candidate: 1
+
+-----------------
+
+if: Cd
+pos: NAM
+lf: Cd
+is a term candidate: 1
+
+-----------------
+
+if: audit
+pos: NOM
+lf: audit
+is a term candidate: 1
+
+-----------------
+
+if: place
+pos: NOM
+lf: place
+is a term candidate: 1
+
+-----------------
+
+if: sédiments fluviaux
+pos: NOM ADJ
+lf: sédiment fluvial
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( sédiments<=H> fluviaux<=M> )
+islands: 0
+
+
+-----------------
+
+if: Mm³ de boues
+pos: NOM de NOM
+lf: Mm³ de boue
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Mm³<=H> de<=P> boues<=M> )
+islands: 0
+
+
+-----------------
+
+if: autres sites
+pos: ADJ NOM
+lf: autre site
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( autres<=M> sites<=H> )
+islands: 0
+
+
+-----------------
+
+if: 1h du matin
+pos: NAM du NOM
+lf: 1h du matin
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( 1h<=H> du<=P> matin<=M> )
+islands: 0
+
+
+-----------------
+
+if: impacts à long terme
+pos: NOM à ADJ NOM
+lf: impact à long terme
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: silice
+pos: NOM
+lf: silice
+is a term candidate: 1
+
+-----------------
+
+if: lignes électriques
+pos: NOM ADJ
+lf: ligne électrique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( lignes<=H> électriques<=M> )
+islands: 0
+
+
+-----------------
+
+if: analyse géotechnique in situ
+pos: NOM ADJ ADJ NOM
+lf: analyse géotechnique in situ
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: an).Un bureau
+pos: ADJ NOM
+lf: an).Un bureau
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( an).Un<=M> bureau<=H> )
+islands: 0
+
+
+-----------------
+
+if: état du Tennessee
+pos: NOM du NAM
+lf: état du Tennessee
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( état<=H> du<=P> Tennessee<=M> )
+islands: 0
+
+
+-----------------
+
+if: M m³ de cendres
+pos: NOM NOM de NOM
+lf: M m³ de cendre
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: cendres
+pos: NOM
+lf: cendre
+is a term candidate: 1
+
+-----------------
+
+if: avenir
+pos: NOM
+lf: avenir
+is a term candidate: 1
+
+-----------------
+
+if: enceinte résistant aux séismes
+pos: NOM VER:ppre aux NOM
+lf: enceinte résister au séisme
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( enceinte<=H> ( résistant<=H> aux<=P> séismes<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: suivi serré
+pos: NOM ADJ
+lf: suivi serré
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( suivi<=H> serré<=M> )
+islands: 0
+
+
+-----------------
+
+if: agence fédérale
+pos: NOM ADJ
+lf: agence fédéral
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( agence<=H> fédérale<=M> )
+islands: 0
+
+
+-----------------
+
+if: bassin
+pos: NOM
+lf: bassin
+is a term candidate: 1
+
+-----------------
+
+if: drains
+pos: NOM
+lf: drain
+is a term candidate: 1
+
+-----------------
+
+if: teneurs
+pos: NOM
+lf: teneur
+is a term candidate: 1
+
+-----------------
+
+if: centrale thermique
+pos: NOM ADJ
+lf: centrale thermique
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( centrale<=H> thermique<=M> )
+islands: 0
+
+
+-----------------
+
+if: seuils
+pos: NOM
+lf: seuil
+is a term candidate: 1
+
+-----------------
+
+if: décembre 2009 racheté 150 parcelles
+pos: NOM NUM VER:pper NUM NOM
+lf: décembre 2009 racheter 150 parcelle
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: oeuvre du plan de secours.L'exploitant
+pos: NOM du NOM de NOM
+lf: œuvre du plan de secours.L'exploitant
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: partie de l' enceinte intérieure
+pos: NOM de DET:ART NOM ADJ
+lf: partie de le enceinte intérieur
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( partie<=H> de<=P> l'<=D> ( enceinte<=H> intérieure<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: enceinte intérieure
+pos: NOM ADJ
+lf: enceinte intérieur
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( enceinte<=H> intérieure<=M> )
+islands: 0
+
+
+-----------------
+
+if: énergie
+pos: NOM
+lf: énergie
+is a term candidate: 1
+
+-----------------
+
+if: enrochement
+pos: NOM
+lf: enrochement
+is a term candidate: 1
+
+-----------------
+
+if: corps de l' enceinte intérieure
+pos: NOM de DET:ART NOM ADJ
+lf: corps de le enceinte intérieur
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( corps<=H> de<=P> l'<=D> ( enceinte<=H> intérieure<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: stockage des déchets
+pos: NOM des NOM
+lf: stockage du déchet
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( stockage<=H> des<=P> déchets<=M> )
+islands: 0
+
+
+-----------------
+
+if: EPA
+pos: NOM
+lf: EPA
+is a term candidate: 1
+
+-----------------
+
+if: remplissage du bassin
+pos: NOM du NOM
+lf: remplissage du bassin
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( remplissage<=H> du<=P> bassin<=M> )
+islands: 0
+
+
+-----------------
+
+if: forme sèche
+pos: NOM ADJ
+lf: forme sèche
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( forme<=H> sèche<=M> )
+islands: 0
+
+
+-----------------
+
+if: suite
+pos: NOM
+lf: suite
+is a term candidate: 1
+
+-----------------
+
+if: travaux
+pos: NOM
+lf: travail
+is a term candidate: 1
+
+-----------------
+
+if: dépôt alluvionnaire
+pos: NOM ADJ
+lf: dépôt alluvionnaire
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( dépôt<=H> alluvionnaire<=M> )
+islands: 0
+
+
+-----------------
+
+if: personne
+pos: NOM
+lf: personne
+is a term candidate: 1
+
+-----------------
+
+if: partie de l' emprise des futurs bassins de rétention
+pos: NOM de DET:ART NOM des ADJ NOM de NOM
+lf: partie de le emprise du futur bassin de rétention
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: lieu à des réparations des instabilités locales
+pos: NOM à des NOM des NOM ADJ
+lf: lieu à du réparation du instabilité local
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: dispersion
+pos: NOM
+lf: dispersion
+is a term candidate: 1
+
+-----------------
+
+if: maisons
+pos: NOM
+lf: maison
+is a term candidate: 1
+
+-----------------
+
+if: dispositif
+pos: NOM
+lf: dispositif
+is a term candidate: 1
+
+-----------------
+
+if: glissement de la partie nord-ouest
+pos: NOM de DET:ART NOM ADJ
+lf: glissement de le partie nord-ouest
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( glissement<=H> de<=P> la<=D> ( partie<=H> nord-ouest<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: sécurité des autres centrales de même conception
+pos: NOM des ADJ NOM de ADJ NOM
+lf: sécurité du autre centrale de même conception
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: m de cendres
+pos: NOM de NOM
+lf: m de cendre
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( m<=H> de<=P> cendres<=M> )
+islands: 0
+
+
+-----------------
+
+if: mise
+pos: NOM
+lf: mise
+is a term candidate: 1
+
+-----------------
+
+if: effluents de la réglementation des barrages hydrauliques
+pos: NOM de DET:ART NOM des NOM ADJ
+lf: effluent de le réglementation du barrage hydraulique
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: mauvaises caractéristiques mécaniques
+pos: ADJ NOM ADJ
+lf: mauvais caractéristique mécanique
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: couche de boue
+pos: NOM de NOM
+lf: couche de boue
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( couche<=H> de<=P> boue<=M> )
+islands: 0
+
+
+-----------------
+
+if: traces de métaux
+pos: NOM de NOM
+lf: trace de métal
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( traces<=H> de<=P> métaux<=M> )
+islands: 0
+
+
+-----------------
+
+if: retrait à l' intérieur
+pos: NOM à DET:ART NOM
+lf: retrait à le intérieur
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( retrait<=H> à<=P> l'<=D> intérieur<=M> )
+islands: 0
+
+
+-----------------
+
+if: eau prélevée au droit du rejet
+pos: NOM VER:pper au NOM du NOM
+lf: eau prélever au droit du rejet
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: fondations
+pos: NOM
+lf: fondation
+is a term candidate: 1
+
+-----------------
+
+if: exploitant
+pos: NOM
+lf: exploitant
+is a term candidate: 1
+
+-----------------
+
+if: accord
+pos: NOM
+lf: accord
+is a term candidate: 1
+
+-----------------
+
+if: zones couvertes de rejets
+pos: NOM VER:pper de NOM
+lf: zone couvrir de rejet
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: dépôt stratifié de cendres
+pos: NOM VER:pper de NOM
+lf: dépôt stratifier de cendre
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: centrale
+pos: NOM
+lf: centrale
+is a term candidate: 1
+
+-----------------
+
+if: prélèvements
+pos: NOM
+lf: prélèvement
+is a term candidate: 1
+
+-----------------
+
+if: déchets non-dangereux
+pos: NOM ADJ
+lf: déchet non-dangereux
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( déchets<=H> non-dangereux<=M> )
+islands: 0
+
+
+-----------------
+
+if: surface
+pos: NOM
+lf: surface
+is a term candidate: 1
+
+-----------------
+
+if: objet
+pos: NOM
+lf: objet
+is a term candidate: 1
+
+-----------------
+
+if: surface de rupture plongeant à l' amont de l' enceinte intérieure
+pos: NOM de NOM VER:ppre à DET:ART NOM de DET:ART NOM ADJ
+lf: surface de rupture plonger à le amont de le enceinte intérieur
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: experts
+pos: NOM
+lf: expert
+is a term candidate: 1
+
+-----------------
+
+if: conduite de gaz
+pos: NOM de NOM
+lf: conduite de gaz
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( conduite<=H> de<=P> gaz<=M> )
+islands: 0
+
+
+-----------------
+
+if: déchets
+pos: NOM
+lf: déchet
+is a term candidate: 1
+
+-----------------
+
+if: pied
+pos: NOM
+lf: pied
+is a term candidate: 1
+
+-----------------
+
+if: étude international mandaté début janvier
+pos: NOM ADJ VER:pper NOM NOM
+lf: étude international mandater début janvier
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: passé
+pos: NOM
+lf: passé
+is a term candidate: 1
+
+-----------------
+
+if: voie éolienne
+pos: NOM ADJ
+lf: voie éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( voie<=H> éolienne<=M> )
+islands: 0
+
+
+-----------------
+
+if: radionucléides
+pos: NOM
+lf: radionucléide
+is a term candidate: 1
+
+-----------------
+
+if: barrage de WATTS BAR
+pos: NOM de NOM NOM
+lf: barrage de watt bar
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: jours suivants
+pos: NOM ADJ
+lf: jour suivant
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( jours<=H> suivants<=M> )
+islands: 0
+
+
+-----------------
+
+if: novembre
+pos: NOM
+lf: novembre
+is a term candidate: 1
+
+-----------------
+
+if: renforcement de la base de l' ouvrage
+pos: NOM de DET:ART NOM de DET:ART NOM
+lf: renforcement de le base de le ouvrage
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: méthode
+pos: NOM
+lf: méthode
+is a term candidate: 1
+
+-----------------
+
+if: laboratoire indépendant
+pos: NOM ADJ
+lf: laboratoire indépendant
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( laboratoire<=H> indépendant<=M> )
+islands: 0
+
+
+-----------------
+
+if: amont
+pos: NOM
+lf: amont
+is a term candidate: 1
+
+-----------------
+
+if: épaisseur de 9 cm
+pos: NOM de NUM NOM
+lf: épaisseur de 9 cm
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: EMORY au cours des premières années
+pos: NOM au NOM des NUM NOM
+lf: EMORY au cours|cour du premier année
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+

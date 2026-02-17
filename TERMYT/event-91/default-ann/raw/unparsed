@@ -1,0 +1,251 @@
+if: problème de montage
+pos: NOM de NOM
+lf: problème de montage
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( problème<=H> de<=P> montage<=M> )
+islands: 0
+
+
+-----------------
+
+if: arrêt
+pos: NOM
+lf: arrêt
+is a term candidate: 1
+
+-----------------
+
+if: chute de l' aérofrein
+pos: NOM de DET:ART NOM
+lf: chute de le aérofrein
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( chute<=H> de<=P> l'<=D> aérofrein<=M> )
+islands: 0
+
+
+-----------------
+
+if: maintenance étant programmé 6 jours
+pos: NOM VER:ppre VER:pper NUM NOM
+lf: maintenance être programmer 6 jour
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: fonctionnement
+pos: NOM
+lf: fonctionnement
+is a term candidate: 1
+
+-----------------
+
+if: lendemain matin
+pos: NOM NOM
+lf: lendemain matin
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( lendemain<=H> matin<=M> )
+islands: 0
+
+
+-----------------
+
+if: 23h30
+pos: NAM
+lf: 23h30
+is a term candidate: 1
+
+-----------------
+
+if: parc éolien
+pos: NOM ADJ
+lf: parc éolien
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( parc<=H> éolien<=M> )
+islands: 0
+
+
+-----------------
+
+if: autres aérogénérateurs du site
+pos: ADJ NOM du NOM
+lf: autre aérogénérateur du site
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: vibrations
+pos: NOM
+lf: vibration
+is a term candidate: 1
+
+-----------------
+
+if: aérofrein
+pos: NOM
+lf: aérofrein
+is a term candidate: 1
+
+-----------------
+
+if: inspection des mécanismes de fixation des aérofreins
+pos: NOM des NOM de NOM des NOM
+lf: inspection du mécanisme de fixation du aérofrein
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: pales
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: mécanismes
+pos: NOM
+lf: mécanisme
+is a term candidate: 1
+
+-----------------
+
+if: aérofrein défectueux
+pos: NOM ADJ
+lf: aérofrein défectueux
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( aérofrein<=H> défectueux<=M> )
+islands: 0
+
+
+-----------------
+
+if: modification
+pos: NOM
+lf: modification
+is a term candidate: 1
+
+-----------------
+
+if: installation
+pos: NOM
+lf: installation
+is a term candidate: 1
+
+-----------------
+
+if: machines
+pos: NOM
+lf: machine
+is a term candidate: 1
+
+-----------------
+
+if: action de la vis anti-rotation
+pos: NOM de DET:ART NOM ADJ
+lf: action de le vis anti-rotation
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( action<=H> de<=P> la<=D> ( vis<=H> anti-rotation<=M> )<=M> )
+islands: 0
+
+
+-----------------
+
+if: équipement au pied du mât de 49 m. La clôture du site
+pos: NOM au NOM du NOM de NUM ABR DET:ART NOM du NOM
+lf: équipement au pied du mât de 49 m. le clôture du site
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: fréquence
+pos: NOM
+lf: fréquence
+is a term candidate: 1
+
+-----------------
+
+if: desserrage
+pos: NOM
+lf: desserrage
+is a term candidate: 1
+
+-----------------
+
+if: pale
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: vis anti-rotation
+pos: NOM ADJ
+lf: vis anti-rotation
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( vis<=H> anti-rotation<=M> )
+islands: 0
+
+
+-----------------
+
+if: opportunité
+pos: NOM
+lf: opportunité
+is a term candidate: 1
+
+-----------------
+
+if: Chute
+pos: NOM
+lf: chute
+is a term candidate: 1
+
+-----------------
+
+if: agent de maintenance
+pos: NOM de NOM
+lf: agent de maintenance
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( agent<=H> de<=P> maintenance<=M> )
+islands: 0
+
+
+-----------------
+
+if: origine
+pos: NOM
+lf: origine
+is a term candidate: 1
+
+-----------------
+

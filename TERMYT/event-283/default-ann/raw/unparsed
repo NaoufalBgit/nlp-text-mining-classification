@@ -1,0 +1,154 @@
+if: m
+pos: NOM
+lf: m
+is a term candidate: 1
+
+-----------------
+
+if: sol
+pos: NOM
+lf: sol
+is a term candidate: 1
+
+-----------------
+
+if: pales
+pos: NOM
+lf: pale
+is a term candidate: 1
+
+-----------------
+
+if: rapace
+pos: NOM
+lf: rapace
+is a term candidate: 1
+
+-----------------
+
+if: bureau
+pos: NOM
+lf: bureau
+is a term candidate: 1
+
+-----------------
+
+if: bague
+pos: NOM
+lf: bague
+is a term candidate: 1
+
+-----------------
+
+if: Choc
+pos: NOM
+lf: choc
+is a term candidate: 1
+
+-----------------
+
+if: espèce
+pos: NOM
+lf: espèce
+is a term candidate: 1
+
+-----------------
+
+if: étude
+pos: NOM
+lf: étude
+is a term candidate: 1
+
+-----------------
+
+if: oiseau
+pos: NOM
+lf: oiseau
+is a term candidate: 1
+
+-----------------
+
+if: milan royal
+pos: NOM ADJ
+lf: milan royal
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( milan<=H> royal<=M> )
+islands: 0
+
+
+-----------------
+
+if: éolienne Grâce au suivi
+pos: ADJ NOM au NOM
+lf: éolien grâce au suivi
+is a term candidate: 0
+islands: 0
+
+
+-----------------
+
+if: aile
+pos: NOM
+lf: aile
+is a term candidate: 1
+
+-----------------
+
+if: prairie
+pos: NOM
+lf: prairie
+is a term candidate: 1
+
+-----------------
+
+if: fonctionnement
+pos: NOM
+lf: fonctionnement
+is a term candidate: 1
+
+-----------------
+
+if: GPS
+pos: NOM
+lf: GPS
+is a term candidate: 1
+
+-----------------
+
+if: signe
+pos: NOM
+lf: signe
+is a term candidate: 1
+
+-----------------
+
+if: éolienne
+pos: NOM
+lf: éolienne
+is a term candidate: 1
+
+-----------------
+
+if: enregistrement
+pos: NOM
+lf: enregistrement
+is a term candidate: 1
+
+-----------------
+
+if: fracture
+pos: NOM
+lf: fracture
+is a term candidate: 1
+
+-----------------
+
+if: dos
+pos: NOM
+lf: dos
+is a term candidate: 1
+
+-----------------
+
