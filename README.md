@@ -1,4 +1,4 @@
-# 🌬️ NLP Text Mining & Classification – Wind Accident Corpus (ARIA)
+# NLP Text Mining & Classification – Wind Accident Corpus (ARIA)
 
 End-to-end NLP pipeline for text mining and classification on a French corpus of wind turbine accident reports from the ARIA database.
 
@@ -85,4 +85,4 @@ python -m spacy download fr_core_news_sm
 
 ## Author
 
-**Naoufal Benamar** – [GitHub](https://github.com/NaoufalBgit) | [LinkedIn](https://www.linkedin.com/in/naoufal-benamar-97217b1a4/)
+**Naoufal Benamar** – [LinkedIn](https://www.linkedin.com/in/naoufal-benamar-97217b1a4/)
